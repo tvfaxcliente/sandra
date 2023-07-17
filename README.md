@@ -28,31 +28,28 @@ http://stream.zeno.fm/uhoa45pks0vvv.m3u
 #EXTINF:-1 tvg-id="" tvg-name="FAX Alex Silva Produtor 11 941386627"tvg-logo="https://i.picasion.com/pic92/19279d981d491a7cfefe80dec68a2b78.gif" group-title="ALEX RADIO FAX",FAX Alex Silva Produtor 11 941386627
 https://stream-51.zeno.fm/hu70hmkcu68uv
 
-#EXTM3U url-tvg=" http://grade-de-CANAIS Da WEB.xml "
- ############## CANAIS Da WEB ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS Da WEB" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="CinePIX TV "tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/840254a95bac6a1f369b4d9641ef4dfa.webp" group-title="CANAIS Da WEB",CinePIX TV 
-https://stmv1.srvif.com/channel1/channel1/chunklist_w1372131370.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SERTÃO TV"tvg-logo="https://1.bp.blogspot.com/-R7MUaLTBuV0/XsYA4yqgH4I/AAAAAAAAC0o/W3b9oCbMJz4Y6kj2b8xjgcVCPzDEEo73ACLcBGAsYHQ/s320/Screenshot_2020-05-21-01-14-40.png" group-title="CANAIS Da WEB",SERTÃO TV
-https://5a2b083e9f360.streamlock.net/sertaotv/sertaotv.sdp/chunklist_w1970156229.m3u8
-#EXTINF:-1 tvg-id="TV INDAIATUBA" tvg-name="TV INDAIATUBA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJfuBNBg3Pjq8dXZ3hTWWSObD9mJuBjTFHMS9UvL0fnQHHg7psw0rEE_XMdqVGm60xBdvYZgXpddSU24Av2wthcymQF_KsTgAVM9-vFCYienzp1BTEUG1RCdcIukTjUKWdf6qGgRKx11HsXpvsdi4KQOPJqp1qBSOdzHhP-O0x1vrbdxYzfi58XZyB/s200/TV%20INDAIATUBA.webp" group-title="CANAIS Da WEB",TV INDAIATUBA
-https://stmv1.srvif.com/tvindaiatuba/tvindaiatuba/chunklist_w279274413.m3u8
-#EXTINF:-1 tvg-id="TIERRA MIA TV" tvg-name="TIERRA MIA TV" tvg-logo="https://2.bp.blogspot.com/-DAaHVRNV_kw/XzNMF4rotJI/AAAAAAAADJc/kgD73_FM-rIUFbhBHtCmgWDEYmznQPTOwCPcBGAYYCw/s320/Screenshot_2020-08-11-22-52-42.png" group-title="CANAIS Da WEB",TIERRA MIA TV
-https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w2027922071_b1864000_sleng.m3u8
-#EXTINF:-1 tvg-id="TV ALVORADA SERTANEJA" tvg-name="TV ALVORADA SERTANEJA" tvg-logo="https://2.bp.blogspot.com/-ofKWc03Obdg/Xk7MqLdHORI/AAAAAAAACgc/1kQBCPVcByc4k88bbVkuSMeBsy5jkWO1ACPcBGAYYCw/s320/2020-02-20%2B14.04.20.png" group-title="CANAIS Da WEB",TV ALVORADA SERTANEJA
-https://stmv1.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/chunklist_w1114598459.m3u8
-#EXTINF:-1 tvg-id="TV VISÃO E RESGATE" tvg-name="TV VISÃO E RESGATE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIyq2MNRJCOPkQpxgzPjbVOyFfkLsHrvAau_edPEppoTGA9nlTPnUu_yCX-_lDA8UigJFqTUxLxoEOhAT__zq7dxJKv8b8y-l-nrmGPihf9lkl7gj34qz4mYOF78i__z1zi6lV1wY9cap4w4FzXIADCVytVSqH_2Z0w2J8iu1FzGl-Ntr8otP6O53k/s200/WEB%20TV%20VIS%C3%83O%20E%20RESGATE.webp" group-title="CANAIS Da WEB",TV VISÃO E RESGATE
-https://stmv1.liveplushd.com.br/tvvisaoresgate/tvvisaoresgate/chunklist_w2061740055.m3u8
-#EXTINF:-1 tvg-id="CONECTV" tvg-logo="https://4.bp.blogspot.com/-nHLWN1nL-cI/XbJBEoP5-uI/AAAAAAAACL4/shXzS3Ohsjoqj4Q__2KvzIkd5Omhm9QHACLcBGAsYHQ/s320/Screenshot_2019-10-24-21-06-26.png" group-title="CANAIS Da WEB",CONECTV
-https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-#EXTINF:-1 tvg-id="ALPHA CHANNEL TV" tvg-logo="https://1.bp.blogspot.com/-vWIupjRUu80/XON4_e9cHrI/AAAAAAAAA5Y/6Xl6ggQI7fcdLZao1GAkwYgKXWeovgw5ACLcBGAs/s320/Screenshot_2019-05-21-00-28-46.png" group-title="CANAIS Da WEB",ALPHA CHANNEL TV
-https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/chunklist_w320143634.m3u8
-
 #EXTM3U url-tvg=" http://grade-de-CANAIS no Brasil.xml "
  ############## CANAIS no Brasil ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS no Brasil" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="CinePIX TV "tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/840254a95bac6a1f369b4d9641ef4dfa.webp" group-title="CANAIS no Brasil",CinePIX TV 
+https://stmv1.srvif.com/channel1/channel1/chunklist_w1372131370.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SERTÃO TV"tvg-logo="https://1.bp.blogspot.com/-R7MUaLTBuV0/XsYA4yqgH4I/AAAAAAAAC0o/W3b9oCbMJz4Y6kj2b8xjgcVCPzDEEo73ACLcBGAsYHQ/s320/Screenshot_2020-05-21-01-14-40.png" group-title="CANAIS no Brasil",SERTÃO TV
+https://5a2b083e9f360.streamlock.net/sertaotv/sertaotv.sdp/chunklist_w1970156229.m3u8
+#EXTINF:-1 tvg-id="TV INDAIATUBA" tvg-name="TV INDAIATUBA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJfuBNBg3Pjq8dXZ3hTWWSObD9mJuBjTFHMS9UvL0fnQHHg7psw0rEE_XMdqVGm60xBdvYZgXpddSU24Av2wthcymQF_KsTgAVM9-vFCYienzp1BTEUG1RCdcIukTjUKWdf6qGgRKx11HsXpvsdi4KQOPJqp1qBSOdzHhP-O0x1vrbdxYzfi58XZyB/s200/TV%20INDAIATUBA.webp" group-title="CANAIS no Brasil",TV INDAIATUBA
+https://stmv1.srvif.com/tvindaiatuba/tvindaiatuba/chunklist_w279274413.m3u8
+#EXTINF:-1 tvg-id="TIERRA MIA TV" tvg-name="TIERRA MIA TV" tvg-logo="https://2.bp.blogspot.com/-DAaHVRNV_kw/XzNMF4rotJI/AAAAAAAADJc/kgD73_FM-rIUFbhBHtCmgWDEYmznQPTOwCPcBGAYYCw/s320/Screenshot_2020-08-11-22-52-42.png" group-title="CANAIS no Brasil",TIERRA MIA TV
+https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w2027922071_b1864000_sleng.m3u8
+#EXTINF:-1 tvg-id="TV ALVORADA SERTANEJA" tvg-name="TV ALVORADA SERTANEJA" tvg-logo="https://2.bp.blogspot.com/-ofKWc03Obdg/Xk7MqLdHORI/AAAAAAAACgc/1kQBCPVcByc4k88bbVkuSMeBsy5jkWO1ACPcBGAYYCw/s320/2020-02-20%2B14.04.20.png" group-title="CANAIS no Brasil",TV ALVORADA SERTANEJA
+https://stmv1.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/chunklist_w1114598459.m3u8
+#EXTINF:-1 tvg-id="TV VISÃO E RESGATE" tvg-name="TV VISÃO E RESGATE" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIyq2MNRJCOPkQpxgzPjbVOyFfkLsHrvAau_edPEppoTGA9nlTPnUu_yCX-_lDA8UigJFqTUxLxoEOhAT__zq7dxJKv8b8y-l-nrmGPihf9lkl7gj34qz4mYOF78i__z1zi6lV1wY9cap4w4FzXIADCVytVSqH_2Z0w2J8iu1FzGl-Ntr8otP6O53k/s200/WEB%20TV%20VIS%C3%83O%20E%20RESGATE.webp" group-title="CANAIS no Brasil",TV VISÃO E RESGATE
+https://stmv1.liveplushd.com.br/tvvisaoresgate/tvvisaoresgate/chunklist_w2061740055.m3u8
+#EXTINF:-1 tvg-id="CONECTV" tvg-logo="https://4.bp.blogspot.com/-nHLWN1nL-cI/XbJBEoP5-uI/AAAAAAAACL4/shXzS3Ohsjoqj4Q__2KvzIkd5Omhm9QHACLcBGAsYHQ/s320/Screenshot_2019-10-24-21-06-26.png" group-title="CANAIS no Brasil",CONECTV
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1 tvg-id="ALPHA CHANNEL TV" tvg-logo="https://1.bp.blogspot.com/-vWIupjRUu80/XON4_e9cHrI/AAAAAAAAA5Y/6Xl6ggQI7fcdLZao1GAkwYgKXWeovgw5ACLcBGAs/s320/Screenshot_2019-05-21-00-28-46.png" group-title="CANAIS no BrasilB",ALPHA CHANNEL TV
+https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/chunklist_w320143634.m3u8
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="TVI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Cjn7BJ2PDP-PbwWj2PeAIPU2MjeN-A7ALHAF3JldqoKwR970EQE4FE0QXa8bJjHAaKM&usqp=CAU" group-title="CANAIS no Brasil",TVI
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="ABC Brasil" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0e6b2a8234bf98dd9e50342cbe7631f9.webp" group-title="CANAIS no Brasil",ABC Brasil
 https://stmv1.srvstm.com/victor7513/victor7513/chunklist_w1342082191.m3u8
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="Conectv" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/454924e01d06c3bc20131e8514187305.webp" group-title="CANAIS no Brasil",Conectv
@@ -61,7 +58,7 @@ https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="CANAIS no Brasil",RECORD SP
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://tinyurl.com/u9csbt" group-title="CANAIS  SP",SBT
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://tinyurl.com/u9csbt" group-title="CANAIS no Brasil",SBT
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="CANAIS no Brasil",BAND SP
 https://stream-03.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-UIF3_P1vaND2Q_CfMz0ei0NQJwMTRIIO6BS-mNkTHO2)/cloud/3/x83vbd6/s/live-4.m3u8#cell=lnyc
@@ -249,24 +246,6 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RDCTV.br" tvg-logo="https://i.imgur.com/vMpiSwG.png" group-title="CANAIS no Brasil",RDC TV
 https://596639ebdd89b.streamlock.net/datavideo01/datavideo01/playlist.m3u8
-#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="CANAIS no Brasil",Record News
-https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-#EXTINF:-1 tvg-id="RecordTVBelem.br" tvg-logo="https://i.imgur.com/gEEiN10.png" group-title="CANAIS no Brasil",RecordTV Belem
-https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8
-#EXTINF:-1 tvg-id="RecordTVBrasilia.br" tvg-logo="https://i.imgur.com/PZMas8Y.png" group-title="CANAIS no Brasil",RecordTV Brasilia
-https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
-#EXTINF:-1 tvg-id="RecordTVGoias.br" tvg-logo="https://i.imgur.com/Fdoax1M.png" group-title="CANAIS no Brasil",RecordTV Goias
-https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8
-#EXTINF:-1 tvg-id="RecordTVItapoan.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/13/Logotipo_da_RecordTV_Itapoan.png/512px-Logotipo_da_RecordTV_Itapoan.png" group-title="CANAIS no Brasil",RecordTV Itapoan
-https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
-#EXTINF:-1 tvg-id="RecordTVMinas.br" tvg-logo="https://i.imgur.com/6HT6QMV.png" group-title="CANAIS no Brasil",RecordTV Minas
-https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8
-#EXTINF:-1 tvg-id="RecordTVRio.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ce/Logotipo_da_RecordTV_Rio.png/512px-Logotipo_da_RecordTV_Rio.png" group-title="CANAIS no Brasil",RecordTV Rio
-https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
-#EXTINF:-1 tvg-id="RecordTVRS.br" tvg-logo="https://i.imgur.com/JLQWoNc.png" group-title="CANAIS no Brasil",RecordTV RS
-https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
-#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/512px-Logotipo_da_Record.png" group-title="CANAIS no Brasil",RecordTV Sao Paulo
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="RedeBrasil.br" tvg-logo="https://i.imgur.com/TXJKwzZ.png" group-title="CANAIS no Brasil",Rede Brasil
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8
 #EXTINF:-1 tvg-id="RedeBrasildeComunicacao.br" tvg-logo="https://i.imgur.com/iiJufN2.png" group-title="CANAIS no Brasil",Rede Brasil de Comunicacao
@@ -491,9 +470,9 @@ https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
 https://livefocamundo.com:8081/tvjsid/index.m3u8
 #EXTINF:-1 tvg-id="TVJustica.br" tvg-logo="https://i.imgur.com/rOQKiMO.png" group-title="CANAIS no Brasil",TV Justica
 https://ythls.onrender.com/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8
-#EXTINF:-1 tvg-id="TVLaVerdad.br" tvg-logo="https://i.imgur.com/I3iMwnY.png" group-title="CANAIS no BrasilP",TV La Verdad
+#EXTINF:-1 tvg-id="TVLaVerdad.br" tvg-logo="https://i.imgur.com/I3iMwnY.png" group-title="CANAIS no Brasil",TV La Verdad
 https://ythls.onrender.com/channel/UCS5n5q3lJBXom3wVbOiUl9Q.m3u8
-#EXTINF:-1 tvg-id="TVLiberdade.br" tvg-logo="https://i.imgur.com/W6bHHqE.png" group-title="CANAIS no BrasilP",TV Liberdade
+#EXTINF:-1 tvg-id="TVLiberdade.br" tvg-logo="https://i.imgur.com/W6bHHqE.png" group-title="CANAIS no Brasil",TV Liberdade
 https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVMaceio.br" tvg-logo="https://i.imgur.com/zZ9LEOZ.png" group-title="CANAIS no Brasil",TV Maceio
 https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
@@ -1037,7 +1016,26 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83671
  ############## CANAIS RECORD ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS RECORD" group-title="
 
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="CANAIS RECORD",RECORD SP - SD²
+
+#EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="CANAIS RECORD",Record News
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+#EXTINF:-1 tvg-id="RecordTVBelem.br" tvg-logo="https://i.imgur.com/gEEiN10.png" group-title="CANAIS RECORD",RecordTV Belem
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTVBrasilia.br" tvg-logo="https://i.imgur.com/PZMas8Y.png" group-title="CANAIS RECORD",RecordTV Brasilia
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTVGoias.br" tvg-logo="https://i.imgur.com/Fdoax1M.png" group-title="CANAIS RECORD",RecordTV Goias
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTVItapoan.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/13/Logotipo_da_RecordTV_Itapoan.png/512px-Logotipo_da_RecordTV_Itapoan.png" group-title="CANAIS RECORD",RecordTV Itapoan
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
+#EXTINF:-1 tvg-id="RecordTVMinas.br" tvg-logo="https://i.imgur.com/6HT6QMV.png" group-title="CANAIS RECORD",RecordTV Minas
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTVRio.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ce/Logotipo_da_RecordTV_Rio.png/512px-Logotipo_da_RecordTV_Rio.png" group-title="CANAIS RECORD",RecordTV Rio
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTVRS.br" tvg-logo="https://i.imgur.com/JLQWoNc.png" group-title="CANAIS RECORD",RecordTV RS
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/512px-Logotipo_da_Record.png" group-title="CANAIS RECORD",RecordTV Sao Paulo
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="CANAIS RECORD",RECORD SP SD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82876
 #EXTINF:-1 tvg-id="" tvg-name="RECORDTV  SJRP - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="CANAIS RECORD",RECORDTV  SJRP - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138774703
@@ -1053,7 +1051,7 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/162669
 http://apkwuv.xyz:80/cristina2021/graniptv2005/162670
 #EXTINF:-1 tvg-name="Record SP" tvg-logo="https://fivetv.xyz/logos/record.png" group-title="CANAIS RECORD",Record SP
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="RECORD",RECORD SP - SD²
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="CANAIS RECORD",RECORD SP SD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82876
 #EXTINF:-1 tvg-id="Record SP FHD" tvg-name="Record SP" tvg-logo="https://lib.bz/logos/record.jpg" group-title="CANAIS RECORD",Record SP
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
@@ -1204,22 +1202,35 @@ http://axr.life:80/968367/462903/1263152
  ############## Canais  Noticias ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais  Noticias" group-title="
 
-#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil FHD" tvg-logo="https://i.imgur.com/8Jq3Q64.png" group-title="Canais | Notícias",CNN Brasil FHD
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil FHD" tvg-logo="https://i.imgur.com/8Jq3Q64.png" group-title="CANAIS NOTICIAS",CNN Brasil FHD
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83436
-#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil FHD [Alt]" tvg-logo="https://i.imgur.com/8Jq3Q64.png" group-title="Canais | Notícias",CNN Brasil FHD [Alt]
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil FHD [Alt]" tvg-logo="https://i.imgur.com/8Jq3Q64.png" group-title="CANAIS NOTICIAS",CNN Brasil FHD [Alt]
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147464
-#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil FHD [H265]" tvg-logo="https://i.imgur.com/8Jq3Q64.png" group-title="Canais | Notícias",CNN Brasil FHD [H265]
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil FHD [H265]" tvg-logo="https://i.imgur.com/8Jq3Q64.png" group-title="CANAIS NOTICIAS",CNN Brasil FHD [H265]
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/164573
-#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil HD" tvg-logo="https://i.imgur.com/8Jq3Q64.png" group-title="Canais | Notícias",CNN Brasil HD
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil HD" tvg-logo="https://i.imgur.com/8Jq3Q64.png" group-title="CANAIS NOTICIAS",CNN Brasil HD
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83306
-#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil HD [Alt]" tvg-logo="https://i.imgur.com/8Jq3Q64.png" group-title="Canais | Notícias",CNN Brasil HD [Alt]
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil HD [Alt]" tvg-logo="https://i.imgur.com/8Jq3Q64.png" group-title="CANAIS NOTICIAS",CNN Brasil HD [Alt]
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147465
-#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil SD" tvg-logo="https://i.imgur.com/8Jq3Q64.png" group-title="Canais | Notícias",CNN Brasil SD
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil SD" tvg-logo="https://i.imgur.com/8Jq3Q64.png" group-title="CANAIS NOTICIAS",CNN Brasil SD
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83669
-#EXTINF:-1 tvg-id="CNN International" tvg-name="CNNi FHD [Alt]" tvg-logo="https://i.imgur.com/bOqfTHe.png" group-title="Canais | Notícias",CNNi FHD [Alt]
+#EXTINF:-1 tvg-id="CNN International" tvg-name="CNNi FHD [Alt]" tvg-logo="https://i.imgur.com/bOqfTHe.png" group-title="CANAIS NOTICIAS",CNNi FHD [Alt]
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147468
-#EXTINF:-1 tvg-id="CNN International" tvg-name="CNNi HD [Alt]" tvg-logo="https://i.imgur.com/bOqfTHe.png" group-title="Canais | Notícias",CNNi HD [Alt]
+#EXTINF:-1 tvg-id="CNN International" tvg-name="CNNi HD [Alt]" tvg-logo="https://i.imgur.com/bOqfTHe.png" group-title="CANAIS NOTICIAS",CNNi HD [Alt]
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147469
+
+#EXTINF:-1 tvg-name="Jovem Pan News FHD" tvg-logo="https://i.imgur.com/I8GZ999.png" group-title="CANAIS NOTICIAS",Jovem Pan News FHD
+ http://5ce.co:80/live/mlindoso/qwe9673/188544.m3u8
+#EXTINF:-1 tvg-name="Jovem Pan News FHD²" tvg-logo="https://i.imgur.com/I8GZ999.png" group-title="CANAIS NOTICIAS",Jovem Pan News FHD²
+ http://5ce.co:80/live/mlindoso/qwe9673/203501.m3u8
+#EXTINF:-1 tvg-name="Jovem Pan News HD" tvg-logo="https://i.imgur.com/I8GZ999.png" group-title="CANAIS NOTICIAS",Jovem Pan News HD
+ http://5ce.co:80/live/mlindoso/qwe9673/203500.m3u8
+#EXTINF:-1 tvg-name="Jovem Pan News  HD²" tvg-logo="https://i.imgur.com/I8GZ999.png" group-title="CANAIS NOTICIAS",Jovem Pan News  HD²
+ http://5ce.co:80/live/mlindoso/qwe9673/203503.m3u8
+#EXTINF:-1 tvg-name="Jovem Pan News SD" tvg-logo="https://i.imgur.com/I8GZ999.png" group-title="CANAIS NOTICIAS",Jovem Pan News SD
+ http://5ce.co:80/live/mlindoso/qwe9673/203502.m3u8
+#EXTINF:-1 tvg-name="Jovem Pan News  SD²" tvg-logo="https://i.imgur.com/I8GZ999.png" group-title="CANAIS NOTICIAS",Jovem Pan News  SD²
+ http://5ce.co:80/live/mlindoso/qwe9673/203504.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS  FECHADOS.xml "
  ############## CANAIS  FECHADOS ############## ### 
@@ -1453,23 +1464,6 @@ http://xcui.vitvabc.xyz:8880/287994003720/287994003720/16753
 http://xcui.vitvabc.xyz:8880/287994003720/287994003720/16761
 #EXTINF:-1 tvg-id="" tvg-name="H2 HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/25fa91858b069b1652a8c0954a90ce60.png" group-title="CANAIS | FECHADOS",H2 HD+
 http://xcui.vitvabc.xyz:8880/287994003720/287994003720/16733
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS NOTICIAS.xml "
- ############## CANAIS NOTICIAS ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS NOTICIAS" group-title="
-
-#EXTINF:-1 tvg-name="Jovem Pan News FHD" tvg-logo="https://i.imgur.com/I8GZ999.png" group-title="CANAIS NOTICIAS",Jovem Pan News FHD
- http://5ce.co:80/live/mlindoso/qwe9673/188544.m3u8
-#EXTINF:-1 tvg-name="Jovem Pan News FHD²" tvg-logo="https://i.imgur.com/I8GZ999.png" group-title="CANAIS NOTICIAS",Jovem Pan News FHD²
- http://5ce.co:80/live/mlindoso/qwe9673/203501.m3u8
-#EXTINF:-1 tvg-name="Jovem Pan News HD" tvg-logo="https://i.imgur.com/I8GZ999.png" group-title="CANAIS NOTICIAS",Jovem Pan News HD
- http://5ce.co:80/live/mlindoso/qwe9673/203500.m3u8
-#EXTINF:-1 tvg-name="Jovem Pan News  HD²" tvg-logo="https://i.imgur.com/I8GZ999.png" group-title="CANAIS NOTICIAS",Jovem Pan News  HD²
- http://5ce.co:80/live/mlindoso/qwe9673/203503.m3u8
-#EXTINF:-1 tvg-name="Jovem Pan News SD" tvg-logo="https://i.imgur.com/I8GZ999.png" group-title="CANAIS NOTICIAS",Jovem Pan News SD
- http://5ce.co:80/live/mlindoso/qwe9673/203502.m3u8
-#EXTINF:-1 tvg-name="Jovem Pan News  SD²" tvg-logo="https://i.imgur.com/I8GZ999.png" group-title="CANAIS NOTICIAS",Jovem Pan News  SD²
- http://5ce.co:80/live/mlindoso/qwe9673/203504.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS CINE.xml "
  ############## CANAIS CINE ############## ### 
@@ -2112,6 +2106,7 @@ http://piglo.re:80/14957348417/2839302i178101/54424
 #EXTM3U url-tvg=" http://grade-de-CANAIS Studio Universal.xml "
  ############## CANAIS Studio Universal ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS Studio Universal" group-title="
+
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS Studio Universal",STUDIO UNIVERSAL - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83585
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS Studio Universal",STUDIO UNIVERSAL - FHD²
@@ -2188,6 +2183,172 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/99905
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83538
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4bQXjY-ieITmA6Klq9QepR5n9AwkYFWhUIh_FcLAHgSN.png" group-title="Canais Star Channel",Star Channel - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83537
+
+#EXTM3U url-tvg=" http://grade-de-CANAL SONY.xml "
+ ############## CANAL SONY ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAL SONY" group-title="
+
+#EXTINF:-1 tvg-id="SONYCH" tvg-name="CANAL SONY - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4c0DbDNj44lqxRzj10B1RjPujPq1cezfr98hQPd7dhaz.png" group-title="CANAL SONY",CANAL SONY - FHD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83527
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4c0DbDNj44lqxRzj10B1RjPujPq1cezfr98hQPd7dhaz.png" group-title="CANAL SONY",CANAL SONY - FHD²
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83528
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4c0DbDNj44lqxRzj10B1RjPujPq1cezfr98hQPd7dhaz.png" group-title="CANAL SONY",CANAL SONY - HD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83526
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4c0DbDNj44lqxRzj10B1RjPujPq1cezfr98hQPd7dhaz.png" group-title="CANAL SONY",CANAL SONY - SD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83525
+
+#EXTM3U url-tvg=" http://grade-de-CANAL A&E.xml "
+ ############## CANAL A&E ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAL A&E" group-title="
+
+#EXTINF:-1 tvg-name="A&E FHD" tvg-logo="http://70.ms/dp" group-title="CANAL A&E",A&E FHD
+ http://5ce.co:80/live/mlindoso/qwe9673/6971.m3u8
+#EXTINF:-1 tvg-name="A&E FHD²" tvg-logo="http://70.ms/dp" group-title="CANAL A&E",A&E FHD²
+ http://5ce.co:80/live/mlindoso/qwe9673/100449.m3u8
+#EXTINF:-1 tvg-name="A&E HD" tvg-logo="http://70.ms/hy" group-title="CANAL A&E",A&E HD
+ http://5ce.co:80/live/mlindoso/qwe9673/6647.m3u8
+#EXTINF:-1 tvg-name="A&E HD²" tvg-logo="http://70.ms/dh" group-title="CANAL A&E",A&E HD²
+ http://5ce.co:80/live/mlindoso/qwe9673/6915.m3u8
+#EXTINF:-1 tvg-name="A&E SD" tvg-logo="http://70.ms/hQ" group-title="CANAL A&E",A&E SD
+ http://5ce.co:80/live/mlindoso/qwe9673/6646.m3u8
+#EXTINF:-1 tvg-name="A&E SD²" tvg-logo="http://70.ms/da" group-title="CANAL A&E",A&E SD²
+ http://5ce.co:80/live/mlindoso/qwe9673/10644.m3u8
+
+#EXTM3U url-tvg=" http://grade-de-CANAL AXN.xml "
+ ############## CANAL AXN ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAL AXN" group-title="
+
+#EXTINF:-1 tvg-name="AXN FHD" tvg-logo="https://fivetv.xyz/logos/axn.png" group-title="CANAL AXN",AXN FHD
+ http://5ce.co:80/live/mlindoso/qwe9673/6969.m3u8
+#EXTINF:-1 tvg-name="AXN FHD²" tvg-logo="https://fivetv.xyz/logos/axn.png" group-title="CANAL AXN",AXN FHD²
+ http://5ce.co:80/live/mlindoso/qwe9673/16875.m3u8
+#EXTINF:-1 tvg-name="AXN HD" tvg-logo="https://fivetv.xyz/logos/axn.png" group-title="CANAL AXN",AXN HD
+ http://5ce.co:80/live/mlindoso/qwe9673/6649.m3u8
+#EXTINF:-1 tvg-name="AXN HD²" tvg-logo="https://fivetv.xyz/logos/axn.png" group-title="CANAL AXN",AXN HD²
+ http://5ce.co:80/live/mlindoso/qwe9673/10876.m3u8
+#EXTINF:-1 tvg-name="AXN SD" tvg-logo="https://fivetv.xyz/logos/axn.png" group-title="CANALS AXN",AXN SD
+ http://5ce.co:80/live/mlindoso/qwe9673/6648.m3u8
+#EXTINF:-1 tvg-name="AXN SD²" tvg-logo="https://fivetv.xyz/logos/axn.png" group-title="CANAL AXN",AXN SD²
+ http://5ce.co:80/live/mlindoso/qwe9673/10877.m3u8
+
+#EXTM3U url-tvg=" http://grade-de-CANAL AMC.xml "
+ ############## CANAL AMC ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAL AMC" group-title="
+
+#EXTINF:-1 tvg-name="AMC FHD" tvg-logo="https://fivetv.xyz/logos/amc.png" group-title="CANAL AMC",AMC FHD
+ http://5ce.co:80/live/mlindoso/qwe9673/6970.m3u8
+#EXTINF:-1 tvg-name="AMC FHD²" tvg-logo="https://fivetv.xyz/logos/amc.png" group-title="CANAL AMC",AMC FHD²
+ http://5ce.co:80/live/mlindoso/qwe9673/35449.m3u8
+#EXTINF:-1 tvg-name="AMC HD" tvg-logo="https://fivetv.xyz/logos/amc.png" group-title="CANAL AMC",AMC HD
+ http://5ce.co:80/live/mlindoso/qwe9673/6645.m3u8
+#EXTINF:-1 tvg-name="AMC HD²" tvg-logo="https://fivetv.xyz/logos/amc.png" group-title="CANAL AMC",AMC HD²
+ http://5ce.co:80/live/mlindoso/qwe9673/6914.m3u8
+#EXTINF:-1 tvg-name="AMC SD" tvg-logo="https://fivetv.xyz/logos/amc.png" group-title="CANAL AMC",AMC SD
+ http://5ce.co:80/live/mlindoso/qwe9673/6644.m3u8
+#EXTINF:-1 tvg-name="AMC SD²" tvg-logo="https://fivetv.xyz/logos/amc.png" group-title="CANALS AMC",AMC SD²
+ http://5ce.co:80/live/mlindoso/qwe9673/10645.m3u8
+
+#EXTM3U url-tvg=" http://grade-de-Canais  Filmes e Series.xml "
+ ############## Canais  Filmes e Series ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais  Filmes e Series" group-title="
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | Filmes e Séries",TNT FHD
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83822
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD [Alt]" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | Filmes e Séries",TNT FHD [Alt]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147715
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | Filmes e Séries",TNT HD
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83268
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD [Alt]" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | Filmes e Séries",TNT HD [Alt]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147716
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT SD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | Filmes e Séries",TNT SD
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83638
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series FHD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | Filmes e Séries",TNT Series FHD
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136806
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series FHD [Alt]" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | Filmes e Séries",TNT Series FHD [Alt]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147717
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series HD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | Filmes e Séries",TNT Series HD
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83269
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series HD [Alt]" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | Filmes e Séries",TNT Series HD [Alt]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147718
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series SD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | Filmes e Séries",TNT Series SD
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83639
+
+#EXTM3U url-tvg=" http://grade-de-Canais  Filmes e Series.xml "
+ ############## Canais  Filmes e Series ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais  Filmes e Series" group-title="
+
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel FHD" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Filmes e Séries",Paramount Channel FHD
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136802
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel FHD [Alt]" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Filmes e Séries",Paramount Channel FHD [Alt]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147627
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel FHD [H265]" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Filmes e Séries",Paramount Channel FHD [H265]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83360
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel HD" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Filmes e Séries",Paramount Channel HD
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83244
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel HD [Alt]" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Filmes e Séries",Paramount Channel HD [Alt]
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147628
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel SD" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Filmes e Séries",Paramount Channel SD
+http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83597
+
+#EXTM3U url-tvg=" http://grade-de-CANAIS  | FILMES E SERIES.xml "
+ ############## CANAIS  | FILMES E SERIES ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS  | FILMES E SERIES" group-title="
+
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD" tvg-logo="https://i.imgur.com/DuUuDED.png" group-title="CANAIS  | FILMES E SERIES",SYFY FHD
+http://meuplay.shop:80/828474929852/34882748924/857
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD H265" tvg-logo="https://i.imgur.com/DuUuDED.png" group-title="CANAIS  | FILMES E SERIES",SYFY FHD H265
+http://meuplay.shop:80/828474929852/34882748924/287
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="https://i.imgur.com/DuUuDED.png" group-title="CANAIS  | FILMES E SERIES",SYFY HD
+http://meuplay.shop:80/828474929852/34882748924/75
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD" tvg-logo="https://i.imgur.com/DuUuDED.png" group-title="CANAIS  | FILMES E SERIES",SYFY SD
+http://meuplay.shop:80/828474929852/34882748924/548
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD" tvg-logo="https://i.imgur.com/qYfJeLf.png" group-title="CANAIS  | FILMES E SERIES",TBS FHD
+http://meuplay.shop:80/828474929852/34882748924/856
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD H265" tvg-logo="https://i.imgur.com/qYfJeLf.png" group-title="CANAIS  | FILMES E SERIES",TBS FHD H265
+http://meuplay.shop:80/828474929852/34882748924/288
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="https://i.imgur.com/qYfJeLf.png" group-title="CANAIS  | FILMES E SERIES",TBS HD
+http://meuplay.shop:80/828474929852/34882748924/76
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD" tvg-logo="https://i.imgur.com/qYfJeLf.png" group-title="CANAIS  | FILMES E SERIES",TBS SD
+http://meuplay.shop:80/828474929852/34882748924/549
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM FHD" tvg-logo="https://i.imgur.com/053CNKB.png" group-title="CANAIS  | FILMES E SERIES",TCM FHD
+http://meuplay.shop:80/828474929852/34882748924/877
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="https://i.imgur.com/053CNKB.png" group-title="CANAIS  | FILMES E SERIES",TCM HD
+http://meuplay.shop:80/828474929852/34882748924/131
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="https://i.imgur.com/053CNKB.png" group-title="CANAIS  | FILMES E SERIES",TCM SD
+http://meuplay.shop:80/828474929852/34882748924/550
+
+#EXTM3U url-tvg=" http://grade-de-Canais CINE UNION.xml "
+ ############## Canais CINE UNION ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais CINE UNION" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="CINE ACAO" tvg-logo="https://i.ibb.co/h1VxNjB/cineunion.png" group-title="CINE UNION",CINE ACAO
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/152723
+#EXTINF:-1 tvg-id="" tvg-name="CINE DISNEY" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE DISNEY
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766190
+#EXTINF:-1 tvg-id="" tvg-name="CINE MARVEL" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE MARVEL
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766191
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 01
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/155499
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 02
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/155500
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 03
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/155501
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 04
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/155502
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 05
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/155503
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 06
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/155504
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 07
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/155505
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 10
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766192
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 11" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 11
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766193
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 8" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 8
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766197
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 9" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 9
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766198
 
 #EXTM3U url-tvg=" http://grade-de-Canais  Documentarios.xml "
  ############## Canais  Documentarios ############## ### 
@@ -2370,125 +2531,12 @@ http://pbrz.xyz:80/67531382/36606924/1342
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS"tvg-logo="https://media3.giphy.com/media/EVt4RexI3BCf8O2UG8/giphy.gif?cid=6c09b95233b1a438abdc799f132c782cda160e674d5a1066&rid=giphy.gif&ct=s" group-title="CANAIS | DISCOVERY",DISCOVERY KIDS SD
 http://pbrz.xyz:80/67531382/36606924/1343
 
-#EXTM3U url-tvg=" http://grade-de-FILMES E SERIES A&E.xml "
- ############## FILMES E SERIES A&E ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES E SERIES A&E" group-title="
+#EXTM3U url-tvg=" http://grade-de-Canais ESPORTES JIU JITSU.xml "
+ ############## Canais ESPORTES JIU JITSU ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais ESPORTES JIU JITSU" group-title="
 
-#EXTINF:-1 tvg-name="A&E FHD" tvg-logo="http://70.ms/dp" group-title="FILMES E SERIES A&E",A&E FHD
- http://5ce.co:80/live/mlindoso/qwe9673/6971.m3u8
-#EXTINF:-1 tvg-name="A&E FHD²" tvg-logo="http://70.ms/dp" group-title="FILMES E SERIES A&E",A&E FHD²
- http://5ce.co:80/live/mlindoso/qwe9673/100449.m3u8
-#EXTINF:-1 tvg-name="A&E HD" tvg-logo="http://70.ms/hy" group-title="FILMES E SERIES A&E",A&E HD
- http://5ce.co:80/live/mlindoso/qwe9673/6647.m3u8
-#EXTINF:-1 tvg-name="A&E HD²" tvg-logo="http://70.ms/dh" group-title="FILMES E SERIES A&E",A&E HD²
- http://5ce.co:80/live/mlindoso/qwe9673/6915.m3u8
-#EXTINF:-1 tvg-name="A&E SD" tvg-logo="http://70.ms/hQ" group-title="FILMES E SERIES A&E",A&E SD
- http://5ce.co:80/live/mlindoso/qwe9673/6646.m3u8
-#EXTINF:-1 tvg-name="A&E SD²" tvg-logo="http://70.ms/da" group-title="FILMES E SERIES A&E",A&E SD²
- http://5ce.co:80/live/mlindoso/qwe9673/10644.m3u8
-
-#EXTM3U url-tvg=" http://grade-de-FILMES E SERIES AXN.xml "
- ############## FILMES E SERIES AXN ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES E SERIES AXN" group-title="
-
-#EXTINF:-1 tvg-name="AXN FHD" tvg-logo="https://fivetv.xyz/logos/axn.png" group-title="FILMES E SERIES AXN",AXN FHD
- http://5ce.co:80/live/mlindoso/qwe9673/6969.m3u8
-#EXTINF:-1 tvg-name="AXN FHD²" tvg-logo="https://fivetv.xyz/logos/axn.png" group-title="FILMES E SERIES AXN",AXN FHD²
- http://5ce.co:80/live/mlindoso/qwe9673/16875.m3u8
-#EXTINF:-1 tvg-name="AXN HD" tvg-logo="https://fivetv.xyz/logos/axn.png" group-title="FILMES E SERIES AXN",AXN HD
- http://5ce.co:80/live/mlindoso/qwe9673/6649.m3u8
-#EXTINF:-1 tvg-name="AXN HD²" tvg-logo="https://fivetv.xyz/logos/axn.png" group-title="FILMES E SERIES AXN",AXN HD²
- http://5ce.co:80/live/mlindoso/qwe9673/10876.m3u8
-#EXTINF:-1 tvg-name="AXN SD" tvg-logo="https://fivetv.xyz/logos/axn.png" group-title="FILMES E SERIES AXN",AXN SD
- http://5ce.co:80/live/mlindoso/qwe9673/6648.m3u8
-#EXTINF:-1 tvg-name="AXN SD²" tvg-logo="https://fivetv.xyz/logos/axn.png" group-title="FILMES E SERIES AXN",AXN SD²
- http://5ce.co:80/live/mlindoso/qwe9673/10877.m3u8
-
-#EXTM3U url-tvg=" http://grade-de-FILMES E SERIES AMC.xml "
- ############## FILMES E SERIES AMC ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES E SERIES AMC" group-title="
-
-#EXTINF:-1 tvg-name="AMC FHD" tvg-logo="https://fivetv.xyz/logos/amc.png" group-title="FILMES E SERIES AMC",AMC FHD
- http://5ce.co:80/live/mlindoso/qwe9673/6970.m3u8
-#EXTINF:-1 tvg-name="AMC FHD²" tvg-logo="https://fivetv.xyz/logos/amc.png" group-title="FILMES E SERIES AMC",AMC FHD²
- http://5ce.co:80/live/mlindoso/qwe9673/35449.m3u8
-#EXTINF:-1 tvg-name="AMC HD" tvg-logo="https://fivetv.xyz/logos/amc.png" group-title="FILMES E SERIES AMC",AMC HD
- http://5ce.co:80/live/mlindoso/qwe9673/6645.m3u8
-#EXTINF:-1 tvg-name="AMC HD²" tvg-logo="https://fivetv.xyz/logos/amc.png" group-title="FILMES E SERIES AMC",AMC HD²
- http://5ce.co:80/live/mlindoso/qwe9673/6914.m3u8
-#EXTINF:-1 tvg-name="AMC SD" tvg-logo="https://fivetv.xyz/logos/amc.png" group-title="FILMES E SERIES AMC",AMC SD
- http://5ce.co:80/live/mlindoso/qwe9673/6644.m3u8
-#EXTINF:-1 tvg-name="AMC SD²" tvg-logo="https://fivetv.xyz/logos/amc.png" group-title="FILMES E SERIES AMC",AMC SD²
- http://5ce.co:80/live/mlindoso/qwe9673/10645.m3u8
-
-#EXTM3U url-tvg=" http://grade-de-Canais  Filmes e Series.xml "
- ############## Canais  Filmes e Series ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais  Filmes e Series" group-title="
-
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | Filmes e Séries",TNT FHD
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83822
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD [Alt]" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | Filmes e Séries",TNT FHD [Alt]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147715
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | Filmes e Séries",TNT HD
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83268
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD [Alt]" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | Filmes e Séries",TNT HD [Alt]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147716
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT SD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | Filmes e Séries",TNT SD
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83638
-#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series FHD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | Filmes e Séries",TNT Series FHD
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136806
-#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series FHD [Alt]" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | Filmes e Séries",TNT Series FHD [Alt]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147717
-#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series HD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | Filmes e Séries",TNT Series HD
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83269
-#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series HD [Alt]" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | Filmes e Séries",TNT Series HD [Alt]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147718
-#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series SD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | Filmes e Séries",TNT Series SD
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83639
-
-#EXTM3U url-tvg=" http://grade-de-Canais  Filmes e Series.xml "
- ############## Canais  Filmes e Series ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais  Filmes e Series" group-title="
-
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel FHD" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Filmes e Séries",Paramount Channel FHD
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136802
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel FHD [Alt]" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Filmes e Séries",Paramount Channel FHD [Alt]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147627
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel FHD [H265]" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Filmes e Séries",Paramount Channel FHD [H265]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83360
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel HD" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Filmes e Séries",Paramount Channel HD
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83244
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel HD [Alt]" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Filmes e Séries",Paramount Channel HD [Alt]
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147628
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel SD" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Filmes e Séries",Paramount Channel SD
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83597
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS  | FILMES E SERIES.xml "
- ############## CANAIS  | FILMES E SERIES ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS  | FILMES E SERIES" group-title="
-
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD" tvg-logo="https://i.imgur.com/DuUuDED.png" group-title="CANAIS  | FILMES E SERIES",SYFY FHD
-http://meuplay.shop:80/828474929852/34882748924/857
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD H265" tvg-logo="https://i.imgur.com/DuUuDED.png" group-title="CANAIS  | FILMES E SERIES",SYFY FHD H265
-http://meuplay.shop:80/828474929852/34882748924/287
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="https://i.imgur.com/DuUuDED.png" group-title="CANAIS  | FILMES E SERIES",SYFY HD
-http://meuplay.shop:80/828474929852/34882748924/75
-#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD" tvg-logo="https://i.imgur.com/DuUuDED.png" group-title="CANAIS  | FILMES E SERIES",SYFY SD
-http://meuplay.shop:80/828474929852/34882748924/548
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD" tvg-logo="https://i.imgur.com/qYfJeLf.png" group-title="CANAIS  | FILMES E SERIES",TBS FHD
-http://meuplay.shop:80/828474929852/34882748924/856
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS FHD H265" tvg-logo="https://i.imgur.com/qYfJeLf.png" group-title="CANAIS  | FILMES E SERIES",TBS FHD H265
-http://meuplay.shop:80/828474929852/34882748924/288
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="https://i.imgur.com/qYfJeLf.png" group-title="CANAIS  | FILMES E SERIES",TBS HD
-http://meuplay.shop:80/828474929852/34882748924/76
-#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS SD" tvg-logo="https://i.imgur.com/qYfJeLf.png" group-title="CANAIS  | FILMES E SERIES",TBS SD
-http://meuplay.shop:80/828474929852/34882748924/549
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM FHD" tvg-logo="https://i.imgur.com/053CNKB.png" group-title="CANAIS  | FILMES E SERIES",TCM FHD
-http://meuplay.shop:80/828474929852/34882748924/877
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="https://i.imgur.com/053CNKB.png" group-title="CANAIS  | FILMES E SERIES",TCM HD
-http://meuplay.shop:80/828474929852/34882748924/131
-#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="https://i.imgur.com/053CNKB.png" group-title="CANAIS  | FILMES E SERIES",TCM SD
-http://meuplay.shop:80/828474929852/34882748924/550
+#EXTINF:-1 tvg-id="" tvg-name="FLOGRAPPLING JIU JITSU - HD" tvg-logo="https://images.tapology.com/logos/2715/profile/FloGrappling-logo.jpg" group-title="Canais ESPORTES JIU JITSU",JIU JITSU
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138777563
 
 #EXTM3U url-tvg=" http://grade-de-Canais F1 TV.xml "
  ############## Canais F1 TV ############## ### 
@@ -2728,6 +2776,8 @@ http://xcui.vitvabc.xyz:8880/287994003720/287994003720/31148
  ############## Canais  FOX Sports 2 ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais  FOX Sports 2" group-title="
 
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais |FOX Sports 2",FOX SPORTS 2 - SD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82755
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - 4K" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais | FOX Sports 2",FOX SPORTS 2 - 4K
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/72584
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais | FOX Sports 2",FOX SPORTS 2 - FHD
@@ -2736,8 +2786,6 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82759
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82757
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais | FOX Sports 2",FOX SPORTS 2 - HD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82758
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais | FOX Sports 2",FOX SPORTS 2 - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82755
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais | FOX Sports 2",FOX SPORTS 2 - SD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82756
 #EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 4K" tvg-logo="https://i.imgur.com/exxvTL3.png" group-title="Canais | FOX Sports 2",FOX Sports 2 4K
@@ -2756,18 +2804,6 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/147567
 http://apkwuv.xyz:80/cristina2021/graniptv2005/
 #EXTINF:-1 tvg-name="Fox Sports 2 FHD" tvg-logo="http://70.ms/dR" group-title="Canais | FOX Sports 2",Fox Sports 2 FHD
 http://liontv.me:80/mgfb2ed/mgf239161/34
-#EXTINF:-1 tvg-name="Fox Sports 2 HD²" tvg-logo="http://70.ms/5i" group-title="Canais | FOX Sports 2",Fox Sports 2 HD²
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/151046
-#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 FHD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | ESPN/Fox Sports",FOX Sports 2 FHD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83812
-#EXTINF:-1 tvg-name="Fox Sports 2 HD" tvg-logo="http://70.ms/6G" group-title="Canais | FOX Sports 2",Fox Sports 2 HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147566
-#EXTINF:-1 tvg-name="Fox Sports 2 FHD²" tvg-logo="http://70.ms/Xb" group-title="Canais | FOX Sports 2",Fox Sports 2 FHD²
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83389
-#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 HD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | FOX Sports 2",FOX Sports 2 HD
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83216
-#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 HD [Alt]" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | FOX Sports 2",FOX Sports 2 HD [Alt]
-http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/147567
 #EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 SD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | FOX Sports 2",FOX Sports 2 SD
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83561
 #EXTINF:-1 tvg-name="Fox Sports 2 SD" tvg-logo="http://70.ms/6M" group-title="Canais | FOX Sports 2",Fox Sports 2 SD
@@ -3125,11 +3161,31 @@ https://ia802608.us.archive.org/1/items/cinderela-2021-filmes-tv-fax-hd/Cinderel
 https://ia902707.us.archive.org/25/items/o-lendario-cao-guerreiro-tv-fax-filme/O%20Lend%C3%A1rio%20C%C3%A3o%20Guerreiro%20TV%20FAX%20%20Filme.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Jardim Secreto"tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/93/94/02/20287510.jpg"group-title="FILMES TV FAX filhos",O Jardim Secreto
 https://ia802706.us.archive.org/10/items/o-jardim-secreto-filmes-tv-fax-hd/O%20Jardim%20Secreto%20Filmes%20TV%20FAX%20HD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Família Addams 2 Pé Na Estrada "tvg-logo="https://i.ytimg.com/vi/1PnBZgNNH-0/movieposter_en.jpg"group-title="FILMES TV FAX filho",A Família Addams 2 Pé Na Estrada
+#EXTINF:-1 tvg-id="" tvg-name="A Família Addams 2 Pé Na Estrada "tvg-logo="https://i.ytimg.com/vi/1PnBZgNNH-0/movieposter_en.jpg"group-title="FILMES TV FAX filhos",A Família Addams 2 Pé Na Estrada
 https://ia802600.us.archive.org/18/items/a-familia-addams-2-pe-na-estrada-tv-fax/A%20Fam%C3%ADlia%20Addams%202%20P%C3%A9%20na%20Estrada%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Até Os Ratos Merecem O Céu"tvg-logo="https://i.ytimg.com/vi/nUGZJh6AgSU/maxresdefault.jpg"group-title="FILMES TV FAX filho",Até Os Ratos Merecem O Céu
+#EXTINF:-1 tvg-id="" tvg-name="Até Os Ratos Merecem O Céu"tvg-logo="https://i.ytimg.com/vi/nUGZJh6AgSU/maxresdefault.jpg"group-title="FILMES TV FAX filhos",Até Os Ratos Merecem O Céu
 https://ia902604.us.archive.org/3/items/ate-os-ratos-merecem-o-ceu-tv-fax/At%C3%A9%20os%20Ratos%20Merecem%20o%20C%C3%A9u%20TV%20FAX%20%20.mp4
-
+#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez Um Conto De Fadas"tvg-logo="https://www.themoviedb.org/t/p/original/sOtkkbxngPgLEYVxM5Ela2wbOEm.jpg"group-title="FILMES TV FAX filhos",Era Uma Vez Um Conto De Fadas
+https://ia902700.us.archive.org/0/items/era-uma-vez-um-conto-de-fadas-tv-fax/Era%20Uma%20Vez%20Um%20Conto%20de%20Fadas%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cruella "tvg-logo="https://pipocasclub.com.br/wp-content/uploads/2021/05/Cruella-Disney.jpg"group-title="FILMES TV FAX filhos",Cruella 
+https://ia902708.us.archive.org/24/items/cruella-filmes-tv-fax/Cruella%20Filmes%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dois Irmãos Uma Jornada Fantástica "tvg-logo="https://br.web.img3.acsta.net/pictures/19/05/31/18/29/5627382.jpg"group-title="FILMES TV FAX filhos",Dois Irmãos Uma Jornada Fantástica 
+https://ia902704.us.archive.org/29/items/dois-irmaos-uma-jornada-fantastica-tv-fax/Dois%20Irm%C3%A3os%20Uma%20Jornada%20Fant%C3%A1stica%20%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Descendentes O Casamento Real"tvg-logo="https://noticiasdatv.uol.com.br/media/_versions/artigos/booboo-stewart-dove-cameron-sofia-carson-cameron-boyce-descendentes-reproducao-disney-min_fixed_large.jpg"group-title="FILMES TV FAX filhos",Descendentes O Casamento Real
+https://ia902709.us.archive.org/11/items/descendentes-o-casamento-real-tv-fax/Descendentes%20O%20Casamento%20Real%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Diretamente De Lugar Nenhum Scooby Doo Encontra Cor "tvg-logo="https://i.ytimg.com/vi/G1_gYmh5Fm8/mqdefault.jpg"group-title="FILMES TV FAX filhos",Diretamente De Lugar Nenhum Scooby Doo Encontra Cor
+https://ia902709.us.archive.org/26/items/diretamente-de-lugar-nenhum-scooby-doo-encontra-cor-tv-fax/Diretamente%20de%20Lugar%20Nenhum%20Scooby-Doo%20Encontra%20Cor%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Busca De Ohana "tvg-logo="https://i.ytimg.com/vi/O3kqANP4Ayo/maxresdefault.jpg"group-title="FILMES TV FAX filhos",Em Busca De Ohana
+https://ia902700.us.archive.org/2/items/em-busca-de-ohana-tv-fax/Em%20Busca%20de%20Ohana%20%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Abelhinha Maya E O Ovo Dourado"tvg-logo="https://i.ytimg.com/vi/EOzPB3X2-k0/maxresdefault.jpg"group-title="FILMES TV FAX filhos",A Abelhinha Maya E O Ovo Dourado
+https://ia902700.us.archive.org/18/items/a-abelhinha-maya-e-o-ovo-dourado-tv-fax/A%20Abelhinha%20Maya%20e%20O%20Ovo%20Dourado%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ainbo A Guerreira Da Amazônia"tvg-logo="https://br.web.img3.acsta.net/pictures/21/09/27/20/19/2539364.jpgg"group-title="FILMES TV FAX filhos",Ainbo A Guerreira Da Amazônia
+https://ia902707.us.archive.org/21/items/ainbo-a-guerreira-da-amazonia-tv-fax/Ainbo%20A%20Guerreira%20da%20Amaz%C3%B4nia%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até Os Ratos Merecem O Céu"tvg-logo="https://i.ytimg.com/vi/nUGZJh6AgSU/maxresdefault.jpg"group-title="FILMES TV FAX filhos",
+#EXTINF:-1 tvg-id="" tvg-name="Beleza Negra Uma Amizade Verdadeira "tvg-logo="https://disneyplusbrasil.com.br/wp-content/uploads/2020/11/Beleza-Negra-Banner.jpg"group-title="FILMES TV FAX filhos",Beleza Negra Uma Amizade Verdadeira 
+https://ia802707.us.archive.org/17/items/beleza-negra-uma-amizade-verdadeira-tv-fax/Beleza%20Negra%20Uma%20Amizade%20Verdadeira%20TV%20FAX%20%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Batman Alma Do Dragão"tvg-logo="https://i0.wp.com/cloud.estacaonerd.com/wp-content/uploads/2020/12/06192634/EollL07XEAA6XUP.jpg?fit=1200%2C798&ssl=1"group-title="FILMES TV FAX filhos",Batman Alma Do Dragão
+https://ia902700.us.archive.org/35/items/batman-alma-do-dragao-tv-fax/Batman%20Alma%20do%20Drag%C3%A3o%20%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Caçadores De Trolls A Ascensão Dos Titãs "tvg-logo="https://br.web.img3.acsta.net/pictures/21/06/16/10/12/3948304.jpg"group-title="FILMES TV FAX filhos",Caçadores De Trolls A Ascensão Dos Titãs 
 https://ia902709.us.archive.org/0/items/cacadores-de-trolls-a-ascensao-dos-titas-tv-fax/Ca%C3%A7adores%20de%20Trolls%20A%20Ascens%C3%A3o%20dos%20Tit%C3%A3s%20%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="De Repente "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlGC9oSMAhBmXNqA5RqqXiWvWmHJLDHsTWNA&usqp=CAU"group-title="FILMES TV FAX filhos",De Repente
@@ -3170,14 +3226,29 @@ http://7go.xyz:8080/movie/zogbi11/982451290/312675.mp4
 https://seig.tv/19/1/7ba85cea0f777ff47b36ce05975add22/720p/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Princesa Encantada: Era Uma Vez"tvg-logo="https://image.tmdb.org/t/p/w185/pfMgyj2afebT8LVrDVYHniDk3XJ.jpg"group-title="FILMES TV FAX filhos",A Princesa Encantada: Era Uma Vez
 https://seig.tv/19/1/de657f7b5a1eb8ed259401806e2e2334/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Tarsilinha"tvg-logo="https://image.tmdb.org/t/p/w185/szoK1qZ0YThXajLnkE8l7wygXpG.jpg"group-title="FILMES TV FAX filho",Tarsilinha
+#EXTINF:-1 tvg-id="" tvg-name="Tarsilinha"tvg-logo="https://image.tmdb.org/t/p/w185/szoK1qZ0YThXajLnkE8l7wygXpG.jpg"group-title="FILMES TV FAX filhos",Tarsilinha
 https://seig.tv/11/1/cf411be661135e8bb93fc1268512dd08/720p/720p.m3u8
 
 #EXTM3U url-tvg="http://grade-de-FILMES  TV FAX.xml"
 ############## FILMES  TV FAX #################
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES  TV FAX" group-title="
 
-
+#EXTINF:-1 tvg-id="" tvg-name=",Destruição Final O Último Refúgio "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ0lz-NRK_wz4qb57xG5kI1ePmyqhZxgDfWtiobIi0ofuk0o8BywrH-X1xrnbAxboFJiY&usqp=CAU"group-title="FILMES | TV FAX",Destruição Final O Último Refúgio 
+https://ia902604.us.archive.org/35/items/destruicao-final-o-ultimo-refugio-tv-fax/Destrui%C3%A7%C3%A3o%20Final%20O%20%C3%9Altimo%20Ref%C3%BAgio%20%20TV%20FAX%20%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Cabras Da Peste"tvg-logo="https://i.ytimg.com/vi/jxTC0ZUE6XQ/maxresdefault.jpg"group-title="FILMES | TV FAX",Cabras Da Peste
+https://ia902604.us.archive.org/17/items/cabras-da-peste-tv-fax/Cabras%20da%20Peste%20%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Conspiração Implacável "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRayYf-mVTgLiYsTeYwMu9Tpc9tatYg58uYlr4KChF5rNusiGljF--sNquwPNGzHszFOK4&usqp=CAU"group-title="FILMES | TV FAX",Conspiração Implacável 
+https://ia902703.us.archive.org/22/items/conspiracao-implacavel-tv-fax/Conspira%C3%A7%C3%A3o%20Implac%C3%A1vel%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Deixados Para Trás O Ínicio Do Fim"tvg-logo="https://musicaecinema.com/wp-content/uploads/2023/05/WhatsApp-Image-2023-05-09-at-12.23.07.jpeg.webp"group-title="FILMES | TV FAX",Deixados Para Trás O Ínicio Do Fim
+https://ia902701.us.archive.org/16/items/deixados-para-tras-o-inicio-do-fim-tv-fax/Deixados%20para%20Tr%C3%A1s%20O%20%C3%8Dnicio%20do%20Fim%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Anônimo"tvg-logo="https://cafecomnerd.com.br/wp-content/uploads/2020/12/anonimo-com-bob-odenkirk-trailer-divulgado-universal-pictures.jpg"group-title="FILMES | TV FAX",Anônimo
+https://ia802604.us.archive.org/28/items/anonimo-filmes-tv-fax/An%C3%B4nimo%20Filmes%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Algum Lugar Especial"tvg-logo="https://i.ytimg.com/vi/9uLH5RIZ2Ig/maxresdefault.jpg"group-title="FILMES | TV FAX",Algum Lugar Especial
+https://ia802704.us.archive.org/18/items/algum-lugar-especial-tv-fax/Algum%20Lugar%20Especial%20%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",A Porteira"tvg-logo="https://ifolha.temmais.com/wp-content/uploads/2021/07/CINEMA-EM-CASA-A-PORTEIRA-06-07-21.jpg"group-title="FILMES | TV FAX",A Porteira
+https://ia802708.us.archive.org/9/items/a-porteira-filmes-tv-fax/A%20Porteira%20%20Filmes%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",A Menina Que Acredita Em Milagres"tvg-logo="https://www.redeencontro.com.br/wp-content/uploads/sites/6/2022/08/bpNDJOIcijtrG05ecMZRlxJh8fo.jpg"group-title="FILMES | TV FAX",A Menina Que Acredita Em Milagres
+https://ia802706.us.archive.org/2/items/a-menina-que-acredita-em-milagres-tv-fax/A%20Menina%20que%20Acredita%20em%20Milagres%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Borrego Saia Do Caminho"tvg-logo="https://i.ytimg.com/vi/FW2FZpL-Z7s/maxresdefault.jpg"group-title="FILMES | TV FAX",Borrego Saia Do Caminho
 https://ia601601.us.archive.org/17/items/borrego-saia-do-caminho-tv-fax/Borrego%20Saia%20do%20Caminho%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BAC Nord Sob Pressão"tvg-logo="https://br.web.img3.acsta.net/pictures/21/06/07/13/11/2832970.jpg"group-title="FILMES | TV FAX",BAC Nord Sob Pressão
@@ -4703,9 +4774,9 @@ http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/166456.mp4
 #EXTINF:-1 tvg-id="" tvg-name="X-Men: Primeira Classe (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqTCbMhG9X93sly2fvyiu6sHPIS.jpg" group-title="Filmes: Acao",X-Men: Primeira Classe (2011)
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/216208.mp4
 
-#EXTM3U url-tvg="http://grade-de-FILMES  ACAO CINEMA.xml"
-############## FILMES  ACAO CINEMA ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES  ACAO CINEMA" group-title="
+#EXTM3U url-tvg="http://grade-de-FILMES | AÇÃO CINEMA.xml"
+############## FILMES | AÇÃO CINEMA ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | AÇÃO CINEMA" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="Nezha: Correndo pela Vida" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/8f6925f75b3cede749c4ba166fd533678af46666c96e9ab9607eea558584c848._RI_V_TTW_.jpg" group-title="FILMES | AÇÃO CINEMA",Nezha: Correndo pela Vida
 https://play.prod.gcp.vix.services/ne-zha_pt/ne-zha_pt_1-1/play_v1_hls_1080p.m3u8
@@ -5433,23 +5504,23 @@ https://play.prod.gcp.vix.services/masked-saint_pt/masked-saint_pt_1-1/hls_2500.
 ############## Filmes Star Wars ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFilmes Star Wars" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars Episódio IV: Uma Nova Esperança - 1977" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSNdwFauC1QODm1ntk07wqJV1pf.jpg" group-title="Filmes: Star Wars",Star Wars Episódio IV: Uma Nova Esperança - 1977
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars Episódio IV: Uma Nova Esperança - 1977" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSNdwFauC1QODm1ntk07wqJV1pf.jpg" group-title="Filmes: Star Wars",Star Wars Episodio IV: Uma Nova Esperança - 1977
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/138443.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars Episódio VI: O Retorno de Jedi - 1983" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e57CeQLHE5WWzWy3oq03IVmAyfp.jpg" group-title="Filmes: Star Wars",Star Wars Episódio VI: O Retorno de Jedi - 1983
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars Episódio VI: O Retorno de Jedi - 1983" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e57CeQLHE5WWzWy3oq03IVmAyfp.jpg" group-title="Filmes: Star Wars",Star Wars Episodio VI: O Retorno de Jedi - 1983
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/138444.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars Episódio VII: O Despertar da Força - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mc9hsb5BTTFGmPhHkXxonKP5rFN.jpg" group-title="Filmes: Star Wars",Star Wars Episódio VII: O Despertar da Força - 2015
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars Episódio VII: O Despertar da Força - 2015" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mc9hsb5BTTFGmPhHkXxonKP5rFN.jpg" group-title="Filmes: Star Wars",Star Wars Episodio VII: O Despertar da Força - 2015
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/138440.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars Episódio VIII: Os Últimos Jedi - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2iGN0aKHJYD0xQydlfuCUAcgNbO.jpg" group-title="Filmes: Star Wars",Star Wars Episódio VIII: Os Últimos Jedi - 2017
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars Episódio VIII: Os Últimos Jedi - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2iGN0aKHJYD0xQydlfuCUAcgNbO.jpg" group-title="Filmes: Star Wars",Star Wars Episodio VIII: Os Últimos Jedi - 2017
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/138438.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Star Wars: A Ascensão Skywalker 4K [HDR]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFx2i2pg1BoaD7grcpGDyHM1eML.jpg" group-title="Filmes: Star Wars",Star Wars: A Ascensão Skywalker 4K [HDR]
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/63063.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Episódio I - A Ameaça Fantasma (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNk8UNAumXlfCdtaxDqsQe7ZGlt.jpg" group-title="Filmes: Star Wars",Star Wars: Episódio I - A Ameaça Fantasma (1999)
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Episódio I - A Ameaça Fantasma (1999)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gNk8UNAumXlfCdtaxDqsQe7ZGlt.jpg" group-title="Filmes: Star Wars",Star Wars: Episodio I - A Ameaça Fantasma (1999)
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/138441.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Episódio II - Ataque dos Clones - 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2ONgVK8ucLfobZn7VTyaAKH0yA.jpg" group-title="Filmes: Star Wars",Star Wars: Episódio II - Ataque dos Clones - 2002
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Episódio II - Ataque dos Clones - 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s2ONgVK8ucLfobZn7VTyaAKH0yA.jpg" group-title="Filmes: Star Wars",Star Wars: Episodio II - Ataque dos Clones - 2002
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/138439.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Episódio III - A Vingança dos Sith (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuF5yWtTJEEAd4Qa6cVkYz1XCST.jpg" group-title="Filmes: Star Wars",Star Wars: Episódio III - A Vingança dos Sith (2005)
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Episódio III - A Vingança dos Sith (2005)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nuF5yWtTJEEAd4Qa6cVkYz1XCST.jpg" group-title="Filmes: Star Wars",Star Wars: Episodio III - A Vingança dos Sith (2005)
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/138442.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Episódio IX: A Ascensão Skywalker (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFx2i2pg1BoaD7grcpGDyHM1eML.jpg" group-title="Filmes: Star Wars",Star Wars: Episódio IX: A Ascensão Skywalker (2019)
+#EXTINF:-1 tvg-id="" tvg-name="Star Wars: Episódio IX: A Ascensão Skywalker (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFx2i2pg1BoaD7grcpGDyHM1eML.jpg" group-title="Filmes: Star Wars",Star Wars: Episodio IX: A Ascensão Skywalker (2019)
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/11570.mp4
 
 #EXTM3U url-tvg="http://grade-de-FILMES   ORIENTE.xml"
@@ -5481,119 +5552,119 @@ https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-9/play_v1_hls_1080p.m
 ############## FILMES  COLETANEA JACKIE CHAN ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES  COLETANEA JACKIE CHAN" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Yoga"tvg-logo="https://m.media-amazon.com/images/I/91NSQEWHmsL._AC_SL1500_.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Kung Fu Yoga
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Yoga"tvg-logo="https://m.media-amazon.com/images/I/91NSQEWHmsL._AC_SL1500_.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Kung Fu Yoga
 https://play.prod.gcp.vix.services/kung-fu-yoga_pt/kung-fu-yoga_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Batalha dos Impérios"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzl3dW0-Z183P6r_YtqoRVIgmlBY3ykop17_NQyYjFtkMBSnNhwQY_pgWE_e2VgqBFiCw&usqp=CAU" group-title="FILMES | COLETÂNEA JACKIE CHAN",Batalha dos Impérios
+#EXTINF:-1 tvg-id="" tvg-name="Batalha dos Impérios"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzl3dW0-Z183P6r_YtqoRVIgmlBY3ykop17_NQyYjFtkMBSnNhwQY_pgWE_e2VgqBFiCw&usqp=CAU" group-title="FILMES | COLETANEA JACKIE CHAN",Batalha dos Impérios
 https://play.prod.gcp.vix.services/dragon-blade_pt/dragon-blade_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Mito"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKpJuB55yt_KgjiKNRUtdvNZRoqw7O-RC0qAh2oaiaDjHfPy-ujomXpUvvscw-xCIE33I&usqp=CAU" group-title="FILMES | COLETÂNEA JACKIE CHAN",O Mito
+#EXTINF:-1 tvg-id="" tvg-name="O Mito"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKpJuB55yt_KgjiKNRUtdvNZRoqw7O-RC0qAh2oaiaDjHfPy-ujomXpUvvscw-xCIE33I&usqp=CAU" group-title="FILMES | COLETANEA JACKIE CHAN",O Mito
 https://play.prod.gcp.vix.services/myth_pt/myth_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Massacre no Bairro Chinês"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/1f59472708ec45a9a89391ecbfd0d0a46d43a3505a7a5ad65d63ddb5c74313fc._V_SX1080_.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Massacre no Bairro Chinês
+#EXTINF:-1 tvg-id="" tvg-name="Massacre no Bairro Chinês"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/1f59472708ec45a9a89391ecbfd0d0a46d43a3505a7a5ad65d63ddb5c74313fc._V_SX1080_.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Massacre no Bairro Chinês
 https://play.prod.gcp.vix.services/shinjuku-incident_pt/shinjuku-incident_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Acerto"tvg-logo="https://dvdfilmes.com.br/wp-content/uploads/2021/11/dvd-p03-158.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",A Hora do Acerto
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Acerto"tvg-logo="https://dvdfilmes.com.br/wp-content/uploads/2021/11/dvd-p03-158.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",A Hora do Acerto
 https://play.prod.gcp.vix.services/new-police-story_pt/new-police-story_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Em Nome da Lei"tvg-logo="https://http2.mlstatic.com/D_NQ_NP_720021-MLB20684543096_042016-O.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Em Nome da Lei
+#EXTINF:-1 tvg-id="" tvg-name="Em Nome da Lei"tvg-logo="https://http2.mlstatic.com/D_NQ_NP_720021-MLB20684543096_042016-O.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Em Nome da Lei
 https://play.prod.gcp.vix.services/police-story-2013_pt/police-story-2013_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Reino Proibido"tvg-logo="https://m.media-amazon.com/images/I/51dqRvZ8lyL._AC_SX342_.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",O Reino Proibido
+#EXTINF:-1 tvg-id="" tvg-name="O Reino Proibido"tvg-logo="https://m.media-amazon.com/images/I/51dqRvZ8lyL._AC_SX342_.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",O Reino Proibido
 https://play.prod.gcp.vix.services/forbidden-kingdom_pt/forbidden-kingdom_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Armadura de Deus"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/f5ae42cc07eb3306614e039a9d92d8437ce6cce552c6d21b3ba4891f6802966e._RI_V_TTW_.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Armadura de Deus
+#EXTINF:-1 tvg-id="" tvg-name="Armadura de Deus"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/f5ae42cc07eb3306614e039a9d92d8437ce6cce552c6d21b3ba4891f6802966e._RI_V_TTW_.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Armadura de Deus
 https://play.prod.gcp.vix.services/armour-of-god_pt/armour-of-god_pt_1-1/play_v1_hls_432p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Armadura de Deus 2: Operação Condor"tvg-logo="https://i2.wp.com/asiamundi.com.br/wp-content/uploads/2019/03/A-Armadura-de-Deus-2-Operac%CC%A7a%CC%83o-Condor-1991.jpg?fit=1000%2C1500" group-title="FILMES | COLETÂNEA JACKIE CHAN",Armadura de Deus 2: Operação Condor
+#EXTINF:-1 tvg-id="" tvg-name="Armadura de Deus 2: Operação Condor"tvg-logo="https://i2.wp.com/asiamundi.com.br/wp-content/uploads/2019/03/A-Armadura-de-Deus-2-Operac%CC%A7a%CC%83o-Condor-1991.jpg?fit=1000%2C1500" group-title="FILMES | COLETANEA JACKIE CHAN",Armadura de Deus 2: Operação Condor
 https://play.prod.gcp.vix.services/armour-of-god-2_pt/armour-of-god-2_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Três Ladrões e um Bebê"tvg-logo="http://s2.glbimg.com/5UnBdhvFJuxXwXuYMUzVD9fM__s=/s.glbimg.com/og/rg/f/original/2016/04/20/jackie.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Três Ladrões e um Bebê
+#EXTINF:-1 tvg-id="" tvg-name="Três Ladrões e um Bebê"tvg-logo="http://s2.glbimg.com/5UnBdhvFJuxXwXuYMUzVD9fM__s=/s.glbimg.com/og/rg/f/original/2016/04/20/jackie.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Três Ladrões e um Bebê
 https://play.prod.gcp.vix.services/robin-b-hood_pt/robin-b-hood_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Agentes Vanguard  (2020)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/slR16xWVy7kc3xr1GlSK41ZSjpa.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Agentes Vanguard  (2020)*
+#EXTINF:-1 tvg-id="" tvg-name="Agentes Vanguard  (2020)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/slR16xWVy7kc3xr1GlSK41ZSjpa.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Agentes Vanguard  (2020)*
 http://7go.xyz:8080/movie/zogbi11/982451290/277876.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fora do Rumo  (2016)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hVx1PZuGZCpm0gHKUgMLtMukFWG.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Fora do Rumo  (2016)*
+#EXTINF:-1 tvg-id="" tvg-name="Fora do Rumo  (2016)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hVx1PZuGZCpm0gHKUgMLtMukFWG.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Fora do Rumo  (2016)*
 http://7go.xyz:8080/movie/zogbi11/982451290/294484.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fúria do Protetor (1985)" tvg-logo="http://7online.xyz:8080/images/647ddf00d2659f017737f432dcdbf734.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",A Fúria do Protetor (1985)
+#EXTINF:-1 tvg-id="" tvg-name="A Fúria do Protetor (1985)" tvg-logo="http://7online.xyz:8080/images/647ddf00d2659f017737f432dcdbf734.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",A Fúria do Protetor (1985)
 http://7go.xyz:8080/movie/zogbi11/982451290/196924.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Acerto (2004)" tvg-logo="http://7online.xyz:8080/images/d5c2ecaf053c5bce1f3b078299f36457.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",A Hora do Acerto (2004)
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Acerto (2004)" tvg-logo="http://7online.xyz:8080/images/d5c2ecaf053c5bce1f3b078299f36457.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",A Hora do Acerto (2004)
 http://7go.xyz:8080/movie/zogbi11/982451290/196926.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush (1998)" tvg-logo="http://7online.xyz:8080/images/a4084d34b7ce452eba2ca486c77d8241.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",A Hora do Rush (1998)
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush (1998)" tvg-logo="http://7online.xyz:8080/images/a4084d34b7ce452eba2ca486c77d8241.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",A Hora do Rush (1998)
 http://7go.xyz:8080/movie/zogbi11/982451290/196927.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush 2 (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5DNVpS1gzEgaoPIW5HuPbKa1dnT.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",A Hora do Rush 2 (2001)
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush 2 (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5DNVpS1gzEgaoPIW5HuPbKa1dnT.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",A Hora do Rush 2 (2001)
 http://7go.xyz:8080/movie/zogbi11/982451290/196928.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush 3 (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7sqXl2yNWv1roe3LN3hNrhozJvn.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",A Hora do Rush 3 (2007)
+#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush 3 (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7sqXl2yNWv1roe3LN3hNrhozJvn.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",A Hora do Rush 3 (2007)
 http://7go.xyz:8080/movie/zogbi11/982451290/196929.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mestre Invencível 2 (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5LcqEmIpkuu7zkMp1vmSmp9Xuas.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",O Mestre Invencível 2 (1994)
+#EXTINF:-1 tvg-id="" tvg-name="O Mestre Invencível 2 (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5LcqEmIpkuu7zkMp1vmSmp9Xuas.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",O Mestre Invencível 2 (1994)
 http://7go.xyz:8080/movie/zogbi11/982451290/196930.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Marca do Dragão (1977)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kiYMJISu7s3PIqsUkl9gdqoGz9o.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",A Marca do Dragão (1977)
+#EXTINF:-1 tvg-id="" tvg-name="A Marca do Dragão (1977)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kiYMJISu7s3PIqsUkl9gdqoGz9o.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",A Marca do Dragão (1977)
 http://7go.xyz:8080/movie/zogbi11/982451290/196931.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Nova Fúria do Dragão (1976)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wAxu7VYgBtrGF14GtwxQ7Vk3S8K.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",A Nova Fúria do Dragão (1976)
+#EXTINF:-1 tvg-id="" tvg-name="A Nova Fúria do Dragão (1976)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wAxu7VYgBtrGF14GtwxQ7Vk3S8K.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",A Nova Fúria do Dragão (1976)
 http://7go.xyz:8080/movie/zogbi11/982451290/196932.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Armadura de Deus - Versão Estendida (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nstPbqmWlOibLutLsVvgT7RarRk.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Armadura de Deus - Versão Estendida (1986)
+#EXTINF:-1 tvg-id="" tvg-name="Armadura de Deus - Versão Estendida (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nstPbqmWlOibLutLsVvgT7RarRk.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Armadura de Deus - Versão Estendida (1986)
 http://7go.xyz:8080/movie/zogbi11/982451290/196933.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrebentando em Nova York (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bkUfOcy1ILbBCzNYpSsQsUVF2GN.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Arrebentando em Nova York (1995)
+#EXTINF:-1 tvg-id="" tvg-name="Arrebentando em Nova York (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bkUfOcy1ILbBCzNYpSsQsUVF2GN.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Arrebentando em Nova York (1995)
 http://7go.xyz:8080/movie/zogbi11/982451290/196934.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bater ou Correr (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AqQ0tVxhMYTRgkMvttEOKBJJQYR.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Bater ou Correr (2000)
+#EXTINF:-1 tvg-id="" tvg-name="Bater ou Correr (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AqQ0tVxhMYTRgkMvttEOKBJJQYR.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Bater ou Correr (2000)
 http://7go.xyz:8080/movie/zogbi11/982451290/196935.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bater ou Correr em Londres (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fVPZumNA50cSePKm56lEZ9G86f4.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Bater ou Correr em Londres (2003)
+#EXTINF:-1 tvg-id="" tvg-name="Bater ou Correr em Londres (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fVPZumNA50cSePKm56lEZ9G86f4.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Bater ou Correr em Londres (2003)
 http://7go.xyz:8080/movie/zogbi11/982451290/196936.mp4
-#EXTINF:-1 tvg-id="" tvg-name="City Hunter: O Caçador de Encrencas (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kiI6SZNweOy7R4l02RUwVu6hVfF.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",City Hunter: O Caçador de Encrencas (1993)
+#EXTINF:-1 tvg-id="" tvg-name="City Hunter: O Caçador de Encrencas (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kiI6SZNweOy7R4l02RUwVu6hVfF.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",City Hunter: O Caçador de Encrencas (1993)
 http://7go.xyz:8080/movie/zogbi11/982451290/196937.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Contos do Caçador de Sombras (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/myKEaA1a1fnDxjqDrz3ZI6U3Bxx.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Contos do Caçador de Sombras (2019)
+#EXTINF:-1 tvg-id="" tvg-name="Contos do Caçador de Sombras (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/myKEaA1a1fnDxjqDrz3ZI6U3Bxx.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Contos do Caçador de Sombras (2019)
 http://7go.xyz:8080/movie/zogbi11/982451290/196938.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Detonando em Barcelona (1984)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eP6bdBy2Ie19UlcMxCMBqB8ru7u.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Detonando em Barcelona (1984)
+#EXTINF:-1 tvg-id="" tvg-name="Detonando em Barcelona (1984)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eP6bdBy2Ie19UlcMxCMBqB8ru7u.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Detonando em Barcelona (1984)
 http://7go.xyz:8080/movie/zogbi11/982451290/196939.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batalha dos Impérios (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jehJ5TlgBqfP6DkWqOjcCkMYxgd.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Batalha dos Impérios (2015)
+#EXTINF:-1 tvg-id="" tvg-name="Batalha dos Impérios (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jehJ5TlgBqfP6DkWqOjcCkMYxgd.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Batalha dos Impérios (2015)
 http://7go.xyz:8080/movie/zogbi11/982451290/196940.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Confronto com o Dragão (1983)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6pT99NwH2DeqOVzlaRknsFkI0VV.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Confronto com o Dragão (1983)
+#EXTINF:-1 tvg-id="" tvg-name="Confronto com o Dragão (1983)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6pT99NwH2DeqOVzlaRknsFkI0VV.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Confronto com o Dragão (1983)
 http://7go.xyz:8080/movie/zogbi11/982451290/196941.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragões em Dose Dupla (1992)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jX7HdFkLt4B1yacZJ433Ns32gZq.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Dragões em Dose Dupla (1992)
+#EXTINF:-1 tvg-id="" tvg-name="Dragões em Dose Dupla (1992)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jX7HdFkLt4B1yacZJ433Ns32gZq.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Dragões em Dose Dupla (1992)
 http://7go.xyz:8080/movie/zogbi11/982451290/196942.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragões para Sempre (1988)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vbTkEAOSCuwFpCqzRbf9pRys2YK.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Dragões para Sempre (1988)
+#EXTINF:-1 tvg-id="" tvg-name="Dragões para Sempre (1988)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vbTkEAOSCuwFpCqzRbf9pRys2YK.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Dragões para Sempre (1988)
 http://7go.xyz:8080/movie/zogbi11/982451290/196943.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Em Nome da Lei (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kNy5zuG6lG4rsqYJ1cBZk3F61X1.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Em Nome da Lei (2013)
+#EXTINF:-1 tvg-id="" tvg-name="Em Nome da Lei (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kNy5zuG6lG4rsqYJ1cBZk3F61X1.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Em Nome da Lei (2013)
 http://7go.xyz:8080/movie/zogbi11/982451290/196944.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Espião por Acidente (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jTY7fpQf3hWMxu3OAMNxh1v70WV.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Espião por Acidente (2001)
+#EXTINF:-1 tvg-id="" tvg-name="Espião por Acidente (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jTY7fpQf3hWMxu3OAMNxh1v70WV.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Espião por Acidente (2001)
 http://7go.xyz:8080/movie/zogbi11/982451290/196945.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Inimigo Mortal (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tzz1t8UvSvISZxDxBmEd531nIPg.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Inimigo Mortal (2017)
+#EXTINF:-1 tvg-id="" tvg-name="Inimigo Mortal (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tzz1t8UvSvISZxDxBmEd531nIPg.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Inimigo Mortal (2017)
 http://7go.xyz:8080/movie/zogbi11/982451290/196946.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Karatê Kid (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AbBlpGNj69gWQNKO0qg6QGDnbaW.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Karatê Kid (2010)
+#EXTINF:-1 tvg-id="" tvg-name="Karatê Kid (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AbBlpGNj69gWQNKO0qg6QGDnbaW.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Karatê Kid (2010)
 http://7go.xyz:8080/movie/zogbi11/982451290/196947.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kickboxer 2: A Vingança do Dragão (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2Y8n0XLc7qK4Ro8AGPk6b4sbL7c.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Kickboxer 2: A Vingança do Dragão (1991)
+#EXTINF:-1 tvg-id="" tvg-name="Kickboxer 2: A Vingança do Dragão (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2Y8n0XLc7qK4Ro8AGPk6b4sbL7c.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Kickboxer 2: A Vingança do Dragão (1991)
 http://7go.xyz:8080/movie/zogbi11/982451290/196948.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Yoga (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rvUMGvHc0roYX8MSoIN0Kw8XZ3V.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Kung Fu Yoga (2017)
+#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Yoga (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rvUMGvHc0roYX8MSoIN0Kw8XZ3V.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Kung Fu Yoga (2017)
 http://7go.xyz:8080/movie/zogbi11/982451290/196949.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Missão Quase Impossível (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ccoL6SB1efI9epaLrqxwHVZ8uKN.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Missão Quase Impossível (2010)
+#EXTINF:-1 tvg-id="" tvg-name="Missão Quase Impossível (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ccoL6SB1efI9epaLrqxwHVZ8uKN.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Missão Quase Impossível (2010)
 http://7go.xyz:8080/movie/zogbi11/982451290/196950.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Estrangeiro (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c0k6pnGCNPJHmTHyRzY6tbgVZvl.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",O Estrangeiro (2017)
+#EXTINF:-1 tvg-id="" tvg-name="O Estrangeiro (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c0k6pnGCNPJHmTHyRzY6tbgVZvl.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",O Estrangeiro (2017)
 http://7go.xyz:8080/movie/zogbi11/982451290/196951.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Grande Desafio (1999)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8sSQVFmKhPq6wuArxY4u6yjNAqf.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",O Grande Desafio (1999)
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Desafio (1999)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8sSQVFmKhPq6wuArxY4u6yjNAqf.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",O Grande Desafio (1999)
 http://7go.xyz:8080/movie/zogbi11/982451290/196952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Guarda Costas (1978)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h7MCFUhw6quzmhlvl6xJLo4R7AH.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",O Guarda Costas (1978)
+#EXTINF:-1 tvg-id="" tvg-name="O Guarda Costas (1978)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h7MCFUhw6quzmhlvl6xJLo4R7AH.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",O Guarda Costas (1978)
 http://7go.xyz:8080/movie/zogbi11/982451290/196953.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Medalhão (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aFOgmPanK5OKTsiJ0ZNfPKznIfO.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",O Medalhão (2003)
+#EXTINF:-1 tvg-id="" tvg-name="O Medalhão (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aFOgmPanK5OKTsiJ0ZNfPKznIfO.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",O Medalhão (2003)
 http://7go.xyz:8080/movie/zogbi11/982451290/196954.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mestre Invencível 2 (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5LcqEmIpkuu7zkMp1vmSmp9Xuas.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",O Mestre Invencível 2 (1994)
+#EXTINF:-1 tvg-id="" tvg-name="O Mestre Invencível 2 (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5LcqEmIpkuu7zkMp1vmSmp9Xuas.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",O Mestre Invencível 2 (1994)
 http://7go.xyz:8080/movie/zogbi11/982451290/196955.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mito (2005)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y5x3qlWbPExOh2i1quShN1aL0ta.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",O Mito (2005)
+#EXTINF:-1 tvg-id="" tvg-name="O Mito (2005)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y5x3qlWbPExOh2i1quShN1aL0ta.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",O Mito (2005)
 http://7go.xyz:8080/movie/zogbi11/982451290/196956.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Operação Condor: Um Kickboxer Muito Louco (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8TzrZsXbDrhfLQjr6nnwTkcQobM.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Operação Condor: Um Kickboxer Muito Louco (1991)
+#EXTINF:-1 tvg-id="" tvg-name="Operação Condor: Um Kickboxer Muito Louco (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8TzrZsXbDrhfLQjr6nnwTkcQobM.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Operação Condor: Um Kickboxer Muito Louco (1991)
 http://7go.xyz:8080/movie/zogbi11/982451290/196957.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Operação Zodíaco (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dgG3sfVaLBDEddWjrdeOqj5jHrW.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Operação Zodíaco (2012)
+#EXTINF:-1 tvg-id="" tvg-name="Operação Zodíaco (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dgG3sfVaLBDEddWjrdeOqj5jHrW.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Operação Zodíaco (2012)
 http://7go.xyz:8080/movie/zogbi11/982451290/196958.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Templo do Dragão (1978)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8XRuW6Q3c64A03UHfHyudf683iw.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",O Templo do Dragão (1978)
+#EXTINF:-1 tvg-id="" tvg-name="O Templo do Dragão (1978)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8XRuW6Q3c64A03UHfHyudf683iw.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",O Templo do Dragão (1978)
 http://7go.xyz:8080/movie/zogbi11/982451290/196959.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Terno de 2 Bilhões de Dólares (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kF1aWQzrAaSBCtUrPSZKFXjSoNb.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",O Terno de 2 Bilhões de Dólares (2002)
+#EXTINF:-1 tvg-id="" tvg-name="O Terno de 2 Bilhões de Dólares (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kF1aWQzrAaSBCtUrPSZKFXjSoNb.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",O Terno de 2 Bilhões de Dólares (2002)
 http://7go.xyz:8080/movie/zogbi11/982451290/196960.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Police Story: A Guerra das Drogas (1985)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vKG35nO8lzZTkB7g6EiXjYFjYca.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Police Story: A Guerra das Drogas (1985)
+#EXTINF:-1 tvg-id="" tvg-name="Police Story: A Guerra das Drogas (1985)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vKG35nO8lzZTkB7g6EiXjYFjYca.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Police Story: A Guerra das Drogas (1985)
 http://7go.xyz:8080/movie/zogbi11/982451290/196961.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Primeiro Impacto (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lM4VYfr04LrRYQ32J1IZJg0bHXV.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Primeiro Impacto (1996)
+#EXTINF:-1 tvg-id="" tvg-name="Primeiro Impacto (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lM4VYfr04LrRYQ32J1IZJg0bHXV.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Primeiro Impacto (1996)
 http://7go.xyz:8080/movie/zogbi11/982451290/196962.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Projeto China (1983)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uvQadnCrtustVtz49hv3mRpNVZg.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Projeto China (1983)
+#EXTINF:-1 tvg-id="" tvg-name="Projeto China (1983)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uvQadnCrtustVtz49hv3mRpNVZg.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Projeto China (1983)
 http://7go.xyz:8080/movie/zogbi11/982451290/196963.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Projeto China 2: A Vingança (1987)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZnRRUGMIW38xbgGMWy6cCAhoC4.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Projeto China 2: A Vingança (1987)
+#EXTINF:-1 tvg-id="" tvg-name="Projeto China 2: A Vingança (1987)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZnRRUGMIW38xbgGMWy6cCAhoC4.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Projeto China 2: A Vingança (1987)
 http://7go.xyz:8080/movie/zogbi11/982451290/196964.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Punhos de serpente (1978)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kyWBkI94uT3pmAdbdqdSQ96Qxt9.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Punhos de serpente (1978)
+#EXTINF:-1 tvg-id="" tvg-name="Punhos de serpente (1978)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kyWBkI94uT3pmAdbdqdSQ96Qxt9.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Punhos de serpente (1978)
 http://7go.xyz:8080/movie/zogbi11/982451290/196965.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Quem Sou Eu? (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aYo4p9ylfjGs2Cw6QTRd31aoVO6.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Quem Sou Eu? (1998)
+#EXTINF:-1 tvg-id="" tvg-name="Quem Sou Eu? (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aYo4p9ylfjGs2Cw6QTRd31aoVO6.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Quem Sou Eu? (1998)
 http://7go.xyz:8080/movie/zogbi11/982451290/196966.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Thunderbolt: Ação Sobre Rodas (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f87fY5kuGCKiWJduVXtBWxtJttF.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Thunderbolt: Ação Sobre Rodas (1995)
+#EXTINF:-1 tvg-id="" tvg-name="Thunderbolt: Ação Sobre Rodas (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f87fY5kuGCKiWJduVXtBWxtJttF.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Thunderbolt: Ação Sobre Rodas (1995)
 http://7go.xyz:8080/movie/zogbi11/982451290/196967.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Três Ladrões e um Bebê (2006)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fcpjgDRIgYQTvJE9UPo0WmNKqbz.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Três Ladrões e um Bebê (2006)
+#EXTINF:-1 tvg-id="" tvg-name="Três Ladrões e um Bebê (2006)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fcpjgDRIgYQTvJE9UPo0WmNKqbz.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Três Ladrões e um Bebê (2006)
 http://7go.xyz:8080/movie/zogbi11/982451290/196968.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Volta ao Mundo em 80 Dias: Uma Aposta Muito Louca (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xcy62czpO413jOCrBnwa5AF1Wrd.jpg" group-title="FILMES | COLETÂNEA JACKIE CHAN",Volta ao Mundo em 80 Dias: Uma Aposta Muito Louca (2004)
+#EXTINF:-1 tvg-id="" tvg-name="Volta ao Mundo em 80 Dias: Uma Aposta Muito Louca (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xcy62czpO413jOCrBnwa5AF1Wrd.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Volta ao Mundo em 80 Dias: Uma Aposta Muito Louca (2004)
 http://7go.xyz:8080/movie/zogbi11/982451290/196969.mp4
 
 #EXTM3U url-tvg="http://grade-de-FILMES | COLETANEA O GRANDE MESTRE.xml"
@@ -5617,249 +5688,246 @@ http://7go.xyz:8080/movie/zogbi11/982451290/221505.mp4
 ############## FILMES | COLETANEA JET-LI ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETANEA JET-LI" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Mestre Chinês (2011)" tvg-logo="http://7online.xyz:8080/images/7d08bc60e8cc1b43b1f295f5838c559e.jpg" group-title="FILMES | COLETÂNEA JET-LI",A Lenda do Mestre Chinês (2011)
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Mestre Chinês (2011)" tvg-logo="http://7online.xyz:8080/images/7d08bc60e8cc1b43b1f295f5838c559e.jpg" group-title="FILMES | COLETANEA JET-LI",A Lenda do Mestre Chinês (2011)
 http://7go.xyz:8080/movie/zogbi11/982451290/197136.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Máscara da Morte (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ufMl2fYWCXX1O0y9t99OA0h1uwT.jpg" group-title="FILMES | COLETÂNEA JET-LI",Máscara da Morte (1995)
+#EXTINF:-1 tvg-id="" tvg-name="Máscara da Morte (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ufMl2fYWCXX1O0y9t99OA0h1uwT.jpg" group-title="FILMES | COLETANEA JET-LI",Máscara da Morte (1995)
 http://7go.xyz:8080/movie/zogbi11/982451290/197137.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Luta do Dragão (1989)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/33SgNPNjPhdz6AirT25CtVNxS2A.jpg" group-title="FILMES | COLETÂNEA JET-LI",A Luta do Dragão (1989)
+#EXTINF:-1 tvg-id="" tvg-name="A Luta do Dragão (1989)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/33SgNPNjPhdz6AirT25CtVNxS2A.jpg" group-title="FILMES | COLETANEA JET-LI",A Luta do Dragão (1989)
 http://7go.xyz:8080/movie/zogbi11/982451290/197138.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Múmia - Tumba do Imperador Dragão (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lHv4SqGuQ6K9Z0H6E5fkU7yZlxD.jpg" group-title="FILMES | COLETÂNEA JET-LI",A Múmia - Tumba do Imperador Dragão (2008)
+#EXTINF:-1 tvg-id="" tvg-name="A Múmia - Tumba do Imperador Dragão (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lHv4SqGuQ6K9Z0H6E5fkU7yZlxD.jpg" group-title="FILMES | COLETANEA JET-LI",A Múmia - Tumba do Imperador Dragão (2008)
 http://7go.xyz:8080/movie/zogbi11/982451290/197139.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Saga de um Herói (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qvum9aD5iR2ToYZQ6CGjxjCAitP.jpg" group-title="FILMES | COLETÂNEA JET-LI",A Saga de um Herói (1993)
+#EXTINF:-1 tvg-id="" tvg-name="A Saga de um Herói (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qvum9aD5iR2ToYZQ6CGjxjCAitP.jpg" group-title="FILMES | COLETANEA JET-LI",A Saga de um Herói (1993)
 http://7go.xyz:8080/movie/zogbi11/982451290/197140.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Última Luta (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pXwc74SrunfnWu78TcjmKKh03M8.jpg" group-title="FILMES | COLETÂNEA JET-LI",A Última Luta (1993)
+#EXTINF:-1 tvg-id="" tvg-name="A Última Luta (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pXwc74SrunfnWu78TcjmKKh03M8.jpg" group-title="FILMES | COLETANEA JET-LI",A Última Luta (1993)
 http://7go.xyz:8080/movie/zogbi11/982451290/197141.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batalha de Honra (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tIC9FGD5L7tAb2JHesVFLySTN7G.jpg" group-title="FILMES | COLETÂNEA JET-LI",Batalha de Honra (1993)
+#EXTINF:-1 tvg-id="" tvg-name="Batalha de Honra (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tIC9FGD5L7tAb2JHesVFLySTN7G.jpg" group-title="FILMES | COLETANEA JET-LI",Batalha de Honra (1993)
 http://7go.xyz:8080/movie/zogbi11/982451290/197142.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Contra o Tempo (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mpiRkNiEijphzmDkS8bR9BMVku8.jpg" group-title="FILMES | COLETÂNEA JET-LI",Contra o Tempo (2003)
+#EXTINF:-1 tvg-id="" tvg-name="Contra o Tempo (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mpiRkNiEijphzmDkS8bR9BMVku8.jpg" group-title="FILMES | COLETANEA JET-LI",Contra o Tempo (2003)
 http://7go.xyz:8080/movie/zogbi11/982451290/197144.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cão de Briga (2005)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2LCejE5Hkg5g5KvhnT8hBYJwZ8G.jpg" group-title="FILMES | COLETÂNEA JET-LI",Cão de Briga (2005)
+#EXTINF:-1 tvg-id="" tvg-name="Cão de Briga (2005)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2LCejE5Hkg5g5KvhnT8hBYJwZ8G.jpg" group-title="FILMES | COLETANEA JET-LI",Cão de Briga (2005)
 http://7go.xyz:8080/movie/zogbi11/982451290/197145.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dupla em Fúria (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5VbkE3ZICUP2WepwOoLhq8u7sTp.jpg" group-title="FILMES | COLETÂNEA JET-LI",Dupla em Fúria (2013)
+#EXTINF:-1 tvg-id="" tvg-name="Dupla em Fúria (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5VbkE3ZICUP2WepwOoLhq8u7sTp.jpg" group-title="FILMES | COLETANEA JET-LI",Dupla em Fúria (2013)
 http://7go.xyz:8080/movie/zogbi11/982451290/197146.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Em Busca da Escritura Sagrada (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dg3ZSPkzumoj1dR4PxNsvZKsrSG.jpg" group-title="FILMES | COLETÂNEA JET-LI",Em Busca da Escritura Sagrada (1996)
+#EXTINF:-1 tvg-id="" tvg-name="Em Busca da Escritura Sagrada (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dg3ZSPkzumoj1dR4PxNsvZKsrSG.jpg" group-title="FILMES | COLETANEA JET-LI",Em Busca da Escritura Sagrada (1996)
 http://7go.xyz:8080/movie/zogbi11/982451290/197147.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Em Nome da Honra (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hnGWLacr32mpYO90tiLgOcpdtVN.jpg" group-title="FILMES | COLETÂNEA JET-LI",Em Nome da Honra (1994)
+#EXTINF:-1 tvg-id="" tvg-name="Em Nome da Honra (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hnGWLacr32mpYO90tiLgOcpdtVN.jpg" group-title="FILMES | COLETANEA JET-LI",Em Nome da Honra (1994)
 http://7go.xyz:8080/movie/zogbi11/982451290/197148.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez na China 2 (1992)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xuRCcjCnHbB7pABUqHQqGPj7qKr.jpg" group-title="FILMES | COLETÂNEA JET-LI",Era Uma Vez na China 2 (1992)
+#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez na China 2 (1992)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xuRCcjCnHbB7pABUqHQqGPj7qKr.jpg" group-title="FILMES | COLETANEA JET-LI",Era Uma Vez na China 2 (1992)
 http://7go.xyz:8080/movie/zogbi11/982451290/197149.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez na China (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gBrsCTmOBggTzJkTfBMfx1z8Z6T.jpg" group-title="FILMES | COLETÂNEA JET-LI",Era Uma Vez na China (1991)
+#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez na China (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gBrsCTmOBggTzJkTfBMfx1z8Z6T.jpg" group-title="FILMES | COLETANEA JET-LI",Era Uma Vez na China (1991)
 http://7go.xyz:8080/movie/zogbi11/982451290/197150.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez na China 3 (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8VWlK4vjY0d8kXB1b4BwtwiWRO3.jpg" group-title="FILMES | COLETÂNEA JET-LI",Era Uma Vez na China 3 (1993)
+#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez na China 3 (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8VWlK4vjY0d8kXB1b4BwtwiWRO3.jpg" group-title="FILMES | COLETANEA JET-LI",Era Uma Vez na China 3 (1993)
 http://7go.xyz:8080/movie/zogbi11/982451290/197151.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Garras de Aço (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pOzmio021Hvew8ogz7Se7y3qAlv.jpg" group-title="FILMES | COLETÂNEA JET-LI",Garras de Aço (1993)
+#EXTINF:-1 tvg-id="" tvg-name="Garras de Aço (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pOzmio021Hvew8ogz7Se7y3qAlv.jpg" group-title="FILMES | COLETANEA JET-LI",Garras de Aço (1993)
 http://7go.xyz:8080/movie/zogbi11/982451290/197153.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Herói (2002)" tvg-logo="https://media.fstatic.com/MsLOmDrxfF2nB1WVDCAAi8G33ig=/290x478/smart/media/movies/covers/2009/03/heroi.jpg" group-title="FILMES | COLETÂNEA JET-LI",Herói (2002)
+#EXTINF:-1 tvg-id="" tvg-name="Herói (2002)" tvg-logo="https://media.fstatic.com/MsLOmDrxfF2nB1WVDCAAi8G33ig=/290x478/smart/media/movies/covers/2009/03/heroi.jpg" group-title="FILMES | COLETANEA JET-LI",Herói (2002)
 http://7go.xyz:8080/movie/zogbi11/982451290/197154.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hitman, O Rei dos Assassinos (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gOXno6cjXYcav9LmvwpbIMedXrO.jpg" group-title="FILMES | COLETÂNEA JET-LI",Hitman, O Rei dos Assassinos (1998)
+#EXTINF:-1 tvg-id="" tvg-name="Hitman, O Rei dos Assassinos (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gOXno6cjXYcav9LmvwpbIMedXrO.jpg" group-title="FILMES | COLETANEA JET-LI",Hitman, O Rei dos Assassinos (1998)
 http://7go.xyz:8080/movie/zogbi11/982451290/197155.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lutar ou Morrer (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qH4MIMNOS2lTf4eyQ7XNKaKn1UH.jpg" group-title="FILMES | COLETÂNEA JET-LI",Lutar ou Morrer (1994)
+#EXTINF:-1 tvg-id="" tvg-name="Lutar ou Morrer (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qH4MIMNOS2lTf4eyQ7XNKaKn1UH.jpg" group-title="FILMES | COLETANEA JET-LI",Lutar ou Morrer (1994)
 http://7go.xyz:8080/movie/zogbi11/982451290/197156.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Máscara Negra (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/53tgL9U4WAaln5fAsJN1eMSZvk7.jpg" group-title="FILMES | COLETÂNEA JET-LI",Máscara Negra (1996)
+#EXTINF:-1 tvg-id="" tvg-name="Máscara Negra (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/53tgL9U4WAaln5fAsJN1eMSZvk7.jpg" group-title="FILMES | COLETANEA JET-LI",Máscara Negra (1996)
 http://7go.xyz:8080/movie/zogbi11/982451290/197157.mkv
-#EXTINF:-1 tvg-id="" tvg-name="O Beijo do Dragão (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hpGBqX4SG7xNJx4wqLv075KQoQl.jpg" group-title="FILMES | COLETÂNEA JET-LI",O Beijo do Dragão (2001)
+#EXTINF:-1 tvg-id="" tvg-name="O Beijo do Dragão (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hpGBqX4SG7xNJx4wqLv075KQoQl.jpg" group-title="FILMES | COLETANEA JET-LI",O Beijo do Dragão (2001)
 http://7go.xyz:8080/movie/zogbi11/982451290/197158.mkv
-#EXTINF:-1 tvg-id="" tvg-name="O Confronto (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/74K8HmqhYv9RE97Buqt8N1NDvo3.jpg" group-title="FILMES | COLETÂNEA JET-LI",O Confronto (2001)
+#EXTINF:-1 tvg-id="" tvg-name="O Confronto (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/74K8HmqhYv9RE97Buqt8N1NDvo3.jpg" group-title="FILMES | COLETANEA JET-LI",O Confronto (2001)
 http://7go.xyz:8080/movie/zogbi11/982451290/197159.mkv
-#EXTINF:-1 tvg-id="" tvg-name="O Guarda-Costas em Ação (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eJOtGPybhBaMQyaJe0CGmkYBM28.jpg" group-title="FILMES | COLETÂNEA JET-LI",O Guarda-Costas em Ação (1994)
+#EXTINF:-1 tvg-id="" tvg-name="O Guarda-Costas em Ação (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eJOtGPybhBaMQyaJe0CGmkYBM28.jpg" group-title="FILMES | COLETANEA JET-LI",O Guarda-Costas em Ação (1994)
 http://7go.xyz:8080/movie/zogbi11/982451290/197160.mkv
-#EXTINF:-1 tvg-id="" tvg-name="O Justiceiro (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hpWQJEXyksQNLEeKodphLjnyn4N.jpg" group-title="FILMES | COLETÂNEA JET-LI",O Justiceiro (1995)
+#EXTINF:-1 tvg-id="" tvg-name="O Justiceiro (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hpWQJEXyksQNLEeKodphLjnyn4N.jpg" group-title="FILMES | COLETANEA JET-LI",O Justiceiro (1995)
 http://7go.xyz:8080/movie/zogbi11/982451290/197161.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Justiceiro - Dragon Kid (1995)" tvg-logo="https://media.fstatic.com/IpyavQG5teNJyHfCSyLVr-Kee80=/290x478/smart/media/movies/covers/2013/01/3995b182b5fb17838f6a0b1565033a60.jpg" group-title="FILMES | COLETÂNEA JET-LI",O Justiceiro - Dragon Kid (1995)
+#EXTINF:-1 tvg-id="" tvg-name="O Justiceiro - Dragon Kid (1995)" tvg-logo="https://media.fstatic.com/IpyavQG5teNJyHfCSyLVr-Kee80=/290x478/smart/media/movies/covers/2013/01/3995b182b5fb17838f6a0b1565033a60.jpg" group-title="FILMES | COLETANEA JET-LI",O Justiceiro - Dragon Kid (1995)
 http://7go.xyz:8080/movie/zogbi11/982451290/197162.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mestre (1992)" tvg-logo="https://media.fstatic.com/LJt4rSLRWSrXqDzYM3oiAmkpARY=/290x478/smart/media/movies/covers/2010/05/e665e12ae28884e6a7e27d617a862bd5.jpg" group-title="FILMES | COLETÂNEA JET-LI",O Mestre (1992)
+#EXTINF:-1 tvg-id="" tvg-name="O Mestre (1992)" tvg-logo="https://media.fstatic.com/LJt4rSLRWSrXqDzYM3oiAmkpARY=/290x478/smart/media/movies/covers/2010/05/e665e12ae28884e6a7e27d617a862bd5.jpg" group-title="FILMES | COLETANEA JET-LI",O Mestre (1992)
 http://7go.xyz:8080/movie/zogbi11/982451290/197163.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Retorno do Dragão - A Cidade Perdida (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vx1jjr71GgxsrdfBxio02nKx4q3.jpg" group-title="FILMES | COLETÂNEA JET-LI",O Retorno do Dragão - A Cidade Perdida (2011)
+#EXTINF:-1 tvg-id="" tvg-name="O Retorno do Dragão - A Cidade Perdida (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vx1jjr71GgxsrdfBxio02nKx4q3.jpg" group-title="FILMES | COLETANEA JET-LI",O Retorno do Dragão - A Cidade Perdida (2011)
 http://7go.xyz:8080/movie/zogbi11/982451290/197165.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Senhores da Guerra (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n4otfooydG9Pbyl52TYyHF1GeuV.jpg" group-title="FILMES | COLETÂNEA JET-LI",Os Senhores da Guerra (2007)
+#EXTINF:-1 tvg-id="" tvg-name="Os Senhores da Guerra (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n4otfooydG9Pbyl52TYyHF1GeuV.jpg" group-title="FILMES | COLETANEA JET-LI",Os Senhores da Guerra (2007)
 http://7go.xyz:8080/movie/zogbi11/982451290/197166.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Templo de Shaolin 2: As Crianças de Shaolin (1984)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ccArk8x6Cv1d6wboIkqUPxudc1A.jpg" group-title="FILMES | COLETÂNEA JET-LI",O Templo de Shaolin 2: As Crianças de Shaolin (1984)
+#EXTINF:-1 tvg-id="" tvg-name="O Templo de Shaolin 2: As Crianças de Shaolin (1984)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ccArk8x6Cv1d6wboIkqUPxudc1A.jpg" group-title="FILMES | COLETANEA JET-LI",O Templo de Shaolin 2: As Crianças de Shaolin (1984)
 http://7go.xyz:8080/movie/zogbi11/982451290/197167.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Templo de Shaolin 3: As Artes Marciais de Shaolin (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5Pr671n2kWZwBIDqVedZKqFDbDn.jpg" group-title="FILMES | COLETÂNEA JET-LI",O Templo de Shaolin 3: As Artes Marciais de Shaolin (1986)
+#EXTINF:-1 tvg-id="" tvg-name="O Templo de Shaolin 3: As Artes Marciais de Shaolin (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5Pr671n2kWZwBIDqVedZKqFDbDn.jpg" group-title="FILMES | COLETANEA JET-LI",O Templo de Shaolin 3: As Artes Marciais de Shaolin (1986)
 http://7go.xyz:8080/movie/zogbi11/982451290/197168.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nascido para Vencer (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cXWSVoL3WrzRhjN5AfWY9kXMBWG.jpg" group-title="FILMES | COLETÂNEA JET-LI",Nascido para Vencer (1986)
+#EXTINF:-1 tvg-id="" tvg-name="Nascido para Vencer (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cXWSVoL3WrzRhjN5AfWY9kXMBWG.jpg" group-title="FILMES | COLETANEA JET-LI",Nascido para Vencer (1986)
 http://7go.xyz:8080/movie/zogbi11/982451290/197169.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rogue - O Assassino (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/68Bu8QIYcpv3XZZkrUoqQFfwfHx.jpg" group-title="FILMES | COLETÂNEA JET-LI",Rogue - O Assassino (2007)
+#EXTINF:-1 tvg-id="" tvg-name="Rogue - O Assassino (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/68Bu8QIYcpv3XZZkrUoqQFfwfHx.jpg" group-title="FILMES | COLETANEA JET-LI",Rogue - O Assassino (2007)
 http://7go.xyz:8080/movie/zogbi11/982451290/197170.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Romeu Tem Que Morrer (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wwCuBA58NukJIqx81sD785RGh0i.jpg" group-title="FILMES | COLETÂNEA JET-LI",Romeu Tem Que Morrer (2000)
+#EXTINF:-1 tvg-id="" tvg-name="Romeu Tem Que Morrer (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wwCuBA58NukJIqx81sD785RGh0i.jpg" group-title="FILMES | COLETANEA JET-LI",Romeu Tem Que Morrer (2000)
 http://7go.xyz:8080/movie/zogbi11/982451290/197171.mkv
 
 #EXTM3U url-tvg="http://grade-de-FILMES | COLETANEA BRUCE LEE.xml"
 ############## FILMES | COLETANEA BRUCE LEE ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETANEA BRUCE LEE" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Dragão: A História de Bruce Lee  (1993)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/khIy7lbWogcYbSI1oeFOV37D1AB.jpg" group-title="FILMES | COLETÂNEA BRUCE LEE",Dragão: A História de Bruce Lee  (1993)*
+#EXTINF:-1 tvg-id="" tvg-name="Dragão: A História de Bruce Lee  (1993)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/khIy7lbWogcYbSI1oeFOV37D1AB.jpg" group-title="FILMES | COLETANEA BRUCE LEE",Dragão: A História de Bruce Lee  (1993)*
 http://7go.xyz:8080/movie/zogbi11/982451290/295426.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Fúria do Dragão (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dlcipCOa9hlfBBz7kCAyjsf3q0E.jpg" group-title="FILMES | COLETÂNEA BRUCE LEE",Bruce Lee: A Fúria do Dragão (1972)
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Fúria do Dragão (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dlcipCOa9hlfBBz7kCAyjsf3q0E.jpg" group-title="FILMES | COLETANEA BRUCE LEE",Bruce Lee: A Fúria do Dragão (1972)
 http://7go.xyz:8080/movie/zogbi11/982451290/50952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Maldição do Dragão (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hNBIJdHOtvlkaUBYki95UfcCYDL.jpg" group-title="FILMES | COLETÂNEA BRUCE LEE",Bruce Lee: A Maldição do Dragão (1993)
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Maldição do Dragão (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hNBIJdHOtvlkaUBYki95UfcCYDL.jpg" group-title="FILMES | COLETANEA BRUCE LEE",Bruce Lee: A Maldição do Dragão (1993)
 http://7go.xyz:8080/movie/zogbi11/982451290/51104.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Origem do Dragão (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/89PrfqYkqafUrSK8YhWqyMt4E3M.jpg" group-title="FILMES | COLETÂNEA BRUCE LEE",Bruce Lee: A Origem do Dragão (2017)
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Origem do Dragão (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/89PrfqYkqafUrSK8YhWqyMt4E3M.jpg" group-title="FILMES | COLETANEA BRUCE LEE",Bruce Lee: A Origem do Dragão (2017)
 http://7go.xyz:8080/movie/zogbi11/982451290/51101.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Lenda (1984)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fdD3whXbdfHjlcDNt2oEy6jsxjD.jpg" group-title="FILMES | COLETÂNEA BRUCE LEE",Bruce Lee: A Lenda (1984)
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Lenda (1984)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fdD3whXbdfHjlcDNt2oEy6jsxjD.jpg" group-title="FILMES | COLETANEA BRUCE LEE",Bruce Lee: A Lenda (1984)
 http://7go.xyz:8080/movie/zogbi11/982451290/51103.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Jornada de um Guerreiro (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yvm10wHnOQaGl9a4X9KnDHaoJ8W.jpg" group-title="FILMES | COLETÂNEA BRUCE LEE",Bruce Lee: A Jornada de um Guerreiro (2000)
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Jornada de um Guerreiro (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yvm10wHnOQaGl9a4X9KnDHaoJ8W.jpg" group-title="FILMES | COLETANEA BRUCE LEE",Bruce Lee: A Jornada de um Guerreiro (2000)
 http://7go.xyz:8080/movie/zogbi11/982451290/51102.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Fúria do Dragão (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dlcipCOa9hlfBBz7kCAyjsf3q0E.jpg" group-title="FILMES | COLETÂNEA BRUCE LEE",Bruce Lee: A Fúria do Dragão (1972)
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Fúria do Dragão (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dlcipCOa9hlfBBz7kCAyjsf3q0E.jpg" group-title="FILMES | COLETANEA BRUCE LEE",Bruce Lee: A Fúria do Dragão (1972)
 http://7go.xyz:8080/movie/zogbi11/982451290/50952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Maldição do Dragão (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hNBIJdHOtvlkaUBYki95UfcCYDL.jpg" group-title="FILMES | COLETÂNEA BRUCE LEE",Bruce Lee: A Maldição do Dragão (1993)
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Maldição do Dragão (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hNBIJdHOtvlkaUBYki95UfcCYDL.jpg" group-title="FILMES | COLETANEA BRUCE LEE",Bruce Lee: A Maldição do Dragão (1993)
 http://7go.xyz:8080/movie/zogbi11/982451290/51104.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Origem do Dragão (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/89PrfqYkqafUrSK8YhWqyMt4E3M.jpg" group-title="FILMES | COLETÂNEA BRUCE LEE",Bruce Lee: A Origem do Dragão (2017)
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Origem do Dragão (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/89PrfqYkqafUrSK8YhWqyMt4E3M.jpg" group-title="FILMES | COLETANEA BRUCE LEE",Bruce Lee: A Origem do Dragão (2017)
 http://7go.xyz:8080/movie/zogbi11/982451290/51101.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Fúria do Dragão (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dlcipCOa9hlfBBz7kCAyjsf3q0E.jpg" group-title="FILMES | COLETÂNEA BRUCE LEE",Bruce Lee: A Fúria do Dragão (1972)
+#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Fúria do Dragão (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dlcipCOa9hlfBBz7kCAyjsf3q0E.jpg" group-title="FILMES | COLETANEA BRUCE LEE",Bruce Lee: A Fúria do Dragão (1972)
 http://7go.xyz:8080/movie/zogbi11/982451290/50952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Eu Sou Bruce Lee (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bvHjKTLFIHOHzl0arxzu2fYtLfR.jpg" group-title="FILMES | COLETÂNEA BRUCE LEE",Eu Sou Bruce Lee (2012)
+#EXTINF:-1 tvg-id="" tvg-name="Eu Sou Bruce Lee (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bvHjKTLFIHOHzl0arxzu2fYtLfR.jpg" group-title="FILMES | COLETANEA BRUCE LEE",Eu Sou Bruce Lee (2012)
 http://7go.xyz:8080/movie/zogbi11/982451290/51105.mkv
 
 #EXTM3U url-tvg="http://grade-de-FILMES | COLETANEA VAN DAMME.xml"
 ############## FILMES | COLETANEA VAN DAMME ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETANEA VAN DAMME" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Contato Mortal  (1988)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cHOyNRHS89GP8XVpRRuahE3tYIt.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Contato Mortal  (1988)*
+#EXTINF:-1 tvg-id="" tvg-name="Contato Mortal  (1988)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cHOyNRHS89GP8XVpRRuahE3tYIt.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Contato Mortal  (1988)*
 http://7go.xyz:8080/movie/zogbi11/982451290/295425.mp4
-#EXTINF:-1 tvg-id="" tvg-name="6 Balas (2012)" tvg-logo="http://7online.xyz:8080/images/588200be136080f7993169fae690aad7.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",6 Balas (2012)
+#EXTINF:-1 tvg-id="" tvg-name="6 Balas (2012)" tvg-logo="http://7online.xyz:8080/images/588200be136080f7993169fae690aad7.jpg" group-title=" FILMES | COLETANEA VAN DAMME",6 Balas (2012)
 http://7go.xyz:8080/movie/zogbi11/982451290/196970.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Colônia (1997)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3iJo11qHvGKInhoB5Ur1PbJeT6h.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",A Colônia (1997)
+#EXTINF:-1 tvg-id="" tvg-name="A Colônia (1997)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3iJo11qHvGKInhoB5Ur1PbJeT6h.jpg" group-title=" FILMES | COLETANEA VAN DAMME",A Colônia (1997)
 http://7go.xyz:8080/movie/zogbi11/982451290/196971.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aliança Mortal (2013)" tvg-logo="http://7online.xyz:8080/images/8c0cf599e259e104e9d21512cde5bc65.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Aliança Mortal (2013)
+#EXTINF:-1 tvg-id="" tvg-name="Aliança Mortal (2013)" tvg-logo="http://7online.xyz:8080/images/8c0cf599e259e104e9d21512cde5bc65.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Aliança Mortal (2013)
 http://7go.xyz:8080/movie/zogbi11/982451290/196972.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bem Vindo à Selva (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5fJYDJDv3xVs6VbjHHoARjVJf0o.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Bem Vindo à Selva (2013)
+#EXTINF:-1 tvg-id="" tvg-name="Bem Vindo à Selva (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5fJYDJDv3xVs6VbjHHoARjVJf0o.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Bem Vindo à Selva (2013)
 http://7go.xyz:8080/movie/zogbi11/982451290/196973.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Desafio Mortal (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iKYvaAj73SVuxDvhuDVqF9FUvVW.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Desafio Mortal (1996)
+#EXTINF:-1 tvg-id="" tvg-name="Desafio Mortal (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iKYvaAj73SVuxDvhuDVqF9FUvVW.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Desafio Mortal (1996)
 http://7go.xyz:8080/movie/zogbi11/982451290/196974.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Duplo Impacto (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yJeT2pmnuktgJdMZRbQTlphpXfk.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Duplo Impacto (1991)
+#EXTINF:-1 tvg-id="" tvg-name="Duplo Impacto (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yJeT2pmnuktgJdMZRbQTlphpXfk.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Duplo Impacto (1991)
 http://7go.xyz:8080/movie/zogbi11/982451290/196975.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Garantia de Morte (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n4VV2lPHXbRgeTsfn0MEfZlKeNi.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Garantia de Morte (1990)
+#EXTINF:-1 tvg-id="" tvg-name="Garantia de Morte (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n4VV2lPHXbRgeTsfn0MEfZlKeNi.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Garantia de Morte (1990)
 http://7go.xyz:8080/movie/zogbi11/982451290/196976.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hell - A Ira Está Solta (2003)" tvg-logo="https://br.web.img3.acsta.net/pictures/210/497/21049768_20131015171558401.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Hell - A Ira Está Solta (2003)
+#EXTINF:-1 tvg-id="" tvg-name="Hell - A Ira Está Solta (2003)" tvg-logo="https://br.web.img3.acsta.net/pictures/210/497/21049768_20131015171558401.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Hell - A Ira Está Solta (2003)
 http://7go.xyz:8080/movie/zogbi11/982451290/196977.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Inferno (1999)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oE5jvjeav3h9PH0yrCdWgUTxiaN.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Inferno (1999)
+#EXTINF:-1 tvg-id="" tvg-name="Inferno (1999)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oE5jvjeav3h9PH0yrCdWgUTxiaN.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Inferno (1999)
 http://7go.xyz:8080/movie/zogbi11/982451290/196978.mp4
-#EXTINF:-1 tvg-id="" tvg-name="JCVD: A Maior Luta de Sua Vida (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/g65MZXhaDrLVPo0uwxhgG6R0so6.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",JCVD: A Maior Luta de Sua Vida (2008)
+#EXTINF:-1 tvg-id="" tvg-name="JCVD: A Maior Luta de Sua Vida (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/g65MZXhaDrLVPo0uwxhgG6R0so6.jpg" group-title=" FILMES | COLETANEA VAN DAMME",JCVD: A Maior Luta de Sua Vida (2008)
 http://7go.xyz:8080/movie/zogbi11/982451290/196979.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jogos Letais (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vL6kabte9SJvJz6Q7vktDPBZRm0.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Jogos Letais (2011)
+#EXTINF:-1 tvg-id="" tvg-name="Jogos Letais (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vL6kabte9SJvJz6Q7vktDPBZRm0.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Jogos Letais (2011)
 http://7go.xyz:8080/movie/zogbi11/982451290/196980.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jogo Sujo (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3DJ8KOT2t8y8FiLn3hrMyPT9MyS.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Jogo Sujo (2014)
+#EXTINF:-1 tvg-id="" tvg-name="Jogo Sujo (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3DJ8KOT2t8y8FiLn3hrMyPT9MyS.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Jogo Sujo (2014)
 http://7go.xyz:8080/movie/zogbi11/982451290/196981.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kickboxer: A Retaliação (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yUteP76nVPVqtbxPzW5qDsNoJOI.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Kickboxer: A Retaliação (2018)
+#EXTINF:-1 tvg-id="" tvg-name="Kickboxer: A Retaliação (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yUteP76nVPVqtbxPzW5qDsNoJOI.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Kickboxer: A Retaliação (2018)
 http://7go.xyz:8080/movie/zogbi11/982451290/196982.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kickboxer: A Vingança do Dragão (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gV816EXzpzpcWYW4cplZoSC4yyp.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Kickboxer: A Vingança do Dragão (2016)
+#EXTINF:-1 tvg-id="" tvg-name="Kickboxer: A Vingança do Dragão (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gV816EXzpzpcWYW4cplZoSC4yyp.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Kickboxer: A Vingança do Dragão (2016)
 http://7go.xyz:8080/movie/zogbi11/982451290/196983.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kickboxer: O Desafio do Dragão (1989)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e50XYhyoaJpJUNn18Fs4FsZgtfx.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Kickboxer: O Desafio do Dragão (1989)
+#EXTINF:-1 tvg-id="" tvg-name="Kickboxer: O Desafio do Dragão (1989)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e50XYhyoaJpJUNn18Fs4FsZgtfx.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Kickboxer: O Desafio do Dragão (1989)
 http://7go.xyz:8080/movie/zogbi11/982451290/196984.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Legionário (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4U03VR1zD6KytEuvcRC7FT7ruBF.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Legionário (1998)
+#EXTINF:-1 tvg-id="" tvg-name="Legionário (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4U03VR1zD6KytEuvcRC7FT7ruBF.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Legionário (1998)
 http://7go.xyz:8080/movie/zogbi11/982451290/196985.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Leão Branco: O Lutador Sem Lei (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6wCr3ffW7YNkFHKESGZVwTjgc8h.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Leão Branco: O Lutador Sem Lei (1990)
+#EXTINF:-1 tvg-id="" tvg-name="Leão Branco: O Lutador Sem Lei (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6wCr3ffW7YNkFHKESGZVwTjgc8h.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Leão Branco: O Lutador Sem Lei (1990)
 http://7go.xyz:8080/movie/zogbi11/982451290/196986.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lukas (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z2Ujt0FwMwHhAo7QJC0u1HG1m1h.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Lukas (2018)
+#EXTINF:-1 tvg-id="" tvg-name="Lukas (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z2Ujt0FwMwHhAo7QJC0u1HG1m1h.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Lukas (2018)
 http://7go.xyz:8080/movie/zogbi11/982451290/196987.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Alvo (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/98xtnc5kvvcm39VjPGQuRLOBCyQ.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",O Alvo (1993)
+#EXTINF:-1 tvg-id="" tvg-name="O Alvo (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/98xtnc5kvvcm39VjPGQuRLOBCyQ.jpg" group-title=" FILMES | COLETANEA VAN DAMME",O Alvo (1993)
 http://7go.xyz:8080/movie/zogbi11/982451290/196988.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Grande Dragão Branco 2 (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8z9EIJ7PS94mkkaHYg7DAkpGuic.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",O Grande Dragão Branco 2 (1996)
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Dragão Branco 2 (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8z9EIJ7PS94mkkaHYg7DAkpGuic.jpg" group-title=" FILMES | COLETANEA VAN DAMME",O Grande Dragão Branco 2 (1996)
 http://7go.xyz:8080/movie/zogbi11/982451290/196989.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Olhos de Dragão (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iOU8xDtY4dcuPnvsefWcuiPoTNn.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Olhos de Dragão (2012)
+#EXTINF:-1 tvg-id="" tvg-name="Olhos de Dragão (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iOU8xDtY4dcuPnvsefWcuiPoTNn.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Olhos de Dragão (2012)
 http://7go.xyz:8080/movie/zogbi11/982451290/196990.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Osso Duro (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lb5NWDhW3dhw5AAK4djY2id7To9.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Osso Duro (2015)
+#EXTINF:-1 tvg-id="" tvg-name="Osso Duro (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lb5NWDhW3dhw5AAK4djY2id7To9.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Osso Duro (2015)
 http://7go.xyz:8080/movie/zogbi11/982451290/196991.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Vingador da Iugoslávia (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k6UePQE4PStlu6TkcV1HCX1Rd4F.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",O Vingador da Iugoslávia (2017)
+#EXTINF:-1 tvg-id="" tvg-name="O Vingador da Iugoslávia (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k6UePQE4PStlu6TkcV1HCX1Rd4F.jpg" group-title=" FILMES | COLETANEA VAN DAMME",O Vingador da Iugoslávia (2017)
 http://7go.xyz:8080/movie/zogbi11/982451290/196992.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Replicante (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3oVs2AC7OH2gKeLZdWJr0VK6g4C.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Replicante (2001)
+#EXTINF:-1 tvg-id="" tvg-name="Replicante (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3oVs2AC7OH2gKeLZdWJr0VK6g4C.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Replicante (2001)
 http://7go.xyz:8080/movie/zogbi11/982451290/196993.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Retroceder Nunca, Render-se Jamais (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7KB0U5KGINqPuE5nmJ6T8YkWh34.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Retroceder Nunca, Render-se Jamais (1986)
+#EXTINF:-1 tvg-id="" tvg-name="Retroceder Nunca, Render-se Jamais (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7KB0U5KGINqPuE5nmJ6T8YkWh34.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Retroceder Nunca, Render-se Jamais (1986)
 http://7go.xyz:8080/movie/zogbi11/982451290/196994.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Risco Máximo (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zZo72jTKFoeUk41S0OgbD2iuk8H.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Risco Máximo (1996)
+#EXTINF:-1 tvg-id="" tvg-name="Risco Máximo (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zZo72jTKFoeUk41S0OgbD2iuk8H.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Risco Máximo (1996)
 http://7go.xyz:8080/movie/zogbi11/982451290/196995.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Segundo em Comando (2006)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yfClcix0iwBaAsm4QRPbmmFAcYk.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Segundo em Comando (2006)
+#EXTINF:-1 tvg-id="" tvg-name="Segundo em Comando (2006)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yfClcix0iwBaAsm4QRPbmmFAcYk.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Segundo em Comando (2006)
 http://7go.xyz:8080/movie/zogbi11/982451290/196996.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Soldado Universal (1992)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3YvFMseLMzqmbFaFjo0Bt1W8j6B.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Soldado Universal (1992)
+#EXTINF:-1 tvg-id="" tvg-name="Soldado Universal (1992)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3YvFMseLMzqmbFaFjo0Bt1W8j6B.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Soldado Universal (1992)
 http://7go.xyz:8080/movie/zogbi11/982451290/196997.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Soldado Universal: O Retorno (1999)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9xdqqOJpzvk1rUL7p23N9bKsGTX.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Soldado Universal: O Retorno (1999)
+#EXTINF:-1 tvg-id="" tvg-name="Soldado Universal: O Retorno (1999)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9xdqqOJpzvk1rUL7p23N9bKsGTX.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Soldado Universal: O Retorno (1999)
 http://7go.xyz:8080/movie/zogbi11/982451290/196998.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Soldado Universal 3: Regeneração (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nUk8EAx72Taxb8ttio1ADFKppmF.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Soldado Universal 3: Regeneração (2009)
+#EXTINF:-1 tvg-id="" tvg-name="Soldado Universal 3: Regeneração (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nUk8EAx72Taxb8ttio1ADFKppmF.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Soldado Universal 3: Regeneração (2009)
 http://7go.xyz:8080/movie/zogbi11/982451290/196999.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Soldado Universal 4: Juízo Final (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9Dqozo0zRiQ7pSJYnFKux2Js5qV.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Soldado Universal 4: Juízo Final (2012)
+#EXTINF:-1 tvg-id="" tvg-name="Soldado Universal 4: Juízo Final (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9Dqozo0zRiQ7pSJYnFKux2Js5qV.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Soldado Universal 4: Juízo Final (2012)
 http://7go.xyz:8080/movie/zogbi11/982451290/197000.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Street Fighter: A Última Batalha (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k7DOPUhlGLxRowC4VFY9n0wQTup.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Street Fighter: A Última Batalha (1994)
+#EXTINF:-1 tvg-id="" tvg-name="Street Fighter: A Última Batalha (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k7DOPUhlGLxRowC4VFY9n0wQTup.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Street Fighter: A Última Batalha (1994)
 http://7go.xyz:8080/movie/zogbi11/982451290/197001.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Timecop: O Guardião do Tempo (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9icQABTwqS67xz6GCMaBOzBM1uX.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Timecop: O Guardião do Tempo (1994)
+#EXTINF:-1 tvg-id="" tvg-name="Timecop: O Guardião do Tempo (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9icQABTwqS67xz6GCMaBOzBM1uX.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Timecop: O Guardião do Tempo (1994)
 http://7go.xyz:8080/movie/zogbi11/982451290/197002.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vencer ou Morrer (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vZGCG847nhYqScEsRggyxcCWwI6.jpg" group-title=" FILMES | COLETÂNEA VAN DAMME",Vencer ou Morrer (1993)
+#EXTINF:-1 tvg-id="" tvg-name="Vencer ou Morrer (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vZGCG847nhYqScEsRggyxcCWwI6.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Vencer ou Morrer (1993)
 http://7go.xyz:8080/movie/zogbi11/982451290/197003.mp4
 
 #EXTM3U url-tvg="http://grade-de-FILMES | COLETANEA O SENHOR DOS ANÉIS.xml"
 ############## FILMES | COLETANEA O SENHOR DOS ANÉIS ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETANEA O SENHOR DOS ANÉIS" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis: O Retorno do Rei  (2003)*" tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/92/91/47/20224867.jpg" group-title="FILMES | COLETÂNEA O SENHOR DOS ANÉIS",O Senhor dos Anéis: O Retorno do Rei  (2003)*
+#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis: O Retorno do Rei  (2003)*" tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/92/91/47/20224867.jpg" group-title="FILMES | COLETANEA O SENHOR DOS ANÉIS",O Senhor dos Anéis: O Retorno do Rei  (2003)*
 http://7go.xyz:8080/movie/zogbi11/982451290/293634.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Hobbit 3: A Batalha dos Cinco Exércitos (2014)" tvg-logo="http://7online.xyz:8080/images/9c7fec8ef230b7427582245e66890eda.jpg" group-title="FILMES | COLETÂNEA O SENHOR DOS ANÉIS",O Hobbit 3: A Batalha dos Cinco Exércitos (2014)
+#EXTINF:-1 tvg-id="" tvg-name="O Hobbit 3: A Batalha dos Cinco Exércitos (2014)" tvg-logo="http://7online.xyz:8080/images/9c7fec8ef230b7427582245e66890eda.jpg" group-title="FILMES | COLETANEA O SENHOR DOS ANÉIS",O Hobbit 3: A Batalha dos Cinco Exércitos (2014)
 http://7go.xyz:8080/movie/zogbi11/982451290/196198.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Hobbit 2: A Desolação de Smaug (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/beqHE5BZY5LczMxJezL4FdY7mBp.jpg" group-title="FILMES | COLETÂNEA O SENHOR DOS ANÉIS",O Hobbit 2: A Desolação de Smaug (2013)
+#EXTINF:-1 tvg-id="" tvg-name="O Hobbit 2: A Desolação de Smaug (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/beqHE5BZY5LczMxJezL4FdY7mBp.jpg" group-title="FILMES | COLETANEA O SENHOR DOS ANÉIS",O Hobbit 2: A Desolação de Smaug (2013)
 http://7go.xyz:8080/movie/zogbi11/982451290/196199.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Hobbit 1: Uma Jornada Inesperada (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/asuSvb1MDN04HftUFxlp7i6ZHpV.jpg" group-title="FILMES | COLETÂNEA O SENHOR DOS ANÉIS",O Hobbit 1: Uma Jornada Inesperada (2012)
+#EXTINF:-1 tvg-id="" tvg-name="O Hobbit 1: Uma Jornada Inesperada (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/asuSvb1MDN04HftUFxlp7i6ZHpV.jpg" group-title="FILMES | COLETANEA O SENHOR DOS ANÉIS",O Hobbit 1: Uma Jornada Inesperada (2012)
 http://7go.xyz:8080/movie/zogbi11/982451290/196200.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis (1978)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/liW0mjvTyLs7UCumaHhx3PpU4VT.jpg" group-title="FILMES | COLETÂNEA O SENHOR DOS ANÉIS",O Senhor dos Anéis (1978)
+#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis (1978)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/liW0mjvTyLs7UCumaHhx3PpU4VT.jpg" group-title="FILMES | COLETANEA O SENHOR DOS ANÉIS",O Senhor dos Anéis (1978)
 http://7go.xyz:8080/movie/zogbi11/982451290/196201.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis 2: As Duas Torres (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/20eUL6eN89SM0U7KPDw8iR82mOT.jpg" group-title="FILMES | COLETÂNEA O SENHOR DOS ANÉIS",O Senhor dos Anéis 2: As Duas Torres (2002)
+#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis 2: As Duas Torres (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/20eUL6eN89SM0U7KPDw8iR82mOT.jpg" group-title="FILMES | COLETANEA O SENHOR DOS ANÉIS",O Senhor dos Anéis 2: As Duas Torres (2002)
 http://7go.xyz:8080/movie/zogbi11/982451290/196202.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis 1: A Sociedade do Anel (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2MK3i5CsPuWNwMmgS3ntAcOQhRF.jpg" group-title="FILMES | COLETÂNEA O SENHOR DOS ANÉIS",O Senhor dos Anéis 1: A Sociedade do Anel (2001)
+#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis 1: A Sociedade do Anel (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2MK3i5CsPuWNwMmgS3ntAcOQhRF.jpg" group-title="FILMES | COLETANEA O SENHOR DOS ANÉIS",O Senhor dos Anéis 1: A Sociedade do Anel (2001)
 http://7go.xyz:8080/movie/zogbi11/982451290/196203.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis 3: O Retorno do Rei (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/izPNMzffsgZUvlbiYlPxjFr3TAa.jpg" group-title="FILMES | COLETÂNEA O SENHOR DOS ANÉIS",O Senhor dos Anéis 3: O Retorno do Rei (2003)
+#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis 3: O Retorno do Rei (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/izPNMzffsgZUvlbiYlPxjFr3TAa.jpg" group-title="FILMES | COLETANEA O SENHOR DOS ANÉIS",O Senhor dos Anéis 3: O Retorno do Rei (2003)
 http://7go.xyz:8080/movie/zogbi11/982451290/196204.mp4
 
 #EXTM3U url-tvg="http://grade-de-FILMES | COLETANEA X-MEN.xml"
 ############## FILMES | COLETANEA X-MEN ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETANEA X-MEN" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 1 (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eTAK1gU8vTaHt0W9I6PFYQsdhKP.jpg" group-title="FILMES | COLETÂNEA X-MEN",X-Men 1 (2000)
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 1 (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eTAK1gU8vTaHt0W9I6PFYQsdhKP.jpg" group-title="FILMES | COLETANEA X-MEN",X-Men 1 (2000)
 http://7go.xyz:8080/movie/zogbi11/982451290/50978.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 2 (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tRDvoi7z7B6YdzoRcRQ8LwLA47q.jpg" group-title="FILMES | COLETÂNEA X-MEN",X-Men 2 (2003)
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 2 (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tRDvoi7z7B6YdzoRcRQ8LwLA47q.jpg" group-title="FILMES | COLETANEA X-MEN",X-Men 2 (2003)
 http://7go.xyz:8080/movie/zogbi11/982451290/50980.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 3 (2006)" tvg-logo="http://www.themoviedb.org/t/p/w600_and_h900_bestv2/fqwe4Asmlg1s3ZFN7fP2xVwlYNP.jpg" group-title="FILMES | COLETÂNEA X-MEN",X-Men 3 (2006)
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 3 (2006)" tvg-logo="http://www.themoviedb.org/t/p/w600_and_h900_bestv2/fqwe4Asmlg1s3ZFN7fP2xVwlYNP.jpg" group-title="FILMES | COLETANEA X-MEN",X-Men 3 (2006)
 http://7go.xyz:8080/movie/zogbi11/982451290/50977.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 4 (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qUqx0nGiUGeDRQtCWItG3lpuFjY.jpg" group-title="FILMES | COLETÂNEA X-MEN",X-Men 4 (2009)
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 4 (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qUqx0nGiUGeDRQtCWItG3lpuFjY.jpg" group-title="FILMES | COLETANEA X-MEN",X-Men 4 (2009)
 http://7go.xyz:8080/movie/zogbi11/982451290/50981.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 5 (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AqTCbMhG9X93sly2fvyiu6sHPIS.jpg" group-title="FILMES | COLETÂNEA X-MEN",X-Men 5 (2011)
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 5 (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AqTCbMhG9X93sly2fvyiu6sHPIS.jpg" group-title="FILMES | COLETANEA X-MEN",X-Men 5 (2011)
 http://7go.xyz:8080/movie/zogbi11/982451290/50979.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 6 (2014)" tvg-logo="http://www.themoviedb.org/t/p/w600_and_h900_bestv2/s83Vwn9FtrofNmFiie7SXVKpXa5.jpg" group-title="FILMES | COLETÂNEA X-MEN",X-Men 6 (2014)
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 6 (2014)" tvg-logo="http://www.themoviedb.org/t/p/w600_and_h900_bestv2/s83Vwn9FtrofNmFiie7SXVKpXa5.jpg" group-title="FILMES | COLETANEA X-MEN",X-Men 6 (2014)
 http://7go.xyz:8080/movie/zogbi11/982451290/50975.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 7 (2016)" tvg-logo="http://www.themoviedb.org/t/p/w600_and_h900_bestv2/2mtQwJKVKQrZgTz49Dizb25eOQQ.jpg" group-title="FILMES | COLETÂNEA X-MEN",X-Men 7 (2016)
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 7 (2016)" tvg-logo="http://www.themoviedb.org/t/p/w600_and_h900_bestv2/2mtQwJKVKQrZgTz49Dizb25eOQQ.jpg" group-title="FILMES | COLETANEA X-MEN",X-Men 7 (2016)
 http://7go.xyz:8080/movie/zogbi11/982451290/50974.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 8 (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sKacZh7L9qR5jLpSnxgxung6D4Y.jpg" group-title="FILMES | COLETÂNEA X-MEN",X-Men 8 (2019)
+#EXTINF:-1 tvg-id="" tvg-name="X-Men 8 (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sKacZh7L9qR5jLpSnxgxung6D4Y.jpg" group-title="FILMES | COLETANEA X-MEN",X-Men 8 (2019)
 http://7go.xyz:8080/movie/zogbi11/982451290/50976.mp4
 
 #EXTM3U url-tvg="http://grade-de-FILMES | COLETANEA OS TRAPALHÕES.xml"
 ############## FILMES | COLETANEA OS TRAPALHÕES ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETANEA OS TRAPALHÕES" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="A Princesa Xuxa e os Trapalhões (1989)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qwlWDaJJ6ZSbukRzAReSwyImTpZ.jpg" group-title="FILMES | COLETÂNEA OS TRAPALHÕES",A Princesa Xuxa e os Trapalhões (1989)
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa Xuxa e os Trapalhões (1989)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qwlWDaJJ6ZSbukRzAReSwyImTpZ.jpg" group-title="FILMES | COLETANEA OS TRAPALHÕES",A Princesa Xuxa e os Trapalhões (1989)
 http://7go.xyz:8080/movie/zogbi11/982451290/44210.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aladim e a Lâmpada Maravilhosa (1973)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gMKZIPVowwvPmRzbXfZqEj80QhB.jpg" group-title="FILMES | COLETÂNEA OS TRAPALHÕES",Aladim e a Lâmpada Maravilhosa (1973)
+#EXTINF:-1 tvg-id="" tvg-name="Aladim e a Lâmpada Maravilhosa (1973)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gMKZIPVowwvPmRzbXfZqEj80QhB.jpg" group-title="FILMES | COLETANEA OS TRAPALHÕES",Aladim e a Lâmpada Maravilhosa (1973)
 http://7go.xyz:8080/movie/zogbi11/982451290/44209.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Princesa Xuxa e os Trapalhões (1989)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qwlWDaJJ6ZSbukRzAReSwyImTpZ.jpg" group-title="FILMES | COLETÂNEA OS TRAPALHÕES",A Princesa Xuxa e os Trapalhões (1989)
-http://7go.xyz:8080/movie/zogbi11/982451290/44210.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aladim e a Lâmpada Maravilhosa (1973)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gMKZIPVowwvPmRzbXfZqEj80QhB.jpg" group-title="FILMES | COLETÂNEA OS TRAPALHÕES",Aladim e a Lâmpada Maravilhosa (1973)
-http://7go.xyz:8080/movie/zogbi11/982451290/44209.mp4
+
 
 #EXTM3U url-tvg="http://grade-de-FILMES | COLETANEA VELOZES E FURIOSOS.xml"
 ############## FILMES | COLETANEA VELOZES E FURIOSOS ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETANEA VELOZES E FURIOSOS" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 1 (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oUEiEsdF1hRqJGJo6Zoc69ZsebG.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 1 (2001)
+#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 1 (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oUEiEsdF1hRqJGJo6Zoc69ZsebG.jpg" group-title=" FILMES | COLETANEA VELOZES E FURIOSOS",Velozes  Furiosos 1 (2001)
 http://7go.xyz:8080/movie/zogbi11/982451290/41263.mp4
-#EXTINF:-1 tvg-id="" tvg-name=" Velozes  Furiosos - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMUnCAgfARTdAu8ylPw4Wjh3e5N.jpg" group-title="FILMES | COLETÂNEA VELOZES E FURIOSOS", Velozes  Furiosos - 2003
+#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMUnCAgfARTdAu8ylPw4Wjh3e5N.jpg" group-title=" FILMES | COLETANEAA VELOZES E FURIOSOS", Velozes  Furiosos - 2003
 http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/156579.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 3 - Desafio em Tóquio (2006)" tvg-logo="http://i.imgur.com/jpXFmTa.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 3 - Desafio em Tóquio (2006)
+#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 3 - Desafio em Tóquio (2006)" tvg-logo="http://i.imgur.com/jpXFmTa.jpg" group-title=" FILMES | COLETANEA VELOZES E FURIOSOS",Velozes  Furiosos 3 - Desafio em Tóquio (2006)
 http://7go.xyz:8080/movie/zogbi11/982451290/41261.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 4 (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aKLcJzYIuuu7BQdr2x9oJfePvk5.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 4 (2009)
+#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 4 (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aKLcJzYIuuu7BQdr2x9oJfePvk5.jpg" group-title=" FILMES | COLETANEAA VELOZES E FURIOSOS",Velozes  Furiosos 4 (2009)
 http://7go.xyz:8080/movie/zogbi11/982451290/41264.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 5 - Operação Rio (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3u5RexOOAJuwm5JtNmxT9P0CdLG.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 5 - Operação Rio (2011)
+#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 5 - Operação Rio (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3u5RexOOAJuwm5JtNmxT9P0CdLG.jpg" group-title=" FILMES | COLETANEA VELOZES E FURIOSOS",Velozes  Furiosos 5 - Operação Rio (2011)
 http://7go.xyz:8080/movie/zogbi11/982451290/41265.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 7 (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vK3EINuibdkBwUe9jOhVUXtLeb6.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 7 (2015)
+#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 7 (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vK3EINuibdkBwUe9jOhVUXtLeb6.jpg" group-title=" FILMES | COLETANEAA VELOZES E FURIOSOS",Velozes  Furiosos 7 (2015)
 http://7go.xyz:8080/movie/zogbi11/982451290/50082.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 8 (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5L2IpMfGFfwOmxNdIJeJtdlz03.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 8 (2017)
+#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 8 (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5L2IpMfGFfwOmxNdIJeJtdlz03.jpg" group-title=" FILMES | COLETANEA VELOZES E FURIOSOS",Velozes  Furiosos 8 (2017)
 http://7go.xyz:8080/movie/zogbi11/982451290/50083.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 6 (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yeF9WQvxHRrJnr5fGEfnzDpn4pA.jpg" group-title=" FILMES | COLETÂNEA VELOZES E FURIOSOS",Velozes  Furiosos 6 (2013)
+#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 6 (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yeF9WQvxHRrJnr5fGEfnzDpn4pA.jpg" group-title=" FILMES | COLETANEA VELOZES E FURIOSOS",Velozes  Furiosos 6 (2013)
 http://7go.xyz:8080/movie/zogbi11/982451290/41266.mp4
 
 #EXTM3U url-tvg="http://grade-de-FILMES   NACIONAL CINEMA.xml"
@@ -5961,7 +6029,7 @@ https://play.prod.gcp.vix.services/inocencia-1983_pt/inocencia-1983_pt_1-1/play_
 
 #EXTM3U url-tvg="http://grade-de-FILMES | INFANTIL CINEMA.xml"
 ############## FILMES | INFANTIL CINEMA ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | INFANTIL CINEMA" group-title="
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | INFANTIL CINEMAA" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="Agente Mirim"tvg-id="https://imagens.ebc.com.br/RAZnjCXPVV4KFuv6wnG3r0APh7I=/365x0/smart/https://tvbrasil.ebc.com.br/sites/default/files/thumbnails/image/agente_mirim_cartaz.jpg?itok=CfgJjlTW" group-title="FILMES | INFANTIL CINEMA",Agente Mirim
 https://play.prod.gcp.vix.services/ace-the-case_pt/ace-the-case_pt_1-1/play_v1_hls_1080p.m3u8
@@ -6228,7 +6296,7 @@ http://axr.life:80/968367/462903/2150906
 http://axr.life:80/968367/462903/1413276
 #EXTINF:-1 tvg-id="Galinha Pintadinha 24H" tvg-name="A Galinha Pintadinha" tvg-logo="https://imagizer.imageshack.com/v2/1280x1024q90/923/w95jle.png" group-title="ESPECIAIS DESENHOS 24h",A Galinha Pintadinha
 http://axr.life:80/968367/462903/1413438
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="A Mulher Biônica (Clássico)" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/83Zxeq.png" group-title="ESPECIAIS SERIADOS 24h",A Mulher Biônica (Clássico)
+#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="A Mulher Biônica (Clássico)" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/83Zxeq.png" group-title="ESPECIAIS DESENHOS 24h",A Mulher Biônica (Clássico)
 http://axr.life:80/968367/462903/1418061
 #EXTINF:-1 tvg-id="Bob Esponja 24H" tvg-name="A Mulher Maravilha" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/GAVyKf.png" group-title="ESPECIAIS DESENHOS 24h",A Mulher Maravilha
 http://axr.life:80/968367/462903/1417172
@@ -12917,17 +12985,17 @@ https://stmv1.painelvideo.top/gostademaistv/gostademaistv/playlist.m3u8
  ############## Dinho Santos ################ # 
 #EXTINF:-1 tvg-id=" iddocanaldeDinho Santos" group-title="
 
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif"group-title="Dinho Santos", -Sozinho na Rua
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif"group-title="Dinho Santos",Sozinho na Rua
 https://video.wixstatic.com/video/c634a0_066356af468640b493c842fc204d42b5/360p/mp4/file.mp4
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif"group-title="Dinho Santos", -A Culpa é sua
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif"group-title="Dinho Santos",A Culpa é sua
 https://video.wixstatic.com/video/c634a0_499f021c57424cbda4f193174decd33d/720p/mp4/file.mp4
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif"group-title="Dinho Santos", -7 dias da semana
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif"group-title="Dinho Santos",7 dias da semana
 https://video.wixstatic.com/video/c634a0_bb3cac51cacc4d8581027be2dc1ca135/720p/mp4/file.mp4
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif"group-title="Dinho Santos", -O Cara Errado
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif"group-title="Dinho Santos",O Cara Errado
 https://video.wixstatic.com/video/c634a0_43b2a803bcd34217b79e33c8f839e453/720p/mp4/file.mp4
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif"group-title="Dinho Santos", -Pagina Virada
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif"group-title="Dinho Santos",Pagina Virada
 https://video.wixstatic.com/video/c634a0_e7921fa014bf44f99c438b30a743c665/360p/mp4/file.mp4
-#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif"group-title="Dinho Santos", -ao vivo
+#EXTINF:-1 tvg-logo="https://i.picasion.com/pic92/7a43fb0e9bc6cf78a15982da081477c4.gif"group-title="Dinho Santos",ao vivo
 https://video.wixstatic.com/video/c634a0_e7921fa014bf44f99c438b30a743c665/360p/mp4/file.mp4
 
 #EXTM3U url-tvg=" http://grade-de-traduao .xml "
