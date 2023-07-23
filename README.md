@@ -32,6 +32,8 @@ https://stream-51.zeno.fm/hu70hmkcu68uv
  ############## CANAIS no Brasil ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS no Brasil" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="Vintage TV "tvg-logo="https://lib.bz/logos/vintage.webp" group-title="CANAIS no Brasil",Vintage TV
+https://stmv1.srvif.com/webvintage/webvintage/chunklist_w1689741996.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CinePIX TV "tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/840254a95bac6a1f369b4d9641ef4dfa.webp" group-title="CANAIS no Brasil",CinePIX TV 
 https://stmv1.srvif.com/channel1/channel1/chunklist_w1372131370.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SERTÃO TV"tvg-logo="https://1.bp.blogspot.com/-R7MUaLTBuV0/XsYA4yqgH4I/AAAAAAAAC0o/W3b9oCbMJz4Y6kj2b8xjgcVCPzDEEo73ACLcBGAsYHQ/s320/Screenshot_2020-05-21-01-14-40.png" group-title="CANAIS no Brasil",SERTÃO TV
@@ -46,7 +48,7 @@ https://stmv1.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/chunklist_w1114
 https://stmv1.liveplushd.com.br/tvvisaoresgate/tvvisaoresgate/chunklist_w2061740055.m3u8
 #EXTINF:-1 tvg-id="CONECTV" tvg-logo="https://4.bp.blogspot.com/-nHLWN1nL-cI/XbJBEoP5-uI/AAAAAAAACL4/shXzS3Ohsjoqj4Q__2KvzIkd5Omhm9QHACLcBGAsYHQ/s320/Screenshot_2019-10-24-21-06-26.png" group-title="CANAIS no Brasil",CONECTV
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-#EXTINF:-1 tvg-id="ALPHA CHANNEL TV" tvg-logo="https://1.bp.blogspot.com/-vWIupjRUu80/XON4_e9cHrI/AAAAAAAAA5Y/6Xl6ggQI7fcdLZao1GAkwYgKXWeovgw5ACLcBGAs/s320/Screenshot_2019-05-21-00-28-46.png" group-title="CANAIS no BrasilB",ALPHA CHANNEL TV
+#EXTINF:-1 tvg-id="ALPHA CHANNEL TV" tvg-logo="https://1.bp.blogspot.com/-vWIupjRUu80/XON4_e9cHrI/AAAAAAAAA5Y/6Xl6ggQI7fcdLZao1GAkwYgKXWeovgw5ACLcBGAs/s320/Screenshot_2019-05-21-00-28-46.png" group-title="CANAIS no Brasil",ALPHA CHANNEL TV
 https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/chunklist_w320143634.m3u8
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="TVI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4Cjn7BJ2PDP-PbwWj2PeAIPU2MjeN-A7ALHAF3JldqoKwR970EQE4FE0QXa8bJjHAaKM&usqp=CAU" group-title="CANAIS no Brasil",TVI
 https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
@@ -981,16 +983,6 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83666
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83665
 #EXTINF:-1 tvg-id="" tvg-name="SBT BRASILIA - HD" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="SBT",SBT BRASILIA - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138781367
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT CEARA JANGADEIRO - FHD" tvg-logo="https://tinyurl.com/u9csbt" group-title="SBT",SBT CEARA JANGADEIRO - FHD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/320210
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT GOIAS" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="SBT",SBT GOIAS
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138773130
-#EXTINF:-1 tvg-id="" tvg-name="SBT MARANHAO" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="SBT",SBT MARANHAO
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138781366
-#EXTINF:-1 tvg-id="" tvg-name="SBT MINAS - FHD" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="SBT",SBT MINAS - FHD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138774683
-#EXTINF:-1 tvg-id="" tvg-name="SBT MT - FHD" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="SBT",SBT MT - FHD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138774684
 #EXTINF:-1 tvg-id="" tvg-name="SBT PARA -HD" tvg-logo="https://tinyurl.com/u9csbt" group-title="SBT",SBT PARA -HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/1385357
 #EXTINF:-1 tvg-id="" tvg-name="SBT PARANÁ" tvg-logo="https://tinyurl.com/u9csbt" group-title="SBT",SBT PARANÁ
@@ -999,12 +991,6 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138767949
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138781368
 #EXTINF:-1 tvg-id="" tvg-name="SBT REDE MASSA" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="SBT",SBT REDE MASSA
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138761814
-#EXTINF:-1 tvg-id="" tvg-name="SBT RJ - HD" tvg-logo="https://tinyurl.com/u9csbt" group-title="SBT",SBT RJ - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/156203
-#EXTINF:-1 tvg-id="" tvg-name="SBT RN - FHD" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="SBT",SBT RN - FHD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138775362
-#EXTINF:-1 tvg-id="" tvg-name="SBT RS - HD" tvg-logo="https://tinyurl.com/u9csbt" group-title="SBT",SBT RS - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/1385279
 #EXTINF:-1 tvg-id="" tvg-name="SBT SC - H264" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="SBT",SBT SC - H264
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138774685
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP - HD" tvg-logo="https://tinyurl.com/u9csbt" group-title="SBT",SBT SP - HD
@@ -1016,23 +1002,12 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83671
  ############## CANAIS RECORD ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS RECORD" group-title="
 
-
+#EXTINF:-1 tvg-id="Record SP" tvg-logo="https://yt3.googleusercontent.com/ajINdm7Xi7vpzxojEYP0GOksb_557DkR7ehZS1bTz-9QHhs-RHtwseHgne9aLILCBDJiUCQJnas=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS RECORD",Record SP
+https://server101.online/record/tracks-v1a1/mono.m3u8?remote=168.227.218.11&token=b854d314a73b4a444c9d275dcf649c818aa22268-6455178c3ace0a5f5e67afe3f04badb1-1689652029-1689648429
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/HZDRG0K.png" group-title="CANAIS RECORD",Record News
 https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
-#EXTINF:-1 tvg-id="RecordTVBelem.br" tvg-logo="https://i.imgur.com/gEEiN10.png" group-title="CANAIS RECORD",RecordTV Belem
-https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8
-#EXTINF:-1 tvg-id="RecordTVBrasilia.br" tvg-logo="https://i.imgur.com/PZMas8Y.png" group-title="CANAIS RECORD",RecordTV Brasilia
-https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
-#EXTINF:-1 tvg-id="RecordTVGoias.br" tvg-logo="https://i.imgur.com/Fdoax1M.png" group-title="CANAIS RECORD",RecordTV Goias
-https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8
-#EXTINF:-1 tvg-id="RecordTVItapoan.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/13/Logotipo_da_RecordTV_Itapoan.png/512px-Logotipo_da_RecordTV_Itapoan.png" group-title="CANAIS RECORD",RecordTV Itapoan
-https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
-#EXTINF:-1 tvg-id="RecordTVMinas.br" tvg-logo="https://i.imgur.com/6HT6QMV.png" group-title="CANAIS RECORD",RecordTV Minas
-https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="RecordTVRio.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/ce/Logotipo_da_RecordTV_Rio.png/512px-Logotipo_da_RecordTV_Rio.png" group-title="CANAIS RECORD",RecordTV Rio
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
-#EXTINF:-1 tvg-id="RecordTVRS.br" tvg-logo="https://i.imgur.com/JLQWoNc.png" group-title="CANAIS RECORD",RecordTV RS
-https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="RecordTVSaoPaulo.br" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/1/10/Logotipo_da_Record.png/512px-Logotipo_da_Record.png" group-title="CANAIS RECORD",RecordTV Sao Paulo
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORD SP SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4VNbSwpViVQWJb4jur1VsWQqPubPmT-dPg7SXZkFV_Cp.jpg" group-title="CANAIS RECORD",RECORD SP SD²
@@ -1106,14 +1081,6 @@ http://7go.xyz:8080/zogbi11/982451290/18545
 http://7go.xyz:8080/zogbi11/982451290/18568
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV CAMPINAS SD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO EPTV CAMPINAS SD
 http://7go.xyz:8080/zogbi11/982451290/23562
-#EXTINF:-1 tvg-id="globorede.br" tvg-name="GLOBO BRASILIA FHD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA FHD
-http://7go.xyz:8080/zogbi11/982451290/29893
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO BRASILIA FHD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA FHD
-http://7go.xyz:8080/zogbi11/982451290/22155
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://i.imgur.com/2RRYLDc.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA HD
-http://7go.xyz:8080/zogbi11/982451290/18544
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO BRASILIA HD
-http://7go.xyz:8080/zogbi11/982451290/22154
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO RJ HD
 http://7go.xyz:8080/zogbi11/982451290/18556
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO RJ HD
@@ -1155,8 +1122,6 @@ http://168.205.87.198:8555/live/1052/123456/19.m3u8
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="Canais | Band",Band 4K
 http://pbrz.xyz:80/67531382/36606924/1177
-#EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="Canais | Band",Band Bahia
-http://pbrz.xyz:80/67531382/36606924/1178
 #EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="Canais | Band",BAND CAMPINAS FHD
 http://pbrz.xyz:80/67531382/36606924/1179
 #EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="Canais | Band",BAND SP
@@ -1923,6 +1888,27 @@ http://grtsvk.life:80/661282206/318344838/87948
 #EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 6" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CINE COMEDIA",CINE COMEDIA 6
 http://grtsvk.life:80/661282206/318344838/87949
 
+#EXTM3U url-tvg=" http://grade-de-CANAIS Studio Universal.xml "
+ ############## CANAIS Studio Universal ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS Studio Universal" group-title="
+
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS Studio Universal",STUDIO UNIVERSAL - FHD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83585
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS Studio Universal",STUDIO UNIVERSAL - FHD²
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83586
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS Studio Universal",STUDIO UNIVERSAL - HD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83584
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS Studio Universal",STUDIO UNIVERSAL - SD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83582
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS Studio Universal",STUDIO UNIVERSAL - SD²
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83583
+#EXTINF:-1 tvg-id="Studio Universal FHD" tvg-name="Studio Universal FHD" tvg-logo="http://ucsxiptv.com:8080/images/logos/7b6b86fa3116d1bcfa984e65c86d3c32.png" group-title="CANAIS Studio Universal",Studio Universal FHD
+http://piglo.re:80/14957348417/2839302i178101/54429
+#EXTINF:-1 tvg-id="Studio Universal FHD" tvg-name="Studio Universal HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/7b6b86fa3116d1bcfa984e65c86d3c32.png" group-title="CANAIS Studio Universal",Studio Universal HD
+http://piglo.re:80/14957348417/2839302i178101/54430
+#EXTINF:-1 tvg-id="Studio Universal FHD" tvg-name="Studio Universal SD" tvg-logo="http://ucsxiptv.com:8080/images/logos/7b6b86fa3116d1bcfa984e65c86d3c32.png" group-title="CANAIS Studio Universal",Studio Universal SD
+http://piglo.re:80/14957348417/2839302i178101/54431
+
 #EXTM3U url-tvg=" http://grade-de-Canais  UNIVERSAL.xml "
  ############## Canais  UNIVERSAL ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais  UNIVERSAL" group-title="
@@ -1933,8 +1919,16 @@ http://45.58.126.146:14348/universal
 http://45.58.126.146:14332
 #EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL"tvg-logo="https://media.tenor.com/o8ltIVGidUkAAAAC/universal-studios-universal.gif" group-title="Canais | UNIVERSAL", STUDIO UNIVERSAL
 http://45.58.126.146:14332
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL FHD H265" tvg-logo="https://i.imgur.com/I1qcMwK.png" group-title="Canais | UNIVERSAL", CHANNEL FHD H265
-http://meuplay.shop:80/Adminn8/6646885468/301
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL - 4K H265" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4S-99Ejq3emcAySUdfpdM1KRtgxafFiFX6oxOLXAuk9g.jpg" group-title="CANAIS UNIVERSAL",UNIVERSAL - 4K H265
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/99907
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4S-99Ejq3emcAySUdfpdM1KRtgxafFiFX6oxOLXAuk9g.jpg" group-title="CANAIS UNIVERSAL",UNIVERSAL CHANNEL - FHD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83599
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4S-99Ejq3emcAySUdfpdM1KRtgxafFiFX6oxOLXAuk9g.jpg" group-title="CANAIS UNIVERSAL",UNIVERSAL CHANNEL - SD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83596
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL -HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4S-99Ejq3emcAySUdfpdM1KRtgxafFiFX6oxOLXAuk9g.jpg" group-title="CANAIS UNIVERSAL",UNIVERSAL CHANNEL -HD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83597
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL -HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4S-99Ejq3emcAySUdfpdM1KRtgxafFiFX6oxOLXAuk9g.jpg" group-title="CANAIS UNIVERSAL",UNIVERSAL CHANNEL -HD²
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83598
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS  NATIONAL GEOGRAFIC.xml "
  ############## CANAIS  NATIONAL GEOGRAFIC ############## ### 
@@ -2103,47 +2097,11 @@ http://piglo.re:80/14957348417/2839302i178101/54423
 #EXTINF:-1 tvg-id="Space FHD" tvg-name="Space SD" tvg-logo="http://ucsxiptv.com:8080/images/logos/space-channel-logo.png" group-title="CANAIS | SPACE",Space SD
 http://piglo.re:80/14957348417/2839302i178101/54424
 
-#EXTM3U url-tvg=" http://grade-de-CANAIS Studio Universal.xml "
- ############## CANAIS Studio Universal ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS Studio Universal" group-title="
-
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS Studio Universal",STUDIO UNIVERSAL - FHD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83585
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS Studio Universal",STUDIO UNIVERSAL - FHD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83586
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS Studio Universal",STUDIO UNIVERSAL - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83584
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS Studio Universal",STUDIO UNIVERSAL - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83582
-#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS Studio Universal",STUDIO UNIVERSAL - SD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83583
-#EXTINF:-1 tvg-id="Studio Universal FHD" tvg-name="Studio Universal FHD" tvg-logo="http://ucsxiptv.com:8080/images/logos/7b6b86fa3116d1bcfa984e65c86d3c32.png" group-title="CANAIS Studio Universal",Studio Universal FHD
-http://piglo.re:80/14957348417/2839302i178101/54429
-#EXTINF:-1 tvg-id="Studio Universal FHD" tvg-name="Studio Universal HD" tvg-logo="http://ucsxiptv.com:8080/images/logos/7b6b86fa3116d1bcfa984e65c86d3c32.png" group-title="CANAIS Studio Universal",Studio Universal HD
-http://piglo.re:80/14957348417/2839302i178101/54430
-#EXTINF:-1 tvg-id="Studio Universal FHD" tvg-name="Studio Universal SD" tvg-logo="http://ucsxiptv.com:8080/images/logos/7b6b86fa3116d1bcfa984e65c86d3c32.png" group-title="CANAIS Studio Universal",Studio Universal SD
-http://piglo.re:80/14957348417/2839302i178101/54431
-
-#EXTM3U url-tvg=" http://grade-de-CANAIS UNIVERSAL.xml "
- ############## CANAIS UNIVERSAL ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS UNIVERSAL" group-title="
-
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL - 4K H265" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4S-99Ejq3emcAySUdfpdM1KRtgxafFiFX6oxOLXAuk9g.jpg" group-title="CANAIS UNIVERSAL",UNIVERSAL - 4K H265
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/99907
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4S-99Ejq3emcAySUdfpdM1KRtgxafFiFX6oxOLXAuk9g.jpg" group-title="CANAIS UNIVERSAL",UNIVERSAL CHANNEL - FHD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83599
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4S-99Ejq3emcAySUdfpdM1KRtgxafFiFX6oxOLXAuk9g.jpg" group-title="CANAIS UNIVERSAL",UNIVERSAL CHANNEL - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83596
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL -HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4S-99Ejq3emcAySUdfpdM1KRtgxafFiFX6oxOLXAuk9g.jpg" group-title="CANAIS UNIVERSAL",UNIVERSAL CHANNEL -HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83597
-#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL CHANNEL -HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4S-99Ejq3emcAySUdfpdM1KRtgxafFiFX6oxOLXAuk9g.jpg" group-title="CANAIS UNIVERSAL",UNIVERSAL CHANNEL -HD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83598
-
 #EXTM3U url-tvg=" http://grade-de-CANAIS WARNER CHANNE.xml "
  ############## CANAIS WARNER CHANNE ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS WARNER CHANNE" group-title="
 
-#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V_f2-etSZbuoBV7QRzMYahEOBUesuY2hEvesbqjKqbh.jpg" group-title="CANAIS WARNER CHANNEL",WARNER CHANNEL - FHD
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V_f2-etSZbuoBV7QRzMYahEOBUesuY2hEvesbqjKqbh.jpg" group-title="CANAIS WARNER CHANNE",WARNER CHANNEL - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83603
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL - FHD H265" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V_f2-etSZbuoBV7QRzMYahEOBUesuY2hEvesbqjKqbh.jpg" group-title="CANAIS WARNER CHANNE",WARNER CHANNEL - FHD H265
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/154313
@@ -2201,6 +2159,8 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83525
  ############## CANAL A&E ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAL A&E" group-title="
 
+#EXTINF:-1 tvg-name="A&E" tvg-logo="http://70.ms/dp" group-title="CANAL A&E",A&E
+https://server100.shop/ae/tracks-v1a1/mono.m3u8?remote=168.227.218.11&token=e37b032d54f92de2c79a651e60b02c5b559d7295-05b773a89a7519c732ee6aba896ebb2d-1690041861-1690038261
 #EXTINF:-1 tvg-name="A&E FHD" tvg-logo="http://70.ms/dp" group-title="CANAL A&E",A&E FHD
  http://5ce.co:80/live/mlindoso/qwe9673/6971.m3u8
 #EXTINF:-1 tvg-name="A&E FHD²" tvg-logo="http://70.ms/dp" group-title="CANAL A&E",A&E FHD²
@@ -2226,7 +2186,7 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83525
  http://5ce.co:80/live/mlindoso/qwe9673/6649.m3u8
 #EXTINF:-1 tvg-name="AXN HD²" tvg-logo="https://fivetv.xyz/logos/axn.png" group-title="CANAL AXN",AXN HD²
  http://5ce.co:80/live/mlindoso/qwe9673/10876.m3u8
-#EXTINF:-1 tvg-name="AXN SD" tvg-logo="https://fivetv.xyz/logos/axn.png" group-title="CANALS AXN",AXN SD
+#EXTINF:-1 tvg-name="AXN SD" tvg-logo="https://fivetv.xyz/logos/axn.png" group-title="CANAL AXN",AXN SD
  http://5ce.co:80/live/mlindoso/qwe9673/6648.m3u8
 #EXTINF:-1 tvg-name="AXN SD²" tvg-logo="https://fivetv.xyz/logos/axn.png" group-title="CANAL AXN",AXN SD²
  http://5ce.co:80/live/mlindoso/qwe9673/10877.m3u8
@@ -2245,7 +2205,7 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83525
  http://5ce.co:80/live/mlindoso/qwe9673/6914.m3u8
 #EXTINF:-1 tvg-name="AMC SD" tvg-logo="https://fivetv.xyz/logos/amc.png" group-title="CANAL AMC",AMC SD
  http://5ce.co:80/live/mlindoso/qwe9673/6644.m3u8
-#EXTINF:-1 tvg-name="AMC SD²" tvg-logo="https://fivetv.xyz/logos/amc.png" group-title="CANALS AMC",AMC SD²
+#EXTINF:-1 tvg-name="AMC SD²" tvg-logo="https://fivetv.xyz/logos/amc.png" group-title="CANAL AMC",AMC SD²
  http://5ce.co:80/live/mlindoso/qwe9673/10645.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-Canais  Filmes e Series.xml "
@@ -2321,7 +2281,7 @@ http://meuplay.shop:80/828474929852/34882748924/550
  ############## Canais CINE UNION ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais CINE UNION" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="CINE ACAO" tvg-logo="https://i.ibb.co/h1VxNjB/cineunion.png" group-title="CINE UNION",CINE ACAO
+#EXTINF:-1 tvg-id="" tvg-name="CINE ACAO" tvg-logo="https://i.ibb.co/h1VxNjB/cineunion.png" group-title="Canais CINE UNION",CINE ACAO
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/152723
 #EXTINF:-1 tvg-id="" tvg-name="CINE DISNEY" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE DISNEY
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766190
@@ -2555,6 +2515,8 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138777563
  ############## Canais ESTADIO TNT SPORTS ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais ESTADIO TNT SPORTS" group-title="
 
+#EXTINF:-1 tvg-name="Estadio TNT Sports 08" tvg-logo="https://tntsports.com.br/__export/1610853395834/sites/esporteinterativo/img/2021/01/17/whatsapp_image_2021-01-16_at_20_26_54_1_crop1610853395338.jpeg_554688468.jpeg" group-title="Canais ESTADIO TNT SPORTS",Estadio TNT Sports 08
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 #EXTINF:-1 tvg-name="Estadio TNT Sports 01" tvg-logo="https://i.imgur.com/Rrq2Et3.png" group-title="Canais ESTADIO TNT SPORTS",Estadio TNT Sports 01
  http://5ce.co:80/live/mlindoso/qwe9673/116395.m3u8
 #EXTINF:-1 tvg-name="Estadio TNT Sports 02" tvg-logo="https://i.imgur.com/Rrq2Et3.png" group-title="Canais ESTADIO TNT SPORTS",Estadio TNT Sports 02
@@ -2725,6 +2687,10 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/12815
  ############## CANAIS | ESPORTES ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS | ESPORTES" group-title="
 
+#EXTINF:-1 tvg-id="OFF" tvg-name="MMA" tvg-logo="https://pbs.twimg.com/profile_images/74705538/mmatv_400x400.jpg" group-title="CANAIS | ESPORTES",MMA
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+#EXTINF:-1 tvg-id="OFF" tvg-name="XFC TV" tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqNMM82URjVGV4SnTJp0sD2LYGUHWhQcsvvMnXdb=s900-c-k-c0x00ffffff-no-rj" group-title="CANAIS | ESPORTES",XFC TV
+https://stream-us-east-1.getpublica.com/cl/230722cituo89em6dbap5eo2b0/1280x720_3067851_0_f.m3u8?i=513_2351
 #EXTINF:-1 tvg-id="OFF" tvg-name="OFF FHD" tvg-logo="https://i.imgur.com/IYNSKol.png" group-title="CANAIS | ESPORTES",OFF FHD
 http://apkwuv.xyz:80/cristina2021/graniptv2005/139108
 #EXTINF:-1 tvg-id="OFF" tvg-name="OFF FHD [Alt]" tvg-logo="https://i.imgur.com/IYNSKol.png" group-title="CANAIS | ESPORTES",OFF FHD [Alt]
@@ -2772,11 +2738,42 @@ http://xcui.vitvabc.xyz:8880/287994003720/287994003720/31034
 #EXTINF:-1 tvg-id="Example" tvg-name="ESPN 4 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bfb9a69c9813f26eae33eb06029fa0ad.png" group-title="CANAIS | ESPORTES",ESPN 4 HD
 http://xcui.vitvabc.xyz:8880/287994003720/287994003720/31148
 
+#EXTM3U url-tvg=" http://grade-de-CANAIS | ESPORTES espn extra.xml "
+ ############## CANAIS | ESPORTES espn extra ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS | ESPORTES espn extra" group-title="
+
+#EXTINF:-1 tvg-id="Example" tvg-name="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ESPN_Xtra_logo.svg/1200px-ESPN_Xtra_logo.svg.png" group-title="CANAIS | ESPORTES espn extra",espn
+https://tvcanais.xyz/espn1/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="espn extra" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ESPN_Xtra_logo.svg/1200px-ESPN_Xtra_logo.svg.png" group-title="CANAIS | ESPORTES espn extra",espn extra
+https://server101.online/espn-extra/tracks-v1a1/mono.m3u8?remote=168.227.218.11&token=c30aa8195d9e30aaab7e05514b22db19ac7aa627-72818f32836786b3506ec9ab94830850-1689647533-1689643933
+#EXTINF:-1 tvg-id="Example" tvg-name="espn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ESPN_Xtra_logo.svg/1200px-ESPN_Xtra_logo.svg.png" group-title="CANAIS | ESPORTES espn extra",espn
+https://tvcanais.xyz/espn1/tracks-v1/index.fmp4.m3u8?token=69df07286d5af835da2ce52f266fab61a55af5e6-86cdfb788cd177afbaf68311e94b4d83-1689644410-1689644230
+#EXTINF:-1 tvg-id="Example" tvg-name="espn 2" tvg-logo="https://golatinotv.com/wp-content/uploads/2021/02/espn2-min.png" group-title="CANAIS | ESPORTES espn extra",espn 2
+https://tvcanais.xyz/espn2/tracks-v1/index.fmp4.m3u8?token=a1439e88070d9fa2c67ce9aca5b2708b8967fb85-c85059bfa514f51854cc2c339085f035-1689644967-1689644787
+#EXTINF:-1 tvg-id="Example" tvg-name="espn 2" tvg-logo="https://golatinotv.com/wp-content/uploads/2021/02/espn2-min.png" group-title="CANAIS | ESPORTES espn extra",espn 2
+https://tvcanais.xyz/espn2/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="Example" tvg-name="espn 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRADX-uVMU3yaUOc4hRBiMaYP1pHYLKi9JYmvD1qAVpWlnZ0_37dQNeG1a-Tde3w7y8pZw&usqp=CAU" group-title="CANAIS | ESPORTES espn extra",espn 3
+https://tvcanais.xyz/espn3/tracks-v1/index.fmp4.m3u8?token=72ec8bb70656d95b9eded90a98c4f54ded42f5cc-eda406ddfa3beb62ffddb974537946ee-1689647139-1689646959
+#EXTINF:-1 tvg-id="Example" tvg-name="espn 4" tvg-logo="https://www.am.com.mx/u/fotografias/fotosnoticias/2021/12/1/52278.jpg" group-title="CANAIS | ESPORTES espn extra",espn 4
+https://tvcanais.xyz/espn4/tracks-v1/index.fmp4.m3u8?token=77b6011351625edf73b5c10ceb8c31529781fb57-2605174d1e6e55cc288a6a095c24726c-1689647729-1689647549
+#EXTINF:-1 tvg-id="Example" tvg-name="espn 4" tvg-logo="https://www.am.com.mx/u/fotografias/fotosnoticias/2021/12/1/52278.jpg" group-title="CANAIS | ESPORTES espn extra",espn 4
+https://tvcanais.xyz/espn4/tracks-v1/index.fmp4.m3u8
+
 #EXTM3U url-tvg=" http://grade-de-Canais  FOX Sports 2.xml "
  ############## Canais  FOX Sports 2 ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais  FOX Sports 2" group-title="
 
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais |FOX Sports 2",FOX SPORTS 2 - SD
+#EXTINF:-1 tvg-name="FOX Sports 2 TV FAX" tvg-logo="https://ntvb.com.br/wp-content/uploads/2022/10/07-10-4.jpg" group-title="Canais | FOX Sports 2",FOX Sports 2 TV FAX
+https://br.embedflix.net/p2p/foxsport2/chunks.m3u8
+#EXTINF:-1 tvg-name="FOX Sports 2 TV FAX" tvg-logo="https://ntvb.com.br/wp-content/uploads/2022/10/07-10-4.jpg" group-title="Canais | FOX Sports 2",FOX Sports 2 TV FAX
+https://br.embedflix.net/p2p/foxsport2/chunks.m3u8?nimblesessionid=23202984&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDIzIDEyOjM4OjA2IEFNJmhhc2hfdmFsdWU9NjNpaHFZLzV6WE41eng3eUxvcmprQT09JnZhbGlkbWludXRlcz05MA==
+#EXTINF:-1 tvg-name="FOX Sports 2 TV FAX" tvg-logo="https://ntvb.com.br/wp-content/uploads/2022/10/07-10-4.jpg" group-title="Canais | FOX Sports 2",FOX Sports 2 TV FAX
+https://br.embedflix.net/p2p/foxsport2/chunks.m3u8
+#EXTINF:-1 tvg-name="FOX Sports 2 TV FAX" tvg-logo="https://ntvb.com.br/wp-content/uploads/2022/10/07-10-4.jpg" group-title="Canais | FOX Sports 2",FOX Sports 2 TV FAX
+https://br.embedflix.net/p2p/foxsport2/chunks.m3u8?nimblesessionid=23202984&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xOC8yMDIzIDEyOjM4OjA2IEFNJmhhc2hfdmFsdWU9NjNpaHFZLzV6WE41eng3eUxvcmprQT09JnZhbGlkbWludXRlcz05MA==
+#EXTINF:-1 tvg-name="FOX Sports 2 TV FAX" tvg-logo="https://ntvb.com.br/wp-content/uploads/2022/10/07-10-4.jpg" group-title="Canais | FOX Sports 2",FOX Sports 2 TV FAX
+https://server101.online/fox-sports2/tracks-v1a1/mono.m3u8?remote=168.227.218.11&token=29fc5e3cea5eb812d5052accc562a5749ab7f061-4214959c15b43fbc3e6419466a89ed33-1689642949-1689639349
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais | FOX Sports 2",FOX SPORTS 2 - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82755
 #EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - 4K" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais | FOX Sports 2",FOX SPORTS 2 - 4K
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/72584
@@ -3149,6 +3146,28 @@ https://archive.org/details/o-gordo-e-o-magro-8/O+Gordo+e+o+Magro++Um+Nobre+Panc
 ############## FILMES TV FAX filhos  #################
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES TV FAX filhos" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="Barbie ( 2023)"tvg-logo="https://img.elo7.com.br/product/original/4AF6E50/big-poster-filme-barbie-2023-tamanho-90x60-cm-lo02-filme-barbie.jpg"group-title="FILMES TV FAX filhos",Barbie ( 2023)
+https://ia902700.us.archive.org/2/items/barbie-2023-tv-fax/Barbie%20%282023%29%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cães Estelares"tvg-logo="https://ottvsimg.ottvs.com.br/ban/itn.065629/looke_4001.jpg"group-title="FILMES TV FAX filhos",Cães Estelares
+https://ia802704.us.archive.org/1/items/caes-estelares-filme-tv-fax/C%C3%A3es%20Estelares%20Filme%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Abelhinha Maya"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c0/Abelha_Maia_O_Filme.jpg/250px-Abelha_Maia_O_Filme.jpg"group-title="FILMES TV FAX filhos",A Abelhinha Maya
+https://ia902704.us.archive.org/2/items/a-abelhinha-maya-tv-fax/A%20Abelhinha%20Maya%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bailarina "tvg-logo="https://i0.wp.com/cloud.estacaonerd.com/wp-content/uploads/2017/01/19234957/Ballerina-movie-poster-1.jpg?fit=1500%2C1128&ssl=1"group-title="FILMES TV FAX filhos",A Bailarina 
+https://ia802705.us.archive.org/18/items/a-bailarina-filmes-tv-fax/A%20Bailarina%20Filmes%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Estrela De Belém"tvg-logo="https://bandodequadrados.com/img/imagem_noticia/16504d8b2bd617afc264127b5b1dce5b.png"group-title="FILMES TV FAX filhos",A Estrela De Belém
+https://ia802701.us.archive.org/7/items/a-estrela-de-belem-tv-fax/A%20Estrela%20de%20Bel%C3%A9m%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ilha De Monstros "tvg-logo="https://images.justwatch.com/poster/36908281/s592/isla-calaca"group-title="FILMES TV FAX filhos",A Ilha De Monstros 
+https://ia902603.us.archive.org/6/items/a-ilha-de-monstros-tv-fax/A%20Ilha%20de%20Monstros%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Maldição Da Bela Adormecida"tvg-logo="https://macmagazine.com.br/wp-content/uploads/2017/06/02-filme.jpg"group-title="FILMES TV FAX filhos",A Maldição Da Bela Adormecida
+https://ia802604.us.archive.org/20/items/a-maldicao-da-bela-adormecida-tv-fax/A%20Maldi%C3%A7%C3%A3o%20da%20Bela%20Adormecida%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Menina E O Leão "tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/19/04/05/20/54/1435524.jpg"group-title="FILMES TV FAX filhos",A Menina E O Leão 
+https://ia802705.us.archive.org/13/items/a-menina-e-o-leao-tv-fax/A%20Menina%20e%20o%20Le%C3%A3o%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cinderela E O Príncipe Secreto "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPsaEKOmZi0p7qd-_0hQFQdlfxRKLwLjD38Q&usqp=CAU"group-title="FILMES TV FAX filhos",Cinderela E O Príncipe Secreto
+https://ia802707.us.archive.org/6/items/cinderela-e-o-principe-secreto-tv-fax/Cinderela%20e%20o%20Pr%C3%ADncipe%20Secreto%20%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa E O Dragão"tvg-logo="https://musicart.xboxlive.com/7/8d145100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080"group-title="FILMES TV FAX filhos",A Princesa Encantada O Reino Da Música
+https://ia802604.us.archive.org/29/items/a-princesa-encantada-o-reino-da-musica-tv-fax/Assistir%20A%20Princesa%20Encantada%20-%20O%20Reino%20da%20M%C3%BAsica%20Dublado%20On.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa E O Dragão"tvg-logo="https://i.ytimg.com/vi/fZIei6JaKNI/maxresdefault.jpg"group-title="FILMES TV FAX filhos",A Princesa E O Dragão 
+https://ia902708.us.archive.org/33/items/a-princesa-e-o-dragao-tv-fax/A%20Princesa%20e%20o%20Drag%C3%A3o%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="moranguinho"tvg-logo="https://3.bp.blogspot.com/-cJEvEsli33A/WAvsQwncukI/AAAAAAACzcc/5X8raU19j64Hu80qKnxiiaMFj8SE6B0DwCEw/s1600/m229.gif"group-title="FILMES TV FAX filhos",moranguinho
 https://play.prod.gcp.vix.services/moranguinho_pt/moranguinho_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Uma Sereia Em Paris"tvg-logo="https://media.fstatic.com/NfanUHBw17-AlFrBm9szEBWNQV0=/322x478/smart/filters:format(webp)/media/movies/covers/2020/01/une_sirene_a_paris_ver2.jpg"group-title="FILMES TV FAX filhos",Uma Sereia Em Paris
@@ -3228,11 +3247,213 @@ https://seig.tv/19/1/7ba85cea0f777ff47b36ce05975add22/720p/720p.m3u8
 https://seig.tv/19/1/de657f7b5a1eb8ed259401806e2e2334/720p/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Tarsilinha"tvg-logo="https://image.tmdb.org/t/p/w185/szoK1qZ0YThXajLnkE8l7wygXpG.jpg"group-title="FILMES TV FAX filhos",Tarsilinha
 https://seig.tv/11/1/cf411be661135e8bb93fc1268512dd08/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Amigos Alienígenas"tvg-logo="https://br.web.img3.acsta.net/pictures/18/06/13/20/20/5460825.jpg"group-title="FILMES TV FAX filhos",Amigos Alienígenas
+https://ia902604.us.archive.org/30/items/amigos-alienigenas-tv-fax/Amigos%20Alien%C3%ADgenas%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Altamente Imperfeitos"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTCqfc89Z3cgzgVtTtgpnulUEUBOEVthZ1yLwEr754e-fdi4XK0eLp0ZorUqCJxn99YlA&usqp=CAU"group-title="FILMES TV FAX filhos",Altamente Imperfeitos
+https://ia902706.us.archive.org/24/items/altamente-imperfeitos-tv-fax/Altamente%20Imperfeitos%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras de Paddington"tvg-logo="https://br.web.img2.acsta.net/pictures/14/10/21/00/55/153495.jpgpg"group-title="FILMES TV FAX filhos",As Aventuras de Paddington
+https://ia902700.us.archive.org/7/items/as-aventuras-de-paddington-tv-fax/As%20Aventuras%20de%20Paddington%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Aventuras De Tadeo 2 O Segredo Do Rei Midas"tvg-logo="https://1.bp.blogspot.com/-_nsFro4XaxI/Wm3z2obNsrI/AAAAAAAACLc/kUudqH7SsBwndHA7twlo6K2-B00IaNpIQCLcBGAs/s1600/tadeo_jones_web_1920x1080.jpg"group-title="FILMES TV FAX filhos",As Aventuras De Tadeo 2 O Segredo Do Rei Midas
+https://ia902708.us.archive.org/2/items/as-aventuras-de-tadeo-2-o-segredo-do-rei-midas-tv-fax/As%20Aventuras%20de%20Tadeo%202%20O%20Segredo%20do%20Rei%20Midas%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bombay Rose"tvg-logo="https://i.ytimg.com/vi/ImTUp6HY5ak/maxresdefault.jpg"group-title="FILMES TV FAX filhos",Bombay Rose
+https://ia902704.us.archive.org/9/items/bombay-rose-tv-fax/Bombay%20Rose%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Axel E Os Meninos Do Espaço"tvg-logo="https://1.bp.blogspot.com/-M2_KnXdJm7c/X8gd21VLCWI/AAAAAAAAY9E/_WqFhVwjm60iwQ9ZWpAtd1aC_vGAvOFrACLcBGAsYHQ/s1043/image_5d30179b9aefb6.07749200.jpg"group-title="FILMES TV FAX filhos",Axel E Os Meninos Do Espaço 
+https://ia802603.us.archive.org/23/items/axel-e-os-meninos-do-espaco-tv-fax/Axel%20e%20os%20Meninos%20do%20Espa%C3%A7o%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie E Suas Irmãs Em Busca Dos Cachorrinhos"tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/22/11/28/15/12/1111216.jpg"group-title="FILMES TV FAX filhos",Barbie E Suas Irmãs Em Busca Dos Cachorrinhos
+https://ia802702.us.archive.org/22/items/barbie-e-suas-irmas-em-busca-dos-cachorrinhos-tv-fax/Barbie%20e%20Suas%20Irm%C3%A3s%20Em%20Busca%20Dos%20Cachorrinhos%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Barbie Super Princesa"tvg-logo="https://d3alv7ekdacjys.cloudfront.net/Custom/Content/Products/11/00/1100320_barbie-super-princesa-filme-infantil-ms_m1_637383513240739592.jpg"group-title="FILMES TV FAX filhos",Barbie Super Princesa
+https://ia802704.us.archive.org/26/items/barbie-super-princesa-tv-fax/Barbie%20Super%20Princesa%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bunyan E Babe Os Amigos Da Floresta"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_PiWxnfuPIdyyRYxBK7iJjf-vLq0QytVm7zBbhoALfWyeU-dBOt_G9gqt3AQ_hJlEGkk&usqp=CAU"group-title="FILMES TV FAX filhos",Bunyan E Babe Os Amigos Da Floresta
+#EXTINF:-1 tvg-id="" tvg-name="Como Treinar O Seu Dragão 3"tvg-logo="https://br.web.img3.acsta.net/pictures/18/11/13/12/10/5661398.jpg"group-title="FILMES TV FAX filhos",Como Treinar O Seu Dragão 3
+https://ia902706.us.archive.org/25/items/como-treinar-o-seu-dragao-3-tv-fax/Como%20Treinar%20o%20Seu%20Drag%C3%A3o%203%20%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="É Fada"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/ea/%C3%89_Fada.jpeg"group-title="FILMES TV FAX filhos",É Fada
+https://ia802709.us.archive.org/24/items/e-fada-tv-fax/%C3%89%20Fada%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dora E A Cidade Perdida"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/aa/Dora_and_the_Lost_City_of_Gold.jpg"group-title="FILMES TV FAX filhos",Dora E A Cidade Perdida
+https://ia802701.us.archive.org/20/items/dora-e-a-cidade-perdida-tv-fax/Dora%20e%20a%20Cidade%20Perdida%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Emoji O Filme"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxJEtTO_4O4E1OhquWJQqdYMtGAJCFPRyzq7kLbkz647-oDY-bRH12t7nm6YhiXb3jfz4&usqp=CAU"group-title="FILMES TV FAX filhos",Emoji O Filme
+https://ia802707.us.archive.org/12/items/emoji-o-filme-tv-fax/Emoji%20O%20Filme%20%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Em Busca Do Castelo Dourado"tvg-logo="https://i.ytimg.com/vi/3gZZD0ref8c/maxresdefault.jpg"group-title="FILMES TV FAX filhos",Em Busca Do Castelo Dourado
+https://ia902705.us.archive.org/23/items/em-busca-do-castelo-dourado-tv-fax/Em%20Busca%20do%20Castelo%20Dourado%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Encantado "tvg-logo="https://br.web.img2.acsta.net/pictures/18/10/31/18/30/2168951.jpg"group-title="FILMES TV FAX filhos",Encantado 
+https://ia902708.us.archive.org/1/items/encantado-tv-fax/Encantado%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Encren CAo  "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWlqK6sN_7e2sguR4dL_5K4pKjLanhdkguFVmqZ4WLop5W6lOUg9OpzX6qahCqFY5ZWMc&usqp=CAU"group-title="FILMES TV FAX filhos",Encren CAo 
+https://ia902702.us.archive.org/14/items/encren-cao-tv-fax/EncrenCAo%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Felix E O Tesouro De Morgan "tvg-logo="https://www.themoviedb.org/t/p/w500/a4uzmvJEQ251fXF0L4G7D1RdRai.jpg"group-title="FILMES TV FAX filhos",Felix E O Tesouro De Morgan
+https://ia902708.us.archive.org/23/items/felix-e-o-tesouro-de-morgan-tv-fax/Felix%20e%20o%20Tesouro%20de%20Morgan%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gato De Botas Preso Num Conto Epico "tvg-logo="https://i.ytimg.com/vi/0uBMpAndvNE/maxresdefault.jpg"group-title="FILMES TV FAX filhos",Gato De Botas Preso Num Conto Epico
+https://ia902700.us.archive.org/34/items/gato-de-botas-preso-num-conto-epico-tv-fax/Gato%20de%20Botas%20%20Preso%20Num%20Conto%20Epico%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Full Out 2 You Got This "tvg-logo="https://www.cineplayers.com/sites/default/files/posters/2021/08/full_out.jpg"group-title="FILMES TV FAX filhos",Full Out 2 You Got This
+https://ia902704.us.archive.org/13/items/full-out-2-you-got-this-tv-fax/Full%20Out%202%20You%20Got%20This%20TV%20FAX%20%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Grandes Olhos "tvg-logo="https://www.planofeminino.com.br/wp-content/uploads/2016/04/follow-the-colours-big-eyes-olhos-grandes-filme-poster.jpg"group-title="FILMES TV FAX filhos",Grandes Olhos
+https://ia802705.us.archive.org/11/items/grandes-olhos-tv-fax/Grandes%20Olhos%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Futebol Em Apuros "tvg-logo="https://i.ytimg.com/vi/rPgpE_8yl_w/maxresdefault.jpg"group-title="FILMES TV FAX filhos",Futebol Em Apuros
+https://ia902707.us.archive.org/3/items/futebol-em-apuros-tv-fax/Futebol%20em%20Apuros%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gnomeu E Julieta O Mistério Do Jardim  "tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/87/91/37/20028723.jpg"group-title="FILMES TV FAX filhos",Gnomeu E Julieta O Mistério Do Jardim 
+https://ia902708.us.archive.org/25/items/gnomeu-e-julieta-o-misterio-do-jardim-tv-fax/Gnomeu%20e%20Julieta%20O%20Mist%C3%A9rio%20do%20Jardim%20%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem De Ferro E Hulk "tvg-logo="https://i.ytimg.com/vi/U_3hksct1L0/maxresdefault.jpg"group-title="FILMES TV FAX filhos",Homem De Ferro E Hulk
+https://ia902707.us.archive.org/14/items/homem-de-ferro-e-hulk-tv-fax/Homem%20de%20Ferro%20e%20Hulk%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hotel Transilvânia Transformonstrão "tvg-logo="https://br.web.img2.acsta.net/pictures/21/12/21/21/34/4018641.jpg"group-title="FILMES TV FAX filhos",Hotel Transilvânia Transformonstrão
+https://ia902707.us.archive.org/3/items/hotel-transilvania-transformonstrao-tv-fax/Hotel%20Transilv%C3%A2nia%20Transformonstr%C3%A3o%20TV%20FAX%20%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liga Da Justica  "tvg-logo="https://s2.glbimg.com/CJRxuzh0enLW5LGEy76didWveIU=/e.glbimg.com/og/ed/f/original/2017/11/16/liga-da-justica.jpg"group-title="FILMES TV FAX filhos",Liga Da Justica 
+https://ia802702.us.archive.org/35/items/liga-da-justica-tv-fax/Liga%20da%20Justica%20TV%20FAX%20%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Leo Da Vinci Missão Mona Lisa "tvg-logo="https://br.web.img3.acsta.net/pictures/20/07/15/11/52/5207555.jpg"group-title="FILMES TV FAX filhos",Leo Da Vinci Missão Mona Lisa
+https://ia802704.us.archive.org/16/items/leo-da-vinci-missao-mona-lisa-tv-fax/Leo%20Da%20Vinci%20Miss%C3%A3o%20Mona%20Lisa%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ladybug Aventura Dos Insetos "tvg-logo="https://i.ytimg.com/vi/wa7XNK4x3WQ/maxresdefault.jpg"group-title="FILMES TV FAX filhos",Ladybug Aventura Dos Insetos
+https://ia902702.us.archive.org/31/items/ladybug-aventura-dos-insetos-tv-fax/Ladybug%20%20Aventura%20dos%20Insetos%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Liga Da Justiça Ponto De Ignição "tvg-logo="https://br.web.img2.acsta.net/pictures/210/254/21025453_20130807224818013.jpg"group-title="FILMES TV FAX filhos",Liga Da Justiça Ponto De Ignição
+https://ia802701.us.archive.org/12/items/liga-da-justica-ponto-de-ignicao-tv-fax/Liga%20da%20Justi%C3%A7a%20Ponto%20de%20Igni%C3%A7%C3%A3o%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lino Uma Aventura De Sete Vidas "tvg-logo="https://upload.wikimedia.org/wikipedia/pt/a/a0/Lino_-_O_Filme-_Uma_Aventura_de_Sete_Vidas.jpg"group-title="FILMES TV FAX filhos",Lino Uma Aventura De Sete Vidas
+https://ia902708.us.archive.org/5/items/lino-uma-aventura-de-sete-vidas-tv-fax/Lino%20Uma%20Aventura%20de%20Sete%20Vidas%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Zootopia Essa Cidade É O Bicho  "tvg-logo="https://images-americanas.b2w.io/produtos/1274071199/imagens/blu-ray-zootopia-essa-cidade-e-o-bicho/1274071199_1_large.jpg"group-title="FILMES TV FAX filhos",Zootopia Essa Cidade É O Bicho 
+https://ia902707.us.archive.org/3/items/zootopia-essa-cidade-e-o-bicho-tv-fax/Zootopia%20Essa%20Cidade%20%C3%A9%20o%20Bicho%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lightyear  "tvg-logo="https://lumiere-a.akamaihd.net/v1/images/p_disney_lightyear_519_c4636841.jpeg"group-title="FILMES TV FAX filhos",Lightyear 
+https://ia902700.us.archive.org/28/items/lightyear-tv-fax/Lightyear%20%20TV%20FAX%20.mp4
 
 #EXTM3U url-tvg="http://grade-de-FILMES  TV FAX.xml"
 ############## FILMES  TV FAX #################
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES  TV FAX" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name=",Encontro Marcado"tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/91/88/38/20167659.jpg"group-title="FILMES | TV FAX",Encontro Marcado
+https://ia902704.us.archive.org/16/items/encontro-marcado-tv-fax/Encontro%20Marcado%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Covil De Ladrões"tvg-logo="https://2.bp.blogspot.com/-vNPvK0oUtYI/WsZ1o1jKVwI/AAAAAAAAPuA/SlUEtaAsmIUqphR-F3E5hJnc8bVGfNi-gCK4BGAYYCw/s1600/covil%2Bde%2Bladr%25C3%25B5es.png"group-title="FILMES | TV FAX",Covil De Ladrões
+https://ia802709.us.archive.org/32/items/covil-de-ladroes-tv-fax/Covil%20de%20Ladr%C3%B5es%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Esquadrão Tigre"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/a7db7c2a0fd02fa0ad1910c35d0090e5b9813396ef18cf079683e38507d2a830._RI_TTW_.jpg"group-title="FILMES | TV FAX",Esquadrão Tigre
+https://ia902708.us.archive.org/7/items/esquadrao-tigre-tv-fax/Esquadr%C3%A3o%20Tigre%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Espécies Em Perigo"tvg-logo="https://cdn.fstatic.com/media/movies/covers/2021/04/318725_background.jpg"group-title="FILMES | TV FAX",Espécies Em Perigo
+https://ia802707.us.archive.org/15/items/especies-em-perigo-tv-fax/Esp%C3%A9cies%20em%20Perigo%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Hellboy"tvg-logo="https://uploads.jovemnerd.com.br/wp-content/uploads/2017/05/v-hellboy-ron-perlman-1-1210x540.jpg"group-title="FILMES | TV FAX",Hellboy
+https://ia902708.us.archive.org/26/items/hellboy-tv-fax/Hellboy%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Guerreiro Da Escuridão"tvg-logo="https://i.ytimg.com/vi/zA2Kd613zz8/maxresdefault.jpg"group-title="FILMES | TV FAX",Guerreiro Da Escuridão
+https://ia802700.us.archive.org/14/items/guerreiro-da-escuridao-tv-fax/Guerreiro%20da%20Escurid%C3%A3o%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Golpes De Vingança"tvg-logo="https://br.web.img3.acsta.net/pictures/22/02/01/11/20/3547125.jpg"group-title="FILMES | TV FAX",Golpes De Vingança 
+https://ia902703.us.archive.org/35/items/golpes-de-vinganca-tv-fax/Golpes%20de%20Vingan%C3%A7a%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Happy Hour Verdades E Consequencias"tvg-logo="https://i.ytimg.com/vi/TRZwqEp1InA/maxresdefault.jpg"group-title="FILMES | TV FAX",Happy Hour Verdades E Consequencias
+https://ia902705.us.archive.org/23/items/happy-hour-verdades-e-consequencias-tv-fax/Happy%20Hour%20%20Verdades%20e%20Consequencias%20TV%20FAX%20%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Jogos Vorazes A Esperança O Final"tvg-logo="https://i.ytimg.com/vi/fTbS1dQCfRI/maxresdefault.jpg"group-title="FILMES | TV FAX",Jogos Vorazes A Esperança O Final
+https://ia802703.us.archive.org/0/items/jogos-vorazes-a-esperanca-o-final-tv-fax/Jogos%20Vorazes%20A%20Esperan%C3%A7a%20O%20Final%20%20TV%20FAX%20%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Jogo Duplo "tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/63/JogoDuploposter.jpg"group-title="FILMES | TV FAX",Jogo Duplo
+https://ia802705.us.archive.org/29/items/jogo-duplo-tv-fax/Jogo%20Duplo%20%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Kickboxer A Retaliacao"tvg-logo="https://i.ytimg.com/vi/o9ugLo1_H4g/maxresdefault.jpg"group-title="FILMES | TV FAX",Kickboxer A Retaliacao
+https://ia802707.us.archive.org/32/items/kickboxer-a-retaliacao-tv-fax/Kickboxer%20A%20Retaliacao%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Justiça Sem Fronteiras"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQplgIc59NrCQgvO3AMugqD04es4RRyvwBHHIX4m3xCDYjE4aBNhy9hxcO7wzQPNjGWeuE&usqp=CAU"group-title="FILMES | TV FAX",Justiça Sem Fronteiras
+https://ia902709.us.archive.org/28/items/justica-sem-fronteiras-tv-fax/Justi%C3%A7a%20Sem%20Fronteiras%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",John Wick 3 Parabellum"tvg-logo="https://br.web.img3.acsta.net/pictures/19/04/03/21/31/0977319.jpg"group-title="FILMES | TV FAX",John Wick 3 Parabellum 
+https://ia802704.us.archive.org/24/items/john-wick-3-parabellum-tv-fax/John%20Wick%203%20Parabellum%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Lukas"tvg-logo="https://br.web.img3.acsta.net/pictures/18/07/02/09/55/5510870.jpg"group-title="FILMES | TV FAX",Lukas
+https://ia902703.us.archive.org/30/items/lukas-tv-fax/Lukas%20%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Marcados Pela Guerra"tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/15/07/09/21/24/507139.jpg"group-title="FILMES | TV FAX",Marcados Pela Guerra
+https://ia902703.us.archive.org/31/items/marcados-pela-guerra-tv-fax/Marcados%20Pela%20Guerra%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Lutando Pela Vida"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjbLIwhJkJXMP4xTH93yaMEDtvBIj3EUTepkQ13KSgVJU4LZNphJ-ch-s87f2LlahBc9M&usqp=CAU"group-title="FILMES | TV FAX",Lutando Pela Vida
+https://ia902703.us.archive.org/21/items/lutando-pela-vida-tv-fax/Lutando%20Pela%20Vida%20TV%20FAX%20.mp4?cnt=0
+#EXTINF:-1 tvg-id="" tvg-name=",Lutador Misterioso"tvg-logo="https://i.ytimg.com/vi/diK38nFGkL8/maxresdefault.jpg"group-title="FILMES | TV FAX",Lutador Misterioso
+https://ia802706.us.archive.org/0/items/lutador-misterioso-tv-fax/Lutador%20Misterioso%20TV%20FAX%20.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name=",Kung Fu Mortal"tvg-logo="https://images.justwatch.com/poster/138296108/s718/ge-ren-de-wu-lin.%7Bformat%7D"group-title="FILMES | TV FAX",Kung Fu Mortal
+https://ia902702.us.archive.org/7/items/kung-fu-mortal-tv-fax/Kung%20Fu%20Mortal%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Jack Reacher Sem Retorno"tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/E4F9E3781DA64A6ECEA45B1773BBAD0FF9A7D08489C92E272C64FEC35D033F49/scale?width=506&aspectRatio=2.00&format=jpeg"group-title="FILMES | TV FAX",Jack Reacher Sem Retorno
+https://ia802707.us.archive.org/1/items/jack-reacher-sem-retorno-tv-fax/Jack%20Reacher%20Sem%20Retorno%20TV%20FAX%20%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Invencível Caminho Da Redenção"tvg-logo="https://i.ytimg.com/vi/vGEf0JMs00Y/maxresdefault.jpg"group-title="FILMES | TV FAX",Invencível Caminho Da Redenção
+https://ia802705.us.archive.org/14/items/invencivel-caminho-da-redencao-tv-fax/Invenc%C3%ADvel%20Caminho%20da%20Reden%C3%A7%C3%A3o%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Inocência Roubada"tvg-logo="https://i.ytimg.com/vi/InzlyXMDHps/maxresdefault.jpg"group-title="FILMES | TV FAX",Inocência Roubada 
+https://ia802703.us.archive.org/7/items/inocencia-roubada-tv-fax/Inoc%C3%AAncia%20Roubada%20%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Infinito"tvg-logo="https://cinepop.com.br/wp-content/uploads/2021/05/infinito-1.jpg"group-title="FILMES | TV FAX",Infinito
+https://ia802703.us.archive.org/21/items/infinito-tv-fax/Infinito%20%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Hora De Recomeçar"tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/19/03/18/22/15/0090467.jpg"group-title="FILMES | TV FAX",Hora De Recomeçar
+https://ia802704.us.archive.org/22/items/hora-de-recomecar-tv-fax/Hora%20de%20Recome%C3%A7ar%20%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Invencível Caminho Da Redenção"tvg-logo="https://i.ytimg.com/vi/vGEf0JMs00Y/maxresdefault.jpg"group-title="FILMES | TV FAX",
+
+#EXTINF:-1 tvg-id="" tvg-name=",Fome De Sucesso"tvg-logo="https://occ-0-55-33.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABaJn6Y9Cm8RjvZOhcmwFezJsNyWyJpp12aEax04XJGDFZgMBlrvWcGyiSXkwDR6sE2QijFd74OEXgmogi8d4xS28RBMzafn8hhSsvlJeUOZ2Dju6Tn9SUcpo9BhvJV-QZ6TVJQ.jpg?r=d77"group-title="FILMES | TV FAX",Fome De Sucesso
+https://ia802706.us.archive.org/0/items/fome-de-sucesso-tv-fax/Fome%20de%20Sucesso%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Frontera"tvg-logo="https://br.web.img2.acsta.net/pictures/14/06/09/19/58/588300.jpg"group-title="FILMES | TV FAX",Frontera
+https://ia802708.us.archive.org/34/items/frontera-tv-fax/Frontera%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Fortaleza O Olhar Do Sniper"tvg-logo="https://i.ytimg.com/vi/8nFnit63its/maxresdefault.jpg"group-title="FILMES | TV FAX",Fortaleza O Olhar Do Sniper
+https://ia902709.us.archive.org/6/items/fortaleza-o-olhar-do-sniper-tv-fax/Fortaleza%20O%20Olhar%20Do%20Sniper%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Free Solo"tvg-logo="https://lumiere-a.akamaihd.net/v1/images/docfilmswebsite_1080x1600_freesolo_91d7bed0.jpeg"group-title="FILMES | TV FAX",Free Solo
+https://ia902708.us.archive.org/16/items/free-solo-tv-fax/Free%20Solo%20%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Filha De Deus"tvg-logo="https://i.ytimg.com/vi/DALrDfYQqps/maxresdefault.jpg"group-title="FILMES | TV FAX",Filha De Deus
+https://ia902701.us.archive.org/13/items/filha-de-deus-tv-fax/Filha%20de%20Deus%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Fim Da Estrada"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVGZsCS8ZjHi18QCNldTJ5NBlcM0lFfFBcszWu84naFBuFZ1Lf6_IgxyuO1VDv9s0x5qk&usqp=CAU"group-title="FILMES | TV FAX",Fim Da Estrada
+https://ia902704.us.archive.org/1/items/fim-da-estrada-tv-fax/Fim%20da%20Estrada%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Esquadrão TrovAo"tvg-logo="https://br.web.img3.acsta.net/pictures/21/03/04/09/59/1988997.jpg"group-title="FILMES | TV FAX",Esquadrão TrovAo
+https://ia802706.us.archive.org/12/items/esquadrao-trov-ao-tv-fax/Esquadr%C3%A3o%20TrovAo%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Está Tudo Bem"tvg-logo="https://m.media-amazon.com/images/I/91hsf8CupEL._AC_UF1000,1000_QL80_.jpg"group-title="FILMES | TV FAX",Está Tudo Bem
+https://ia802706.us.archive.org/34/items/esta-tudo-bem-tv-fax/Est%C3%A1%20Tudo%20Bem%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Esperando Por Você"tvg-logo="https://m.media-amazon.com/images/I/71bwjFdV9uL._AC_UF1000,1000_QL80_.jpg"group-title="FILMES | TV FAX",Esperando Por Você
+https://ia902706.us.archive.org/0/items/esperando-por-voce-tv-fax/Esperando%20por%20Voc%C3%AA%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Encontrando O Amor Em Sugarcreek"tvg-logo="https://i.ytimg.com/vi/efUO1vBlF6s/maxresdefault.jpg"group-title="FILMES | TV FAX",Encontrando O Amor Em Sugarcreek
+https://ia902709.us.archive.org/5/items/encontrando-o-amor-em-sugarcreek-tv-fax/Encontrando%20o%20Amor%20em%20Sugarcreek%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Em Busca De Vingança"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn1mYVAgS2kGCTXlJ41oUl8F3ojFwhH6cFRzOdOe8gSholdp6qe7jZGkakQRvhrOD4ssQ&usqp=CAU"group-title="FILMES | TV FAX",Em Busca De Vingança
+https://ia902703.us.archive.org/14/items/em-busca-de-vinganca-tv-fax/Em%20Busca%20de%20Vingan%C3%A7a%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Em Busca Do Assassino"tvg-logo="https://br.web.img3.acsta.net/pictures/18/09/12/22/05/1166696.jpg"group-title="FILMES | TV FAX",Em Busca Do Assassino
+https://ia902708.us.archive.org/1/items/em-busca-do-assassino-tv-fax/Em%20Busca%20Do%20Assassino%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Domando O Destino"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCKHFqtmp6dJiWF0AviAMG252WyD-v5TnUqku1PCrv5g8YtTU1lou4Y1XZpkBetX2Ri1Q&usqp=CAU"group-title="FILMES | TV FAX",Domando O Destino
+https://ia902702.us.archive.org/21/items/domando-o-destino-tv-fax/Domando%20o%20Destino%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Deus Não Está Morto"tvg-logo="https://deveserisso.com.br/blog/wp-content/uploads/2020/07/deus-nao-esta-morto.jpg"group-title="FILMES | TV FAX",Deus Não Está Morto
+https://ia902706.us.archive.org/23/items/deus-nao-esta-morto-tv-fax/Deus%20N%C3%A3o%20Est%C3%A1%20Morto%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Davi Vs. Golias A Batalha Da Fé"tvg-logo="https://ottvsimg.ottvs.com.br/cov/a2.055700/0055700_335.jpg"group-title="FILMES | TV FAX",Davi Vs. Golias A Batalha Da Fé
+https://ia902700.us.archive.org/16/items/davi-vs.-golias-a-batalha-da-fe-tv-fax/Davi%20vs.%20Golias%20A%20Batalha%20Da%20F%C3%A9%20%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Corações De Ferro"tvg-logo="https://br.web.img3.acsta.net/pictures/14/10/28/21/28/104479.jpg"group-title="FILMES | TV FAX",Corações De Ferro
+https://ia802701.us.archive.org/34/items/coracoes-de-ferro-tv-fax/Cora%C3%A7%C3%B5es%20de%20Ferro%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Correndo Contra O Tempo"tvg-logo="https://static21.minhalojanouol.com.br/1films/produto/multifotos/hd/20210108172115_5764994236_DMZ.png"group-title="FILMES | TV FAX",Correndo Contra O Tempo
+https://ia902706.us.archive.org/26/items/correndo-contra-o-tempo-tv-fax/Correndo%20Contra%20o%20Tempo%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Blank"tvg-logo="https://cafecomnerd.com.br/wp-content/uploads/2022/08/BLANK-Terror-de-ficcao-cientifica-com-inteligencia-artificial-e-androides-dirigido-por-Natalie-Kennedy-poster1.jpg"group-title="FILMES | TV FAX",Blank
+https://ia902702.us.archive.org/32/items/blank-dublado-filmes-tv-fax/Blank%20Dublado%20Filmes%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Cadáver"tvg-logo="https://resenhandosonhos.com/wp-content/uploads/2019/03/filme.png"group-title="FILMES | TV FAX",Cadáver
+https://ia802701.us.archive.org/17/items/cadaver-filmes-tv-fax/Cad%C3%A1ver%20FilmesTV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Capitã Marvel"tvg-logo="https://i0.wp.com/cromossomonerd.com.br/wp-content/uploads/2018/09/capit%C3%A3-marvel-capa.png?fit=1068%2C600&ssl=1"group-title="FILMES | TV FAX",Capitã Marvel
+https://ia802707.us.archive.org/4/items/capita-marvel-filmes-tv-fax/Capit%C3%A3%20Marvel%20%20Filmes%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Capitão América 2 O Soldado Invernal"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW-oYkMaeTM_FMNpScdDDqzFqcgjBIS76fDwERzyOMj_YcG4qbwa6VXHJe2ZuuObwkDAU&usqp=CAU"group-title="FILMES | TV FAX",Capitão América 2 O Soldado Invernal
+https://ia802703.us.archive.org/15/items/capitao-america-2-o-soldado-invernal-tv-fax/Capit%C3%A3o%20Am%C3%A9rica%202%20O%20Soldado%20Invernal%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",AMIGOS PARA SEMPRE"tvg-logo="https://br.web.img3.acsta.net/pictures/18/12/04/00/00/2486936.jpg"group-title="FILMES | TV FAX",AMIGOS PARA SEMPRE
+https://ia802700.us.archive.org/0/items/amigos-para-sempre-tv-fax/Amigos%20para%20Sempre%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Intocaveis"tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/89/89/00/20143859.jpg"group-title="FILMES | TV FAX",Intocaveis 
+https://ia802707.us.archive.org/1/items/intocaveis-filmes-tv-fax-hd/Intocaveis%20Filmes%20TV%20FAX%20HD.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",A Última Gargalhada"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYZupOdzlCXqjHm3i8BH8EOt12lo82XJToUvpq3vLniJlO_Suashydiey3AIG_XL1gpGg&usqp=CAU"group-title="FILMES | TV FAX",A Última Gargalhada
+https://ia902700.us.archive.org/7/items/a-ultima-gargalhada-tv-fax/A%20%C3%9Altima%20Gargalhada%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",A Grande Batalha"tvg-logo="https://media.fstatic.com/w5FUqG5hRVbe5Xoz5JT2tmOgTBs=/322x478/smart/filters:format(webp)/media/movies/covers/2018/10/imagesh.jpg"group-title="FILMES | TV FAX",A Grande Batalha
+https://ia902709.us.archive.org/24/items/a-grande-batalha-tv-fax/A%20Grande%20Batalha%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Apenas Nós "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtJldrWTnexi_Irp4abLRE8Pq5kFAGuOTB6rfvS_hewuU2wBxpcFeM2fziLolwc2MsTY8&usqp=CAU"group-title="FILMES | TV FAX",Apenas Nós 
+https://ia902707.us.archive.org/15/items/apenas-nos-tv-fax/Apenas%20N%C3%B3s%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",ATOMICA"tvg-logo="https://br.web.img3.acsta.net/pictures/17/06/12/16/35/052588.jpg"group-title="FILMES | TV FAX",ATOMICA
+https://ia802705.us.archive.org/27/items/atomica-tv-fax/At%C3%B4mica%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Amado"tvg-logo="https://br.web.img3.acsta.net/pictures/22/05/30/23/21/5545869.jpg"group-title="FILMES | TV FAX",Amado
+https://ia902706.us.archive.org/33/items/amado-tv-fax/Amado%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Beleza Oculta"tvg-logo="https://i.ytimg.com/vi/33OeJux-8iA/maxresdefault.jpg"group-title="FILMES | TV FAX",Beleza Oculta
+https://ia802603.us.archive.org/13/items/beleza-oculta-tv-fax/Beleza%20Oculta%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Black Water Perigo No Oceano"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8mOC53kdWq-nWqoSR7-xnZfGpipnFyM_xfAiYAq3tZh3lq_u0wB-bfkucBQovGpwLG-o&usqp=CAU"group-title="FILMES | TV FAX",Black Water Perigo No Oceano
+https://ia802705.us.archive.org/9/items/black-water-perigo-no-oceano-tv-fax/Black%20Water%20Perigo%20no%20Oceano%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Aquarius"tvg-logo="https://observasp.files.wordpress.com/2016/10/aquarius_divulga.jpg"group-title="FILMES | TV FAX",Aquarius
+https://ia802603.us.archive.org/30/items/aquarius-tv-fax/Aquarius%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",A Revolução Em Paris"tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/19/06/06/15/47/1830506.jpg"group-title="FILMES | TV FAX",A Revolução Em Paris
+https://ia802709.us.archive.org/12/items/a-revolucao-em-paris-tv-fax/A%20Revolu%C3%A7%C3%A3o%20em%20Paris%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",A Saga Viking"tvg-logo="https://ottvsimg.ottvs.com.br/cov/eli.060232/0060232_335.jpg"group-title="FILMES | TV FAX",A Saga Viking 
+https://ia902703.us.archive.org/11/items/a-saga-viking-tv-fax/A%20Saga%20Viking%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",AMOR  DE SAFARI"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCNU945qxYVspwdThNmxRgdm5ffcg-4eXjoRs0yZBxc9kJG6yQKztHrwBMCQaf9P1_vuE&usqp=CAU"group-title="FILMES | TV FAX",AMOR  DE SAFARI
+https://ia802705.us.archive.org/0/items/amor-no-safari-tv-fax/Amor%20no%20Safari%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Aliança Mortal"tvg-logo="https://br.web.img3.acsta.net/pictures/14/12/15/17/37/507508.jpg"group-title="FILMES | TV FAX",Aliança Mortal
+https://ia902709.us.archive.org/9/items/alianca-mortal-tv-fax/Alian%C3%A7a%20Mortal%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Adeus Christopher Robin"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9iAJG4apk4AxuZZi7iuAvtBDbt5wiOeH0sEtbGHQc7lusCH7YXhQ3HdyVBkFOQm35DIs&usqp=CAU"group-title="FILMES | TV FAX",Adeus Christopher Robin
+https://ia902704.us.archive.org/10/items/adeus-christopher-robin-tv-fax/Adeus%20Christopher%20Robin%20%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",A Vingança De Lefty Brown"tvg-logo="https://cdn.fstatic.com/media/movies/covers/2018/10/UVM_TheBalladOfLeftBrown_850x478.jpg"group-title="FILMES | TV FAX",A Vingança De Lefty Brown
+https://ia902604.us.archive.org/18/items/a-vinganca-de-lefty-brown-tv-fax/A%20Vingan%C3%A7a%20de%20Lefty%20Brown%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",A Professora Do Jardim De Infância"tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/18/08/09/19/49/5188183.jpg"group-title="FILMES | TV FAX",A Professora Do Jardim De Infância
+https://ia902703.us.archive.org/24/items/a-professora-do-jardim-de-infancia-tv-fax/A%20Professora%20do%20Jardim%20de%20Inf%C3%A2ncia%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",A Vigilante"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/19f38bf9270a26e2fa6d1cbc18ad5721652d27cae569ff944542634d32e3762d._RI_TTW_.jpg"group-title="FILMES | TV FAX",A Vigilante
+https://ia902703.us.archive.org/5/items/a-vigilante-tv-fax/A%20Vigilante%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Afunde O Navio"tvg-logo="https://cinema10.com.br/upload/filmes/filmes_14818_MV5BZjU2ODg2ODEtZGEyZi00YWVjLTg1NTMtMzZkNDNhMDhjY2NhXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg"group-title="FILMES | TV FAX",Afunde O Navio
+https://ia902705.us.archive.org/4/items/afunde-o-navio-tv-fax/Afunde%20o%20Navio%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",A Outra Filha"tvg-logo="https://cdn.mitvstatic.com/programs/br_a-outra-filha-2017_l_m.jpg"group-title="FILMES | TV FAX",A Outra Filha
+https://ia902603.us.archive.org/28/items/a-outra-filha-tv-fax/A%20Outra%20Filha%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",A Oração Não Falha"tvg-logo="https://i0.wp.com/escolabiblicaonline.net/wp-content/uploads/2020/12/maxresdefault-65.jpg?resize=560%2C416&ssl=1"group-title="FILMES | TV FAX",A Oração Não Falha
+https://ia802604.us.archive.org/28/items/a-oracao-nao-falha-tv-fax/A%20Ora%C3%A7%C3%A3o%20N%C3%A3o%20Falha%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",A Mulher Milagrosa"tvg-logo="https://media.fstatic.com/ffZJakFKx2z4912uAfx3zB7qOIY=/322x478/smart/filters:format(webp)/media/movies/covers/2019/09/Sister-Aimee-Poster-677x1024.jpg"group-title="FILMES | TV FAX",A Mulher Milagrosa
+https://ia902702.us.archive.org/31/items/a-mulher-milagrosa-tv-fax/A%20Mulher%20Milagrosa%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",A Garota No Trem"tvg-logo="https://cinepop.com.br/wp-content/uploads/2016/10/garotanotrem_3.jpg"group-title="FILMES | TV FAX",A Garota No Trem
+https://ia802705.us.archive.org/27/items/a-garota-no-trem-tv-fax/A%20Garota%20no%20Trem%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",A Baleia"tvg-logo="https://d1x4bjge7r9nas.cloudfront.net/wp-content/uploads/2023/02/27184301/HUY-3.jpg"group-title="FILMES | TV FAX",A Baleia
+https://ia802704.us.archive.org/15/items/a-baleia-filmes-tv-fax-hd/A%20BaleiaFilmes%20TV%20FAX%20%20HD.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",365 Dias Finais"tvg-logo="https://engenhariadocinema.com.br/wp-content/uploads/2022/08/365-Dias-Finais-Poster.jpg"group-title="FILMES | TV FAX",365 Dias Finais
+https://ia902603.us.archive.org/9/items/365-dias-finais-filmes-tv-fax-hd/365%20Dias%20Finais%20Filmes%20TV%20FAX%20HD.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Destruição Final O Último Refúgio "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ0lz-NRK_wz4qb57xG5kI1ePmyqhZxgDfWtiobIi0ofuk0o8BywrH-X1xrnbAxboFJiY&usqp=CAU"group-title="FILMES | TV FAX",Destruição Final O Último Refúgio 
 https://ia902604.us.archive.org/35/items/destruicao-final-o-ultimo-refugio-tv-fax/Destrui%C3%A7%C3%A3o%20Final%20O%20%C3%9Altimo%20Ref%C3%BAgio%20%20TV%20FAX%20%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Cabras Da Peste"tvg-logo="https://i.ytimg.com/vi/jxTC0ZUE6XQ/maxresdefault.jpg"group-title="FILMES | TV FAX",Cabras Da Peste
@@ -3253,17 +3474,17 @@ https://ia802706.us.archive.org/2/items/a-menina-que-acredita-em-milagres-tv-fax
 https://ia601601.us.archive.org/17/items/borrego-saia-do-caminho-tv-fax/Borrego%20Saia%20do%20Caminho%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BAC Nord Sob Pressão"tvg-logo="https://br.web.img3.acsta.net/pictures/21/06/07/13/11/2832970.jpg"group-title="FILMES | TV FAX",BAC Nord Sob Pressão
 https://ia802700.us.archive.org/19/items/bac-nord-sob-pressao-tv-fax/BAC%20Nord%20Sob%20Press%C3%A3o%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Assassino Sem Rastro  "tvg-logo="https://br.web.img3.acsta.net/pictures/22/04/27/20/43/3791178.jpg"group-title="FILMES | TV FAX",Assassino Sem Rastro 
+#EXTINF:-1 tvg-id="" tvg-name="Assassino Sem Rastro"tvg-logo="https://br.web.img3.acsta.net/pictures/22/04/27/20/43/3791178.jpg"group-title="FILMES | TV FAX",Assassino Sem Rastro 
 https://ia802701.us.archive.org/26/items/assassino-sem-rastro-tv-fax/Assassino%20Sem%20Rastro%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alerta Máximo "tvg-logo="https://vitaminanerd.com.br/wp-content/uploads/2023/01/Alerta-maximo-filme-opiniao-vitamina-nerd.jpg"group-title="FILMES | TV FAX",Alerta Máximo
+#EXTINF:-1 tvg-id="" tvg-name="Alerta Máximo"tvg-logo="https://vitaminanerd.com.br/wp-content/uploads/2023/01/Alerta-maximo-filme-opiniao-vitamina-nerd.jpg"group-title="FILMES | TV FAX",Alerta Máximo
 https://ia802703.us.archive.org/24/items/alerta-maximo-filmes-tv-fax/Alerta%20M%C3%A1ximo%20Filmes%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ah, Belinda  "tvg-logo="https://i.ytimg.com/vi/SRJRcLNV2bg/sddefault.jpg"group-title="FILMES | TV FAX",Ah, Belinda 
+#EXTINF:-1 tvg-id="" tvg-name="Ah, Belinda"tvg-logo="https://i.ytimg.com/vi/SRJRcLNV2bg/sddefault.jpg"group-title="FILMES | TV FAX",Ah, Belinda 
 https://ia902604.us.archive.org/15/items/ah-belinda-filmes-tv-fax/Ah%2C%20Belinda%20Filmes%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chamada Explosiva "tvg-logo="https://br.web.img2.acsta.net/pictures/21/03/04/11/07/5567757.jpg"group-title="FILMES | TV FAX",Chamada Explosiva
+#EXTINF:-1 tvg-id="" tvg-name="Chamada Explosiva"tvg-logo="https://br.web.img2.acsta.net/pictures/21/03/04/11/07/5567757.jpg"group-title="FILMES | TV FAX",Chamada Explosiva
 https://ia802707.us.archive.org/8/items/chamada-explosiva-tv-fax/Chamada%20Explosiva%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Poder E O Impossível"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrB59bkueX2EH0qJeZI6PEkoFPX4cm2Q-0tNdqVepQYOjloWaSVy96GrXvILoT0_CspSg&usqp=CAU"group-title="FILMES | TV FAX",O Poder E O Impossível
 https://ia902603.us.archive.org/3/items/o-poder-e-o-impossivel-tv-fax-filmes/O%20Poder%20e%20o%20Imposs%C3%ADvel%20%20TV%20FAX%20Filmes%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Predador A Caçada "tvg-logo="https://br.web.img2.acsta.net/pictures/22/08/03/21/52/3429780.jpg"group-title="FILMES | TV FAX",O Predador A Caçada 
+#EXTINF:-1 tvg-id="" tvg-name="O Predador A Caçada"tvg-logo="https://br.web.img2.acsta.net/pictures/22/08/03/21/52/3429780.jpg"group-title="FILMES | TV FAX",O Predador A Caçada 
 https://ia902704.us.archive.org/12/items/o-predador-a-cacada-filmes-tv-fax-hd/O%20Predador%20A%20Ca%C3%A7ada%20Filmes%20TV%20FAX%20HD.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Justiceiro"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCXSXmS8YqEctS-ygMChbcqL6RvIu8OxW9CHCuyXhN2LSkloOHfnsaT4LLLJC-YqlcEY&usqp=CAU"group-title="FILMES | TV FAX",O Justiceiro
 https://ia802702.us.archive.org/1/items/o-justiceiro-tv-fax-hd/O%20Justiceiro%20TV%20FAX%20HD.mp4
@@ -3285,13 +3506,11 @@ https://ia902602.us.archive.org/33/items/meu-nome-e-radio-filmes-tv-fax-hd/Meu%2
 https://ia902700.us.archive.org/3/items/na-selva-online-filmes-tv-fax-hd/Na%20Selva%20Online%20%20Filmes%20TV%20FAX%20HD.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Nosso Amor"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNU4A0LPMbyMXnOW32UgHeCpH7rqMzqkglU6UVkfSiB3P6r4_24i45_HtY0sN-zDr2e-I&usqp=CAU"group-title="FILMES | TV FAX",Nosso Amor
 https://ia902700.us.archive.org/19/items/nosso-amor-filmes-tv-fax-hd/Nosso%20Amor%20%20Filmes%20TV%20FAX%20HD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Intocaveis"tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/89/89/00/20143859.jpg"group-title="FILMES | TV FAX",Intocaveis 
-https://ia802707.us.archive.org/1/items/intocaveis-filmes-tv-fax-hd/Intocaveis%20Filmes%20TV%20FAX%20HD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mais Que Vencedores "tvg-logo="https://musicart.xboxlive.com/7/a2405100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080"group-title="FILMES | TV FAX",Mais Que Vencedores 
+#EXTINF:-1 tvg-id="" tvg-name="Mais Que Vencedores"tvg-logo="https://musicart.xboxlive.com/7/a2405100-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080"group-title="FILMES | TV FAX",Mais Que Vencedores 
 https://ia802609.us.archive.org/14/items/mais-que-vencedores-filmes-tv-fax-hd/Mais%20que%20Vencedores%20%20Filmes%20TV%20FAX%20%20HD.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fogo Cruzado"tvg-logo="https://i.ytimg.com/vi/PNziDdB0Vsc/mqdefault.jpg"group-title="FILMES | TV FAX",Fogo Cruzado
 https://ia802601.us.archive.org/9/items/fogo-cruzado-filmes-tv-fax-hd/Fogo%20Cruzado%20%20Filmes%20TV%20FAX%20HD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="De Repente Uma Família "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJwMFbRnWi-zWlbpC4VQnlik3aIywjmvtYRfzRL2MjTK7THw_qgb3WMQ7-kNz7Su-Cqqk&usqp=CAU"group-title="FILMES | TV FAX",De Repente Uma Família 
+#EXTINF:-1 tvg-id="" tvg-name="De Repente Uma Família"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJwMFbRnWi-zWlbpC4VQnlik3aIywjmvtYRfzRL2MjTK7THw_qgb3WMQ7-kNz7Su-Cqqk&usqp=CAU"group-title="FILMES | TV FAX",De Repente Uma Família 
 https://ia802703.us.archive.org/2/items/de-repente-uma-familia-filmes-tv-fax/De%20Repente%20Uma%20Fam%C3%ADlia%20Filmes%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Decisão"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu7mYEdpsQ0YOwQ-HzoXGJST4374Ng-Vcxl_Nt5tXvfF9Yth2dKOxyvaYWSJqXLNnYSsE&usqp=CAU"group-title="FILMES | TV FAX",Decisão
 https://ia802608.us.archive.org/2/items/decisao-filmes-tv-fax-hd/Decis%C3%A3o%20%20Filmes%20%20TV%20FAX%20HD.mp4
@@ -3473,6 +3692,7 @@ https://play.prod.gcp.vix.services/werewolf_pt/werewolf_pt_1-1/play_v1_hls_1080p
 https://play.prod.gcp.vix.services/solo_en/solo_en_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gato de Botas 2: O Último Pedido" tvg-logo="https://i.imgur.com/N0YfGEs.png"group-title="FILMES | TV FAX",Gato de Botas 2: O Último Pedido
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83314
+
 #EXTINF:-1 tvg-id="" tvg-name="O Menino Cego Órfão De Pai E Mãe Nelinho De Deus Faça Alguma Coisa Vídeo Oficial. DM MÚSICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccoLYcVcoEyQ1n132A_B9DYT9lX57mrFFHjX_NG5zJt9jSSKByqsXWrHKwrpCgGG_xrs&usqp=CAU"group-title="FILMES | TV FAX",O Menino Cego Órfão De Pai E Mãe Nelinho De Deus Faça Alguma Coisa Vídeo Oficial. DM MÚSICA
 https://ia902700.us.archive.org/9/items/o-menino-cego-orfao-de-pai-e-mae-nelinho-de-deus-faca-alguma-coisa-video-official.-dm-music/O%20menino%20Cego%20%C3%B3rf%C3%A3o%20de%20pai%20e%20m%C3%A3e%20%20Nelinho%20de%20Deus%20_fa%C3%A7a%20alguma%20coisa%20%20Video%20Official.%20DM-MUSIC.ia.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Stan e Ollie - O Gordo e o Magro - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMk8iriC4lSPXG3HVmNqo13pHHJ.jpg"group-title="FILMES | TV FAX",Stan e Ollie - O Gordo e o Magro - 2018
