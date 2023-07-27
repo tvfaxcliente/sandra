@@ -957,35 +957,35 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
 #EXTINF:-1 tvg-id="AlphaChannel.br" tvg-logo="https://i.imgur.com/c1QqslA.png" group-title="CANAIS no Brasil",Alpha Channel
 https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
 
-#EXTM3U url-tvg=" http://grade-de-Canais  SBT.xml "
- ############## Canais  SBT ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais  SBT" group-title="
+#EXTM3U url-tvg=" http://grade-de-Canais SBT.xml "
+ ############## Canais SBT ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais SBT" group-title="
 
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - 4K" tvg-logo="https://tinyurl.com/u9csbt" group-title="SBT",SBT - 4K
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - 4K" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT - 4K
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/54298
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - FHD" tvg-logo="https://tinyurl.com/u9csbt" group-title="SBT",SBT - FHD
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - FHD" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83669
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - h265²" tvg-logo="https://tinyurl.com/u9csbt" group-title="SBT",SBT - h265²
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - h265²" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT - h265²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83668
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - HD" tvg-logo="https://tinyurl.com/u9csbt" group-title="SBT",SBT - HD
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - HD" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83666
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - SD" tvg-logo="https://tinyurl.com/u9csbt" group-title="SBT",SBT - SD
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT - SD" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83665
-#EXTINF:-1 tvg-id="" tvg-name="SBT BRASILIA - HD" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="SBT",SBT BRASILIA - HD
+#EXTINF:-1 tvg-id="" tvg-name="SBT BRASILIA - HD" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="Canais SBT",SBT BRASILIA - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138781367
-#EXTINF:-1 tvg-id="" tvg-name="SBT PARA -HD" tvg-logo="https://tinyurl.com/u9csbt" group-title="SBT",SBT PARA -HD
+#EXTINF:-1 tvg-id="" tvg-name="SBT PARA -HD" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT PARA -HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/1385357
-#EXTINF:-1 tvg-id="" tvg-name="SBT PARANÁ" tvg-logo="https://tinyurl.com/u9csbt" group-title="SBT",SBT PARANÁ
+#EXTINF:-1 tvg-id="" tvg-name="SBT PARANÁ" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT PARANÁ
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138767949
-#EXTINF:-1 tvg-id="" tvg-name="SBT RECIFE TV JORNAL - H264" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="SBT",SBT RECIFE TV JORNAL - H264
+#EXTINF:-1 tvg-id="" tvg-name="SBT RECIFE TV JORNAL - H264" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="Canais SBT",SBT RECIFE TV JORNAL - H264
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138781368
-#EXTINF:-1 tvg-id="" tvg-name="SBT REDE MASSA" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="SBT",SBT REDE MASSA
+#EXTINF:-1 tvg-id="" tvg-name="SBT REDE MASSA" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="Canais SBT",SBT REDE MASSA
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138761814
-#EXTINF:-1 tvg-id="" tvg-name="SBT SC - H264" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="SBT",SBT SC - H264
+#EXTINF:-1 tvg-id="" tvg-name="SBT SC - H264" tvg-logo="http://uione.dadg.today:80/images/gIxRDUoM8qPQmJPoTBRJ1J0x5-ruTxVM25lVc5IWOUn0KP0Vui12kpnMwNm0OYQ5ZRyXmyr4v4VNHsOfs5_Y5g.jpg" group-title="Canais SBT",SBT SC - H264
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138774685
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP - HD" tvg-logo="https://tinyurl.com/u9csbt" group-title="SBT",SBT SP - HD
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP - HD" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT SP - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/320223
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP - SD²" tvg-logo="https://tinyurl.com/u9csbt" group-title="SBT",SBT SP - SD²
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP - SD²" tvg-logo="https://tinyurl.com/u9csbt" group-title="Canais SBT",SBT SP - SD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83671
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS RECORD.xml "
@@ -1006,7 +1006,6 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82876
 http://apkwuv.xyz:80/cristina2021/graniptv2005/162670
 #EXTINF:-1 tvg-name="Record SP" tvg-logo="https://fivetv.xyz/logos/record.png" group-title="CANAIS RECORD",Record SP
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="Record SP FHD" tvg-name="Record SP" tvg-logo="https://lib.bz/logos/record.jpg" group-title="CANAIS RECORD",Record SP
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 #EXTINF:-1 tvg-id="Record SP FHD" tvg-name="Record SP 4K" tvg-logo="http://ucsxiptv.com:8080/images/de17f0f24b49f8364187891f8550ffbb.png" group-title="CANAIS RECORD",Record SP 4K
@@ -1078,9 +1077,9 @@ http://7go.xyz:8080/zogbi11/982451290/18576
 #EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP SD" tvg-logo="http://i.imgur.com/vO4nYTT.png" group-title="CANAIS | GLOBO",GLOBO SP SD
 http://7go.xyz:8080/zogbi11/982451290/50097
 
-#EXTM3U url-tvg=" http://grade-de-Canais Band.xml "
- ############## Canais Band ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais Band" group-title="
+#EXTM3U url-tvg=" http://grade-de-Canais | Band.xml "
+ ##############Canais | Band ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais | Band" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="Band"tvg-logo="https://78.media.tumblr.com/4a9eca1b204cc2a1eb68036457744685/tumblr_ozho2x0jjG1w7bxqbo1_500.gif" group-title="Canais | Band",Band 
 https://stream-01.nyc.dailymotion.com/sec(xvicpH7H4LlcnXpZuORL-agZ8nzB3mEFCLa2wc_vZsGOAjPcDgYKZCs7QDScWHXc)/cloud/3/x83vbd6/s/live-2.m3u8#cell=lnyc
@@ -1113,9 +1112,9 @@ http://axr.life:80/968367/462903/1263153
 #EXTINF:-1 tvg-id="band.br" tvg-name="Band SP SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/CkUKdz.png" group-title="Canais | Band",Band SP SD
 http://axr.life:80/968367/462903/1263152
 
-#EXTM3U url-tvg=" http://grade-de-Canais  Noticias.xml "
- ############## Canais  Noticias ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais  Noticias" group-title="
+#EXTM3U url-tvg=" http://grade-de-CANAIS NOTICIAS.xml "
+ ############## CANAIS NOTICIAS ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS NOTICIAS" group-title="
 
 #EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil FHD" tvg-logo="https://i.imgur.com/8Jq3Q64.png" group-title="CANAIS NOTICIAS",CNN Brasil FHD
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83436
@@ -1409,9 +1408,9 @@ https://server101.online/bob/tracks-v1a1/mono.m3u8?remote=168.227.218.17&token=7
 #EXTINF:-1 tvg-id="" tvg-name="Desenhos Clássicos TV Ao Vivo"tvg-logo="https://i.pinimg.com/originals/94/eb/a5/94eba51764348119037ca92ab202784f.gif" group-title="CANAIS CINE",Desenhos Clássicos TV Ao Vivo
 https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1368450056.m3u8
 
-#EXTM3U url-tvg=" http://grade-de-CANAIS  HBO.xml "
- ############## CANAIS  HBO ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS  HBO" group-title="
+#EXTM3U url-tvg=" http://grade-deCANAIS HBO.xml "
+ ############## CANAIS HBO ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS HBO" group-title="
 
 #EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO - FHD" tvg-logo="https://tinyurl.com/u9hbo" group-title="CANAIS HBO",HBO - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83958
@@ -1573,9 +1572,9 @@ http://45.58.126.146:14345
 #EXTINF:-1 tvg-id="" tvg-name="TNT HD"tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="CANAIS | TNT",TNT HD
 http://45.58.126.146:14341
 
-#EXTM3U url-tvg=" http://grade-de-CANAIS  TELECINE.xml "
- ############## CANAIS  TELECINE ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS  TELECINE" group-title="
+#EXTM3U url-tvg=" http://grade-de-CANAIS | TELECINE.xml "
+ ############## CANAIS | TELECINE ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS | TELECINE" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="TLC"tvg-logo="https://media1.giphy.com/media/vKXrHqVNrEB7CftbF1/giphy.gif" group-title="CANAIS | TELECINE",TLC
 http://45.58.126.146:14270/
@@ -1707,9 +1706,9 @@ http://grtsvk.life:80/661282206/318344838/87948
 #EXTINF:-1 tvg-id="" tvg-name="CINE COMEDIA 6" tvg-logo="https://lh3.googleusercontent.com/-TAfuiXlPXiQ/YGIra4UHn5I/AAAAAAAAKIE/yGKo_3vhstUfiM7Pw1eQ3Kdvb3cU-va0wCLcBGAsYHQ/cine%2Bcomedia.png" group-title="CINE COMEDIA",CINE COMEDIA 6
 http://grtsvk.life:80/661282206/318344838/87949
 
-#EXTM3U url-tvg=" http://grade-de-Canais STUDIO UNIVERSAL.xml "
- ############## Canais STUDIO UNIVERSAL ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais STUDIO UNIVERSAL" group-title="
+#EXTM3U url-tvg=" http://grade-de-CANAIS Studio Universal.xml "
+ ############## CANAIS Studio Universal ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS Studio Universal" group-title="
 
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS Studio Universal",STUDIO UNIVERSAL - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83585
@@ -1775,9 +1774,9 @@ http://84.17.44.179:14635
 #EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAFIC UHD"tvg-logo="https://plenty.tv/wp-content/uploads/2021/11/natgeo.gif" group-title="CANAIS | NATIONAL GEOGRAFIC",NATIONAL GEOGRAFIC UHD
 http://84.17.44.179:14635/
 
-#EXTM3U url-tvg=" http://grade-de-CANAIS  SPACE.xml "
- ############## CANAIS  SPACE ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS  SPACE" group-title="
+#EXTM3U url-tvg=" http://grade-de-CANAIS | SPACE.xml "
+ ############## CANAIS | SPACE ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS | SPACE" group-title="
 
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4XRvIPB4nLCmIqznxWxjiTMZYKuvGdWWmE-N5XowuNbp.png" group-title="CANAIS | SPACE",SPACE - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83580
@@ -1791,15 +1790,15 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83578
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83579
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4XRvIPB4nLCmIqznxWxjiTMZYKuvGdWWmE-N5XowuNbp.png" group-title="CANAIS | SPACE",SPACE - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83577
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4XRvIPB4nLCmIqznxWxjiTMZYKuvGdWWmE-N5XowuNbp.png" group-title="FILMES E SERIES",SPACE - FHD²
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4XRvIPB4nLCmIqznxWxjiTMZYKuvGdWWmE-N5XowuNbp.png" group-title="CANAIS | SPACE",SPACE - FHD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83581
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - H265" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4XRvIPB4nLCmIqznxWxjiTMZYKuvGdWWmE-N5XowuNbp.png" group-title="FILMES E SERIES",SPACE - H265
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - H265" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4XRvIPB4nLCmIqznxWxjiTMZYKuvGdWWmE-N5XowuNbp.png" group-title="CANAIS | SPACE",SPACE - H265
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/72580
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4XRvIPB4nLCmIqznxWxjiTMZYKuvGdWWmE-N5XowuNbp.png" group-title="FILMES E SERIES",SPACE - HD
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4XRvIPB4nLCmIqznxWxjiTMZYKuvGdWWmE-N5XowuNbp.png" group-title="CANAIS | SPACE",SPACE - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83578
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4XRvIPB4nLCmIqznxWxjiTMZYKuvGdWWmE-N5XowuNbp.png" group-title="FILMES E SERIES",SPACE - HD²
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4XRvIPB4nLCmIqznxWxjiTMZYKuvGdWWmE-N5XowuNbp.png" group-title="CANAIS | SPACE",SPACE - HD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83579
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4XRvIPB4nLCmIqznxWxjiTMZYKuvGdWWmE-N5XowuNbp.png" group-title="FILMES E SERIES",SPACE - SD
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4XRvIPB4nLCmIqznxWxjiTMZYKuvGdWWmE-N5XowuNbp.png" group-title="CANAIS | SPACE",SPACE - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83577
 #EXTINF:-1 tvg-id="" tvg-name="SPACE"tvg-logo="https://cm.cinemax.tv/assets/7dd96132-2b89-433c-8f32-f73cb26b8eb5" group-title="CANAIS | SPACE",SPACE
 http://195.181.163.144:14730/space
@@ -1817,7 +1816,7 @@ http://51.159.54.153:14408/
 http://51.159.54.153:14408/space
 #EXTINF:-1 tvg-id="" tvg-name="SPACE HD"tvg-logo="https://i.ytimg.com/vi/W0Hx6jcvnRQ/sddefault.jpg" group-title="CANAIS | SPACE",SPACE HD
 http://51.159.54.153:14408/space
-#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE 4k" tvg-logo="https://i.imgur.com/rLuaRDb.png" group-title="CANAIS | SPACE",",SPACE 4k
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE 4k" tvg-logo="https://i.imgur.com/rLuaRDb.png" group-title="CANAIS | SPACE",SPACE 4k
 http://meuplay.shop:80/Adminn8/6646885468/80568
 #EXTINF:-1 tvg-id="" tvg-name="SPACE"tvg-logo="https://i.ytimg.com/vi/W0Hx6jcvnRQ/sddefault.jpg" group-title="CANAIS | SPACE",SPACE
 http://45.58.126.146:14323
@@ -1910,15 +1909,15 @@ http://45.58.126.146:14293
 http://45.58.126.146:14293
 #EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS  A&E",A&E
 http://45.58.126.146:14293/A&E
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png" group-title="FILMES E SERIES",A&E - FHD
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png" group-title="CANAIS  A&E",A&E - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83514
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png" group-title="FILMES E SERIES",A&E - HD
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png" group-title="CANAIS  A&E",A&E - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83512
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png" group-title="FILMES E SERIES",A&E - HD²
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png" group-title="CANAIS  A&E",A&E - HD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83513
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png" group-title="FILMES E SERIES",A&E - SD
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png" group-title="CANAIS  A&E",A&E - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83510
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png" group-title="FILMES E SERIES",A&E - SD²
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4SLO-a_d8JNJsED24cqZkudkMYDABuYwi8Dmz5zsQi1Z.png" group-title="CANAIS  A&E",A&E - SD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83511
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS  AXN .xml "
@@ -1927,32 +1926,30 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83511
 
 #EXTINF:-1 tvg-id="" tvg-name="AXN HD"tvg-logo="https://i.imgur.com/O7V0E1b.png" group-title="CANAIS | AXN",AXN HD 
 http://45.58.126.146:14299/axn
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="FILMES E SERIES",AXN - FHD
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="CANAIS  AXN",AXN - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83524
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - FHD [LEG]" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="LEGENDADOS",AXN - FHD [LEG]
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/13867905
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="FILMES E SERIES",AXN - HD
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="CANAIS  AXN",AXN - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83522
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="FILMES E SERIES",AXN - HD²
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="CANAIS  AXN",AXN - HD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83523
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="FILMES E SERIES",AXN - SD
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="CANAIS  AXN",AXN - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83520
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="FILMES E SERIES",AXN - SD²
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="CANAIS  AXN",AXN - SD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83521
 
 #EXTM3U url-tvg=" http://grade-de-CANAL AMC.xml "
  ############## CANAL AMC ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAL AMC" group-title="
 
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="FILMES E SERIES",AMC - FHD
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAL AMC",AMC - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83519
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="FILMES E SERIES",AMC - HD
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAL AMCS",AMC - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83517
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="FILMES E SERIES",AMC - HD²
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAL AMC",AMC - HD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83518
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="FILMES E SERIES",AMC - SD
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAL AMC",AMC - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83515
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="FILMES E SERIES",AMC - SD²
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAL AMC",AMC - SD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83516
 
 #EXTM3U url-tvg=" http://grade-de-Canais FX.xml "
@@ -2322,37 +2319,37 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/169539
 #EXTINF:-1 tvg-id="" tvg-name="TV NSports 4 HD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/19/f3/9b/19f39bf9-bc3f-dd14-62a3-8450cfe930a6/source/512x512bb.jpg" group-title=" Canais | Esportes PPV",TV NSports 4 HD
 http://apkwuv.xyz:80/cristina2021/graniptv2005/272
 
-#EXTM3U url-tvg=" http://grade-de-SPORTS WORLD.xml "
- ############## SPORTS WORLD ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeSPORTS WORLD" group-title="
+#EXTM3U url-tvg=" http://grade-de-Canais SPORTS WORLD.xml "
+ ############## Canais SPORTS WORLD ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais SPORTS WORLD" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV + HD" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="SPORTS WORLD",SPORT TV + HD
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV + HD" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="Canais SPORTS WORLD",SPORT TV + HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138409
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV + SD" tvg-logo="http://uione.dadg.today:80/images/mg9e4VnU5MiobcDarwnBsfpVdp-j_u7cPJ7GxMktJ68.png" group-title="SPORTS WORLD",SPORT TV + SD
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV + SD" tvg-logo="http://uione.dadg.today:80/images/mg9e4VnU5MiobcDarwnBsfpVdp-j_u7cPJ7GxMktJ68.png" group-title="Canais SPORTS WORLD",SPORT TV + SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138404
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 HD" tvg-logo="http://uione.dadg.today:80/images/lO4I6ENDRiY1iG64O8qqg1J45f8qN9-dnaHFjk549Pr9J3yitF8FfbjHuEhDjIPTE62F7OIdsLMWxeN3iy2SKpR_3HxNZtWZc0Xi23SXKTiwtKbF1zY4fD2O6BrQUaHNiBswWOMMBjrg48EpcwJHqK1dRbCELusvhW8jHziqBkgodFrguGgfd_asd1UbTula.png" group-title="SPORTS WORLD",SPORT TV 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 HD" tvg-logo="http://uione.dadg.today:80/images/lO4I6ENDRiY1iG64O8qqg1J45f8qN9-dnaHFjk549Pr9J3yitF8FfbjHuEhDjIPTE62F7OIdsLMWxeN3iy2SKpR_3HxNZtWZc0Xi23SXKTiwtKbF1zY4fD2O6BrQUaHNiBswWOMMBjrg48EpcwJHqK1dRbCELusvhW8jHziqBkgodFrguGgfd_asd1UbTula.png" group-title="Canais SPORTS WORLD",SPORT TV 1 HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138418
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 SD" tvg-logo="http://uione.dadg.today:80/images/mg9e4VnU5MiobcDarwnBsY8WN-sNiXuE6FPfyeis2NM.png" group-title="SPORTS WORLD",SPORT TV 1 SD
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 1 SD" tvg-logo="http://uione.dadg.today:80/images/mg9e4VnU5MiobcDarwnBsY8WN-sNiXuE6FPfyeis2NM.png" group-title="Canais SPORTS WORLD",SPORT TV 1 SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138413
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 HD" tvg-logo="http://uione.dadg.today:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8U1rVry32EiRLXOmOTnnIfE1u01sLMCO2GOJYoaG-MtAo.png" group-title="SPORTS WORLD",SPORT TV 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 HD" tvg-logo="http://uione.dadg.today:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8U1rVry32EiRLXOmOTnnIfE1u01sLMCO2GOJYoaG-MtAo.png" group-title="Canais SPORTS WORLD",SPORT TV 2 HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/1384111
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 SD" tvg-logo="http://uione.dadg.today:80/images/lO4I6ENDRiY1iG64O8qqg1J45f8qN9-dnaHFjk549Pr9J3yitF8FfbjHuEhDjIPTE62F7OIdsLMWxeN3iy2SKpR_3HxNZtWZc0Xi23SXKTiwtKbF1zY4fD2O6BrQUaHNiBswWOMMBjrg48EpcwJHqK1dRbCELusvhW8jHziqBkgodFrguGgfd_asd1UbTula.png" group-title="SPORTS WORLD",SPORT TV 2 SD
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2 SD" tvg-logo="http://uione.dadg.today:80/images/lO4I6ENDRiY1iG64O8qqg1J45f8qN9-dnaHFjk549Pr9J3yitF8FfbjHuEhDjIPTE62F7OIdsLMWxeN3iy2SKpR_3HxNZtWZc0Xi23SXKTiwtKbF1zY4fD2O6BrQUaHNiBswWOMMBjrg48EpcwJHqK1dRbCELusvhW8jHziqBkgodFrguGgfd_asd1UbTula.png" group-title="Canais SPORTS WORLD",SPORT TV 2 SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138419
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 HD" tvg-logo="http://uione.dadg.today:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8U1rVry32EiRLXOmOTnnIfE1u01sLMCO2GOJYoaG-MtAo.png" group-title="SPORTS WORLD",SPORT TV 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 HD" tvg-logo="http://uione.dadg.today:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8U1rVry32EiRLXOmOTnnIfE1u01sLMCO2GOJYoaG-MtAo.png" group-title="Canais SPORTS WORLD",SPORT TV 3 HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766202
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 SD" tvg-logo="http://uione.dadg.today:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8U1rVry32EiRLXOmOTnnIfE1u01sLMCO2GOJYoaG-MtAo.png" group-title="SPORTS WORLD",SPORT TV 3 SD
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 3 SD" tvg-logo="http://uione.dadg.today:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8U1rVry32EiRLXOmOTnnIfE1u01sLMCO2GOJYoaG-MtAo.png" group-title="Canais SPORTS WORLD",SPORT TV 3 SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/1384401
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 HD" tvg-logo="http://uione.dadg.today:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8U1rVry32EiRLXOmOTnnIfE1u01sLMCO2GOJYoaG-MtAo.png" group-title="SPORTS WORLD",SPORT TV 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 HD" tvg-logo="http://uione.dadg.today:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8U1rVry32EiRLXOmOTnnIfE1u01sLMCO2GOJYoaG-MtAo.png" group-title="Canais SPORTS WORLD",SPORT TV 4 HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766205
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 SD" tvg-logo="http://uione.dadg.today:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8U1rVry32EiRLXOmOTnnIfE1u01sLMCO2GOJYoaG-MtAo.png" group-title="SPORTS WORLD",SPORT TV 4 SD
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 4 SD" tvg-logo="http://uione.dadg.today:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8U1rVry32EiRLXOmOTnnIfE1u01sLMCO2GOJYoaG-MtAo.png" group-title="Canais SPORTS WORLD",SPORT TV 4 SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766204
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 HD" tvg-logo="http://uione.dadg.today:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8U1rVry32EiRLXOmOTnnIfE1u01sLMCO2GOJYoaG-MtAo.png" group-title="SPORTS WORLD",SPORT TV 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 HD" tvg-logo="http://uione.dadg.today:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8U1rVry32EiRLXOmOTnnIfE1u01sLMCO2GOJYoaG-MtAo.png" group-title="Canais SPORTS WORLD",SPORT TV 5 HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766207
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 SD" tvg-logo="http://uione.dadg.today:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8U1rVry32EiRLXOmOTnnIfE1u01sLMCO2GOJYoaG-MtAo.png" group-title="SPORTS WORLD",SPORT TV 5 SD
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 5 SD" tvg-logo="http://uione.dadg.today:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8U1rVry32EiRLXOmOTnnIfE1u01sLMCO2GOJYoaG-MtAo.png" group-title="Canais SPORTS WORLD",SPORT TV 5 SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766206
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="SPORTS WORLD",SPORT TV 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Bein_sport_logo.png" group-title="Canais SPORTS WORLD",SPORT TV 6 HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766209
-#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 6 SD" tvg-logo="http://uione.dadg.today:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8U1rVry32EiRLXOmOTnnIfE1u01sLMCO2GOJYoaG-MtAo.png" group-title="SPORTS WORLD",SPORT TV 6 SD
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 6 SD" tvg-logo="http://uione.dadg.today:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8U1rVry32EiRLXOmOTnnIfE1u01sLMCO2GOJYoaG-MtAo.png" group-title="Canais SPORTS WORLD",SPORT TV 6 SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766208
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS  SPORTV.xml "
@@ -2452,56 +2449,56 @@ https://tvcanais.xyz/espn4/tracks-v1/index.fmp4.m3u8?token=77b6011351625edf73b5c
 #EXTINF:-1 tvg-id="Example" tvg-name="espn 4" tvg-logo="https://www.am.com.mx/u/fotografias/fotosnoticias/2021/12/1/52278.jpg" group-title="CANAIS | ESPORTES espn extra",espn 4
 https://tvcanais.xyz/espn4/tracks-v1/index.fmp4.m3u8
 
-#EXTM3U url-tvg=" http://grade-de-Canais  FOX Sports 2.xml "
- ############## Canais  FOX Sports 2 ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais  FOX Sports 2" group-title="
+#EXTM3U url-tvg=" http://grade-de-Canais FOX SPORTS 2.xml "
+ ############## Canais FOX SPORTS 2 ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais FOX SPORTS 2" group-title="
 
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - 4K" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="FOX SPORT",FOX SPORTS 2 - 4K
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - 4K" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais FOX SPORTS 2",FOX SPORTS 2 - 4K
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/72584
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="FOX SPORT",FOX SPORTS 2 - FHD
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais FOX SPORTS 2",FOX SPORTS 2 - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82759
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="FOX SPORT",FOX SPORTS 2 - HD
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais FOX SPORTS 2",FOX SPORTS 2 - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82757
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="FOX SPORT",FOX SPORTS 2 - HD²
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais FOX SPORTS 2",FOX SPORTS 2 - HD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82758
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="FOX SPORT",FOX SPORTS 2 - SD
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais FOX SPORTS 2",FOX SPORTS 2 - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82755
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="FOX SPORT",FOX SPORTS 2 - SD²
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais FOX SPORTS 2",FOX SPORTS 2 - SD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82756
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg"Canais | FOX Sports 2",FOX SPORTS 2 - SD
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg"Canais FOX SPORTS 2",FOX SPORTS 2 - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82755
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - 4K" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg"Canais | FOX Sports 2",FOX SPORTS 2 - 4K
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - 4K" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg"Canais FOX SPORTS 2",FOX SPORTS 2 - 4K
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/72584
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg"Canais | FOX Sports 2",FOX SPORTS 2 - FHD
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg"Canais FOX SPORTS 2",FOX SPORTS 2 - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82759
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg"Canais | FOX Sports 2",FOX SPORTS 2 - HD
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg"Canais FOX SPORTS 2",FOX SPORTS 2 - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82757
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg"Canais | FOX Sports 2",FOX SPORTS 2 - HD²
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg"Canais FOX SPORTS 2",FOX SPORTS 2 - HD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82758
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg"Canais | FOX Sports 2",FOX SPORTS 2 - SD²
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg"Canais FOX SPORTS 2",FOX SPORTS 2 - SD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82756
-#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 4K" tvg-logo="https://i.imgur.com/exxvTL3.png" group-title="Canais | FOX Sports 2",FOX Sports 2 4K
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 4K" tvg-logo="https://i.imgur.com/exxvTL3.png" group-title="Canais FOX SPORTS 2",FOX Sports 2 4K
 http://apkwuv.xyz:80/cristina2021/graniptv2005/151046
-#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 FHD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | FOX Sports 2",FOX Sports 2 FHD
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 FHD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais FOX SPORTS 2",FOX Sports 2 FHD
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83812
-#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 FHD [Alt]" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | FOX Sports 2",FOX Sports 2 FHD [Alt]
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 FHD [Alt]" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais FOX SPORTS 2",FOX Sports 2 FHD [Alt]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/147566
-#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 FHD [H265]" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | FOX Sports 2",FOX Sports 2 FHD [H265]
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 FHD [H265]" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais FOX SPORTS 2",FOX Sports 2 FHD [H265]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83389
-#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 HD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | FOX Sports 2",FOX Sports 2 HD
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 HD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais FOX SPORTS 22",FOX Sports 2 HD
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83216
-#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 HD [Alt]" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | FOX Sports 2",FOX Sports 2 HD [Alt]
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 HD [Alt]" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais FOX SPORTS 2",FOX Sports 2 HD [Alt]
 http://apkwuv.xyz:80/cristina2021/graniptv2005/147567
-#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 SD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | FOX Sports 2",FOX Sports 2 SD
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 SD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais FOX SPORTS 2",FOX Sports 2 SD
 http://apkwuv.xyz:80/cristina2021/graniptv2005/
-#EXTINF:-1 tvg-name="Fox Sports 2 FHD" tvg-logo="http://70.ms/dR" group-title="Canais | FOX Sports 2",Fox Sports 2 FHD
+#EXTINF:-1 tvg-name="Fox Sports 2 FHD" tvg-logo="http://70.ms/dR" group-title="Canais FOX SPORTS 2",Fox Sports 2 FHD
 http://liontv.me:80/mgfb2ed/mgf239161/34
-#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 SD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais | FOX Sports 2",FOX Sports 2 SD
+#EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 SD" tvg-logo="https://i.imgur.com/udF3hAb.png" group-title="Canais FOX SPORTS 2",FOX Sports 2 SD
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/83561
 
-#EXTM3U url-tvg=" http://grade-de-Canais  Premiere FC.xml "
- ############## Canais  Premiere FC ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais  Premiere FC" group-title="
+#EXTM3U url-tvg=" http://grade-de-Canais | Premiere FC.xml "
+ ############## Canais | Premiere FC ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais | Premiere FC" group-title="
 
 #EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere 1 Clubes 4K" tvg-logo="https://i.imgur.com/SuMu0ok.png" group-title="Canais | Premiere FC",Premiere 1 Clubes 4K
 http://bgp.cdnr1.xyz:80/rayanecliente66/982148523c/151037
@@ -2782,13 +2779,6 @@ http://grtsvk.life:80/661282206/318344838/48845
 #EXTINF:-1 tvg-id="" tvg-name="dragon ball super" tvg-logo="https://1.bp.blogspot.com/-cMAvhFrdiIE/XuESjx9uj7I/AAAAAAAAGOA/j4LqJvURlIouynes7CpJSVHjYC7h66zZgCK4BGAYYCw/s1600/dragon%2Bball%2Bsuper.png" group-title="CANAIS | INFANTIL",dragon ball super
 http://grtsvk.life:80/661282206/318344838/29994
 
-#EXTM3U url-tvg="http://grade-de-Canais Liberados.xml"
-############## Canais Liberados  ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais Liberados" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="União Play A TV mais conectada do Nordeste" tvg-logo="https://www.uniaoplay.com.br/images/logo.png" group-title="Filme O Gordo e o Magro",União Play A TV mais conectada do Nordeste
-https://rtmp.uniaoplay.com.br/tvuniaonatal/6b517d4134797cf29f129240def46bba.sdp/chunks.m3u8
-
 #EXTM3U url-tvg="http://grade-de-Filme O Gordo e o Magro.xml"
 ############## Filme O Gordo e o Magro  ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFilme O Gordo e o Magro" group-title="
@@ -2946,7 +2936,6 @@ http://7go.xyz:8080/movie/zogbi11/982451290/312675.mp4
 https://seig.tv/19/1/7ba85cea0f777ff47b36ce05975add22/720p/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A Princesa Encantada: Era Uma Vez"tvg-logo="https://image.tmdb.org/t/p/w185/pfMgyj2afebT8LVrDVYHniDk3XJ.jpg"group-title="FILMES TV FAX filhos",A Princesa Encantada: Era Uma Vez
 https://seig.tv/19/1/de657f7b5a1eb8ed259401806e2e2334/720p/720p.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Tarsilinha"tvg-logo="https://image.tmdb.org/t/p/w185/szoK1qZ0YThXajLnkE8l7wygXpG.jpg"group-title="FILMES TV FAX filhos",Tarsilinha
 https://seig.tv/11/1/cf411be661135e8bb93fc1268512dd08/720p/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Amigos Alienígenas"tvg-logo="https://br.web.img3.acsta.net/pictures/18/06/13/20/20/5460825.jpg"group-title="FILMES TV FAX filhos",Amigos Alienígenas
@@ -3036,10 +3025,34 @@ https://ia902704.us.archive.org/8/items/yellowbird-o-pequeno-heroi-tv-fax/Yellow
 https://ia902707.us.archive.org/21/items/x-men-fenix-negra-tv-fax/X-Men%20F%C3%AAnix%20Negra%20%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Next Gen"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSV6qRqI5HMJTT4gGhBsG2Zzk0KmOX57gdR-R8aaWq4qhefJ8ZVBndAmyLafXj8VfecEnE&usqp=CAU"group-title="FILMES TV FAX filhos",Next Gen
 https://ia802704.us.archive.org/8/items/next-gen-tv-fax/Next%20Gen%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Apimentadas Torça Ou Morra"tvg-logo="https://i.ytimg.com/vi/wfbiw_6fqSc/maxresdefault.jpg"group-title="FILMES TV FAX filhos",As Apimentadas Torça Ou Morra
+https://ia802700.us.archive.org/22/items/as-apimentadas-torca-ou-morra-tv-fax/As%20Apimentadas%20Tor%C3%A7a%20ou%20Morra%20%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Princesa"tvg-logo="https://br.web.img2.acsta.net/pictures/22/07/21/22/02/1445372.jpg"group-title="FILMES TV FAX filhos",A Princesa
+https://ia902707.us.archive.org/20/items/a-princesa-tv-fax/A%20PrincesaTV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Victoria E Mistério"tvg-logo="https://br.web.img2.acsta.net/pictures/20/10/15/13/46/0494813.jpg"group-title="FILMES TV FAX filhos",Victoria E Mistério
+https://ia802705.us.archive.org/8/items/victoria-e-misterio-tv-fax/Victoria%20e%20Mist%C3%A9rio%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Vamos Consertar O Mundo"tvg-logo="https://br.web.img2.acsta.net/pictures/22/04/04/18/40/1229012.png"group-title="FILMES TV FAX filhos",Vamos Consertar O Mundo
+https://ia902704.us.archive.org/2/items/vamos-consertar-o-mundo-tv-fax/Vamos%20Consertar%20o%20Mundo%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dungeons E Dragons Honra Entre Rebeldes"tvg-logo="https://mundoconectado.com.br/uploads/chamadas/dungeons-dragons-honra-entre-rebeldes-poster.jpg"group-title="FILMES TV FAX filhos",Dungeons E Dragons Honra Entre Rebeldes
+https://ia802700.us.archive.org/26/items/dungeons-e-dragons-honra-entre-rebeldes-tv-fax/Dungeons%20E%20Dragons%20Honra%20Entre%20Rebeldes%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Até Os Ossos"tvg-logo="https://diariodecuritiba.com/wp-content/uploads/2022/11/WhatsApp-Image-2022-11-29-at-18.34.02.jpeg"group-title="FILMES TV FAX filhos",Até Os Ossos
+https://ia802708.us.archive.org/35/items/ate-os-ossos-tv-fax/At%C3%A9%20os%20Ossos%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bom Dinossauro"tvg-logo="https://m.media-amazon.com/images/I/51vmksRXz+L._AC_UF1000,1000_QL80_.jpgg"group-title="FILMES TV FAX filhos",O Bom Dinossauro
+https://ia902701.us.archive.org/7/items/o-bom-dinossauro-tv-fax/O%20Bom%20Dinossauro%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bom Gigante Amigo"tvg-logo="https://br.web.img3.acsta.net/pictures/16/07/05/15/22/448228.jpg"group-title="FILMES TV FAX filhos",O Bom Gigante Amigo
+https://ia902703.us.archive.org/3/items/o-bom-gigante-amigo-tv-fax/O%20Bom%20Gigante%20Amigo%20TV%20%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Flora E Ulysses"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-88FSaNvvZIa1xZdyhqFRFzrECsiZt6tHTA&usqp=CAU"group-title="FILMES TV FAX filhos",Flora E Ulysses 
+https://ia802707.us.archive.org/32/items/flora-e-ulysses-tv-fax/Flora%20e%20Ulysses%20%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Jardim Secreto"tvg-logo="https://grupoautentica.com.br/img/capas/x/o-jardim-secreto-texto-integral-classicos-autentica-1864-20200610185913.jpg"group-title="FILMES TV FAX filhos",O Jardim Secreto
+https://ia802709.us.archive.org/6/items/o-jardim-secreto-tv-fax/O%20Jardim%20Secreto%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Grinch"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPpb7dqUzfReaUu8ZJxMtNeyq-XJZUR5FN3lnygDb3POcNfmTovxAiG5WiHrHh6KvtHl8&usqp=CAU"group-title="FILMES TV FAX filhos",O Grinch
+https://ia902703.us.archive.org/7/items/o-grinch-tv-fax/O%20Grinch%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Homem Das Cavernas"tvg-logo="https://vejasp.abril.com.br/wp-content/uploads/2019/12/os_croods.jpg.jpg?quality=70&strip=info&w=1024&resize=1200,800"group-title="FILMES TV FAX filhos",O Homem Das Cavernas
+https://ia802707.us.archive.org/4/items/o-homem-das-cavernas-tv-fax/O%20Homem%20das%20Cavernas%20TV%20FAX%20.mp4
 
-#EXTM3U url-tvg="http://grade-de-FILMES  TV FAX.xml"
-############## FILMES  TV FAX #################
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES  TV FAX" group-title="
+#EXTM3U url-tvg="http://grade-de-FILMES | TV FAX.xml"
+############## FILMES | TV FAX #################
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | TV FAX" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name=",Encontro Marcado"tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/91/88/38/20167659.jpg"group-title="FILMES | TV FAX",Encontro Marcado
 https://ia902704.us.archive.org/16/items/encontro-marcado-tv-fax/Encontro%20Marcado%20TV%20FAX%20.mp4
@@ -3079,6 +3092,36 @@ https://ia802702.us.archive.org/35/items/vinganca-fatal-tv-fax/Vingan%C3%A7a%20F
 https://ia902705.us.archive.org/18/items/voltando-da-lua-de-mel-tv-fax/Voltando%20da%20Lua%20de%20Mel%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",X Xx Reativado"tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/16/12/09/20/01/256769.jpg"group-title="FILMES | TV FAX",X Xx Reativado
 https://ia802703.us.archive.org/25/items/x-xx-reativado-tv-fax/xXx%20Reativado%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Ardente Paciência"tvg-logo="https://i.ytimg.com/vi/b6wT5WoZxyg/maxresdefault.jpg"group-title="FILMES | TV FAX",Ardente Paciência
+https://ia902705.us.archive.org/19/items/ardente-paciencia-tv-fax/Ardente%20Paci%C3%AAncia%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",A Mãe"tvg-logo="https://minhaseriefavorita.b-cdn.net/wp-content/uploads/2023/05/a-mae-fatos-reais.jpg"group-title="FILMES | TV FAX",A Mãe
+https://ia902703.us.archive.org/34/items/a-mae-tv-fax/A%20M%C3%A3e%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Vingança A Sangue Frio"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/a65932aab4ff8d225eda812939e3b918e5084c7f4476816085280d7aaf0f74bb._RI_TTW_.png"group-title="FILMES | TV FAX",Vingança A Sangue Frio
+https://ia902701.us.archive.org/24/items/vinganca-a-sangue-frio-tv-fax/Vingan%C3%A7a%20a%20Sangue%20Frio%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",O Anjo De Auschwitz"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTwk6gA_G82v1qAeBp0_5IqK2ZGpsELYwc6HghKVUs5iUT2yNfPIURLcWave2vJF_HlWM&usqp=CAU"group-title="FILMES | TV FAX",O Anjo De Auschwitz
+https://ia902705.us.archive.org/21/items/o-anjo-de-auschwitz-tv-fax/O%20Anjo%20de%20Auschwitz%20%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Hackers No Controle"tvg-logo="https://occ-0-38-33.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABQmDn2Yegu4poHwbkeToyuDILqo09LebVEGV5dXc1Y7y2E4lG5jcUMOis7oEbKbvw75g_XxthPWIJ5WDL6O7rheK4Sh1SGQYss6vrIXeWn7qBR6psC_Wo_nQyJs0CO6vHhT0VQ.jpg?r=b69"group-title="FILMES | TV FAX",Hackers No Controle
+https://ia902700.us.archive.org/30/items/hackers-no-controle-tv-fax/Hackers%20no%20Controle%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Exército Do Amanhã"tvg-logo="https://media.fstatic.com/bStXTQs9NVgi9pna_sSp3CH5JA8=/322x478/smart/filters:format(webp)/media/movies/covers/2022/12/72f0kFmOutPhSaZkXs0oGDmfvRd.jpg"group-title="FILMES | TV FAX",Exército Do Amanhã
+https://ia902706.us.archive.org/2/items/exercito-do-amanha-tv-fax/Ex%C3%A9rcito%20do%20Amanh%C3%A3%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",O Grande Assalto"tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/14/11/12/18/06/220196.jpg"group-title="FILMES | TV FAX",O Grande Assalto
+https://ia902705.us.archive.org/34/items/o-grande-assalto-tv-fax/O%20Grande%20Assalto%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",O Caçador De Recompensas"tvg-logo="https://i.ytimg.com/vi/1DBnZUmSj_w/maxresdefault.jpg"group-title="FILMES | TV FAX",O Caçador De Recompensas
+https://ia902700.us.archive.org/21/items/o-cacador-de-recompensas-tv-fax/O%20Ca%C3%A7ador%20de%20Recompensas%20TV%20FAX%20%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",O Céu É De Verdade"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF9cqTmfJiv5fuxoW-IL53r44XcRW9KiX_u4AjG8yoat1fFW6BGwCexwxE3lcSFVE_d0M&usqp=CAU"group-title="FILMES | TV FAX",O Céu É De Verdade
+https://ia902700.us.archive.org/16/items/o-ceu-e-de-verdade-tv-fax/O%20C%C3%A9u%20%C3%A9%20de%20Verdade%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Exército Do Amanhã"tvg-logo="https://i.ytimg.com/vi/QbJhOW42HO4/maxresdefault.jpg"group-title="FILMES | TV FAX",Exército Do Amanhã
+https://ia802706.us.archive.org/2/items/exercito-do-amanha-tv-fax/Ex%C3%A9rcito%20do%20Amanh%C3%A3%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",O Juiz"tvg-logo="https://br.web.img3.acsta.net/pictures/14/10/09/13/58/594934.jpg"group-title="FILMES | TV FAX",O Juiz
+https://ia902702.us.archive.org/3/items/o-juiz-dublado-tv-fax/O%20Juiz%20Dublado%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",O Inimigo Ao Meu Redor"tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/22/04/25/20/21/3470238.png"group-title="FILMES | TV FAX",O Inimigo Ao Meu Redor
+https://ia802701.us.archive.org/4/items/o-inimigo-ao-meu-redor-tv-fax/O%20Inimigo%20ao%20Meu%20Redor%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",O Caminho Difícil"tvg-logo="https://cdn.fstatic.com/media/movies/photos/2019/06/o-caminho-dificil_t272887.jpg"group-title="FILMES | TV FAX",O Caminho Difícil
+https://ia802705.us.archive.org/6/items/o-caminho-dificil-tv-fax/O%20Caminho%20Dif%C3%ADcil%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",O Informante"tvg-logo="https://occ-0-33-55.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABQRK1kxy4pAuoPJtYbTSIQkHsj38pgzcGlvXmpAMgIM3eKI3_iVj3S3Qs-uehXoKl9RQH_fx4RomOuyOaIGhHBTLneuF3cqyl9vVmMXGeys53YJNEWxOImBIpgJyWjyocIy4WA.jpg?r=cec"group-title="FILMES | TV FAX",O Informante
+https://ia802703.us.archive.org/19/items/o-informante-tv-fax/O%20Informante%20%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",O Jardim Da Fé"tvg-logo="https://ifolha.temmais.com/wp-content/uploads/2021/07/CINEMA-EM-CASA-O-RESGATE-O-JARDIM-DA-FE-aaa20-07-21.jpg"group-title="FILMES | TV FAX",O Jardim Da Fé 
+https://ia902707.us.archive.org/33/items/o-jardim-da-fe-tv-fax/O%20Jardim%20da%20F%C3%A9%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Um Motivo Para Lutar"tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/F2BAC3FF3506B696A95083FB20EDA2813B45085A0051F432A9D22FCC89FC16B3/scale?width=1200&aspectRatio=1.78&format=jpeg"group-title="FILMES | TV FAX",Um Motivo Para Lutar
 https://ia802707.us.archive.org/20/items/um-motivo-para-lutar-tv-fax/Um%20Motivo%20para%20LutarTV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Marcados Pela Guerra"tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/15/07/09/21/24/507139.jpg"group-title="FILMES | TV FAX",Marcados Pela Guerra
@@ -3442,10 +3485,12 @@ https://play.prod.gcp.vix.services/solo_en/solo_en_1-1/play_v1_hls_1080p.m3u8
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83314
 #EXTINF:-1 tvg-id="" tvg-name="O Menino Cego Órfão De Pai E Mãe Nelinho De Deus Faça Alguma Coisa Vídeo Oficial. DM MÚSICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccoLYcVcoEyQ1n132A_B9DYT9lX57mrFFHjX_NG5zJt9jSSKByqsXWrHKwrpCgGG_xrs&usqp=CAU"group-title="FILMES | TV FAX",O Menino Cego Órfão De Pai E Mãe Nelinho De Deus Faça Alguma Coisa Vídeo Oficial. DM MÚSICA
 https://ia902700.us.archive.org/9/items/o-menino-cego-orfao-de-pai-e-mae-nelinho-de-deus-faca-alguma-coisa-video-official.-dm-music/O%20menino%20Cego%20%C3%B3rf%C3%A3o%20de%20pai%20e%20m%C3%A3e%20%20Nelinho%20de%20Deus%20_fa%C3%A7a%20alguma%20coisa%20%20Video%20Official.%20DM-MUSIC.ia.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Stan e Ollie O Gordo e o Magro 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMk8iriC4lSPXG3HVmNqo13pHHJ.jpg"group-title="FILMES | TV FAX",Stan e Ollie O Gordo e o Magro 2018
+#EXTINF:-1 tvg-id="" tvg-name="Stan e Ollie O Gordo e o Magro 2018"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMk8iriC4lSPXG3HVmNqo13pHHJ.jpg"group-title="FILMES | TV FAX",Stan e Ollie O Gordo e o Magro 2018
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/63968.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi As Aventuras de Pedro Malasartes (1960)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/38vUpNIbGdjYEzjBw0X4GbIIv5g.jpg"group-title="FILMES | TV FAX",Mazzaropi As Aventuras de Pedro Malasartes (1960)
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi As Aventuras de Pedro Malasartes (1960)"tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/38vUpNIbGdjYEzjBw0X4GbIIv5g.jpg"group-title="FILMES | TV FAX",Mazzaropi As Aventuras de Pedro Malasartes (1960)
 http://7go.xyz:8080/movie/zogbi11/982451290/50378.mp4
+
+
 #EXTINF:-1 tvg-id="" tvg-name="À Espera de Um Milagre"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtCkbjUvOprnKy4Nq22zBr3K7Xot2UPsugDw&usqp=CAU"group-title="FILMES | TV FAX",À Espera de Um Milagre
 https://ia903409.us.archive.org/14/items/a-espera-de-um-milagre-1999-720p-dublado/%C3%80%20Espera%20de%20um%20Milagre%20%281999%29%20720p%20dublado.ia.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Último Resgate"tvg-logo="https://i.ytimg.com/vi/7BEwWgmfJgA/maxresdefault.jpg""group-title="FILMES | TV FAX",O Último Resgate
@@ -3548,13 +3593,13 @@ https://play.prod.gcp.vix.services/the-end-time_en/the-end-time_en_1-1/play_v1_h
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/271382.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bela Vingança 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7FwclLTWB8i6XfBNTtUsyONlgN.jpg"group-title="FILMES | TV FAX",Bela Vingança 4K
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175676.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alita Anjo de Combate 4K [HDR]" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7eGbUjw721W02ofWEJt4zpiJDp.jpg"group-title="FILMES | TV FAX",Alita Anjo de Combate 4K [HDR]
+#EXTINF:-1 tvg-id="" tvg-name="Alita Anjo de Combate 4K [HDR]"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7eGbUjw721W02ofWEJt4zpiJDp.jpg"group-title="FILMES | TV FAX",Alita Anjo de Combate 4K [HDR]
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/63048.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Mula 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kE9pO1utmOD5nQAcn7tyoUAldkX.jpg"group-title="FILMES | TV FAX",A Mula 4K
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/66060.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Freira 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ShELeGBnk5HYgI0cLfDuS4JMb3.jpg"group-title="FILMES | TV FAX",A Freira 4K
+#EXTINF:-1 tvg-id="" tvg-name="A Freira 4K"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ShELeGBnk5HYgI0cLfDuS4JMb3.jpg"group-title="FILMES | TV FAX",A Freira 4K
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/63068.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1917 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KkyXE7Hd9MPOOkORxkMM6SUXAB.jpg"group-title="FILMES | TV FAX",1917 4K
+#EXTINF:-1 tvg-id="" tvg-name="1917 4K"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KkyXE7Hd9MPOOkORxkMM6SUXAB.jpg"group-title="FILMES | TV FAX",1917 4K
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/66058.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Zumbido" tvg-logo="https://img.ev01.to/xxrz/250x400/183/26/b5/26b5df3a2777ff48f73d243b3aff7fd1/26b5df3a2777ff48f73d243b3aff7fd1.jpg"group-title="FILMES | TV FAX",Zumbido
 https://eno.dokicloud.one/_v10/9eb6cd864e29f824f065a00cb16e1122a6d336223fa70d13e573bdb65e08ea6f33efdd176988a48aea1f2097b4a9653c2babbd8a268d77aeb521b524196ca12d734348192c391be42ab32b6a19d3c7b721fb72db33a33196bcbf0b3c333dfcc158bebdf39b663a973601e35cbcc0c7043c748892af9e3b5d68e7fe902031a997/1080/index.m3u8
@@ -3564,8 +3609,6 @@ https://eerht.artdesigncdn.net/_v10/262004f4cae559d6839d2d05962b855489c09417f3f1
 http://esrv.cc/movie/MarcoOj9Nq/Rj5tr/97164.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Crime e infiltraçoes"tvg-logo="https://media.filmelier.com/tit/XV6URw/poster/untold-crime-e-infracoes_AhlEj6Q.jpeg"group-title="FILMES | TV FAX",Crime e infiltraçoes
 http://esrv.cc/movie/MarcoOj9Nq/Rj5tr/97167.mp4
-#EXTINF:-1 tvg-id="" tvg-name="batman a perdiçao chegou"tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNdWaIaETONqU-yJF-8wAOfCtHXBi6YGs0A8TU0X_WFPUkugpfCMNGLSWDrdCIwjLrdMIqCrfK86dOYCClmbHClOENDdvX8MltQOD2LYY7L19P43m2GpJZsCUGibcFCPQ3-tx25OrVfBWCdCGFYTPqh1-dhaANRQhGJKXq_-KDazsDKRBWRkuD1wYi/w1200-h630-p-k-no-nu/Batman%20-%20A%20Perdi%C3%A7%C3%A3o%20Chegou%20a%20Gotham%20poster.jpg"group-title="FILMES | TV FAX",batman a perdiçao chegou
-http://esrv.cc/movie/MarcoOj9Nq/Rj5tr/97173.mp4
 #EXTINF:-1 tvg-id="" tvg-name="realidade virtual"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1xV3MQ3nxuE-0y-weI07oPwlA4NYPGgV9_Xew2sKkYth0OqZhKgUdOCqKh4U41zwqoG0&usqp=CAU"group-title="FILMES | TV FAX",realidade virtual
 http://esrv.cc/movie/MarcoOj9Nq/Rj5tr/97178.mp4
 #EXTINF:-1 tvg-id="" tvg-name="so mais uma face"tvg-logo="https://s2.glbimg.com/6_Q1dVVkJrVjFbrffApOM45rh3I=/362x536/https://s2.glbimg.com/La7l0l75FQ5A9AwTHKZHns_xWjU=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2023/T/X/AAIGDjQVmqrDv26IoNlA/8808824-poster.jpg"group-title="FILMES | TV FAX",so mais uma face
@@ -4074,60 +4117,7 @@ http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/266743.mp4
 ############## Filmes Top 2022 ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFilmes Top 2022" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="A Ira de Deus (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3fdh5M8Vt6PkS31bxLXMIn1GsaU.jpg" group-title="Filmes: Top 2022",A Ira de Deus (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/241816.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Invasão - Ocupação Alienígena (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4PqKV5M9lIxrFreEIRmo3f5WEd.jpg" group-title="Filmes: Top 2022",A Invasão - Ocupação Alienígena (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/237616.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Desespero (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xt3sIBS3Fy39JewUWJi9itj66pw.jpg" group-title="Filmes: Top 2022",A Hora do Desespero (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/240022.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Gestora (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRqvE6dABictKuLwqQMzq6AptiZ.jpg" group-title="Filmes: Top 2022",A Gestora (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/252176.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Garota da Foto (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gpSCTm48XkH6npoioVqaUjmcJfM.jpg" group-title="Filmes: Top 2022",A Garota da Foto (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/245448.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fera do Mar (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5KBOy36wOAkAorpvHwvzEwQdJeR.jpg" group-title="Filmes: Top 2022",A Fera do Mar (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/245485.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fera (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/crnUUp1cyqwR9NeGhdt0mMQNN0Y.jpg" group-title="Filmes: Top 2022",A Fera (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/259113.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Família Noel 2 (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6EV8G1tESAjelFEvrdn1rEMz8Z0.jpg" group-title="Filmes: Top 2022",A Família Noel 2 (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/261628.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Família Perfeita (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EWtby5Sb1JKxwqVfpLLybmJK6E.jpg" group-title="Filmes: Top 2022",A Família Perfeita (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/231581.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Face Oculta do Feminismo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXjBoRHtOEFChA13YCPUrGRXWKD.jpg" group-title="Filmes: Top 2022",A Face Oculta do Feminismo (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/230973.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Face Oculta do Feminismo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXjBoRHtOEFChA13YCPUrGRXWKD.jpg" group-title="Filmes: Top 2022",A Face Oculta do Feminismo (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/260596.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Espera de Liz (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/38ETcccsn0QjBlzo91bKgbFitS6.jpg" group-title="Filmes: Top 2022",A Espera de Liz (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/261473.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Escola do Bem e do Mal (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fbo6sHohCSQDOY6RYPQX3zO886y.jpg" group-title="Filmes: Top 2022",A Escola do Bem e do Mal (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/260105.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Era do Gelo: As Aventuras de Buck (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1iVjKCGHPVNj7IQVB1DdpL8U7Y8.jpg" group-title="Filmes: Top 2022",A Era do Gelo: As Aventuras de Buck (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/201946.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Dupla Explosiva (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3w9A9k7KSzLffT23dMdL0R7oMJ.jpg" group-title="Filmes: Top 2022",A Dupla Explosiva (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/251436.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cozinheira Curiosa: Receita Assassina (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43PkvE2c5YQTPMpeHXemiZJbD3Q.jpg" group-title="Filmes: Top 2022",A Cozinheira Curiosa: Receita Assassina (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/262534.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Civil (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4rzOXBNN09qvSCm2RZfJvmELnH.jpg" group-title="Filmes: Top 2022",A Civil (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/258718.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Caminho do Verão (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tqcSehEOf0mgaYRvyF9VHUPSZR0.jpg" group-title="Filmes: Top 2022",A Caminho do Verão (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/230568.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Camisa Mais Pesada do Mundo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKKB3S6FUi1NYjfok1SOyYieSBs.jpg" group-title="Filmes: Top 2022",A Camisa Mais Pesada do Mundo (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/262865.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bravura de Molly (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHHNF0jHpHgPU7JhrLDql5NMGRG.jpg" group-title="Filmes: Top 2022",A Bravura de Molly (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/261382.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Bolha (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uog089YZqlMAplQwg68GQ4sexdY.jpg" group-title="Filmes: Top 2022",A Bolha (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/218995.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Baleia (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4hhd8JuwsHTvpqW9wW9oebsHVu0.jpg" group-title="Filmes: Top 2022",A Baleia (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/285965.mp4
-#EXTINF:-1 tvg-id="" tvg-name="9 Dias Acordado (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u0OT5BxI64iww8lytXDHXlLvALD.jpg" group-title="Filmes: Top 2022",9 Dias Acordado (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/222039.mp4
-#EXTINF:-1 tvg-id="" tvg-name="45 do Segundo Tempo (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xmUiGNvKTDwic273opiVednbQA8.jpg" group-title="Filmes: Top 2022",45 do Segundo Tempo (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/262450.mp4
-#EXTINF:-1 tvg-id="" tvg-name="365 Dias: Hoje (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67vb4sQxJ06o4LvgoxB8Fj6mGqk.jpg" group-title="Filmes: Top 2022",365 Dias: Hoje (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/222484.mp4
-#EXTINF:-1 tvg-id="" tvg-name="365 Dias Finais (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2pxKwxMbd5l3BxK5fBgVCWYweH2.jpg" group-title="Filmes: Top 2022",365 Dias Finais (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/251198.mp4
-#EXTINF:-1 tvg-id="" tvg-name="7 Mulheres e Um Mistério (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1FHo1tTKMWGwv9gxXASWhkctuC3.jpg" group-title="Filmes: Top 2022",7 Mulheres e Um Mistério (2022)
-http://srv.cldplay.net:80/movie/820584rohs/67864336899/269542.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name="100 Medos (2022)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o3YitLNoZsucoGrcjehaR9p45Ip.jpg" group-title="Filmes: Top 2022",100 Medos (2022)
 http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/259805.mp4
 #EXTINF:-1 tvg-id="" tvg-name="13 Minutos de Tormenta (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c0Y2aNGSPlF7y926n2uHvPfo5TF.jpg" group-title="Filmes: Top 2022",13 Minutos de Tormenta (2021)
@@ -5892,6 +5882,20 @@ http://7go.xyz:8080/movie/zogbi11/982451290/50082.mp4
 http://7go.xyz:8080/movie/zogbi11/982451290/50083.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 6 (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yeF9WQvxHRrJnr5fGEfnzDpn4pA.jpg" group-title=" FILMES | COLETANEA VELOZES E FURIOSOS",Velozes  Furiosos 6 (2013)
 http://7go.xyz:8080/movie/zogbi11/982451290/41266.mp4
+#EXTINF:-1 tvg-id="" tvg-name="velozes furiosos 4" tvg-logo="https://cinepop.com.br/wp-content/uploads/2023/04/imagem_2023-04-20_155630085-e1682017091515.jpg" group-title=" FILMES | COLETANEAA VELOZES E FURIOSOS",velozes furiosos 4
+https://ia902707.us.archive.org/17/items/assistir-velozes-furiosos-tv-fax/Assistir%20Velozes%20e%20Furiosos%204%20Dublado%20Online%20e%20Gr%C3%A1tis%20-%20Supe.mp4
+#EXTINF:-1 tvg-id="" tvg-name="velozes furiosos 5" tvg-logo="https://img.quizur.com/f/img630d5baa7bb4c6.34810542.jpg?lastEdited=1661819823" group-title=" FILMES | COLETANEAA VELOZES E FURIOSOS",velozes furiosos 5
+https://archive.org/download/assistir-velozes-furiosos-tv-fax/Assistir%20Velozes%20%26%20Furiosos%205%20Opera%C3%A7%C3%A3o%20Rio%20Dublado%20Online%20e%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="velozes furiosos 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxZ_2sYu-96ej11DsgBl4hJrJoMzNv2L39cA&usqp=CAU" group-title=" FILMES | COLETANEAA VELOZES E FURIOSOS",velozes furiosos 6
+https://archive.org/download/assistir-velozes-furiosos-tv-fax/Assistir%20Velozes%20%26%20Furiosos%206%20Dublado%20Online%20e%20Gr%C3%A1tis%20-%20Supe.mp4
+#EXTINF:-1 tvg-id="" tvg-name="velozes furiosos 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDwuOAKcwWpr9aAo12-WLyzDdxbd152rZhB74H30SnZdz3K-qe5lZXHhN8L7duaYgUdnI&usqp=CAU" group-title=" FILMES | COLETANEAA VELOZES E FURIOSOS",velozes furiosos 7
+https://archive.org/download/assistir-velozes-furiosos-tv-fax/Assistir%20Velozes%20%26%20Furiosos%207%20Dublado%20Online%20e%20Gr%C3%A1tis%20-%20Supe.mp4
+#EXTINF:-1 tvg-id="" tvg-name="velozes furiosos 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQtjAYXc0rYaRKR2gEsTYT7GrJN930FjEyCZkfNvy1klP4DtACKqHdA7ts3iCgKeEs8S0&usqp=CAU" group-title=" FILMES | COLETANEAA VELOZES E FURIOSOS",velozes furiosos 8
+https://ia902707.us.archive.org/17/items/assistir-velozes-furiosos-tv-fax/Assistir%20Velozes%20%26%20Furiosos%208%20Dublado%20Online%20e%20Gr%C3%A1tis%20-%20Supe.mp4
+#EXTINF:-1 tvg-id="" tvg-name="velozes furiosos 9" tvg-logo="https://cinepop.com.br/wp-content/uploads/2023/04/imagem_2023-04-20_155630085-e1682017091515.jpg" group-title=" FILMES | COLETANEAA VELOZES E FURIOSOS",velozes furiosos 9
+https://ia902707.us.archive.org/17/items/assistir-velozes-furiosos-tv-fax/Assistir%20Velozes%20e%20Furiosos%204%20Dublado%20Online%20e%20Gr%C3%A1tis%20-%20Supe.mp4
+#EXTINF:-1 tvg-id="" tvg-name="velozes furiosos 10" tvg-logo="https://cinepop.com.br/wp-content/uploads/2023/04/imagem_2023-04-20_155630085-e1682017091515.jpg" group-title=" FILMES | COLETANEAA VELOZES E FURIOSOS",velozes furiosos 10
+https://archive.org/download/assistir-velozes-furiosos-tv-fax/Assistir%20Velozes%20%26%20Furiosos%2010%20Dublado%20Online%20e%20Gr%C3%A1tis%20-%20Sup.mp4
 
 #EXTM3U url-tvg="http://grade-de-FILMES   NACIONAL CINEMA.xml"
 ############## FILMES   NACIONAL CINEMA ################# 
@@ -6135,90 +6139,6 @@ https://play.prod.gcp.vix.services/my-son_pt/my-son_pt_1-1/play_v1_hls_1080p.m3u
 https://play.prod.gcp.vix.services/saint-janet_pt/saint-janet_pt_1-1/play_v2_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" Tomé  " tvg-logo="https://images.a12.com/source/files/c/254229/Filme_Tome-834200_600-315-0-0.jpg" group-title="RELIGIOSOS",Tomé
 https://play.prod.gcp.vix.services/gli-amici-tommaso_pt/gli-amici-tommaso_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-name="Canção Nova SD" tvg-logo="http://70.ms/h9" group-title="RELIGIOSOS",Canção Nova SD
- http://5ce.co:80/ndplay33719830/21503n38vgj79/6630
-#EXTINF:-1 tvg-name="Canção Nova SD²" tvg-logo="http://70.ms/9Y" group-title="RELIGIOSOS",Canção Nova SD²
- http://5ce.co:80/ndplay33719830/21503n38vgj79/10859
-#EXTINF:-1 tvg-name="Canal Rede CNT" tvg-logo="http://70.ms/ZgY3nu" group-title="RELIGIOSOS",Canal Rede CNT
- http://5ce.co:80/ndplay33719830/21503n38vgj79/80477
-#EXTINF:-1 tvg-name="Gospel Cartoon" tvg-logo="http://70.ms/JZ" group-title="RELIGIOSOS",Gospel Cartoon
- http://5ce.co:80/ndplay33719830/21503n38vgj79/26440
-#EXTINF:-1 tvg-name="Gospel Movie TV" tvg-logo="http://70.ms/Jg" group-title="RELIGIOSOS",Gospel Movie TV
- http://5ce.co:80/ndplay33719830/21503n38vgj79/26439
-#EXTINF:-1 tvg-name="Ideal TV" tvg-logo="http://70.ms/Yn" group-title="RELIGIOSOS",Ideal TV
- http://5ce.co:80/ndplay33719830/21503n38vgj79/39681
-#EXTINF:-1 tvg-name="Pai Eterno FHD" tvg-logo="" group-title="RELIGIOSOS",Pai Eterno FHD
- http://5ce.co:80/ndplay33719830/21503n38vgj79/100523
-#EXTINF:-1 tvg-name="Pai Eterno HD" tvg-logo="" group-title="RELIGIOSOS",Pai Eterno HD
- http://5ce.co:80/ndplay33719830/21503n38vgj79/100522
-#EXTINF:-1 tvg-name="Pai Eterno SD" tvg-logo="" group-title="RELIGIOSOS",Pai Eterno SD
- http://5ce.co:80/ndplay33719830/21503n38vgj79/100521
-#EXTINF:-1 tvg-name="Rede 21" tvg-logo="https://imgur.com/a36yWU7" group-title="RELIGIOSOS",Rede 21
- http://5ce.co:80/ndplay33719830/21503n38vgj79/168266
-#EXTINF:-1 tvg-name="Rede Genesis" tvg-logo="https://i.imgur.com/7vgbRng.png" group-title="RELIGIOSOS",Rede Genesis
- http://5ce.co:80/ndplay33719830/21503n38vgj79/180818
-#EXTINF:-1 tvg-name="Rede Gospel FHD" tvg-logo="https://i.imgur.com/hACJvMC.png" group-title="RELIGIOSOS",Rede Gospel FHD
- http://5ce.co:80/ndplay33719830/21503n38vgj79/97625
-#EXTINF:-1 tvg-name="Rede Gospel FHD²" tvg-logo="https://i.imgur.com/hACJvMC.png" group-title="RELIGIOSOS",Rede Gospel FHD²
- http://5ce.co:80/ndplay33719830/21503n38vgj79/100526
-#EXTINF:-1 tvg-name="Rede Mundial FHD" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f3409bb0ed003448041dfd1aa8871a9e.jpg" group-title="RELIGIOSOS",Rede Mundial FHD
- http://5ce.co:80/ndplay33719830/21503n38vgj79/112061
-#EXTINF:-1 tvg-name="Rede Seculo 21" tvg-logo="http://70.ms/ZgY3Wb" group-title="RELIGIOSOS",Rede Seculo 21
- http://5ce.co:80/ndplay33719830/21503n38vgj79/72468
-#EXTINF:-1 tvg-name="Rede Super" tvg-logo="http://70.ms/Yf" group-title="RELIGIOSOS",Rede Super
- http://5ce.co:80/ndplay33719830/21503n38vgj79/36315
-#EXTINF:-1 tvg-name="Rede Vida FHD" tvg-logo="http://70.ms/Jo" group-title="RELIGIOSOS",Rede Vida FHD
- http://5ce.co:80/ndplay33719830/21503n38vgj79/28625
-#EXTINF:-1 tvg-name="Rede Vida FHD²" tvg-logo="http://70.ms/Jo" group-title="RELIGIOSOS",Rede Vida FHD²
- http://5ce.co:80/ndplay33719830/21503n38vgj79/100482
-#EXTINF:-1 tvg-name="Rede Vida HD" tvg-logo="http://70.ms/Oi" group-title="RELIGIOSOS",Rede Vida HD
- http://5ce.co:80/ndplay33719830/21503n38vgj79/10699
-#EXTINF:-1 tvg-name="Rede Vida HD²" tvg-logo="http://70.ms/Oi" group-title="RELIGIOSOS",Rede Vida HD²
- http://5ce.co:80/ndplay33719830/21503n38vgj79/100483
-#EXTINF:-1 tvg-name="Rede Vida SD" tvg-logo="http://70.ms/m" group-title="RELIGIOSOS",Rede Vida SD
- http://5ce.co:80/ndplay33719830/21503n38vgj79/68
-#EXTINF:-1 tvg-name="Rede Vida SD²" tvg-logo="http://70.ms/Ot" group-title="RELIGIOSOS",Rede Vida SD²
- http://5ce.co:80/ndplay33719830/21503n38vgj79/10700
-#EXTINF:-1 tvg-name="RIT TV" tvg-logo="http://70.ms/Ow" group-title="RELIGIOSOS",RIT TV
- http://5ce.co:80/ndplay33719830/21503n38vgj79/10698
-#EXTINF:-1 tvg-name="TV Aparecida FHD" tvg-logo="http://70.ms/Od" group-title="RELIGIOSOS",TV Aparecida FHD
- http://5ce.co:80/ndplay33719830/21503n38vgj79/100520
-#EXTINF:-1 tvg-name="TV Aparecida HD" tvg-logo="http://70.ms/Od" group-title="RELIGIOSOS",TV Aparecida HD
- http://5ce.co:80/ndplay33719830/21503n38vgj79/10662
-#EXTINF:-1 tvg-name="TV Aparecida HD²" tvg-logo="http://70.ms/Od" group-title="RELIGIOSOS",TV Aparecida HD²
- http://5ce.co:80/ndplay33719830/21503n38vgj79/100519
-#EXTINF:-1 tvg-name="TV Aparecida SD" tvg-logo="http://70.ms/u" group-title="RELIGIOSOS",TV Aparecida SD
- http://5ce.co:80/ndplay33719830/21503n38vgj79/6450
-#EXTINF:-1 tvg-name="TV Aparecida SD²" tvg-logo="http://70.ms/u" group-title="RELIGIOSOS",TV Aparecida SD²
- http://5ce.co:80/ndplay33719830/21503n38vgj79/100518
-#EXTINF:-1 tvg-name="Tv Boa Vontade HD" tvg-logo="http://70.ms/TD" group-title="RELIGIOSOS",Tv Boa Vontade HD
- http://5ce.co:80/ndplay33719830/21503n38vgj79/22842
-#EXTINF:-1 tvg-name="Tv Boa Vontade SD" tvg-logo="http://70.ms/TD" group-title="RELIGIOSOS",Tv Boa Vontade SD
- http://5ce.co:80/ndplay33719830/21503n38vgj79/100524
-#EXTINF:-1 tvg-name="TV Evangelizar" tvg-logo="http://70.ms/TS" group-title="RELIGIOSOS",TV Evangelizar
- http://5ce.co:80/ndplay33719830/21503n38vgj79/26435
-#EXTINF:-1 tvg-name="TV Gideões" tvg-logo="http://70.ms/TH" group-title="RELIGIOSOS",TV Gideões
- http://5ce.co:80/ndplay33719830/21503n38vgj79/26432
-#EXTINF:-1 tvg-name="Tv Mundo Maior" tvg-logo="https://i.imgur.com/ZEmMWhV.png" group-title="RELIGIOSOS",Tv Mundo Maior
- http://5ce.co:80/ndplay33719830/21503n38vgj79/180819
-#EXTINF:-1 tvg-name="Tv Novo Tempo FHD" tvg-logo="http://70.ms/PA" group-title="RELIGIOSOS",Tv Novo Tempo FHD
- http://5ce.co:80/ndplay33719830/21503n38vgj79/35427
-#EXTINF:-1 tvg-name="TV Novo Tempo FHD²" tvg-logo="http://70.ms/PA" group-title="RELIGIOSOS",TV Novo Tempo FHD²
- http://5ce.co:80/ndplay33719830/21503n38vgj79/100508
-#EXTINF:-1 tvg-name="Tv Novo Tempo HD" tvg-logo="http://70.ms/hA" group-title="RELIGIOSOS",Tv Novo Tempo HD
- http://5ce.co:80/ndplay33719830/21503n38vgj79/6875
-#EXTINF:-1 tvg-name="TV Novo Tempo HD²" tvg-logo="http://70.ms/PA" group-title="RELIGIOSOS",TV Novo Tempo HD²
- http://5ce.co:80/ndplay33719830/21503n38vgj79/100509
-#EXTINF:-1 tvg-name="Tv Novo Tempo SD" tvg-logo="http://70.ms/Or" group-title="RELIGIOSOS",Tv Novo Tempo SD
- http://5ce.co:80/ndplay33719830/21503n38vgj79/10728
-#EXTINF:-1 tvg-name="TV Novo Tempo SD²" tvg-logo="http://70.ms/PA" group-title="RELIGIOSOS",TV Novo Tempo SD²
- http://5ce.co:80/ndplay33719830/21503n38vgj79/100510
-#EXTINF:-1 tvg-name="TV Padre Cicero" tvg-logo="https://imgur.com/9qTdH3a" group-title="RELIGIOSOS",TV Padre Cicero
- http://5ce.co:80/ndplay33719830/21503n38vgj79/217377
-#EXTINF:-1 tvg-name="Tv Promessas" tvg-logo="https://i.imgur.com/YfJpF9v.png" group-title="RELIGIOSOS",Tv Promessas
- http://5ce.co:80/ndplay33719830/21503n38vgj79/180807
-#EXTINF:-1 tvg-name="Tv Recomeço" tvg-logo="http://70.ms/ZgY3SK" group-title="RELIGIOSOS",Tv Recomeço
- http://5ce.co:80/ndplay33719830/21503n38vgj79/82802
 
 #EXTM3U url-tvg="http://grade-de-FE  ESPIRITUAIS.xml"
 ############## FE  ESPIRITUAIS ################# 
@@ -6241,77 +6161,6 @@ https://play.prod.gcp.vix.services/beautifully-broken_pt/beautifully-broken_pt_1
 #EXTINF:-1 tvg-id="" tvg-name="  Em Busca de um Milagre  "tvg-logo="https://i.ytimg.com/vi/flPm14tMhoc/maxresdefault.jpg" group-title="FÉ | ESPIRITUAIS",Em Busca de um Milagre
 https://play.prod.gcp.vix.services/love-jessee_pt/love-jessee_pt_1-1/play_v1_hls_1080p.m3u8
 
-#EXTM3U url-tvg="http://grade-de-ESPECIAIS DESENHOS 24h.xml"
-############## ESPECIAIS DESENHOS 24h ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeESPECIAIS DESENHOS 24h" group-title="
-
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Ben 10" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/4h2FRG.png" group-title="ESPECIAIS DESENHOS 24h",Ben 10
-http://axr.life:80/968367/462903/1417193
-#EXTINF:-1 tvg-id="Bob Esponja 24H" tvg-name="Bob Esponja" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/XBs0GS.png" group-title="ESPECIAIS DESENHOS 24h",Bob Esponja
-http://axr.life:80/968367/462903/1417196
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Bob Zoom" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/yhOGXx.png" group-title="ESPECIAIS DESENHOS 24h",Bob Zoom
-http://axr.life:80/968367/462903/1417197
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="A Casa da Coruja" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/9LdDub.png" group-title="ESPECIAIS DESENHOS 24h",A Casa da Coruja
-http://axr.life:80/968367/462903/2150907
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="A Casa Magica da Gabby" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/QSAGhR.png" group-title="ESPECIAIS DESENHOS 24h",A Casa Magica da Gabby
-http://axr.life:80/968367/462903/2150906
-#EXTINF:-1 tvg-id="Ben 10 24H" tvg-name="A Familia Adams" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/XNdCuz.png" group-title="ESPECIAIS DESENHOS 24h",A Familia Adams
-http://axr.life:80/968367/462903/1413276
-#EXTINF:-1 tvg-id="Galinha Pintadinha 24H" tvg-name="A Galinha Pintadinha" tvg-logo="https://imagizer.imageshack.com/v2/1280x1024q90/923/w95jle.png" group-title="ESPECIAIS DESENHOS 24h",A Galinha Pintadinha
-http://axr.life:80/968367/462903/1413438
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="A Mulher Biônica (Clássico)" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/83Zxeq.png" group-title="ESPECIAIS DESENHOS 24h",A Mulher Biônica (Clássico)
-http://axr.life:80/968367/462903/1418061
-#EXTINF:-1 tvg-id="Bob Esponja 24H" tvg-name="A Mulher Maravilha" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/GAVyKf.png" group-title="ESPECIAIS DESENHOS 24h",A Mulher Maravilha
-http://axr.life:80/968367/462903/1417172
-#EXTINF:-1 tvg-id="Bob Esponja 24H" tvg-name="A Pequena Sereia" tvg-logo="https://imagizer.imageshack.com/img924/5528/NoVrRE.png" group-title="ESPECIAIS DESENHOS 24h",A Pequena Sereia
-http://axr.life:80/968367/462903/1417175
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="A Turma da Mônica" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/921/tbJ0NA.png" group-title="ESPECIAIS DESENHOS 24h",A Turma da Mônica
-http://axr.life:80/968367/462903/1417176
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="A Turma do Bairro" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/921/QNLR06.png" group-title="ESPECIAIS DESENHOS 24h",A Turma do Bairro
-http://axr.life:80/968367/462903/1417177
-#EXTINF:-1 tvg-id="Bob Esponja 24H" tvg-name="A Turma do Manda-Chuva" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/uow6Mh.png" group-title="ESPECIAIS DESENHOS 24h",A Turma do Manda-Chuva
-http://axr.life:80/968367/462903/1417178
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="A Vaca e o Frango" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/9wFrz1.png" group-title="ESPECIAIS DESENHOS 24h",A Vaca e o Frango
-http://axr.life:80/968367/462903/1417179
-#EXTINF:-1 tvg-id="Patrula Canina 24H" tvg-name="Andy Panda" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/921/fkd2xG.png" group-title="ESPECIAIS DESENHOS 24h",Andy Panda
-http://axr.life:80/968367/462903/1417173
-#EXTINF:-1 tvg-id="5f12136385bccc00070142ed" tvg-name="Anime TV" tvg-logo="https://imgur.com/hPUry0Y.png" group-title="ESPECIAIS DESENHOS 24h",Anime TV
-http://axr.life:80/968367/462903/393033
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="As Aventuras de Jackie Chan" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/924/aoL30L.png" group-title="ESPECIAIS DESENHOS 24h",As Aventuras de Jackie Chan
-http://axr.life:80/968367/462903/1417180
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="As Aventuras de Ladybug" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/923/dDff8P.png" group-title="ESPECIAIS DESENHOS 24h",As Aventuras de Ladybug
-http://axr.life:80/968367/462903/1417181
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="As Aventuras de Tintim" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/7OCsQd.png" group-title="ESPECIAIS DESENHOS 24h",As Aventuras de Tintim
-http://axr.life:80/968367/462903/1417182
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="As Aventuras do Pequeno Principe" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/wPriTe.png" group-title="ESPECIAIS DESENHOS 24h",As Aventuras do Pequeno Principe
-http://axr.life:80/968367/462903/1417183
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="As Meninas Superpoderosas" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/924/lnItkf.png" group-title="ESPECIAIS DESENHOS 24h",As Meninas Superpoderosas
-http://axr.life:80/968367/462903/1417184 
-24H" tvg-name="As Tartarugas Ninja" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/YgZwHu.png" group-title="ESPECIAIS DESENHOS 24h",As Tartarugas Ninja
-http://axr.life:80/968367/462903/1417185
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Bacamarte e Chumbinho" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/gMMkK9.png" group-title="ESPECIAIS DESENHOS 24h",Bacamarte e Chumbinho
-http://axr.life:80/968367/462903/1417187
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Bakugan" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/GwELog.png" group-title="ESPECIAIS DESENHOS 24h",Bakugan
-http://axr.life:80/968367/462903/1417219
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Balto" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/DuthjZ.png" group-title="ESPECIAIS DESENHOS 24h",Balto
-http://axr.life:80/968367/462903/1879822
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Bananas de Pijamas" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/JVh4CM.png" group-title="ESPECIAIS DESENHOS 24h",Bananas de Pijamas
-http://axr.life:80/968367/462903/1417188
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Capitão Caverna" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/IN8Ktl.png" group-title="ESPECIAIS DESENHOS 24h",Capitão Caverna
-http://axr.life:80/968367/462903/1417204
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Capitão Harlock" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/924/AI0jHf.png" group-title="ESPECIAIS DESENHOS 24h",Capitão Harlock
-http://axr.life:80/968367/462903/1417207
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Capitão Planeta" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/924/Mf1rZ4.png" group-title="ESPECIAIS DESENHOS 24h",Capitão Planeta
-http://axr.life:80/968367/462903/1417205
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Careta e Mutreta" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/923/9PXliM.png" group-title="ESPECIAIS DESENHOS 24h",Careta e Mutreta
-http://axr.life:80/968367/462903/1417206
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Cadilac & Dinossauros" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/ZrWQ7s.png" group-title="ESPECIAIS DESENHOS 24h",Cadilac & Dinossauros
-http://axr.life:80/968367/462903/1417203
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="Brandy e o Senhor Bigode" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/AgZAMH.png" group-title="ESPECIAIS DESENHOS 24h",Brandy e o Senhor Bigode
-http://axr.life:80/968367/462903/1417198
-#EXTINF:-1 tvg-id="Coragem o Cão Covarde 24H" tvg-name="BraveStarr" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/4mMAb2.png" group-title="ESPECIAIS DESENHOS 24h",BraveStarr
-http://axr.life:80/968367/462903/1417199
-
 #EXTM3U url-tvg="http://grade-de-Pantera Cor de Rosa.xml"
 ############## Pantera Cor de Rosa ################# 
 #EXTINF:-1 tvg-id=" iddocanaldePantera Cor de Rosa" group-title="
@@ -6321,529 +6170,10 @@ http://srv.cldplay.net:80/live/820584rohs/67864336899/147949.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Pantera Cor de Rosa 2" tvg-logo="https://i.imgur.com/JyfiU8H.jpg" group-title="Pantera Cor de Rosa",[24H] Pantera Cor de Rosa 2
 http://srv.cldplay.net:80/live/820584rohs/67864336899/62990.m3u8
 
-#EXTM3U url-tvg="http://grade-de-24HRS DESENHOS.xml"
-############## 24HRS DESENHOS ################# 
-#EXTINF:-1 tvg-id=" iddocanalde24HRS DESENHOS" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A PANTERA COR DE ROSA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] A PANTERA COR DE ROSA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97827
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A PEQUENA SEREIA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] A PEQUENA SEREIA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98681
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SCOOBY DOO CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SCOOBY DOO CANAL 2
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/176129
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SCOOBY DOO CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SCOOBY DOO CANAL 1
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/176128
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVALO DE FOGO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] CAVALO DE FOGO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/176126
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A TURMA DO CHARLIE BROWN E SNOOPY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] A TURMA DO CHARLIE BROWN E SNOOPY
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98565
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A TURMA DO PERNALONGA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] A TURMA DO PERNALONGA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98566
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A VACA E O FRANGO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] A VACA E O FRANGO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98666
-#EXTINF:-1 tvg-id="" tvg-name="[24H] ALADDIN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] ALADDIN
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97845
-#EXTINF:-1 tvg-id="" tvg-name="[24H] AMERICAN DAD" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] AMERICAN DAD
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98568
-#EXTINF:-1 tvg-id="" tvg-name="[24H] ANIMANIACS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] ANIMANIACS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98569
-#EXTINF:-1 tvg-id="" tvg-name="[24H] APENAS UM SHOW" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] APENAS UM SHOW
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98571
-#EXTINF:-1 tvg-id="" tvg-name="[24H] AS AVENTURAS DE JACKIE CHAN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] AS AVENTURAS DE JACKIE CHAN
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98572
-#EXTINF:-1 tvg-id="" tvg-name="[24H] AS MENINAS SUPERPODEROSAS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] AS MENINAS SUPERPODEROSAS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98573
-#EXTINF:-1 tvg-id="" tvg-name="[24H] BOB ESPONJA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] BOB ESPONJA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98577
-#EXTINF:-1 tvg-id="" tvg-name="[24H] AVENTURAS DE TINTIM" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] AVENTURAS DE TINTIM
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98574
-#EXTINF:-1 tvg-id="" tvg-name="[24H] BEAVIS AND BUTT-HEAD LEGENDADO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] BEAVIS AND BUTT-HEAD LEGENDADO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98575
-#EXTINF:-1 tvg-id="" tvg-name="[24H] BEN 10" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] BEN 10
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98576
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVERNA DO DRAGÃO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] CAVERNA DO DRAGÃO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97848
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CLARENCIO O OTIMISTA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] CLARENCIO O OTIMISTA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98578
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CORAGEM, O CÃO COVARDE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] CORAGEM, O CÃO COVARDE
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98668
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CORRIDA MALUCA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] CORRIDA MALUCA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97847
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CHAVES EM DESENHO ANIMADO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] CHAVES EM DESENHO ANIMADO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98670
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DENNIS: O PIMENTINHA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] DENNIS: O PIMENTINHA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98671
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DICK VIGARISTA E MUTTLEY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] DICK VIGARISTA E MUTTLEY
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98580
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DORA, A AVENTUREIRA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] DORA, A AVENTUREIRA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/106152
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DOUG FUNNIE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] DOUG FUNNIE
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98581
-#EXTINF:-1 tvg-id="" tvg-name="[24H] GASPARZINHO E SEUS AMIGOS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] GASPARZINHO E SEUS AMIGOS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98584
-#EXTINF:-1 tvg-id="" tvg-name="[24H] HE-MAN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] HE-MAN
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98586
-#EXTINF:-1 tvg-id="" tvg-name="[24H] HE-MAN 2002" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] HE-MAN 2002
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98585
-#EXTINF:-1 tvg-id="" tvg-name="[24H] JOHNNY BRAVO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] JOHNNY BRAVO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98677
-#EXTINF:-1 tvg-id="" tvg-name="[24H] JONNY QUEST" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] JONNY QUEST
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98588
-#EXTINF:-1 tvg-id="" tvg-name="[24H] O PEQUENO PRINCIPE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] O PEQUENO PRINCIPE
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98594
-#EXTINF:-1 tvg-id="" tvg-name="[24H] O PEQUENO URSO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] O PEQUENO URSO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98682
-#EXTINF:-1 tvg-id="" tvg-name="[24H] MANDA CHUVA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] MANDA CHUVA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98589
-#EXTINF:-1 tvg-id="" tvg-name="[24H] LILO E STITCH: A SÉRIE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] LILO E STITCH: A SÉRIE
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98678
-#EXTINF:-1 tvg-id="" tvg-name="[24H] MICKEY E DONALD" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] MICKEY E DONALD
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98592
-#EXTINF:-1 tvg-id="" tvg-name="[24H] MICKEY: AVENTURAS SOBRE RODAS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] MICKEY: AVENTURAS SOBRE RODAS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98693
-#EXTINF:-1 tvg-id="" tvg-name="[24H] MIRACULOUS AS AVENTURAS DE LADYBUG" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] MIRACULOUS AS AVENTURAS DE LADYBUG
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98593
-#EXTINF:-1 tvg-id="" tvg-name="[24H] OPERAÇÃO BIG HERO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] OPERAÇÃO BIG HERO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98595
-#EXTINF:-1 tvg-id="" tvg-name="[24H] OS FLINTSTONES" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] OS FLINTSTONES
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98679
-#EXTINF:-1 tvg-id="" tvg-name="[24H] OS JETSONS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] OS JETSONS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98597
-#EXTINF:-1 tvg-id="" tvg-name="[24H] OS PADRINHOS MÁGICOS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] OS PADRINHOS MÁGICOS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98680
-#EXTINF:-1 tvg-id="" tvg-name="[24H] PARADISE PD" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] PARADISE PD
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98598
-#EXTINF:-1 tvg-id="" tvg-name="[24H] PICA-PAU" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] PICA-PAU
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98599
-#EXTINF:-1 tvg-id="" tvg-name="[24H] PINKY E O CÉREBRO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] PINKY E O CÉREBRO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98684
-#EXTINF:-1 tvg-id="" tvg-name="[24H] POPEYE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] POPEYE
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98601
-#EXTINF:-1 tvg-id="" tvg-name="[24H] RICK AND MORTY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] RICK AND MORTY
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98602
-#EXTINF:-1 tvg-id="" tvg-name="[24H] RUGRATS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] RUGRATS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98603
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SHE RA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SHE RA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98604
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SIMPSONS CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SIMPSONS CANAL 2
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97811
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SIMPSONS CANAL 3" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SIMPSONS CANAL 3
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97810
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SOUTH PARK CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SOUTH PARK CANAL 1
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98605
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SOUTH PARK CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SOUTH PARK CANAL 2
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98606
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SPEED RACER" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SPEED RACER
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98685
-#EXTINF:-1 tvg-id="" tvg-name="[24H] STAR WARS REBELS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] STAR WARS REBELS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98607
-#EXTINF:-1 tvg-id="" tvg-name="[24H] STAR WARS RESISTANCE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] STAR WARS RESISTANCE
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98608
-#EXTINF:-1 tvg-id="" tvg-name="[24H] STAR WARS THE CLONE WARS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] STAR WARS THE CLONE WARS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98609
-#EXTINF:-1 tvg-id="" tvg-name="[24H] STREET FIGHTER" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] STREET FIGHTER
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98610
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SUPER CHOQUE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SUPER CHOQUE
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98611
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SUPER MARIO BROS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SUPER MARIO BROS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98686
-#EXTINF:-1 tvg-id="" tvg-name="[24H] TAZ-MANIA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] TAZ-MANIA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98687
-#EXTINF:-1 tvg-id="" tvg-name="[24H] THUNDERCATS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] THUNDERCATS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98612
-#EXTINF:-1 tvg-id="" tvg-name="[24H] TICO E TECO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] TICO E TECO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98688
-#EXTINF:-1 tvg-id="" tvg-name="[24H] TICO E TECO: E OS DEFENSORES DA LEI" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] TICO E TECO: E OS DEFENSORES DA LEI
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98613
-#EXTINF:-1 tvg-id="" tvg-name="[24H] TIMÃO E PUMBA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] TIMÃO E PUMBA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98614
-#EXTINF:-1 tvg-id="" tvg-name="[24H] TRÊS ESPIÃS DEMAIS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] TRÊS ESPIÃS DEMAIS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98617
-#EXTINF:-1 tvg-id="" tvg-name="[24H] ULTIMATE HOMEM ARANHA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] ULTIMATE HOMEM ARANHA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98618
-#EXTINF:-1 tvg-id="" tvg-name="[24H] ULTRAMAN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] ULTRAMAN
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98619
-#EXTINF:-1 tvg-id="" tvg-name="[24H] WOLVERINE E OS X-MEN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] WOLVERINE E OS X-MEN
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98689
-#EXTINF:-1 tvg-id="" tvg-name="[24H] X-MEN CLASSIC" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] X-MEN CLASSIC
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97777
-#EXTINF:-1 tvg-id="" tvg-name="[24H] X-MEN EVOLUTION" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] X-MEN EVOLUTION
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97778
-#EXTINF:-1 tvg-id="" tvg-name="[24H] ZAK STORM" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] ZAK STORM
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98620
-#EXTINF:-1 tvg-id="" tvg-name="[24H] ZE BUSCAPE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] ZE BUSCAPE
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97779
-#EXTINF:-1 tvg-id="" tvg-name="[24H] ZÉ COLMEIA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] ZÉ COLMEIA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98690
-#EXTINF:-1 tvg-id="" tvg-name="[24] A FORMIGA ATÔMICA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24] A FORMIGA ATÔMICA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98674
-#EXTINF:-1 tvg-id="" tvg-name="[24] DETONA RALPH" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24] DETONA RALPH
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98673
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SIMPSONS CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] SIMPSONS CANAL 1
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/124981
-#EXTINF:-1 tvg-id="" tvg-name="[24H] TOM E JERRY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24H] TOM E JERRY
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/140016
-#EXTINF:-1 tvg-id="" tvg-name="[24] HOMEM DE FERRO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS DESENHOS",[24] HOMEM DE FERRO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98676
-
 #EXTM3U url-tvg="http://grade-de-24 Horas | Desenhos.xml"
 ############## 24 Horas | Desenhos ################# 
 #EXTINF:-1 tvg-id=" iddocanalde24 Horas | Desenhos" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Zé Buscapé" tvg-logo="https://i.imgur.com/VNvZEhg.png" group-title="24 Horas | Desenhos",[24H] Zé Buscapé
-http://srv.cldplay.net:80/live/820584rohs/67864336899/278.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Futurama" tvg-logo="https://i.imgur.com/ysPcVsC.png" group-title="24 Horas | Desenhos",[24H] Futurama
-http://srv.cldplay.net:80/live/820584rohs/67864336899/162900.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Galinha Pintadinha" tvg-logo="https://i.imgur.com/uGVl1sW.png" group-title="24 Horas | Desenhos",[24H] Galinha Pintadinha
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83695.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Galo e a Pata" tvg-logo="https://i.imgur.com/Gtah0o8.png" group-title="24 Horas | Desenhos",[24H] Galo e a Pata
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62968.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Garfield 01" tvg-logo="https://i.imgur.com/A5fejZC.png" group-title="24 Horas | Desenhos",[24H] Garfield 01
-http://srv.cldplay.net:80/live/820584rohs/67864336899/143799.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Garfield 02" tvg-logo="https://i.imgur.com/A5fejZC.png" group-title="24 Horas | Desenhos",[24H] Garfield 02
-http://srv.cldplay.net:80/live/820584rohs/67864336899/143805.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Garfield 03" tvg-logo="https://i.imgur.com/A5fejZC.png" group-title="24 Horas | Desenhos",[24H] Garfield 03
-http://srv.cldplay.net:80/live/820584rohs/67864336899/70685.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 1" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="24 Horas | Desenhos",[24H] He-Man 1
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83697.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 2" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="24 Horas | Desenhos",[24H] He-Man 2
-http://srv.cldplay.net:80/live/820584rohs/67864336899/154001.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 2002" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="24 Horas | Desenhos",[24H] He-Man 2002
-http://srv.cldplay.net:80/live/820584rohs/67864336899/154002.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] He-Man 3" tvg-logo="https://i.imgur.com/DeVv7lg.png" group-title="24 Horas | Desenhos",[24H] He-Man 3
-http://srv.cldplay.net:80/live/820584rohs/67864336899/156043.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem Aranha Animado 1" tvg-logo="https://i.imgur.com/XzHEuy4.jpg" group-title="24 Horas | Desenhos",[24H] Homem Aranha Animado 1
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83700.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem Aranha Animado 2" tvg-logo="https://i.imgur.com/XzHEuy4.jpg" group-title="24 Horas | Desenhos",[24H] Homem Aranha Animado 2
-http://srv.cldplay.net:80/live/820584rohs/67864336899/154003.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem de Ferro 01" tvg-logo="https://i.ibb.co/GpTJ4zz/71b4cd16bf93110b2278be164ef903b8.jpg" group-title="24 Horas | Desenhos",[24H] Homem de Ferro 01
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83701.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem de Ferro 02" tvg-logo="https://i.ibb.co/GpTJ4zz/71b4cd16bf93110b2278be164ef903b8.jpg" group-title="24 Horas | Desenhos",[24H] Homem de Ferro 02
-http://srv.cldplay.net:80/live/820584rohs/67864336899/142121.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Homem de Ferro 1994" tvg-logo="https://i.ibb.co/GpTJ4zz/71b4cd16bf93110b2278be164ef903b8.jpg" group-title="24 Horas | Desenhos",[24H] Homem de Ferro 1994
-http://srv.cldplay.net:80/live/820584rohs/67864336899/142122.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Irmão do Jorel 1" tvg-logo="https://i.imgur.com/ZC2zSTK.png" group-title="24 Horas | Desenhos",[24H] Irmão do Jorel 1
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62994.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Irmão do Jorel 2" tvg-logo="https://i.imgur.com/ZC2zSTK.png" group-title="24 Horas | Desenhos",[24H] Irmão do Jorel 2
-http://srv.cldplay.net:80/live/820584rohs/67864336899/155389.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Jacarelvis" tvg-logo="https://i.imgur.com/VPTO5JH.png" group-title="24 Horas | Desenhos",[24H] Jacarelvis
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62984.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Jiraya" tvg-logo="https://i.imgur.com/ui3ypUK.png" group-title="24 Horas | Desenhos",[24H] Jiraya
-http://srv.cldplay.net:80/live/820584rohs/67864336899/122179.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Johnny Bravo" tvg-logo="https://i.imgur.com/vJlINsZ.png" group-title="24 Horas | Desenhos",[24H] Johnny Bravo
-http://srv.cldplay.net:80/live/820584rohs/67864336899/156744.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Johnny Test" tvg-logo="https://i.imgur.com/hlolZdh.png" group-title="24 Horas | Desenhos",[24H] Johnny Test
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62996.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Kenan e Kel" tvg-logo="https://i.imgur.com/OTQMEmK.png" group-title="24 Horas | Desenhos",[24H] Kenan e Kel
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83707.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Larva Chiclete" tvg-logo="https://i.imgur.com/GT79fnX.png" group-title="24 Horas | Desenhos",[24H] Larva Chiclete
-http://srv.cldplay.net:80/live/820584rohs/67864336899/63003.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Leo O-Caminhão" tvg-logo="https://image.winudf.com/v2/image/Y29tLmxlby5jYW1pbmhhby5hZHZlbnR1cmVfc2NyZWVuXzFfMTUwNDkwODI1OV8wNzY/screen-1.jpg?fakeurl=1&type=.jpg" group-title="24 Horas | Desenhos",[24H] Leo O-Caminhão
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62981.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Liga da Justica" tvg-logo="https://i.imgur.com/8C1hkQr.png" group-title="24 Horas | Desenhos",[24H] Liga da Justica
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83754.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Looney Tunes" tvg-logo="https://http2.mlstatic.com/pacote-vetores-looney-tunes-para-corel-draw-D_NQ_NP_726158-MLB31610362629_072019-F.jpg" group-title="24 Horas | Desenhos",[24H] Looney Tunes
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62988.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Luluzinha 1" tvg-logo="https://i.imgur.com/tVULkuM.png" group-title="24 Horas | Desenhos",[24H] Luluzinha 1
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83708.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Luluzinha 2" tvg-logo="https://i.imgur.com/tVULkuM.png" group-title="24 Horas | Desenhos",[24H] Luluzinha 2
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62997.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Masha e o Urso" tvg-logo="https://i.imgur.com/QbjuwXD.png" group-title="24 Horas | Desenhos",[24H] Masha e o Urso
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62993.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Medabots" tvg-logo="https://i.imgur.com/cBCf4na.png" group-title="24 Horas | Desenhos",[24H] Medabots
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83709.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] MegaMan" tvg-logo="https://i.imgur.com/YxasqfX.jpg" group-title="24 Horas | Desenhos",[24H] MegaMan
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83710.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Moranguinho 1" tvg-logo="https://i.imgur.com/TD06XiF.png" group-title="24 Horas | Desenhos",[24H] Moranguinho 1
-http://srv.cldplay.net:80/live/820584rohs/67864336899/147946.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Moranguinho 2" tvg-logo="https://i.imgur.com/TD06XiF.png" group-title="24 Horas | Desenhos",[24H] Moranguinho 2
-http://srv.cldplay.net:80/live/820584rohs/67864336899/63005.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Naruto" tvg-logo="https://i.imgur.com/bN1SX2Z.png" group-title="24 Horas | Desenhos",[24H] Naruto
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83713.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] O Clube das Winx" tvg-logo="https://i.imgur.com/LKCd5a3.jpg" group-title="24 Horas | Desenhos",[24H] O Clube das Winx
-http://srv.cldplay.net:80/live/820584rohs/67864336899/143685.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Oggy e as Baratas" tvg-logo="https://i.imgur.com/BJNzeBK.png" group-title="24 Horas | Desenhos",[24H] Oggy e as Baratas
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62955.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] One Piece East Blue" tvg-logo="https://i.imgur.com/S33PChc.png" group-title="24 Horas | Desenhos",[24H] One Piece East Blue
-http://srv.cldplay.net:80/live/820584rohs/67864336899/162898.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Flinstones" tvg-logo="https://i.imgur.com/RGNAPZt.png" group-title="24 Horas | Desenhos",[24H] Os Flinstones
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83720.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Jetson" tvg-logo="https://i.imgur.com/1PXyGFx.png" group-title="24 Horas | Desenhos",[24H] Os Jetson
-http://srv.cldplay.net:80/live/820584rohs/67864336899/162897.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 01" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 01
-http://srv.cldplay.net:80/live/820584rohs/67864336899/143800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 02" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 02
-http://srv.cldplay.net:80/live/820584rohs/67864336899/143801.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 03" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 03
-http://srv.cldplay.net:80/live/820584rohs/67864336899/143802.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 04" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 04
-http://srv.cldplay.net:80/live/820584rohs/67864336899/143803.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Padrinhos Mágicos 05" tvg-logo="https://i.imgur.com/L2eQw9R.jpg" group-title="24 Horas | Desenhos",[24H] Os Padrinhos Mágicos 05
-http://srv.cldplay.net:80/live/820584rohs/67864336899/143804.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Patos" tvg-logo="https://i.imgur.com/fekua66.png" group-title="24 Horas | Desenhos",[24H] Os Patos
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62992.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 01" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="24 Horas | Desenhos",[24H] Os Simpsons 01
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83721.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 02" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="24 Horas | Desenhos",[24H] Os Simpsons 02
-http://srv.cldplay.net:80/live/820584rohs/67864336899/147155.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 03" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="24 Horas | Desenhos",[24H] Os Simpsons 03
-http://srv.cldplay.net:80/live/820584rohs/67864336899/147156.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Os Simpsons 04" tvg-logo="https://i.imgur.com/SSlYbRJ.png" group-title="24 Horas | Desenhos",[24H] Os Simpsons 04
-http://srv.cldplay.net:80/live/820584rohs/67864336899/147170.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Peppa Pig" tvg-logo="https://i.imgur.com/FNYiVSK.png" group-title="24 Horas | Desenhos",[24H] Peppa Pig
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83724.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pequena Sereia" tvg-logo="https://i.imgur.com/NrXr7QS.png" group-title="24 Horas | Desenhos",[24H] Pequena Sereia
-http://srv.cldplay.net:80/live/820584rohs/67864336899/147948.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pernalonga 01" tvg-logo="https://i.imgur.com/FznIeVB.jpg" group-title="24 Horas | Desenhos",[24H] Pernalonga 01
-http://srv.cldplay.net:80/live/820584rohs/67864336899/146926.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pernalonga 02" tvg-logo="https://i.imgur.com/FznIeVB.jpg" group-title="24 Horas | Desenhos",[24H] Pernalonga 02
-http://srv.cldplay.net:80/live/820584rohs/67864336899/146927.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau 01" tvg-logo="https://i.imgur.com/vDijtrd.png" group-title="24 Horas | Desenhos",[24H] Pica Pau 01
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83727.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau 02" tvg-logo="https://i.imgur.com/vDijtrd.png" group-title="24 Horas | Desenhos",[24H] Pica Pau 02
-http://srv.cldplay.net:80/live/820584rohs/67864336899/148200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pica Pau 03" tvg-logo="https://i.imgur.com/vDijtrd.png" group-title="24 Horas | Desenhos",[24H] Pica Pau 03
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62973.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pink-e-Cerebro" tvg-logo="https://i.imgur.com/b3SSmrG.png" group-title="24 Horas | Desenhos",[24H] Pink-e-Cerebro
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83728.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pintinho Amarelinho 1" tvg-logo="https://i.imgur.com/5heRGtO.png" group-title="24 Horas | Desenhos",[24H] Pintinho Amarelinho 1
-http://srv.cldplay.net:80/live/820584rohs/67864336899/147945.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pintinho Amarelinho 2" tvg-logo="https://i.imgur.com/5heRGtO.png" group-title="24 Horas | Desenhos",[24H] Pintinho Amarelinho 2
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62963.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] PJ Masks" tvg-logo="https://i.imgur.com/CNpsqgv.png" group-title="24 Horas | Desenhos",[24H] PJ Masks
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62958.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pocoyo" tvg-logo="https://i.imgur.com/RaBjq2T.png" group-title="24 Horas | Desenhos",[24H] Pocoyo
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83722.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pokemon 1" tvg-logo="https://i.imgur.com/8Mztu28.png" group-title="24 Horas | Desenhos",[24H] Pokemon 1
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83729.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pokemon 2" tvg-logo="https://i.imgur.com/8Mztu28.png" group-title="24 Horas | Desenhos",[24H] Pokemon 2
-http://srv.cldplay.net:80/live/820584rohs/67864336899/147950.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Popeye" tvg-logo="https://i.imgur.com/byvYH2T.png" group-title="24 Horas | Desenhos",[24H] Popeye
-http://srv.cldplay.net:80/live/820584rohs/67864336899/141023.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Popeye 75th" tvg-logo="https://i.imgur.com/byvYH2T.png" group-title="24 Horas | Desenhos",[24H] Popeye 75th
-http://srv.cldplay.net:80/live/820584rohs/67864336899/154892.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Rambo" tvg-logo="https://i.imgur.com/aTbGjwz.png" group-title="24 Horas | Desenhos",[24H] Rambo
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83731.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Rimas de Berçário" tvg-logo="https://i.imgur.com/JjFnb4g.jpg" group-title="24 Horas | Desenhos",[24H] Rimas de Berçário
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62966.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Sakura Card" tvg-logo="https://i.imgur.com/vS0YXXU.png" group-title="24 Horas | Desenhos",[24H] Sakura Card
-http://srv.cldplay.net:80/live/820584rohs/67864336899/280.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Samurai Warriors" tvg-logo="https://i.imgur.com/FdkPiIn.png" group-title="24 Horas | Desenhos",[24H] Samurai Warriors
-http://srv.cldplay.net:80/live/820584rohs/67864336899/269.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Samurai-X 1" tvg-logo="https://i.imgur.com/1JlU4Em.jpg" group-title="24 Horas | Desenhos",[24H] Samurai-X 1
-http://srv.cldplay.net:80/live/820584rohs/67864336899/147951.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Samurai-X 2" tvg-logo="https://i.imgur.com/1JlU4Em.jpg" group-title="24 Horas | Desenhos",[24H] Samurai-X 2
-http://srv.cldplay.net:80/live/820584rohs/67864336899/147991.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Sapo Não Lava o Pé 01" tvg-logo="https://i.imgur.com/bSyQiNf.jpg" group-title="24 Horas | Desenhos",[24H] Sapo Não Lava o Pé 01
-http://srv.cldplay.net:80/live/820584rohs/67864336899/143686.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Sapo Não Lava o Pé 02" tvg-logo="https://i.imgur.com/bSyQiNf.jpg" group-title="24 Horas | Desenhos",[24H] Sapo Não Lava o Pé 02
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62976.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Scooby-Doo" tvg-logo="https://i.imgur.com/27XUjwh.png" group-title="24 Horas | Desenhos",[24H] Scooby-Doo
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83732.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Scooby-Doo - 13 Fantasmas 1985" tvg-logo="https://i.imgur.com/27XUjwh.png" group-title="24 Horas | Desenhos",[24H] Scooby-Doo - 13 Fantasmas 1985
-http://srv.cldplay.net:80/live/820584rohs/67864336899/156747.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Shaman King" tvg-logo="https://i.imgur.com/qvsjN2t.png" group-title="24 Horas | Desenhos",[24H] Shaman King
-http://srv.cldplay.net:80/live/820584rohs/67864336899/270.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] She-ra" tvg-logo="https://i.imgur.com/HzBI3gi.png" group-title="24 Horas | Desenhos",[24H] She-ra
-http://srv.cldplay.net:80/live/820584rohs/67864336899/63002.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Shinzo" tvg-logo="https://i.imgur.com/taKfZeM.png" group-title="24 Horas | Desenhos",[24H] Shinzo
-http://srv.cldplay.net:80/live/820584rohs/67864336899/281.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Show da Luna" tvg-logo="https://i.imgur.com/YCGbUDc.png" group-title="24 Horas | Desenhos",[24H] Show da Luna
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62957.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Shurato" tvg-logo="https://i.imgur.com/OEiRoW3.png" group-title="24 Horas | Desenhos",[24H] Shurato
-http://srv.cldplay.net:80/live/820584rohs/67864336899/271.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Simon" tvg-logo="https://i.imgur.com/ZLDdJmH.png" group-title="24 Horas | Desenhos",[24H] Simon
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62980.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Sitio do Pica-Pau Amarelo" tvg-logo="https://i.imgur.com/QoGJNVu.jpg" group-title="24 Horas | Desenhos",[24H] Sitio do Pica-Pau Amarelo
-http://srv.cldplay.net:80/live/820584rohs/67864336899/63000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] South Park 01" tvg-logo="https://i.imgur.com/1VPX6jI.png" group-title="24 Horas | Desenhos",[24H] South Park 01
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83735.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] South Park 02" tvg-logo="https://i.imgur.com/1VPX6jI.png" group-title="24 Horas | Desenhos",[24H] South Park 02
-http://srv.cldplay.net:80/live/820584rohs/67864336899/152554.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] South Park 03" tvg-logo="https://i.imgur.com/1VPX6jI.png" group-title="24 Horas | Desenhos",[24H] South Park 03
-http://srv.cldplay.net:80/live/820584rohs/67864336899/152555.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Speed-Racer" tvg-logo="https://i.imgur.com/3OBagtI.png" group-title="24 Horas | Desenhos",[24H] Speed-Racer
-http://srv.cldplay.net:80/live/820584rohs/67864336899/265.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Steven Universe" tvg-logo="https://i.imgur.com/kPUxFAb.png" group-title="24 Horas | Desenhos",[24H] Steven Universe
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83736.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Street Fighter 2" tvg-logo="https://i.imgur.com/Sn5VfwV.png" group-title="24 Horas | Desenhos",[24H] Street Fighter 2
-http://srv.cldplay.net:80/live/820584rohs/67864336899/162896.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Choque 1" tvg-logo="https://i.imgur.com/Qc4nrkK.png" group-title="24 Horas | Desenhos",[24H] Super Choque 1
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83757.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Choque 2" tvg-logo="https://i.imgur.com/Qc4nrkK.png" group-title="24 Horas | Desenhos",[24H] Super Choque 2
-http://srv.cldplay.net:80/live/820584rohs/67864336899/156748.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Mario Bros 1" tvg-logo="https://i.imgur.com/d4B83KW.png" group-title="24 Horas | Desenhos",[24H] Super Mario Bros 1
-http://srv.cldplay.net:80/live/820584rohs/67864336899/162901.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Mario Bros 2" tvg-logo="https://i.imgur.com/d4B83KW.png" group-title="24 Horas | Desenhos",[24H] Super Mario Bros 2
-http://srv.cldplay.net:80/live/820584rohs/67864336899/273.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Wings 01" tvg-logo="https://i.imgur.com/OI5Qyja.png" group-title="24 Horas | Desenhos",[24H] Super Wings 01
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83718.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Super Wings 02" tvg-logo="https://i.imgur.com/OI5Qyja.png" group-title="24 Horas | Desenhos",[24H] Super Wings 02
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83704.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Superman - Homem do Amanhã" tvg-logo="https://i.imgur.com/n9VCJ6M.jpg" group-title="24 Horas | Desenhos",[24H] Superman - Homem do Amanhã
-http://srv.cldplay.net:80/live/820584rohs/67864336899/143687.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Superman Animado 01" tvg-logo="https://i.imgur.com/eZNUeQw.png" group-title="24 Horas | Desenhos",[24H] Superman Animado 01
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83737.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Superman Animado 02" tvg-logo="https://i.imgur.com/eZNUeQw.png" group-title="24 Horas | Desenhos",[24H] Superman Animado 02
-http://srv.cldplay.net:80/live/820584rohs/67864336899/152553.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Ursinhos Carinhosos 1" tvg-logo="https://i.imgur.com/cc6o3nh.png" group-title="24 Horas | Desenhos",[24H] Ursinhos Carinhosos 1
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83746.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Ursinhos Carinhosos 2" tvg-logo="https://i.imgur.com/cc6o3nh.png" group-title="24 Horas | Desenhos",[24H] Ursinhos Carinhosos 2
-http://srv.cldplay.net:80/live/820584rohs/67864336899/148274.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Wally Gator" tvg-logo="https://i.imgur.com/Qgs56fB.png" group-title="24 Horas | Desenhos",[24H] Wally Gator
-http://srv.cldplay.net:80/live/820584rohs/67864336899/276.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Wolverine e os X-Men" tvg-logo="https://i.imgur.com/E1sAsc6.png" group-title="24 Horas | Desenhos",[24H] Wolverine e os X-Men
-http://srv.cldplay.net:80/live/820584rohs/67864336899/152887.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] X-Men 1" tvg-logo="https://i.imgur.com/bqGIXuh.png" group-title="24 Horas | Desenhos",[24H] X-Men 1
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83747.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] X-Men 2" tvg-logo="https://i.imgur.com/bqGIXuh.png" group-title="24 Horas | Desenhos",[24H] X-Men 2
-http://srv.cldplay.net:80/live/820584rohs/67864336899/152673.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Xuxa só para Baixinhos 1" tvg-logo="https://i.imgur.com/1QcbLNW.jpg" group-title="24 Horas | Desenhos",[24H] Xuxa só para Baixinhos 1
-http://srv.cldplay.net:80/live/820584rohs/67864336899/148202.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Xuxa só para Baixinhos 2" tvg-logo="https://i.imgur.com/1QcbLNW.jpg" group-title="24 Horas | Desenhos",[24H] Xuxa só para Baixinhos 2
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62953.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Tartarugas Ninjas" tvg-logo="https://i.imgur.com/JZNQZ1V.png" group-title="24 Horas | Desenhos",[24H] Tartarugas Ninjas
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83738.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Team-Galaxy" tvg-logo="https://i.imgur.com/KxMZ1hk.png" group-title="24 Horas | Desenhos",[24H] Team-Galaxy
-http://srv.cldplay.net:80/live/820584rohs/67864336899/266.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Thundercats" tvg-logo="https://i.imgur.com/asCG4BL.png" group-title="24 Horas | Desenhos",[24H] Thundercats
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83739.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Timão e Pumba 01" tvg-logo="https://i.imgur.com/SpbVovY.png" group-title="24 Horas | Desenhos",[24H] Timão e Pumba 01
-http://srv.cldplay.net:80/live/820584rohs/67864336899/274.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Timão e Pumba 02" tvg-logo="https://i.imgur.com/SpbVovY.png" group-title="24 Horas | Desenhos",[24H] Timão e Pumba 02
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83740.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Tom & Jerry" tvg-logo="https://i.imgur.com/SHkf4YJ.jpg" group-title="24 Horas | Desenhos",[24H] Tom & Jerry
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83742.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Três Espiãs Demais" tvg-logo="https://i.imgur.com/r8pkVTF.png" group-title="24 Horas | Desenhos",[24H] Três Espiãs Demais
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83743.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Turma da Mônica" tvg-logo="https://i.imgur.com/nVZpxON.jpg" group-title="24 Horas | Desenhos",[24H] Turma da Mônica
-http://srv.cldplay.net:80/live/820584rohs/67864336899/148201.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Turma do Pateta" tvg-logo="https://i.imgur.com/WJF1XMl.png" group-title="24 Horas | Desenhos",[24H] Turma do Pateta
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62989.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dora Aventureira 01" tvg-logo="https://i.imgur.com/yPCAmNl.png" group-title="24 Horas | Desenhos",[24H] Dora Aventureira 01
-http://srv.cldplay.net:80/live/820584rohs/67864336899/140789.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dora Aventureira 2" tvg-logo="https://i.imgur.com/yPCAmNl.png" group-title="24 Horas | Desenhos",[24H] Dora Aventureira 2
-http://srv.cldplay.net:80/live/820584rohs/67864336899/89548.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Doug 1" tvg-logo="https://i.imgur.com/yNFOAC8.png" group-title="24 Horas | Desenhos",[24H] Doug 1
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83689.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Doug 2" tvg-logo="https://i.imgur.com/yNFOAC8.png" group-title="24 Horas | Desenhos",[24H] Doug 2
-http://srv.cldplay.net:80/live/820584rohs/67864336899/153996.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball 1" tvg-logo="https://i.imgur.com/25zF25C.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball 1
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83690.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball 2" tvg-logo="https://i.imgur.com/25zF25C.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball 2
-http://srv.cldplay.net:80/live/820584rohs/67864336899/153999.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Heroes" tvg-logo="https://i.imgur.com/xd4GpvA.jpg" group-title="24 Horas | Desenhos",[24H] Dragon Ball Heroes
-http://srv.cldplay.net:80/live/820584rohs/67864336899/152661.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Super 1" tvg-logo="https://i.imgur.com/rsuUye7.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball Super 1
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83692.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Super 2" tvg-logo="https://i.imgur.com/rsuUye7.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball Super 2
-http://srv.cldplay.net:80/live/820584rohs/67864336899/152662.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Super 3" tvg-logo="https://i.imgur.com/rsuUye7.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball Super 3
-http://srv.cldplay.net:80/live/820584rohs/67864336899/152663.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Z 1" tvg-logo="https://i.imgur.com/LyGOv12.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball Z 1
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83691.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball Z 2" tvg-logo="https://i.imgur.com/LyGOv12.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball Z 2
-http://srv.cldplay.net:80/live/820584rohs/67864336899/152670.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Dragon Ball [Filmes 1]" tvg-logo="https://i.imgur.com/LyGOv12.png" group-title="24 Horas | Desenhos",[24H] Dragon Ball [Filmes 1]
-http://srv.cldplay.net:80/live/820584rohs/67864336899/152664.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Du, Dudu e Edu" tvg-logo="https://i.imgur.com/bwmG2Oz.png" group-title="24 Horas | Desenhos",[24H] Du, Dudu e Edu
-http://srv.cldplay.net:80/live/820584rohs/67864336899/156745.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Em Busca do Vale Encantado" tvg-logo="https://i.imgur.com/xQBr9hE.png" group-title="24 Horas | Desenhos",[24H] Em Busca do Vale Encantado
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62985.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves Desenho" tvg-logo="https://i.imgur.com/kT1G0Oe.png" group-title="24 Horas | Desenhos",[24H] Chaves Desenho
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83683.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Clarêncio, O Otimista" tvg-logo="https://i.imgur.com/LG8krTe.png" group-title="24 Horas | Desenhos",[24H] Clarêncio, O Otimista
-http://srv.cldplay.net:80/live/820584rohs/67864336899/156574.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Coragem o Cão Covarde 1 " tvg-logo="https://i.imgur.com/SZu2qbM.png" group-title="24 Horas | Desenhos",[24H] Coragem o Cão Covarde 1 
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83679.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Coragem o Cão Covarde 2" tvg-logo="https://i.imgur.com/SZu2qbM.png" group-title="24 Horas | Desenhos",[24H] Coragem o Cão Covarde 2
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62987.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Corrida Maluca 1" tvg-logo="https://i.imgur.com/a0yT96h.png" group-title="24 Horas | Desenhos",[24H] Corrida Maluca 1
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83759.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Corrida Maluca 1968" tvg-logo="https://i.imgur.com/a0yT96h.png" group-title="24 Horas | Desenhos",[24H] Corrida Maluca 1968
-http://srv.cldplay.net:80/live/820584rohs/67864336899/148014.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Corrida Maluca 2" tvg-logo="https://i.imgur.com/a0yT96h.png" group-title="24 Horas | Desenhos",[24H] Corrida Maluca 2
-http://srv.cldplay.net:80/live/820584rohs/67864336899/148277.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Corrida Maluca 3" tvg-logo="https://i.imgur.com/a0yT96h.png" group-title="24 Horas | Desenhos",[24H] Corrida Maluca 3
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62974.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon 1" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="24 Horas | Desenhos",[24H] Digimon 1
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83687.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon 15º Aniversário" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="24 Horas | Desenhos",[24H] Digimon 15º Aniversário
-http://srv.cldplay.net:80/live/820584rohs/67864336899/153992.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon 2" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="24 Horas | Desenhos",[24H] Digimon 2
-http://srv.cldplay.net:80/live/820584rohs/67864336899/153989.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon Adventure Zero Two" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="24 Horas | Desenhos",[24H] Digimon Adventure Zero Two
-http://srv.cldplay.net:80/live/820584rohs/67864336899/153991.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon Frontier" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="24 Horas | Desenhos",[24H] Digimon Frontier
-http://srv.cldplay.net:80/live/820584rohs/67864336899/153993.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon Savers" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="24 Horas | Desenhos",[24H] Digimon Savers
-http://srv.cldplay.net:80/live/820584rohs/67864336899/153994.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Digimon Tamers" tvg-logo="https://i.imgur.com/BCjydua.png" group-title="24 Horas | Desenhos",[24H] Digimon Tamers
-http://srv.cldplay.net:80/live/820584rohs/67864336899/153995.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Apenas um Show" tvg-logo="https://i.imgur.com/wlDLbCK.png" group-title="24 Horas | Desenhos",[24H] Apenas um Show
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62978.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] As Aventuras do Batman 01" tvg-logo="https://i.imgur.com/QVRRdbr.jpg" group-title="24 Horas | Desenhos",[24H] As Aventuras do Batman 01
-http://srv.cldplay.net:80/live/820584rohs/67864336899/143688.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] As Aventuras do Batman 02" tvg-logo="https://i.imgur.com/QVRRdbr.jpg" group-title="24 Horas | Desenhos",[24H] As Aventuras do Batman 02
-http://srv.cldplay.net:80/live/820584rohs/67864336899/143798.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] As Meninas Superpoderosas" tvg-logo="https://i.imgur.com/o8VZkjv.jpg" group-title="24 Horas | Desenhos",[24H] As Meninas Superpoderosas
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83675.m3u8
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="[24H] Baby Looney Tunes" tvg-logo="https://i.imgur.com/64rTYua.png" group-title="24 Horas | Desenhos",[24H] Baby Looney Tunes
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83240.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] BEN 10 - 01" tvg-logo="https://i.imgur.com/xAiENyp.png" group-title="24 Horas | Desenhos",[24H] BEN 10 - 01
-http://srv.cldplay.net:80/live/820584rohs/67864336899/140811.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] BEN 10 2" tvg-logo="https://i.imgur.com/xAiENyp.png" group-title="24 Horas | Desenhos",[24H] BEN 10 2
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62972.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Bita e os Animais" tvg-logo="https://i.imgur.com/mrdLM42.jpg" group-title="24 Horas | Desenhos",[24H] Bita e os Animais
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83753.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob Esponja 01" tvg-logo="https://i.imgur.com/5LiIYws.jpg" group-title="24 Horas | Desenhos",[24H] Bob Esponja 01
-http://srv.cldplay.net:80/live/820584rohs/67864336899/140950.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob o Trem 1" tvg-logo="https://i.imgur.com/9nFUxYZ.png" group-title="24 Horas | Desenhos",[24H] Bob o Trem 1
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62983.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob o Trem 2" tvg-logo="https://i.imgur.com/9nFUxYZ.png" group-title="24 Horas | Desenhos",[24H] Bob o Trem 2
-http://srv.cldplay.net:80/live/820584rohs/67864336899/147829.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob Zoom 1" tvg-logo="https://i.imgur.com/umAjgau.jpg" group-title="24 Horas | Desenhos",[24H] Bob Zoom 1
-http://srv.cldplay.net:80/live/820584rohs/67864336899/147830.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Bob Zoom 2" tvg-logo="https://i.imgur.com/umAjgau.jpg" group-title="24 Horas | Desenhos",[24H] Bob Zoom 2
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62965.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Booba 1" tvg-logo="https://i.imgur.com/h9KTXQF.png" group-title="24 Horas | Desenhos",[24H] Booba 1
-http://srv.cldplay.net:80/live/820584rohs/67864336899/147831.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Booba 2" tvg-logo="https://i.imgur.com/h9KTXQF.png" group-title="24 Horas | Desenhos",[24H] Booba 2
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62952.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Caillou" tvg-logo="https://i.imgur.com/sA1jMNy.jpg" group-title="24 Horas | Desenhos",[24H] Caillou
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62956.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cascão A Turma da Monica" tvg-logo="https://i.imgur.com/hOk9met.png" group-title="24 Horas | Desenhos",[24H] Cascão A Turma da Monica
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62964.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cascão A Turma da Monica" tvg-logo="https://i.imgur.com/hOk9met.png" group-title="24 Horas | Desenhos",[24H] Cascão A Turma da Monica
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/62964
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 1" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 1
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83719.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 2" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 2
-http://srv.cldplay.net:80/live/820584rohs/67864336899/152888.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 3" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 3
-http://srv.cldplay.net:80/live/820584rohs/67864336899/152889.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 4" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 4
-http://srv.cldplay.net:80/live/820584rohs/67864336899/152890.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 5" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 5
-http://srv.cldplay.net:80/live/820584rohs/67864336899/152891.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 6" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 6
-http://srv.cldplay.net:80/live/820584rohs/67864336899/152892.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 1" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 1
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83719
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 2" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 2
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/152888
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 3" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 3
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/152889
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 4" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 4
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/152890
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 5" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 5
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/152891
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Cavaleiros do Zodiaco 6" tvg-logo="https://i.imgur.com/p4HrM2w.png" group-title="24 Horas | Desenhos",[24H] Cavaleiros do Zodiaco 6
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/152892
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Caverna do Dragão 1" tvg-logo="https://i.imgur.com/Zfq2vFX.png" group-title="24 Horas | Desenhos",[24H] Caverna do Dragão 1
-http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/62995
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Caverna do Dragão 1" tvg-logo="https://i.imgur.com/Zfq2vFX.png" group-title="24 Horas | Desenhos",[24H] Caverna do Dragão 1
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62995.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Chaves Desenho" tvg-logo="https://i.imgur.com/kT1G0Oe.png" group-title="24 Horas | Desenhos",[24H] Chaves Desenho
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83683
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Clarêncio, O Otimista" tvg-logo="https://i.imgur.com/LG8krTe.png" group-title="24 Horas | Desenhos",[24H] Clarêncio, O Otimista
@@ -6917,190 +6247,10 @@ http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/62952
 #EXTINF:-1 tvg-id="" tvg-name="[24H] Caillou" tvg-logo="https://i.imgur.com/sA1jMNy.jpg" group-title="24 Horas | Desenhos",[24H] Caillou
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/62956
 
-#EXTM3U url-tvg="http://grade-de-24HRS ANIMES.xml"
-############## 24HRS ANIMES ################# 
-#EXTINF:-1 tvg-id=" iddocanalde24HRS ANIMES" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="[24H] NARUTO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] NARUTO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97768
-#EXTINF:-1 tvg-id="" tvg-name="[24H] NARUTO SHIPPUDEN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] NARUTO SHIPPUDEN
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97767
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SAILOR MOON" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] SAILOR MOON
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97766
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SAMURAI X" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] SAMURAI X
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97769
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SAMURAI X - OVAS E FILME" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] SAMURAI X - OVAS E FILME
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97770
-#EXTINF:-1 tvg-id="" tvg-name="[24] HAMTARO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24] HAMTARO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98675
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVALEIROS DO ZODIACO 1 - SANTUARIO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] CAVALEIROS DO ZODIACO 1 - SANTUARIO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97673
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVALEIROS DO ZODIACO 2 - 12 CASAS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] CAVALEIROS DO ZODIACO 2 - 12 CASAS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97674
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVALEIROS DO ZODIACO 3 - ASGARD" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] CAVALEIROS DO ZODIACO 3 - ASGARD
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97675
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVALEIROS DO ZODIACO 4 - POSEIDON" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] CAVALEIROS DO ZODIACO 4 - POSEIDON
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97676
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVALEIROS DO ZODIACO 5 - HADES" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] CAVALEIROS DO ZODIACO 5 - HADES
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97677
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVALEIROS DO ZODIACO 6 - LOST CANVAS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] CAVALEIROS DO ZODIACO 6 - LOST CANVAS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97678
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVALEIROS DO ZODIACO 8 - NETFLIX" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] CAVALEIROS DO ZODIACO 8 - NETFLIX
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97755
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CAVALEIROS DO ZODÍACO 7 - ALMA DE OURO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] CAVALEIROS DO ZODÍACO 7 - ALMA DE OURO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97754
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DRAGON BALL HEROES" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] DRAGON BALL HEROES
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/176131
-#EXTINF:-1 tvg-id="" tvg-name="[24H] BEYBLADE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] BEYBLADE
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98667
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DB - CLASSICO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] DB - CLASSICO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97762
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DBGT" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] DBGT
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97760
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DBZ 1 - SAGA DOS SAYAJINS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] DBZ 1 - SAGA DOS SAYAJINS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97756
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DBZ 2 - SAGA DE FREEZA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] DBZ 2 - SAGA DE FREEZA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97757
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DBZ 3 - SAGA DE GALIC JR - ANDROIDES E CELL - TORNEIO DO OUTRO MUNDO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] DBZ 3 - SAGA DE GALIC JR - ANDROIDES E CELL - TORNEIO DO OUTRO MUNDO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97758
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DBZ 4 -  SAGA DE MAJIN BOO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] DBZ 4 -  SAGA DE MAJIN BOO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97759
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DBZ 5 - KAI" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uAZmpZY9oCRgJ06f342sagwdjYL.jpg" group-title="24HRS ANIMES",[24H] DBZ 5 - KAI
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97761
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DBZ SUPER CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] DBZ SUPER CANAL 1
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97763
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DBZ SUPER CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] DBZ SUPER CANAL 2
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97764
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DIGIMON ADVENTURES" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS ANIMES",[24H] DIGIMON ADVENTURES
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97765
-
-#EXTM3U url-tvg="http://grade-de-24HRS SERIES E PROGRAMAS.xml"
-############## 24HRS SERIES E PROGRAMAS ################# 
-#EXTINF:-1 tvg-id=" iddocanalde24HRS SERIES E PROGRAMAS" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="[24H] PUNKY, A LEVADA DA BRECA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] PUNKY, A LEVADA DA BRECA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/176127
-#EXTINF:-1 tvg-id="" tvg-name="[24H]  A GRANDE FAMILIA - O ÃLBUM" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H]  A GRANDE FAMILIA - O ÃLBUM
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98643
-#EXTINF:-1 tvg-id="" tvg-name="[24H] F1 - CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] F1 - CANAL 2
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/176130
-#EXTINF:-1 tvg-id="" tvg-name="[24H] AS VISÕES DA RAVEN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] AS VISÕES DA RAVEN
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98636
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CASTELO RÁ-TIM-BUM" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] CASTELO RÁ-TIM-BUM
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98669
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CHICA VAMPIRO CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] CHICA VAMPIRO CANAL 1
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98637
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CHICA VAMPIRO CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] CHICA VAMPIRO CANAL 2
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98638
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CHAPOLIN CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] CHAPOLIN CANAL 1
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97647
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CHAPOLIN CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] CHAPOLIN CANAL 2
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97648
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CHAVES CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] CHAVES CANAL 1
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97649
-#EXTINF:-1 tvg-id="" tvg-name="[24H] CHAVES CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] CHAVES CANAL 2
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97650
-#EXTINF:-1 tvg-id="" tvg-name="[24H] D.P.A - DETETIVES DO PRÉDIO AZUL - CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] D.P.A - DETETIVES DO PRÉDIO AZUL - CANAL 1
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97828
-#EXTINF:-1 tvg-id="" tvg-name="[24H] D.P.A - DETETIVES DO PRÉDIO AZUL - CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] D.P.A - DETETIVES DO PRÉDIO AZUL - CANAL 2
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97829
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DOIS HOMENS E MEIO CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] DOIS HOMENS E MEIO CANAL 1
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97646
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DOIS HOMENS E MEIO CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] DOIS HOMENS E MEIO CANAL 2
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97644
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DR. HOUSE" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] DR. HOUSE
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98639
-#EXTINF:-1 tvg-id="" tvg-name="[24H] DRAKE E JOSH" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] DRAKE E JOSH
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97651
-#EXTINF:-1 tvg-id="" tvg-name="[24H] ESCOLINHA DO PROFESSOR RAIMUNDO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] ESCOLINHA DO PROFESSOR RAIMUNDO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98640
-#EXTINF:-1 tvg-id="" tvg-name="[24H] EU, A PATROA E AS CRIANÇAS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] EU, A PATROA E AS CRIANÇAS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97645
-#EXTINF:-1 tvg-id="" tvg-name="[24H] F1 - CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] F1 - CANAL 1
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97776
-#EXTINF:-1 tvg-id="" tvg-name="[24H] FAMÍLIA DINOSSAURO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] FAMÍLIA DINOSSAURO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97830
-#EXTINF:-1 tvg-id="" tvg-name="[24H] FRIENDS CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] FRIENDS CANAL 1
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97656
-#EXTINF:-1 tvg-id="" tvg-name="[24H] FRIENDS CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] FRIENDS CANAL 2
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97657
-#EXTINF:-1 tvg-id="" tvg-name="[24H] GREY’S ANATOMY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] GREY’S ANATOMY
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97832
-#EXTINF:-1 tvg-id="" tvg-name="[24H] LARGADOS E PELADOS: A TRIBO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] LARGADOS E PELADOS: A TRIBO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98641
-#EXTINF:-1 tvg-id="" tvg-name="[24H] OS NORMAIS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] OS NORMAIS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98645
-#EXTINF:-1 tvg-id="" tvg-name="[24H] MR. BEAN" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] MR. BEAN
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97835
-#EXTINF:-1 tvg-id="" tvg-name="[24H] KENAN E KEL" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] KENAN E KEL
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97655
-#EXTINF:-1 tvg-id="" tvg-name="[24H] OS TRAPALHOES" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] OS TRAPALHOES
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97838
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A GRANDE FAMÍLIA CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] A GRANDE FAMÍLIA CANAL 1
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/124979
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A GRANDE FAMÍLIA CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] A GRANDE FAMÍLIA CANAL 2
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/124980
-#EXTINF:-1 tvg-id="" tvg-name="[24H] YOUNG SHELDON" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] YOUNG SHELDON
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98651
-#EXTINF:-1 tvg-id="" tvg-name="[24H] TODO MUNDO ODEIA O CHRIS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] TODO MUNDO ODEIA O CHRIS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97653
-#EXTINF:-1 tvg-id="" tvg-name="[24H] TOMA LA DA CA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] TOMA LA DA CA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98648
-#EXTINF:-1 tvg-id="" tvg-name="[24H] TRES É DEMAIS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] TRES É DEMAIS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97654
-#EXTINF:-1 tvg-id="" tvg-name="[24H] THE BIG BANG THEORY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] THE BIG BANG THEORY
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97652
-#EXTINF:-1 tvg-id="" tvg-name="[24H] PEGADINHAS JOÃO KLEBER E SILVIO SANTOS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] PEGADINHAS JOÃO KLEBER E SILVIO SANTOS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98644
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SOBRENATURAL CANAL 1" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] SOBRENATURAL CANAL 1
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98646
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SOBRENATURAL CANAL 2" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] SOBRENATURAL CANAL 2
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98647
-#EXTINF:-1 tvg-id="" tvg-name="[24H] TÔ DE GRAÇA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] TÔ DE GRAÇA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97840
-#EXTINF:-1 tvg-id="" tvg-name="[24H] ALF, O ETEIMOSO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] ALF, O ETEIMOSO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/140015
-#EXTINF:-1 tvg-id="" tvg-name="[24H] MACGYVER - PROFISSÃO PERIGO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS SÉRIES E PROGRAMAS ",[24H] MACGYVER - PROFISSÃO PERIGO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98642
-
 #EXTM3U url-tvg="http://grade-de-24 Horas  Premium.xml"
 ############## 24 Horas  Premium ################# 
 #EXTINF:-1 tvg-id=" iddocanalde24 Horas  Premium" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="[24H] YT-Delegado Dacunha 01" tvg-logo="https://i.imgur.com/mYf1X6r.jpg" group-title="24 Horas | Premium",[24H] YT-Delegado Dacunha 01
-http://srv.cldplay.net:80/live/820584rohs/67864336899/152321.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] YT-Delegado Dacunha 02" tvg-logo="https://i.imgur.com/mYf1X6r.jpg" group-title="24 Horas | Premium",[24H] YT-Delegado Dacunha 02
-http://srv.cldplay.net:80/live/820584rohs/67864336899/152322.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] YT-Delegado Dacunha 03" tvg-logo="https://i.imgur.com/mYf1X6r.jpg" group-title="24 Horas | Premium",[24H] YT-Delegado Dacunha 03
-http://srv.cldplay.net:80/live/820584rohs/67864336899/152323.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] YT-Delegado Dacunha 04" tvg-logo="https://i.imgur.com/mYf1X6r.jpg" group-title="24 Horas | Premium",[24H] YT-Delegado Dacunha 04
-http://srv.cldplay.net:80/live/820584rohs/67864336899/152324.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] YT-Investigação Criminal" tvg-logo="https://i.imgur.com/Zyxwj1j.jpg" group-title="24 Horas | Premium",[24H] YT-Investigação Criminal
-http://srv.cldplay.net:80/live/820584rohs/67864336899/152309.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] YT-Policia Militar" tvg-logo="https://i.imgur.com/4w1cvok.png" group-title="24 Horas | Premium",[24H] YT-Policia Militar
-http://srv.cldplay.net:80/live/820584rohs/67864336899/152319.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jogos Mortais 01" tvg-logo="https://i.imgur.com/H5JYqRh.png" group-title="24 Horas | Premium",Jogos Mortais 01
-http://srv.cldplay.net:80/live/820584rohs/67864336899/123177.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jogos Mortais 02" tvg-logo="https://i.imgur.com/H5JYqRh.png" group-title="24 Horas | Premium",Jogos Mortais 02
-http://srv.cldplay.net:80/live/820584rohs/67864336899/123178.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Marvel 01" tvg-logo="https://i.imgur.com/ysgbadO.jpg" group-title="24 Horas | Premium",Marvel 01
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83171.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Marvel 02" tvg-logo="https://i.imgur.com/ysgbadO.jpg" group-title="24 Horas | Premium",Marvel 02
-http://srv.cldplay.net:80/live/820584rohs/67864336899/83184.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Marvel 03" tvg-logo="https://i.imgur.com/ysgbadO.jpg" group-title="24 Horas | Premium",Marvel 03
-http://srv.cldplay.net:80/live/820584rohs/67864336899/87696.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Marvel 04" tvg-logo="https://i.imgur.com/ysgbadO.jpg" group-title="24 Horas | Premium",Marvel 04
-http://srv.cldplay.net:80/live/820584rohs/67864336899/89551.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jogos Vorazes - Quadrilogia" tvg-logo="https://i.imgur.com/Wp5FDZV.png" group-title="24 Horas | Premium",Jogos Vorazes - Quadrilogia
-http://srv.cldplay.net:80/live/820584rohs/67864336899/123179.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="John Wick - Trilogia" tvg-logo="https://i.imgur.com/5PGuphP.png" group-title="24 Horas | Premium",John Wick - Trilogia
-http://srv.cldplay.net:80/live/820584rohs/67864336899/133418.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Maze Runner - Trilogia" tvg-logo="https://i.imgur.com/kpgLT2u.png" group-title="24 Horas | Premium",Maze Runner - Trilogia
-http://srv.cldplay.net:80/live/820584rohs/67864336899/123180.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 01" tvg-logo="https://i.imgur.com/1oQrlFf.png" group-title="24 Horas | Premium",X-Men 01
-http://srv.cldplay.net:80/live/820584rohs/67864336899/133416.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 02" tvg-logo="https://i.imgur.com/1oQrlFf.png" group-title="24 Horas | Premium",X-Men 02
-http://srv.cldplay.net:80/live/820584rohs/67864336899/133417.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Jogos Mortais 01" tvg-logo="https://i.imgur.com/H5JYqRh.png" group-title="24 Horas | Premium",Jogos Mortais 01
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/123177
 #EXTINF:-1 tvg-id="" tvg-name="Jogos Mortais 02" tvg-logo="https://i.imgur.com/H5JYqRh.png" group-title="24 Horas | Premium",Jogos Mortais 02
@@ -7241,74 +6391,6 @@ https://play.prod.gcp.vix.services/pat-coletanea-amigos_pt/pat-coletanea-amigos_
 #EXTINF:-1 tvg-logo="https://i.makeagif.com/media/3-24-2016/8K0GwO.gif" group-title="Patati Patatá | Patati Patatá",Coletânea de Sucessos 2 - Remexe
 https://play.prod.gcp.vix.services/pat-coletanea-remexe_pt/pat-coletanea-remexe_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.makeagif.com/media/3-24-2016/8K0GwO.gif" group-title="Patati Patatá | Patati Patatá",Coletânea de Sucessos 2 - É Tão Bom
-
-#EXTM3U url-tvg="http://grade-de-24HRS INFANTIL.xml"
-############## 24HRS INFANTIL ################# 
-#EXTINF:-1 tvg-id=" iddocanalde24HRS INFANTIL" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="[24H] LEO O CAMINHÃO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] LEO O CAMINHÃO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98562
-#EXTINF:-1 tvg-id="" tvg-name="[24H] GALINHA PINTADINHA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] GALINHA PINTADINHA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97831
-#EXTINF:-1 tvg-id="" tvg-name="[24H] LULUZINHA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] LULUZINHA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98626
-#EXTINF:-1 tvg-id="" tvg-name="[24H] MASHA E O URSO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] MASHA E O URSO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98627
-#EXTINF:-1 tvg-id="" tvg-name="[24H] MONGO E DRONGO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] MONGO E DRONGO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97834
-#EXTINF:-1 tvg-id="" tvg-name="[24H] LOOLOO KIDS - JOHNY E AMIGOS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] LOOLOO KIDS - JOHNY E AMIGOS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97833
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SONIC BOOM" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] SONIC BOOM
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98632
-#EXTINF:-1 tvg-id="" tvg-name="[24H] SHOW DA LUNA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] SHOW DA LUNA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98631
-#EXTINF:-1 tvg-id="" tvg-name="[24H] PEPPA PIG" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] PEPPA PIG
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97839
-#EXTINF:-1 tvg-id="" tvg-name="[24H] O FANTÁSTICO MUNDO DE BOBBY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] O FANTÁSTICO MUNDO DE BOBBY
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98628
-#EXTINF:-1 tvg-id="" tvg-name="[24H] O PODEROSO CHEFINHO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] O PODEROSO CHEFINHO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98629
-#EXTINF:-1 tvg-id="" tvg-name="[24H] MUNDO BITA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] MUNDO BITA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97836
-#EXTINF:-1 tvg-id="" tvg-name="[24H] POCOYO" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] POCOYO
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97812
-#EXTINF:-1 tvg-id="" tvg-name="[24H] BEN E HOLLY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] BEN E HOLLY
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97846
-#EXTINF:-1 tvg-id="" tvg-name="[24H] BOB ZOOM" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] BOB ZOOM
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98623
-#EXTINF:-1 tvg-id="" tvg-name="[24H] 3 PALAVRINHAS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] 3 PALAVRINHAS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/97844
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A CASA DO MICKEY" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] A CASA DO MICKEY
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98621
-#EXTINF:-1 tvg-id="" tvg-name="[24H] A TURMA DA MONICA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] A TURMA DA MONICA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98622
-#EXTINF:-1 tvg-id="" tvg-name="[24H] PJ MASKS - HEROIS DE PIJAMA" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] PJ MASKS - HEROIS DE PIJAMA
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98630
-#EXTINF:-1 tvg-id="" tvg-name="[24H] URSINHOS CARINHOSOS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] URSINHOS CARINHOSOS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98633
-#EXTINF:-1 tvg-id="" tvg-name="[24H] URSINHOS CARINHOSOS E SEUS PRIMOS" tvg-logo="http://dns.ulttv.xyz/i/24horas.png" group-title="24HRS INFANTIL",[24H] URSINHOS CARINHOSOS E SEUS PRIMOS
-http://dns.p2.wtf:80/zua6rwu2/odt36ggy/98634
-
-#EXTM3U url-tvg="http://grade-de- Serie FUBAR.xml"
-############## Serie FUBAR ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSerie FUBAR" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="01 Dia de levar a filha para o trabalho S01 E01" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",01 Dia de levar a filha para o trabalho S01 E01
-https://ia902707.us.archive.org/14/items/royal-flush-a-9-a-10/01Dia%20de%20levar%20a%20filha%20para%20o%20trabalhoA01A02.mp4
-#EXTINF:-1 tvg-id="" tvg-name="02 Trem roubado S01 E02" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",02 Trem roubado S01 E02
-https://ia902707.us.archive.org/14/items/royal-flush-a-9-a-10/02Trem%20roubado%20A03A04.mp4
-#EXTINF:-1 tvg-id="" tvg-name="03 Isca S01 E03 " tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",03 Isca S01 E03 
-https://ia802707.us.archive.org/14/items/royal-flush-a-9-a-10/03Isca%20A05A06%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="0 4Armado e Perigoso S01 E04" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",04 Armado e Perigoso S01 E04
-https://ia802707.us.archive.org/14/items/royal-flush-a-9-a-10/04Armado%20e%20Perigoso%20A07A08.mp4
-#EXTINF:-1 tvg-id="" tvg-name="05 Hoje aqui, amanhã quem sabe S01 E05" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",05 Hoje aqui, amanhã quem sabe S01 E05
-https://ia802707.us.archive.org/14/items/royal-flush-a-9-a-10/05Hoje%20aqui%2C%20amanh%C3%A3%20quem%20sabe%20A09A10.mp4
-#EXTINF:-1 tvg-id="" tvg-name="00 6Royal Flush S01 E06" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",006 Royal Flush S01 E06
-https://ia902707.us.archive.org/14/items/royal-flush-a-9-a-10/006Royal%20Flush%20A11A12.mp4
-#EXTINF:-1 tvg-id="" tvg-name="007 Urina da Sorte S01 E07" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",007 Urina da Sorte S01 E07
-https://ia802707.us.archive.org/14/items/royal-flush-a-9-a-10/007Urina%20da%20Sorte%20A13A14.mp4
-#EXTINF:-1 tvg-id="" tvg-name="08 É isso, e acabou S01 E08" tvg-logo="https://image.tmdb.org/t/p/w185/6mztcJZ77SZ0u2hd2kLyzVd6Aaf.jpg" group-title="Serie FUBAR",08 É isso, e acabou S01 E08
-https://ia902707.us.archive.org/14/items/royal-flush-a-9-a-10/08%C3%89%20isso%2C%20e%20acabou%20A15A16.mp4
 
 #EXTM3U url-tvg="http://grade-de-SÉRIES | ANIMES.xml"
 ############## SÉRIES | ANIMES ################# 
@@ -8065,6 +7147,11 @@ http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97816.mp4
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97817.mp4
 #EXTINF:-1 tvg-name="CSI: Miami S05E24" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVbH0JOz0hhfEgRzyluBPlLFinF7TED2FgAb-sRoZ9Usg.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S05E24
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97818.mp4
+
+#EXTM3U url-tvg="http://grade-de-PARAMOUT +.xml"
+############## PARAMOUT +  ################# 
+#EXTINF:-1 tvg-id=" iddocanaldePARAMOUT +" group-title="
+
 #EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E01" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E01
 http://axr.life:80/series/968367/462903/2346478.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E02" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E02
@@ -9886,29 +8973,6 @@ http://7go.xyz:8080/series/zogbi11/982451290/108290.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S03 E07" tvg-logo="http://7online.xyz:8080/images/5f0e313fa3d921540125d6745c2073b3.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S03 E07
 http://7go.xyz:8080/series/zogbi11/982451290/108291.mp4
 
-#EXTM3U url-tvg=" http://grade-de-AMAZON PRIME O Senhor dos Anéis.xml "
- ############## AMAZON PRIME O Senhor dos Anéis ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeAMAZON PRIME O Senhor dos Anéis" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis: Os Anéis de Poder - 2022 S01 E01" tvg-logo="http://image.tmdb.org/t/p/w300/15UCiKw7ujYq0W7nQ4u06l6oENn.jpg" group-title="AMAZON PRIME",O Senhor dos Anéis: Os Anéis de Poder - 2022 S01 E01
-http://meuplay.shop:80/series/828474929852/34882748924/82011.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis: Os Anéis de Poder - 2022 S01 E02" tvg-logo="http://image.tmdb.org/t/p/w300/pxxm7FTgVXj6Yh6Iq9Dj40854cN.jpg" group-title="AMAZON PRIME",O Senhor dos Anéis: Os Anéis de Poder - 2022 S01 E02
-http://meuplay.shop:80/series/828474929852/34882748924/82012.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis: Os Anéis de Poder - 2022 S01 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/phPzXd42PjpcZc5jkVGVwxTY1kA.jpg" group-title="AMAZON PRIME",O Senhor dos Anéis: Os Anéis de Poder - 2022 S01 E03
-http://meuplay.shop:80/series/828474929852/34882748924/82229.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis: Os Anéis de Poder - 2022 S01 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hkdQY91zh0fSXbYZ8IU1uEPvzAe.jpg" group-title="AMAZON PRIME",O Senhor dos Anéis: Os Anéis de Poder - 2022 S01 E04
-http://meuplay.shop:80/series/828474929852/34882748924/82230.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis: Os Anéis de Poder - 2022 S01 E05" tvg-logo="http://image.tmdb.org/t/p/w300/jLxeqABrd8nqKq6aLa7wPIszRMU.jpg" group-title="AMAZON PRIME",O Senhor dos Anéis: Os Anéis de Poder - 2022 S01 E05
-http://meuplay.shop:80/series/828474929852/34882748924/82627.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis: Os Anéis de Poder - 2022 S01 E06" tvg-logo="http://image.tmdb.org/t/p/w300/oGaGLjtdRMXPTcgymD4pUiwD9j1.jpg" group-title="AMAZON PRIME",O Senhor dos Anéis: Os Anéis de Poder - 2022 S01 E06
-http://meuplay.shop:80/series/828474929852/34882748924/82690.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis: Os Anéis de Poder - 2022 S01 E07" tvg-logo="http://image.tmdb.org/t/p/w300/gS6ziDnTQv14AIcZHGrN09Ojfqn.jpg" group-title="AMAZON PRIME",O Senhor dos Anéis: Os Anéis de Poder - 2022 S01 E07
-http://meuplay.shop:80/series/828474929852/34882748924/82748.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis: Os Anéis de Poder - 2022 S01 E08" tvg-logo="http://image.tmdb.org/t/p/w300/cmkGbFRwFKoU6ktkp3YwPlNfJyk.jpg" group-title="AMAZON PRIME",O Senhor dos Anéis: Os Anéis de Poder - 2022 S01 E08
-http://meuplay.shop:80/series/828474929852/34882748924/82916.mp4
-
-############## SÉRIES  ################# 
-
 #EXTM3U url-tvg="http://grade-de-SÉRIES  Tulsa King.xml"
 ############## SÉRIES  Tulsa King ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeSÉRIES  Tulsa King" group-title="
@@ -10079,123 +9143,24 @@ http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183820.mp4
 ############## Serie Mulher Hulk ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeSerie Mulher Hulk" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E01" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E01
-http://meuplay.shop:80/series/828474929852/34882748924/81530.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E02" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUzg" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E02
-http://meuplay.shop:80/series/828474929852/34882748924/81856.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E03" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E03
-http://meuplay.shop:80/series/828474929852/34882748924/82010.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E04" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E04
-http://meuplay.shop:80/series/828474929852/34882748924/82381.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E05" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E05
-http://meuplay.shop:80/series/828474929852/34882748924/82382.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E06" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E06
-http://meuplay.shop:80/series/828474929852/34882748924/82600.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E07" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E07
-http://meuplay.shop:80/series/828474929852/34882748924/82691.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E08" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E08
-http://meuplay.shop:80/series/828474929852/34882748924/82749.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: Defensora de Heróis S01 E09" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Defensora de Heróis S01 E09
-http://meuplay.shop:80/series/828474929852/34882748924/82823.mp4
-
-#EXTM3U url-tvg="http://grade-de-NETFLIX.xml"
-############## NETFLIX ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeNETFLIX" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVVjn7aSMQvaJFYaUMuKjDxklVP.jpg" group-title="NETFLIX",Kung Fu S01 E01
-http://axr.life:80/series/968367/462903/2352146.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2mKezvtivKyGBRnY7us7o283Sd.jpg" group-title="NETFLIX",Kung Fu S01 E02
-http://axr.life:80/series/968367/462903/2352147.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dRrGlPmI5IN7ppjpyVGlpGQsaJ0.jpg" group-title="NETFLIX",Kung Fu S01 E03
-http://axr.life:80/series/968367/462903/2352148.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1cy3S1P6tqoq1UQitOqZVGLAALR.jpg" group-title="NETFLIX",Kung Fu S01 E04
-http://axr.life:80/series/968367/462903/2352149.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBjZtGfYCrJRnYNdmoBfulOfqem.jpg" group-title="NETFLIX",Kung Fu S01 E05
-http://axr.life:80/series/968367/462903/2352150.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8vToqUrgYnRkw7oQxHgfq60onif.jpg" group-title="NETFLIX",Kung Fu S01 E06
-http://axr.life:80/series/968367/462903/2352151.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2zjRojBk3erv1svujCgE68fHL3r.jpg" group-title="NETFLIX",Kung Fu S01 E07
-http://axr.life:80/series/968367/462903/2352152.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5qrBsmYXX9feri0n5iSU8cxUySr.jpg" group-title="NETFLIX",Kung Fu S01 E08
-http://axr.life:80/series/968367/462903/2352153.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/As0LV26u1kOPxLURllHW7I9CmMq.jpg" group-title="NETFLIX",Kung Fu S01 E09
-http://axr.life:80/series/968367/462903/2352154.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XOjxi1gVqJSAHyBxxmiMcjfENx.jpg" group-title="NETFLIX",Kung Fu S01 E10
-http://axr.life:80/series/968367/462903/2352155.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6asMpE99aHY1D3fYciaxHYh5Bui.jpg" group-title="NETFLIX",Kung Fu S01 E11
-http://axr.life:80/series/968367/462903/2352156.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jGE5B4sZeWCEdmHUjyw3I1JWHyp.jpg" group-title="NETFLIX",Kung Fu S01 E12
-http://axr.life:80/series/968367/462903/2352157.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aWC7HWl7MexWj60HFKeFajbhb88.jpg" group-title="NETFLIX",Kung Fu S01 E13
-http://axr.life:80/series/968367/462903/2352158.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zbO72yG1i4OcSzLQCWJwlDugZLf.jpg" group-title="NETFLIX",Kung Fu S02 E01
-http://axr.life:80/series/968367/462903/2352159.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t10H20JaO4dsDiVD12U7hLBMUjf.jpg" group-title="NETFLIX",Kung Fu S02 E02
-http://axr.life:80/series/968367/462903/2352160.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eD5ASii8pwZa0mn7R4S3nudtHv6.jpg" group-title="NETFLIX",Kung Fu S02 E03
-http://axr.life:80/series/968367/462903/2352161.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tHqcr3xHY3bkoQZU0FBAObVKDiy.jpg" group-title="NETFLIX",Kung Fu S02 E04
-http://axr.life:80/series/968367/462903/2352162.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f0ltmbOIKAAMNxRgpjFi32ZprwU.jpg" group-title="NETFLIX",Kung Fu S02 E05
-http://axr.life:80/series/968367/462903/2352163.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p33PBkZixlIF3f14bWGjK7BId1N.jpg" group-title="NETFLIX",Kung Fu S02 E06
-http://axr.life:80/series/968367/462903/2352164.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkZ3zwAtTrKWmwoazP5fSv68hg7.jpg" group-title="NETFLIX",Kung Fu S02 E07
-http://axr.life:80/series/968367/462903/2352165.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uU4D8TAXgVeM8qR8f71WeMqzis2.jpg" group-title="NETFLIX",Kung Fu S02 E08
-http://axr.life:80/series/968367/462903/2352166.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RS44lhYGljSvYsdtq7fPkbzwXx.jpg" group-title="NETFLIX",Kung Fu S02 E09
-http://axr.life:80/series/968367/462903/2352167.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lk5pu5nolJf0gNVzPyTALGem7Fz.jpg" group-title="NETFLIX",Kung Fu S02 E10
-http://axr.life:80/series/968367/462903/2352168.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zVGRan7EjtktzLJTgnlpV5cdq6Y.jpg" group-title="NETFLIX",Kung Fu S02 E11
-http://axr.life:80/series/968367/462903/2352169.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lcfl6fkbVDPvws4gLoxwnRmMsPI.jpg" group-title="NETFLIX",Kung Fu S02 E12
-http://axr.life:80/series/968367/462903/2352170.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Eftkn9WYlqpAuRPfb93Cfae2g6.jpg" group-title="NETFLIX",Kung Fu S02 E13
-http://axr.life:80/series/968367/462903/2352171.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3SXPvutBmIJIh44o61aX77HS31M.jpg" group-title="NETFLIX",Kung Fu S03 E01
-http://axr.life:80/series/968367/462903/2352172.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kjWDJgVDI3l8ssKpvMihPmOGe4.jpg" group-title="NETFLIX",Kung Fu S03 E02
-http://axr.life:80/series/968367/462903/2352173.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8t4t95hkCIDz3jlOokq3G0WUj6k.jpg" group-title="NETFLIX",Kung Fu S03 E03
-http://axr.life:80/series/968367/462903/2352174.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNuGz9hVLNkAZaUDZ6w22nB9x5h.jpg" group-title="NETFLIX",Kung Fu S03 E04
-http://axr.life:80/series/968367/462903/2352175.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vPWwIOHwjgIkaPapTut9PTDd9uz.jpg" group-title="NETFLIX",Kung Fu S03 E05
-http://axr.life:80/series/968367/462903/2352176.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r47twCVD7nVZtCK73JAJ3a6nSF4.jpg" group-title="NETFLIX",Kung Fu S03 E06
-http://axr.life:80/series/968367/462903/2352177.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IygMbjQP1SEGFQsZsxuQdQMQmh.jpg" group-title="NETFLIX",Kung Fu S03 E07
-http://axr.life:80/series/968367/462903/2352178.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XRy0QIfdx767D5bVAdsvldhxlJ.jpg" group-title="NETFLIX",Kung Fu S03 E08
-http://axr.life:80/series/968367/462903/2352179.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AtwZs16ZMELueFA3bULJ54xVut1.jpg" group-title="NETFLIX",Kung Fu S03 E09
-http://axr.life:80/series/968367/462903/2352180.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fQHsIgvuUznrGAMxd8u4xtaSNsr.jpg" group-title="NETFLIX",Kung Fu S03 E10
-http://axr.life:80/series/968367/462903/2352181.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sRqRnxmgmSFHstmCyaCikuTq9iY.jpg" group-title="NETFLIX",Kung Fu S03 E11
-http://axr.life:80/series/968367/462903/2352182.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nixoDLzMWcXHgg16LkFp3M6kG8.jpg" group-title="NETFLIX",Kung Fu S03 E12
-http://axr.life:80/series/968367/462903/2352183.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnz7sq1wJozQKAtdRAioo7Zc7Zz.jpg" group-title="NETFLIX",Kung Fu S03 E13
-http://axr.life:80/series/968367/462903/2352184.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Familia em Primeiro Lugar S01 E01" tvg-logo="http://5ce.co:80/images/xTlukBYe38t5ynRFxh4fwe3KQ4h_big.jpg" group-title="NETFLIX",Familia em Primeiro Lugar S01 E01
-http://axr.life:80/series/968367/462903/2349897.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Familia em Primeiro Lugar S01 E02" tvg-logo="http://5ce.co:80/images/xTlukBYe38t5ynRFxh4fwe3KQ4h_big.jpg" group-title="NETFLIX",Familia em Primeiro Lugar S01 E02
-http://axr.life:80/series/968367/462903/2349898.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Familia em Primeiro Lugar S01 E03" tvg-logo="http://5ce.co:80/images/xTlukBYe38t5ynRFxh4fwe3KQ4h_big.jpg" group-title="NETFLIX",Familia em Primeiro Lugar S01 E03
-http://axr.life:80/series/968367/462903/2349899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Familia em Primeiro Lugar S01 E04" tvg-logo="http://5ce.co:80/images/xTlukBYe38t5ynRFxh4fwe3KQ4h_big.jpg" group-title="NETFLIX",Familia em Primeiro Lugar S01 E04
-http://axr.life:80/series/968367/462903/2349900.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Familia em Primeiro Lugar S01 E05" tvg-logo="http://5ce.co:80/images/xTlukBYe38t5ynRFxh4fwe3KQ4h_big.jpg" group-title="NETFLIX",Familia em Primeiro Lugar S01 E05
-http://axr.life:80/series/968367/462903/2349901.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Familia em Primeiro Lugar S01 E06" tvg-logo="http://5ce.co:80/images/xTlukBYe38t5ynRFxh4fwe3KQ4h_big.jpg" group-title="NETFLIX",Familia em Primeiro Lugar S01 E06
-http://axr.life:80/series/968367/462903/2349902.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Familia em Primeiro Lugar S01 E07" tvg-logo="http://5ce.co:80/images/xTlukBYe38t5ynRFxh4fwe3KQ4h_big.jpg" group-title="NETFLIX",Familia em Primeiro Lugar S01 E07
-http://axr.life:80/series/968367/462903/2349903.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Familia em Primeiro Lugar S01 E08" tvg-logo="http://5ce.co:80/images/xTlukBYe38t5ynRFxh4fwe3KQ4h_big.jpg" group-title="NETFLIX",Familia em Primeiro Lugar S01 E08
-http://axr.life:80/series/968367/462903/2349904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk:Uma Quantidade Normal De Raiva S01 E01" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Uma Quantidade Normal De Raiva S01 E01
+https://ia902707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x1%20Uma%20Quantidade%20Normal%20de%20Raiva.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: DIREITO SUPER HUMANO S01 E02" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUzg" group-title="Serie Mulher Hulk",Mulher-Hulk: DIREITO SUPER HUMANO S01 E02
+https://ia802707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x1%20Uma%20Quantidade%20Normal%20de%20Raiva.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: O POVO CONTRA EMILBLONSKY S01 E03" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: O POVO CONTRA EMILBLONSKY S01 E03
+https://ia902707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x3%20O%20Povo%20Contra%20Emil%20Blonsky.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: NAO E UMA MAGIA DE VERDADE S01 E04" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: NAO E UMA MAGIA DE VERDADE S01 E04
+https://ia902707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x4%20N%C3%A3o%20%C3%A9%20Magia%20de%20Verdade.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: MALVADINHA VERDINHA E DE CALCA APERTADA S01 E05" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: MALVADINHA VERDINHA E DE CALCA APERTADA S01 E05
+https://ia802707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x5%20Malvadinha%2C%20Verdinha%20e%20de%20Cal%C3%A7a%20Apertadinha.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: APENAS JEN S01 E06" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: APENAS JEN  S01 E06
+https://ia802707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x6%20Apenas%20Jen.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: RETIRO S01 E07" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: RETIRO S01 E07
+https://ia902707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x7%20O%20Retiro.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: COAXANDO E SALTANDO S01 E08" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: COAXANDO E SALTANDO S01 E08
+https://ia902707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x8%20Coaxando%20e%20Saltando.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: DE QUEM E ESSA SERIE S01 E09" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: DE QUEM E ESSA SERIE S01 E09
+https://ia902707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x9%20De%20Quem%20%C3%89%20Essa%20S%C3%A9rie.mp4
 
 #EXTM3U url-tvg="http://grade-de- Serie Bob Zoom.xml"
 ############## Serie Bob Zoom ################# 
@@ -12898,28 +11863,6 @@ http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/287240.mp4
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/287241.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Doogie Kamealoha: Doutora Precoce S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZG8dUE1FISwY4B6M5yEgxUwiZp.jpg" group-title="SÉRIES | Drama",Doogie Kamealoha: Doutora Precoce S02 E10
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/287242.mp4
-
-#EXTM3U url-tvg="http://grade-de-SÉRIES | Funk Proibido .xml"
-############## SÉRIES | Funk Proibido ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Funk Proibido " group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Funk.Doc: Popular  Proibido S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ra2ZHRp5TUlsc5IJLyjatDVBbej.jpg" group-title="SÉRIES | GloboPlay",Funk.Doc: Popular  Proibido S01 E01
-http://srv.cldplay.net:80/series/820584rohs/67864336899/258837.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Funk.Doc: Popular  Proibido S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pBZKkVkpu6eLh9t1dEk6i8cDtHZ.jpg" group-title="SÉRIES | GloboPlay",Funk.Doc: Popular  Proibido S01 E02
-http://srv.cldplay.net:80/series/820584rohs/67864336899/258838.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Funk.Doc: Popular  Proibido S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1XizO958bYhDeLX9N5xcqxXeNN.jpg" group-title="SÉRIES | GloboPlay",Funk.Doc: Popular  Proibido S01 E03
-http://srv.cldplay.net:80/series/820584rohs/67864336899/258839.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Funk.Doc: Popular  Proibido S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1XizO958bYhDeLX9N5xcqxXeNN.jpg" group-title="SÉRIES | GloboPlay",Funk.Doc: Popular  Proibido S01 E04
-http://srv.cldplay.net:80/series/820584rohs/67864336899/259745.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Funk.Doc: Popular  Proibido S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a1XizO958bYhDeLX9N5xcqxXeNN.jpg" group-title="SÉRIES | GloboPlay",Funk.Doc: Popular  Proibido S01 E05
-http://srv.cldplay.net:80/series/820584rohs/67864336899/259746.mp4
-
-#EXTM3U url-tvg=" http://grade-de-Documentarios Racionais MC s.xml "
-############## Documentarios Racionais MC s ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeDocumentarios Racionais MC s" group-title="
-
-#EXTINF:1 tvg-logo="https://img.ev01.to/xxrz/250x400/183/d9/46/d946586496042e53152b272ab7c32a53/d946586496042e53152b272ab7c32a53.jpg" group-title="Documentarios Racionais MC s",Racionais MC s: Das Ruas de São Paulo
-https://rouf.magnewscontent.org/_v10/c6e59982b9955e7ad31cde6dd70370736c1b683295b5324e73c403e3feb577d4dbae6bfb1f9032a6dee7e3b0cd2ee9b37ac523164bf8e81d2025b42f9cfee657e5559e7ce10b491d5cf5323013e7af39ae0997a4f055a59142875605f87cbdbb75b7efbdb393295562f54994b53e528948c3d1b9c51dfe7838869e04f817d0b0/1080/index.m3u8
 
 #EXTM3U url-tvg=" http://grade-de-Documentarios.xml "
 ############## Documentarios ################# 
