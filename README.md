@@ -3134,17 +3134,17 @@ https://ia902705.us.archive.org/10/items/pup-star-3-turne-mundial-tv-fax/Pup%20S
 ############## FILMES | TV FAX #################
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES | TV FAX" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name=",Pantera Negra"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-EsITEN6dZVhGanV-Em3KX9cjZN70FLmXq-DjTCKGnyOOu0pHVsQPFLN0rKJVn4LaVZk&usqp=CAU"group-title="FILMES | TV FAX",Pantera Negra
+#EXTINF:-1 tvg-id="" tvg-name=",Pantera Negra"tvg-logo="https://gifs.eco.br/wp-content/uploads/2022/05/gifs-do-filme-pantera-negra-8.gif"group-title="FILMES | TV FAX",Pantera Negra
 https://ia902708.us.archive.org/14/items/pantera-negra-tv-fax/Pantera%20Negra%20%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",Encontro Marcado"tvg-logo="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/91/88/38/20167659.jpg"group-title="FILMES | TV FAX",Encontro Marcado
+#EXTINF:-1 tvg-id="" tvg-name=",Encontro Marcado"tvg-logo="https://1.bp.blogspot.com/-WB7EzO76DTQ/VrNWLq493CI/AAAAAAAABI4/rZGqYMQPBJk/s1600/tumblr_lht5b6Yda51qg1g7eo1_500.gif"group-title="FILMES | TV FAX",Encontro Marcado
 https://ia902704.us.archive.org/16/items/encontro-marcado-tv-fax/Encontro%20Marcado%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",Covil De Ladrões"tvg-logo="https://2.bp.blogspot.com/-vNPvK0oUtYI/WsZ1o1jKVwI/AAAAAAAAPuA/SlUEtaAsmIUqphR-F3E5hJnc8bVGfNi-gCK4BGAYYCw/s1600/covil%2Bde%2Bladr%25C3%25B5es.png"group-title="FILMES | TV FAX",Covil De Ladrões
+#EXTINF:-1 tvg-id="" tvg-name=",Covil De Ladrões"tvg-logo="https://4.bp.blogspot.com/-tEwE-y3gZIU/WsU4WVPBZ9I/AAAAAAAAdjE/Spr3__V_t0ww1Qk9kQo3wjebDE7YYQNGACLcBGAs/s1600/tumblr_oyhvphS03q1s05hv8o10_500.gif"group-title="FILMES | TV FAX",Covil De Ladrões
 https://ia802709.us.archive.org/32/items/covil-de-ladroes-tv-fax/Covil%20de%20Ladr%C3%B5es%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",Esquadrão Tigre"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/a7db7c2a0fd02fa0ad1910c35d0090e5b9813396ef18cf079683e38507d2a830._RI_TTW_.jpg"group-title="FILMES | TV FAX",Esquadrão Tigre
+#EXTINF:-1 tvg-id="" tvg-name=",Esquadrão Tigre"tvg-logo="https://media.giphy.com/media/hrKmYSfwve7sfbgN7N/giphy.gif"group-title="FILMES | TV FAX",Esquadrão Tigre
 https://ia902708.us.archive.org/7/items/esquadrao-tigre-tv-fax/Esquadr%C3%A3o%20Tigre%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Espécies Em Perigo"tvg-logo="https://cdn.fstatic.com/media/movies/covers/2021/04/318725_background.jpg"group-title="FILMES | TV FAX",Espécies Em Perigo
 https://ia802707.us.archive.org/15/items/especies-em-perigo-tv-fax/Esp%C3%A9cies%20em%20Perigo%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",Hellboy"tvg-logo="https://uploads.jovemnerd.com.br/wp-content/uploads/2017/05/v-hellboy-ron-perlman-1-1210x540.jpg"group-title="FILMES | TV FAX",Hellboy
+#EXTINF:-1 tvg-id="" tvg-name=",Hellboy"tvg-logo="https://media.tenor.com/q79MYddi13UAAAAd/hellboy-ouch.gif"group-title="FILMES | TV FAX",Hellboy
 https://ia902708.us.archive.org/26/items/hellboy-tv-fax/Hellboy%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Guerreiro Da Escuridão"tvg-logo="https://i.ytimg.com/vi/zA2Kd613zz8/maxresdefault.jpg"group-title="FILMES | TV FAX",Guerreiro Da Escuridão
 https://ia802700.us.archive.org/14/items/guerreiro-da-escuridao-tv-fax/Guerreiro%20da%20Escurid%C3%A3o%20TV%20FAX%20.mp4
@@ -3236,8 +3236,7 @@ https://ia902703.us.archive.org/10/items/unidos-pelo-destino-tv-fax/Unidos%20pel
 https://ia902702.us.archive.org/25/items/o-milagre-de-marcelino-pao-e-vinho-tv-fax/O%20Milagre%20de%20Marcelino%20P%C3%A3o%20e%20Vinho%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",A Ú LTIMA CAÇ ADORA"tvg-logo="https://i.ytimg.com/vi/t5jTZaocJKE/maxresdefault.jpg"group-title="FILMES | TV FAX",A Ú LTIMA CAÇ ADORA
 https://ia902705.us.archive.org/34/items/a-u-ltima-cac-adora-tv-fax/A%20%C3%9ALTIMA%20CA%C3%87ADORA%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="RENASCIDOS NOVO CORAÇÃO"tvg-logo="https://i.ytimg.com/vi/25PfhGua2N0/maxresdefault.jpg"group-title="FAX AUTISMO",RENASCIDOS NOVO CORAÇÃO
-https://ia902700.us.archive.org/13/items/renascidos-novo-coraca-o-tv-fax/RENASCIDOS%20%20NOVO%20CORA%C3%87%C3%83O%20TV%20FAX%20.mp4
+
 #EXTINF:-1 tvg-id="" tvg-name=",O PRIMEIRO DA CLASSE"tvg-logo="https://i.ytimg.com/vi/lXDuZt62NTE/sddefault.jpg"group-title="FILMES | TV FAX",O PRIMEIRO DA CLASSE
 https://ia802701.us.archive.org/26/items/o-primeiro-da-classe-tv-fax/O%20PRIMEIRO%20DA%20CLASSE%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",O Caminho Para A Eternidade "tvg-logo="https://i4.ytimg.com/vi/wrxoaEel9Sc/default.jpg"group-title="FILMES | TV FAX",O Caminho Para A Eternidade 
@@ -3826,6 +3825,8 @@ https://ia902708.us.archive.org/13/items/poderes-extraordinarios-tv-fax/Poderes%
 ############## FILME TV FAX B HISTORIA REAL ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX B HISTORIA REAL" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="RENASCIDOS NOVO CORAÇÃO"tvg-logo="https://i.ytimg.com/vi/25PfhGua2N0/maxresdefault.jpg"group-title="FILME TV FAX B HISTORIA REAL",RENASCIDOS NOVO CORAÇÃO
+https://ia902700.us.archive.org/13/items/renascidos-novo-coraca-o-tv-fax/RENASCIDOS%20%20NOVO%20CORA%C3%87%C3%83O%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Promessas De Guerra"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGc65WB2CPN9IkwpTk_1HnKSVQiDH8rEuzX2r-Usj_oEJnVXoxJIoxFtQiqeeq0HE49Mg&usqp=CAU"group-title="FILME TV FAX B HISTORIA REAL",Promessas De Guerra
 https://ia902704.us.archive.org/10/items/promessas-de-guerra-tv-fax/Promessas%20de%20Guerra%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Que Haja Luz"tvg-logo="https://media.fstatic.com/33Uo_y3MofacJEy7PsULPScmNcs=/322x478/smart/filters:format(webp)/media/movies/covers/2019/03/p14122451_v_v8_ac.jpg"group-title="FILME TV FAX B HISTORIA REAL",Que Haja Luz 
@@ -6391,26 +6392,215 @@ https://play.prod.gcp.vix.services/beautifully-broken_pt/beautifully-broken_pt_1
 #EXTINF:-1 tvg-id="" tvg-name="  Em Busca de um Milagre"tvg-logo="https://i.ytimg.com/vi/flPm14tMhoc/maxresdefault.jpg" group-title="FÉ | ESPIRITUAIS",Em Busca de um Milagre
 https://play.prod.gcp.vix.services/love-jessee_pt/love-jessee_pt_1-1/play_v1_hls_1080p.m3u8
 
-#EXTM3U url-tvg="http://grade-de-SERIE Wandinha.xml"
-############## SERIE Wandinha ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSERIE Wandinha" group-title="
+#EXTM3U url-tvg="http://grade-de-SÉRIES | WANDINHA.xml"
+############## SÉRIES | WANDINHA ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | WANDINHA" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Wandinha Nascida num dia triste S01E01" tvg-logo="https://i.ytimg.com/vi/FuhwyR2sUZw/maxresdefault.jpg" group-title="SERIE Wandinha",Wandinha Nascida num dia triste S01E01
+#EXTINF:-1 tvg-id="" tvg-name="Wandinha Nascida num dia triste S01E01" tvg-logo="https://i.pinimg.com/originals/2b/33/41/2b3341ef53e3c56c482ebc583e8d46fb.gif" group-title="SÉRIES | WANDINHA",Wandinha Nascida num dia triste S01E01
 https://ia802709.us.archive.org/5/items/assistir-wandinha-1-temporada-episodio-1-online-gratis-e-dub/Assistir%20Wandinha%201%20Temporada%20Episodio%201%20Online%20Gr%C3%A1tis%20e%20Dub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wandinha A tristeza é solitária S01E02" tvg-logo="https://i.ytimg.com/vi/FuhwyR2sUZw/maxresdefault.jpg" group-title="SERIE Wandinha",Wandinha A tristeza é solitária S01E02
+#EXTINF:-1 tvg-id="" tvg-name="Wandinha A tristeza é solitária S01E02" tvg-logo="https://media.tenor.com/qJjyqbyOPIgAAAAC/wednesday-addams-jenna-ortega.gif" group-title="SÉRIES | WANDINHA",Wandinha tristeza é solitária S01E02
 https://ia902709.us.archive.org/5/items/assistir-wandinha-1-temporada-episodio-1-online-gratis-e-dub/Assistir%20Wandinha%201%20Temporada%20Episodio%202%20Online%20Gr%C3%A1tis%20e%20Dub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wandinha Tristemente amiga ou inimiga S01E03" tvg-logo="https://i.ytimg.com/vi/FuhwyR2sUZw/maxresdefault.jpg" group-title="SERIE Wandinha",Wandinha Tristemente amiga ou inimiga S01E03
+#EXTINF:-1 tvg-id="" tvg-name="Wandinha Tristemente amiga ou inimiga S01E03" tvg-logo="https://i.pinimg.com/originals/fd/ee/81/fdee8198cf57e3be548dd6f4ff9fc501.gif" group-title="SÉRIES | WANDINHA",Wandinha Tristemente amiga ou inimiga S01E03
 https://ia902709.us.archive.org/5/items/assistir-wandinha-1-temporada-episodio-1-online-gratis-e-dub/Assistir%20Wandinha%201%20Temporada%20Episodio%203%20Online%20Gr%C3%A1tis%20e%20Dub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wandinha Uma noite triste S01E04" tvg-logo="https://i.ytimg.com/vi/FuhwyR2sUZw/maxresdefault.jpg" group-title="SERIE Wandinha",Wandinha Uma noite triste S01E04
+#EXTINF:-1 tvg-id="" tvg-name="Wandinha Uma noite triste S01E04" tvg-logo="https://static.wixstatic.com/media/d0bfcf_bca6334f9ca24ca5920112ed86f92b05~mv2.gif" group-title="SÉRIES | WANDINHA",Wandinha Uma noite triste S01E04
 https://ia802709.us.archive.org/5/items/assistir-wandinha-1-temporada-episodio-1-online-gratis-e-dub/Assistir%20Wandinha%201%20Temporada%20Episodio%204%20Online%20Gr%C3%A1tis%20e%20Dub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wandinha Quem semeia vento colhe tristeza S01E05" tvg-logo="https://i.ytimg.com/vi/FuhwyR2sUZw/maxresdefault.jpg" group-title="SERIE Wandinha",Wandinha Quem semeia vento colhe tristeza S01E05
+#EXTINF:-1 tvg-id="" tvg-name="Wandinha Quem semeia vento colhe tristeza S01E05" tvg-logo="https://media.giphy.com/media/uwB4QnaqMuamPHW7mL/giphy.gif" group-title="SÉRIES | WANDINHA",Wandinha Quem semeia vento colhe tristeza S01E05
 https://ia902709.us.archive.org/5/items/assistir-wandinha-1-temporada-episodio-1-online-gratis-e-dub/Assistir%20Wandinha%201%20Temporada%20Episodio%205%20Online%20Gr%C3%A1tis%20e%20Dub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wandinha Aniversário triste S01E06" tvg-logo="https://i.ytimg.com/vi/FuhwyR2sUZw/maxresdefault.jpg" group-title="SERIE Wandinha",Wandinha Aniversário triste S01E06
+#EXTINF:-1 tvg-id="" tvg-name="Wandinha Aniversário triste S01E06" tvg-logo="https://media.tenor.com/GhEkS53u3hUAAAAC/jenna-ortega.gif" group-title="SÉRIES |WANDINHA",WandinhaAniversário triste S01E06
 https://ia802709.us.archive.org/5/items/assistir-wandinha-1-temporada-episodio-1-online-gratis-e-dub/Assistir%20Wandinha%201%20Temporada%20Episodio%206%20Online%20Gr%C3%A1tis%20e%20Dub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wandinha É triste que ainda não me conheças S01E07" tvg-logo="https://i.ytimg.com/vi/FuhwyR2sUZw/maxresdefault.jpg" group-title="SERIE Wandinha",Wandinha É triste que ainda não me conheças S01E07
+#EXTINF:-1 tvg-id="" tvg-name="Wandinha É triste que ainda não me conheças S01E07" tvg-logo="https://hollywoodforevertv.com.br/media/uploads/jenna-ortega-gif.gif" group-title="SÉRIES | WANDINHA",Wandinha É triste que ainda não me conheças S01E07
 https://ia802709.us.archive.org/5/items/assistir-wandinha-1-temporada-episodio-1-online-gratis-e-dub/Assistir%20Wandinha%201%20Temporada%20Episodio%207%20Online%20Gr%C3%A1tis%20e%20Dub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wandinha Um bando de tristeza S01E08" tvg-logo="https://i.ytimg.com/vi/FuhwyR2sUZw/maxresdefault.jpg" group-title="SERIE Wandinha",Wandinha Um bando de tristeza S01E08
+#EXTINF:-1 tvg-id="" tvg-name="Wandinha Um bando de tristeza S01E08" tvg-logo="https://www.omelete.com.br/webstories/estreias-semana-17-novembro/assets/2.gif" group-title="SÉRIES | WANDINHA",Wandinha Um bando de tristeza S01E08
 https://ia802709.us.archive.org/5/items/assistir-wandinha-1-temporada-episodio-1-online-gratis-e-dub/Assistir%20Wandinha%201%20Temporada%20Episodio%208%20Online%20Gr%C3%A1tis%20e%20Dub.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Tulsa King.xml"
+############## SÉRIES | Tulsa King ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Tulsa King" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E01" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E01
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/267368.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E02" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E02
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/267369.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E03" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E03
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/269631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E04" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E04
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/269632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E05" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E05
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E06" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E06
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E07" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E07
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E08" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E08
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E09" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E09
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273158.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES  O Incrível Hulk.xml"
+############## SÉRIES  O Incrível Hulk ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES  O Incrível Hulk" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E01
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYlyHD5VmqW4vPq5NiISh2u6DgV.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E02
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWVohTCD0ftoiDaIVOVHPTehf9L.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E03
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHL8mqomWssOwMQ8X9QrtYIcnIY.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E04
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ctHmzzwJiK6VhqyTxu3ULwny12.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E05
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2f8KO1L2h7qGSYO5jVqO0A9tb8.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E06
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1sUhEvgCMGhOt4EaBiXuAx1m5i.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E07
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iG4DrM0YT8ajwwycZu4RRb9e2zu.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E08
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muaPkaQ6PFU46fr492PAu5SXnb3.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E09
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akbDt4LlQ6oveT6kNGulI5KXh8h.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E10
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsDIUUDGUuIwuO4o5MZMYRjJC8i.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E11
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCkynbjeAdNQXRz6SlOwrISNaM2.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E12
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E01
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E02
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpyHydlmdxDL5cf0MwtJrIJyH49.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E03
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mq0xjgt8oPWdxExzymPUGQVAfR.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E04
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHxSxrhrpkRY3nSirF1iYApSL9E.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E05
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E06
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E07
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E08
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E09
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E01
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E02
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E03
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E04
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E05
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E06
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E07
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E08
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E09
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E10
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E11
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E12
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E13
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E14
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E15
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E16
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E17
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183789.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E18
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E19
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E20
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E21
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E22
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E23
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E01
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E02
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E03
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E04
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E05
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E06
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E07
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E08
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183803.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E09
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E10
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E11
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E12
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E13
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E14
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E15
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E16
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E17
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E18
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S05 E01
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S05 E02
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S05 E03
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S05 E04
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S05 E05
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S05 E06
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S05 E07
+http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183820.mp4
+
+#EXTM3U url-tvg="http://grade-de- SÉRIES | Mulher Hulks.xml"
+############## SÉRIES | Mulher Hulk ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Mulher Hulk" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk:Uma Quantidade Normal De Raiva S01 E01" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="SÉRIES | Mulher Hulk",Mulher-Hulk: Uma Quantidade Normal De Raiva S01 E01
+https://ia902707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x1%20Uma%20Quantidade%20Normal%20de%20Raiva.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: DIREITO SUPER HUMANO S01 E02" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUzg" group-title="SÉRIES | Mulher Hulk",Mulher-Hulk: DIREITO SUPER HUMANO S01 E02
+https://ia802707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x1%20Uma%20Quantidade%20Normal%20de%20Raiva.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: O POVO CONTRA EMILBLONSKY S01 E03" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="SÉRIES | Mulher Hulk",Mulher-Hulk: O POVO CONTRA EMILBLONSKY S01 E03
+https://ia902707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x3%20O%20Povo%20Contra%20Emil%20Blonsky.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: NAO E UMA MAGIA DE VERDADE S01 E04" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="SÉRIES | Mulher Hulk",Mulher-Hulk: NAO E UMA MAGIA DE VERDADE S01 E04
+https://ia902707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x4%20N%C3%A3o%20%C3%A9%20Magia%20de%20Verdade.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: MALVADINHA VERDINHA E DE CALCA APERTADA S01 E05" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="SÉRIES | Mulher Hulk",Mulher-Hulk: MALVADINHA VERDINHA E DE CALCA APERTADA S01 E05
+https://ia802707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x5%20Malvadinha%2C%20Verdinha%20e%20de%20Cal%C3%A7a%20Apertadinha.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: APENAS JEN S01 E06" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="SÉRIES | Mulher Hulk",Mulher-Hulk: APENAS JEN  S01 E06
+https://ia802707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x6%20Apenas%20Jen.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: RETIRO S01 E07" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="SÉRIES | Mulher Hulk",Mulher-Hulk: RETIRO S01 E07
+https://ia902707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x7%20O%20Retiro.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: COAXANDO E SALTANDO S01 E08" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="SÉRIES | Mulher Hulk",Mulher-Hulk: COAXANDO E SALTANDO S01 E08
+https://ia902707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x8%20Coaxando%20e%20Saltando.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: DE QUEM E ESSA SERIE S01 E09" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="SÉRIES | Mulher Hulk",Mulher-Hulk: DE QUEM E ESSA SERIE S01 E09
+https://ia902707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x9%20De%20Quem%20%C3%89%20Essa%20S%C3%A9rie.mp4
 
 #EXTM3U url-tvg="http://grade-de-Pantera Cor de Rosa.xml"
 ############## Pantera Cor de Rosa ################# 
@@ -9223,195 +9413,6 @@ http://7go.xyz:8080/series/zogbi11/982451290/108289.mp4
 http://7go.xyz:8080/series/zogbi11/982451290/108290.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S03 E07" tvg-logo="http://7online.xyz:8080/images/5f0e313fa3d921540125d6745c2073b3.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S03 E07
 http://7go.xyz:8080/series/zogbi11/982451290/108291.mp4
-
-#EXTM3U url-tvg="http://grade-de-SÉRIES  Tulsa King.xml"
-############## SÉRIES  Tulsa King ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES  Tulsa King" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E01" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E01
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/267368.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E02" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E02
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/267369.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E03" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E03
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/269631.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E04" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E04
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/269632.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E05" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E05
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273154.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E06" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E06
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273155.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E07" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E07
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273156.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E08" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E08
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273157.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tulsa King S01 E09" tvg-logo="https://photos.google.com/photo/AF1QipOMR_OaT0Ke4nCbV6vOVWxZhmRmtT0zurbI2v1o" group-title="SÉRIES | Tulsa King",Tulsa King S01 E09
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/273158.mp4
-
-#EXTM3U url-tvg="http://grade-de-SÉRIES  O Incrível Hulk.xml"
-############## SÉRIES  O Incrível Hulk ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES  O Incrível Hulk" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E01
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175731.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aYlyHD5VmqW4vPq5NiISh2u6DgV.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E02
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175732.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cWVohTCD0ftoiDaIVOVHPTehf9L.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E03
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175733.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHL8mqomWssOwMQ8X9QrtYIcnIY.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E04
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175734.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ctHmzzwJiK6VhqyTxu3ULwny12.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E05
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175735.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2f8KO1L2h7qGSYO5jVqO0A9tb8.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E06
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175736.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1sUhEvgCMGhOt4EaBiXuAx1m5i.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E07
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175737.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iG4DrM0YT8ajwwycZu4RRb9e2zu.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E08
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175738.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/muaPkaQ6PFU46fr492PAu5SXnb3.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E09
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175739.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akbDt4LlQ6oveT6kNGulI5KXh8h.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E10
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175740.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dsDIUUDGUuIwuO4o5MZMYRjJC8i.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E11
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175741.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCkynbjeAdNQXRz6SlOwrISNaM2.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S01 E12
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175742.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E01
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175743.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E02
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175744.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpyHydlmdxDL5cf0MwtJrIJyH49.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E03
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175745.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9mq0xjgt8oPWdxExzymPUGQVAfR.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E04
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175746.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHxSxrhrpkRY3nSirF1iYApSL9E.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E05
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175747.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E06
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175748.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E07
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175749.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E08
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175750.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S02 E09
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/175751.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E01
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183773.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E02
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183774.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E03
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183775.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E04
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183776.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E05
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183777.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E06
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183778.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E07
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183779.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E08
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183780.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E09
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183781.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E10
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183782.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E11
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183783.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E12
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183784.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E13
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183785.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E14
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183786.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E15
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183787.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E16
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183788.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E17
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183789.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E18
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183790.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E19
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183791.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E20
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183792.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E21
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183793.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E22
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183794.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S03 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S03 E23
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183795.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E01
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183796.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E02
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183797.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E03
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183798.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E04
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183799.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E05
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183800.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E06
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183801.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E07
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183802.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E08
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183803.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E09
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183804.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E10
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183805.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E11
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183806.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E12
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183807.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E13
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183808.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E14
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183809.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E15
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183810.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E16
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183811.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E17
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183812.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S04 E18
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183813.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S05 E01
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183814.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S05 E02
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183815.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S05 E03
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183816.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S05 E04
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183817.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S05 E05
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183818.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S05 E06
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183819.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Incrível Hulk S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByskDYAql50lmEel8NdmAGFSty.jpg" group-title="SÉRIES | O Incrível Hulk",O Incrível Hulk S05 E07
-http://bgp.cdnr1.xyz:80/series/Ludovico991387230/ghoe78drs/183820.mp4
-
-#EXTM3U url-tvg="http://grade-de- Serie Mulher Hulks.xml"
-############## Serie Mulher Hulk ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSerie Mulher Hulk" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk:Uma Quantidade Normal De Raiva S01 E01" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: Uma Quantidade Normal De Raiva S01 E01
-https://ia902707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x1%20Uma%20Quantidade%20Normal%20de%20Raiva.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: DIREITO SUPER HUMANO S01 E02" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUzg" group-title="Serie Mulher Hulk",Mulher-Hulk: DIREITO SUPER HUMANO S01 E02
-https://ia802707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x1%20Uma%20Quantidade%20Normal%20de%20Raiva.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: O POVO CONTRA EMILBLONSKY S01 E03" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: O POVO CONTRA EMILBLONSKY S01 E03
-https://ia902707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x3%20O%20Povo%20Contra%20Emil%20Blonsky.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: NAO E UMA MAGIA DE VERDADE S01 E04" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: NAO E UMA MAGIA DE VERDADE S01 E04
-https://ia902707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x4%20N%C3%A3o%20%C3%A9%20Magia%20de%20Verdade.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: MALVADINHA VERDINHA E DE CALCA APERTADA S01 E05" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: MALVADINHA VERDINHA E DE CALCA APERTADA S01 E05
-https://ia802707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x5%20Malvadinha%2C%20Verdinha%20e%20de%20Cal%C3%A7a%20Apertadinha.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: APENAS JEN S01 E06" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: APENAS JEN  S01 E06
-https://ia802707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x6%20Apenas%20Jen.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: RETIRO S01 E07" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: RETIRO S01 E07
-https://ia902707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x7%20O%20Retiro.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: COAXANDO E SALTANDO S01 E08" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: COAXANDO E SALTANDO S01 E08
-https://ia902707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x8%20Coaxando%20e%20Saltando.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: DE QUEM E ESSA SERIE S01 E09" tvg-logo="https://photos.google.com/photo/AF1QipMEhbTVXZ5jKk5ZO4haNsG_wWZeyfWNuJ4oxhUz" group-title="Serie Mulher Hulk",Mulher-Hulk: DE QUEM E ESSA SERIE S01 E09
-https://ia902707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x9%20De%20Quem%20%C3%89%20Essa%20S%C3%A9rie.mp4
 
 #EXTM3U url-tvg="http://grade-de- Serie Bob Zoom.xml"
 ############## Serie Bob Zoom ################# 
