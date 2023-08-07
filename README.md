@@ -4139,6 +4139,111 @@ https://ia802701.us.archive.org/20/items/licao-de-vida-tv-fax/Li%C3%A7%C3%A3o%20
 #EXTINF:-1 tvg-id="" tvg-name="Gilbert Grape Aprendiz De Sonhador"tvg-logo="https://culturardotblog.files.wordpress.com/2021/06/gilbert-grape.jpg?w=640"group-title="FILME TV FAX AUTISMO",Gilbert Grape Aprendiz De Sonhador
 https://ia902706.us.archive.org/20/items/gilbert-grape-aprendiz-de-sonhador-tv-fax/Gilbert%20Grape%20Aprendiz%20de%20Sonhador%20TV%20FAX%20.mp4
 
+#EXTM3U url-tvg="http://grade-de-FILMES TV FAX | AÇÃO CINEMA.xml"
+############## FILMES TV FAX | AÇÃO CINEMA ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES TV FAX | AÇÃO CINEMA" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Nezha: Correndo pela Vida" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/8f6925f75b3cede749c4ba166fd533678af46666c96e9ab9607eea558584c848._RI_V_TTW_.jpg" group-title="FILMES | AÇÃO CINEMA",Nezha: Correndo pela Vida
+https://play.prod.gcp.vix.services/ne-zha_pt/ne-zha_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sobreviventes"tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/15/08/04/21/37/556902.jpg"group-title="FILMES TV FAX | AÇÃO CINEMA",Sobreviventes
+https://play.prod.gcp.vix.services/backcountry_pt/backcountry_pt_1-1/hls_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STRANGE WEATHER(2017)Sinopse: Uma mãe "tvg-logo="https://image.tmdb.org/t/p/w342/xnuYktP5s8sZ4IA3et9bCycbQUB.jpg"group-title="FILMES TV FAX | AÇÃO CINEMA",STRANGE WEATHER(2017)Sinopse: Uma mãe 
+https://video.wixstatic.com/video/834009_56179638b3414916999e880ed9658556/720p/mp4/file.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UMA GRANDE AMIZADE"tvg-logo="https://ottvsimg.ottvs.com.br/cov/gmt.150730/0150730_335.jpg"group-title="FILMES TV FAX | AÇÃO CINEMA",UMA GRANDE AMIZADE
+https://play.prod.gcp.vix.services/saving-flora_pt/saving-flora_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="dummie-mummy"tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEyNDQwMTkxM15BMl5BanBnXkFtZTgwNzIxODQzMzE@._V1_.jpg"group-title="FILMES TV FAX | AÇÃO CINEMA",dummie-mummy
+https://play.prod.gcp.vix.services/dummie-mummy-3_pt/dummie-mummy-3_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ATÉ O LIMITE"tvg-id="" tvg-name=""tvg-logo="https://media.fstatic.com/iZek4-V1OC8job9VS1uT1eUlAkY=/322x478/smart/filters:format(webp)/media/movies/covers/2022/12/tt14824590_big-scaled.jpg"group-title="FILMES TV FAX | AÇÃO CINEMA",ATÉ O LIMITE
+https://play.prod.gcp.vix.services/mans-best-friend_pt/mans-best-friend_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""tvg-logo="https://i.ytimg.com/vi/RhlVtWnPlq0/maxresdefault.jpg"group-title="FILMES TV FAX | AÇÃO CINEMA",Lutador Misterioso
+https://play.prod.gcp.vix.services/mysterious-fighter_pt/mysterious-fighter_pt_1-1/play_v1_hls_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Conspiração 2000"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDHnmc00mNR3aZH_LOEmqu_ukGHTyvnQtt7PQig7DL30HjVczDZtO34rRfE3UeJACPch0&usqp=CAU" group-title="FILMES TV FAX | AÇÃO CINEMA",Conspiração 2000
+https://play.prod.gcp.vix.services/gong-yuan_pt/gong-yuan_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A lenda de Thor"tvg-logo="https://www.justwatch.com/images/backdrop/239527005/s640/valhalla-2019" group-title="FILMES TV FAX | AÇÃO CINEMA",Valhalla: A lenda de Thor
+https://play.prod.gcp.vix.services/valhalla-thor_pt/valhalla-thor_pt_1-1/play_v1_hls_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alta Velocidade"tvg-logo="https://tokuvs.com/2642-large_default/filme-alta-velocidade-dvd.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",Alta Velocidade
+https://play.prod.gcp.vix.services/driven_pt/driven_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Queda! As Últimas Horas de Hitler"tvg-logo="https://i.ytimg.com/vi/i9Akt3_BGbA/maxresdefault.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",A Queda! As Últimas Horas de Hitler
+https://play.prod.gcp.vix.services/der-untergang_pt/der-untergang_pt_1-1/play_v1_hls_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Portões do Sol"tvg-logo="hhttps://br.web.img3.acsta.net/c_310_420/pictures/15/02/20/11/46/136782.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",Portões do Sol
+https://play.prod.gcp.vix.services/les-portes-du-soleil_pt/les-portes-du-soleil_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Fera"tvg-logo="hhttps://cinema10.com.br/upload/filmes/filmes_16290_82d3b2fd-32bc-4192-a7d2-5fc35cffded9.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",A Fera
+https://play.prod.gcp.vix.services/beastly_pt/beastly_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Vingança perfeita"tvg-logo="https://br.web.img3.acsta.net/pictures/18/03/27/21/23/4996248.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",A Vingança perfeita
+https://play.prod.gcp.vix.services/terminal_pt/terminal_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jesse James - O Roubo do Trem Negro"tvg-logo="https://ottvsimg.ottvs.com.br/cov/a2.066858/0066858_335.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",Jesse James - O Roubo do Trem Negro
+https://play.prod.gcp.vix.services/jesse-james-train_pt/jesse-james-train_pt_1-1/hls_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desafios de uma Vida"tvg-logo="https://i.ytimg.com/vi/kAb09BUPYgc/maxresdefault.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",Desafios de uma Vida
+https://play.prod.gcp.vix.services/red-dirt-rising_pt/red-dirt-rising_pt_1-1/hls_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Morcegos"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ-6fcIqUtLPnIYkEHqRYClLRSyt50F6h_yUSA7kgs12MO27nUspV07t_RfELkHUSYlg&usqp=CAU" group-title="FILMES TV FAX | AÇÃO CINEMA",Morcegos
+https://play.prod.gcp.vix.services/bats_pt/bats_pt_1-1/play_v1_hls_432p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Em águas agitadas"tvg-logo="https://i1.wp.com/temalguemassistindo.com.br/wp-content/uploads/2023/02/em-aguas-agitadas-350x170.png"group-title="FILMES TV FAX | AÇÃO CINEMA",Em águas agitadas
+https://play.prod.gcp.vix.services/troubled-waters_pt/troubled-waters_pt_1-1/play_v1_hls_432p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="tik-tok"tvg-logo="https://i.ytimg.com/vi/DR3B3b5Vj2k/maxresdefault.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",tik-tok
+https://play.prod.gcp.vix.services/tik-tok_pt/tik-tok_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="kung fu yoga"tvg-logo="https://images.indianexpress.com/2017/01/jackie-chan-gif.gif" group-title="FILMES TV FAX | AÇÃO CINEMA",kung fu yoga
+https://play.prod.gcp.vix.services/kung-fu-yoga_pt/kung-fu-yoga_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cão de briga"tvg-logo="http://1.bp.blogspot.com/-mrlXSyBy0D4/U5dQss0hOJI/AAAAAAAABAM/mt4WbiH2p_k/s1600/c%C3%A3o+de+briga.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",Cão de briga
+https://play.prod.gcp.vix.services/danny-the-dog_pt/danny-the-dog_pt_1-1/play_v1_hls_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Perigo no Oceano"tvg-logo="https://br.web.img3.acsta.net/pictures/18/05/23/09/20/0659238.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",Perigo no Oceano
+https://play.prod.gcp.vix.services/black-water_pt/black-water_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="As Idades do Amor"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/2b95e4ad49d1676926c2b4e0396ad19a3f50b6f62cd570a57798c30cbd557e59._RI_V_TTW_.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",As Idades do Amor
+https://play.prod.gcp.vix.services/ages-of-love_pt/ages-of-love_pt_1-1/play_v1_hls_540p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Corrida Selvagem"tvg-logo="https://media.fstatic.com/X837k1RkKv8ZGTuaWsiKsRVj18k=/322x478/smart/filters:format(webp)/media/movies/covers/2017/03/Running_Wild_2017.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",Corrida Selvagem
+https://play.prod.gcp.vix.services/running-wild_pt/running-wild_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Oeste Sem Lei"tvg-logo="https://images.justwatch.com/poster/11571908/s592/slow-west" group-title="FILMES TV FAX | AÇÃO CINEMA",Oeste Sem Lei
+https://play.prod.gcp.vix.services/slow-west_pt/slow-west_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Um Caso de Amor"tvg-logo="https://d1aid1ai1ve9l.cloudfront.net/capasm/20577.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",Um Caso de Amor
+https://play.prod.gcp.vix.services/case-of-you_pt/case-of-you_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Momentum"tvg-logo="https://i.ytimg.com/vi/UqAWOwwD8c0/maxresdefault.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",Momentum
+https://play.prod.gcp.vix.services/momentum_pt/momentum_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Espada da Vingança"tvg-logo="https://i.ytimg.com/vi/9lCRjkHIO_A/maxresdefault.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",Espada da Vingança
+https://play.prod.gcp.vix.services/broken-swords-line_pt/broken-swords-line_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DNA: Caçada ao Predador"tvg-logo="https://i.ytimg.com/vi/-kBamUaCa8U/maxresdefault.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",DNA: Caçada ao Predador
+https://play.prod.gcp.vix.services/dna-1996_pt/dna-1996_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A espiã"tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/14/06/11/16/42/352585.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",A espiã
+https://play.prod.gcp.vix.services/spionen_pt/spionen_pt_1-1/play_v1_hls_432p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sem Defesa"tvg-logo="https://i.ytimg.com/vi/lqHq7Xe_fko/maxresdefault.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",Sem Defesa
+https://play.prod.gcp.vix.services/defenseless_pt/defenseless_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Em busca do castelo dourado"tvg-logo="https://br.web.img3.acsta.net/pictures/21/06/02/11/14/1090259.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",Em busca do castelo dourado
+https://play.prod.gcp.vix.services/ash-lad-castle_pt/ash-lad-castle_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Apenas Uma Vez"tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/87/75/21/19961181.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",Apenas Uma Vez
+https://play.prod.gcp.vix.services/once_pt/once_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Eu sei quem me matou"tvg-logo="https://fotos-g.imagemfilmes.com.br/103717/103717_001.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",Eu sei quem me matou
+https://play.prod.gcp.vix.services/know-killed-me_pt/know-killed-me_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sequestro na Romênia"tvg-logo="https://i.ytimg.com/vi/oAk1nGeo2sc/maxresdefault.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",Sequestro na Romênia
+https://play.prod.gcp.vix.services/kidnapped-romania_en/kidnapped-romania_en_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Em Defesa de Cristo"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d6d3573091f9aa5f5a4b21cc7fdeaf9f796fc666e4ef1a9a141259d9b7e73b89._RI_V_TTW_.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",Em Defesa de Cristo
+https://play.prod.gcp.vix.services/case-for-christ_pt/case-for-christ_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Jack e a Mecânica do Coração"tvg-logo="http://4.bp.blogspot.com/-QKDIaqgABZo/U_08gZ27odI/AAAAAAAAGWY/9u9aMfabVdw/s1600/1946122-concours-jack-et-la-mecanique-du-coeur-votre-enfant-dans-un-moment-d-amour.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",Jack e a Mecânica do Coração
+https://play.prod.gcp.vix.services/jack-coeur_pt/jack-coeur_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERIGO NO OCEANO"tvg-logo="https://strapi.api-tvcine.com/uploads/7a9c2b3ead0b4f1fb1415ab488160498.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",PERIGO NO OCEANO
+https://play.prod.gcp.vix.services/black-water_pt/black-water_pt_1-1/play_v1_hls_540p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CÓDIGO DE CONDUTA"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/39b5ba3eeeffc0dd011389fbfc82e1d5b6d1c42b104c7cd19402eb86ec7482b8._RI_V_TTW_.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",CÓDIGO DE CONDUTA
+https://play.prod.gcp.vix.services/law-abiding_pt/law-abiding_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A FERA"tvg-logo="http://25.media.tumblr.com/bea911a8b52bf22ac0c270cc3865a2d5/tumblr_mtn9s3hzne1si6vd0o1_500.gif" group-title="FILMES TV FAX | AÇÃO CINEMA",A FERA
+https://play.prod.gcp.vix.services/beastly_pt/beastly_pt_1-1/play_v1_hls_360p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="braven"tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXNPG1D/image?locale=en-us&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",braven
+https://play.prod.gcp.vix.services/braven_pt/braven_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="kabluey"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/9716b5e988f57b76f91c14f775da1340c5b39f273907ddb1af6c8527e953256c._RI_V_TTW_.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",kabluey
+https://play.prod.gcp.vix.services/kabluey_pt/kabluey_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sonhos-roubado"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e7/Sonhos_Roubados.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",sonhos-roubado
+https://play.prod.gcp.vix.services/sonhos-roubados_pt/sonhos-roubados_pt_1-1/hls_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ringu-3"tvg-logo="http://pm1.narvii.com/7173/e863961630c1abcf8e18bdd0bde98aa851775801r1-719-1000v2_uhq.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",Ringu-3
+https://play.prod.gcp.vix.services/ringu-3_pt/ringu-3_pt_1-1/hls_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bravestorm"tvg-logo="https://br.web.img3.acsta.net/pictures/18/09/10/14/09/4328345.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",Bravestorm
+https://play.prod.gcp.vix.services/bravestorm_pt/bravestorm_pt_1-1/hls_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dying"tvg-logo="https://www.gamersegames.com.br/wp-content/uploads/2022/03/Dying-Light.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",Dying
+https://play.prod.gcp.vix.services/lay-dying_pt/lay-dying_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="10 dias no deserto"tvg-logo="https://cdn.fstatic.com/media/movies/photos/2016/03/deserto_t88217.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",10 dias no deserto
+https://play.prod.gcp.vix.services/last-days-desert_pt/last-days-desert_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="digger"tvg-logo="https://assets.mubicdn.net/images/film/254948/image-w1280.jpg?1613549472" group-title="FILMES TV FAX | AÇÃO CINEMA",digger
+https://play.prod.gcp.vix.services/gold-digger_pt/gold-digger_pt_1-1/play_v1_hls_540p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="jaspion"tvg-logo="https://i.makeagif.com/media/10-31-2013/XhEnsV.gif" group-title="FILMES TV FAX | AÇÃO CINEMA",jaspion
+https://play.prod.gcp.vix.services/jaspion_jp/jaspion_jp_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="jiraiya"tvg-logo="https://thumbs.gfycat.com/AlivePeriodicFrog-small.gif" group-title="FILMES TV FAX | AÇÃO CINEMA",jiraiya
+https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-1/play_v1_hls_1080p.m3u8
+
 #EXTM3U url-tvg="http://grade-de-SERIE TV FAX O Bom Doutor.xml"
 ############## SERIE TV FAX O Bom Doutor ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeSERIE TV FAX O Bom Doutor" group-title="
@@ -4217,59 +4322,6 @@ https://ia902701.us.archive.org/24/items/fatima-a-historia-de-um-milagre-gospel-
 https://ia902703.us.archive.org/14/items/luz-de-fogo-gospel-tv-fax/Luz%20de%20FogoGOSPEL%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Marcada 28 Anos De Perseguição Sangrenta E De Partir O Coração Pelo PCCh GOSPEL"tvg-logo="https://i.ytimg.com/vi/aTbVnotOy3s/mqdefault.jpg"group-title="FILMES TV FAX GOSPEL",Marcada 28 Anos De Perseguição Sangrenta E De Partir O Coração Pelo PCCh GOSPEL
 https://ia902701.us.archive.org/16/items/marcada-28-anos-de-perseguicao-sangrenta-e-de-partir-o-coracao-pelo-pcch-gospel-tv-fax/Marcada%2028%20anos%20de%20persegui%C3%A7%C3%A3o%20sangrenta%20e%20de%20partir%20o%20cora%C3%A7%C3%A3o%20pelo%20PCCh%20GOSPEL%20TV%20FAX%20.mp4
-
-#EXTM3U url-tvg="http://grade-de-FILMES TV FAX 2023.xml"
-############## FILMES TV FAX 2023 ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES TV FAX 2023" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Ghosted: Sem Resposta (2023)"tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/89p7MQ3I5wKzOEO0OCCXEdUqX9R.jpg"group-title="FILMES TV FAX 2023",Ghosted: Sem Resposta (2023)
-http://7go.xyz:8080/movie/zogbi11/982451290/311685.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Rei Piu-Piu (2022)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jJatuRAVIsxAIszL3QTxrbIzxzc.jpg"group-title="FILMES TV FAX 2023",O Rei Piu-Piu (2022)
-http://7go.xyz:8080/movie/zogbi11/982451290/311686.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Pânico VI (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dbd7DQCHZ57SF4tM2puHtwNxDQD.jpg"group-title="FILMES TV FAX 2023",Pânico VI (2023)
-http://7go.xyz:8080/movie/zogbi11/982451290/311687.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sem Rastro (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/m3ZNSvplELOkVZKPXElMwdapIr4.jpg"group-title="FILMES TV FAX 2023",Sem Rastro (2023)
-http://7go.xyz:8080/movie/zogbi11/982451290/311688.mp4
-#EXTINF:-1 tvg-id="" tvg-name="80 for Brady: Quatro Amigas e uma Paixão (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sZBOc7sXmK618zujlxaiyLTq2e0.jpg"group-title="FILMES TV FAX 2023",80 for Brady: Quatro Amigas e uma Paixão (2023)
-http://7go.xyz:8080/movie/zogbi11/982451290/311815.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Agente Infiltrado (2023)"tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sgEUDZ1ZVTYLVLKWaXDud4COGLF.jpg"group-title="FILMES TV FAX 2023",Agente Infiltrado (2023)
-http://7go.xyz:8080/movie/zogbi11/982451290/311816.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Assassin Club (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y2d2SBqK33mGOG2CqAYMo3YbWE4.jpg"group-title="FILMES TV FAX 2023",Assassin Club (2023)
-http://7go.xyz:8080/movie/zogbi11/982451290/311817.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Casamento em Família (2023)"tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/1vi88La90aTwEtsRMNqXNwtTXn3.jpg"group-title="FILMES TV FAX 2023",Casamento em Família (2023)
-http://7go.xyz:8080/movie/zogbi11/982451290/311818.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velozes E Furiosos 10  2023"tvg-logo="https://cinepop.com.br/wp-content/uploads/2023/04/imagem_2023-04-20_155630085-e1682017091515.jpg"group-title="FILMES TV FAX 2023",Velozes E Furiosos 10  2023
-http://7go.xyz:8080/movie/zogbi11/982451290/312832.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Velozes E Furiosos 10  2023"tvg-logo="https://cinepop.com.br/wp-content/uploads/2023/04/imagem_2023-04-20_155630085-e1682017091515.jpg"group-title="FILMES TV FAX 2023",Velozes E Furiosos 10  2023
-https://ia902709.us.archive.org/15/items/velozes-e-furiosos-10-2023-portalfilmeseries/Velozes%20e%20Furiosos%2010%20%5B2023%5D%20-%20%40portalfilmeseries.ia.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jogo do Amor (2023)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cnOvRDoYqcrOVjOBqRAP5NlhpkS.jpg"group-title="FILMES TV FAX 2023",Jogo do Amor (2023)
-http://7go.xyz:8080/movie/zogbi11/982451290/311820.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tic-Tac: A Maternidade do Mal (2023)"tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dpKHaXmAeiVaV1FQVIWStyg0Cws.jpg"group-title="FILMES TV FAX 2023",Tic-Tac: A Maternidade do Mal (2023)
-http://7go.xyz:8080/movie/zogbi11/982451290/311822.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez Carnaval (2023)"tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/efviGPGyWf5H1Pupa18dYvBHHgI.jpg"group-title="FILMES TV FAX 2023",Era Uma Vez Carnaval (2023)
-http://7go.xyz:8080/movie/zogbi11/982451290/311847.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Exorcista do Papa (2023)"tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ba7ks0ZaIkRLp5Zqx6KkQ3unxRr.jpg"group-title="FILMES TV FAX 2023",O Exorcista do Papa (2023)
-http://7go.xyz:8080/movie/zogbi11/982451290/311849.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Tudo pela Noiva (2023)"tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2hdtxPuqCZtEnvfKFeLyrrn9HYM.jpg"group-title="FILMES TV FAX 2023",Tudo pela Noiva (2023)
-http://7go.xyz:8080/movie/zogbi11/982451290/311850.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Cratera (2023)"tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/65CXDhp2Y0ro847Lzq9l1iQ9Hn6.jpg"group-title="FILMES TV FAX 2023",A Cratera (2023)
-http://7go.xyz:8080/movie/zogbi11/982451290/312671.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Air: A História Por Trás do Logo (2023)"tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8OGQCOp6BxwvekhZBQCzVd77Y6l.jpg"group-title="FILMES TV FAX 2023",Air: A História Por Trás do Logo (2023)
-http://7go.xyz:8080/movie/zogbi11/982451290/312672.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Mãe (2023)"tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5VrZJdiSduRuCkFcJlNDM2uaZEr.jpg"group-title="FILMES TV FAX 2023",A Mãe (2023)
-http://7go.xyz:8080/movie/zogbi11/982451290/312673.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Duas Pecadoras e Uma Mula (2023)"tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rdisHtFOulk0bWGGXrR8DYeBC4.jpg"group-title="FILMES TV FAX 2023",Duas Pecadoras e Uma Mula (2023)
-http://7go.xyz:8080/movie/zogbi11/982451290/312674.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Homem-Formiga e a Vespa: Quantumania (2023)"tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pDNT1gXhZEV1V70eCVmJAQNEqBl.jpg"group-title="FILMES TV FAX 2023",Homem-Formiga e a Vespa: Quantumania (2023)
-http://7go.xyz:8080/movie/zogbi11/982451290/312756.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sombras de um Crime (2023)"tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vRSbYibtGcEYBFfCAkkvSCF9eES.jpg"group-title="FILMES TV FAX 2023",Sombras de um Crime (2023)
-http://7go.xyz:8080/movie/zogbi11/982451290/312757.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Viva o México (2023)"tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mZWLkJQeVy990LMFGlFJphOaioh.jpg"group-title="FILMES TV FAX 2023",Viva o México (2023)
-http://7go.xyz:8080/movie/zogbi11/982451290/312676.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Royalteen: Princesa Margrethe (2023)"tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oWmcC2RENbkdS3BuPor530KzKDc.jpg"group-title="FILMES TV FAX 2023",Royalteen: Princesa Margrethe (2023)
-http://7go.xyz:8080/movie/zogbi11/982451290/312735.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Extorsão (2023)"tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wAQvIuLJRFo0LCr0gLQTng9KRco.jpg"group-title="FILMES TV FAX 2023",A Extorsão (2023)
-http://7go.xyz:8080/movie/zogbi11/982451290/312835.mp4
 
 #EXTM3U url-tvg="http://grade-de-FILMES | Todo-Poderoso.xml"
 ############## FILMES | Todo-Poderoso ################# 
@@ -5292,111 +5344,6 @@ http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/166456.mp4
 #EXTINF:-1 tvg-id="" tvg-name="X-Men: Primeira Classe (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AqTCbMhG9X93sly2fvyiu6sHPIS.jpg" group-title="Filmes: Acao",X-Men: Primeira Classe (2011)
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/216208.mp4
 
-#EXTM3U url-tvg="http://grade-de-FILMES | AÇÃO CINEMA.xml"
-############## FILMES | AÇÃO CINEMA ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | AÇÃO CINEMA" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Nezha: Correndo pela Vida" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/8f6925f75b3cede749c4ba166fd533678af46666c96e9ab9607eea558584c848._RI_V_TTW_.jpg" group-title="FILMES | AÇÃO CINEMA",Nezha: Correndo pela Vida
-https://play.prod.gcp.vix.services/ne-zha_pt/ne-zha_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sobreviventes"tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/15/08/04/21/37/556902.jpg"group-title="FILMES | AÇÃO CINEMA",Sobreviventes
-https://play.prod.gcp.vix.services/backcountry_pt/backcountry_pt_1-1/hls_2500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STRANGE WEATHER(2017)Sinopse: Uma mãe "tvg-logo="https://image.tmdb.org/t/p/w342/xnuYktP5s8sZ4IA3et9bCycbQUB.jpg"group-title="FILMES | AÇÃO CINEMA",STRANGE WEATHER(2017)Sinopse: Uma mãe 
-https://video.wixstatic.com/video/834009_56179638b3414916999e880ed9658556/720p/mp4/file.mp4
-#EXTINF:-1 tvg-id="" tvg-name="UMA GRANDE AMIZADE"tvg-logo="https://ottvsimg.ottvs.com.br/cov/gmt.150730/0150730_335.jpg"group-title="FILMES | AÇÃO CINEMA",UMA GRANDE AMIZADE
-https://play.prod.gcp.vix.services/saving-flora_pt/saving-flora_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="dummie-mummy"tvg-logo="https://m.media-amazon.com/images/M/MV5BMjEyNDQwMTkxM15BMl5BanBnXkFtZTgwNzIxODQzMzE@._V1_.jpg"group-title="FILMES | AÇÃO CINEMA",dummie-mummy
-https://play.prod.gcp.vix.services/dummie-mummy-3_pt/dummie-mummy-3_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ATÉ O LIMITE"tvg-id="" tvg-name=""tvg-logo="https://media.fstatic.com/iZek4-V1OC8job9VS1uT1eUlAkY=/322x478/smart/filters:format(webp)/media/movies/covers/2022/12/tt14824590_big-scaled.jpg"group-title="FILMES | AÇÃO CINEMA",ATÉ O LIMITE
-https://play.prod.gcp.vix.services/mans-best-friend_pt/mans-best-friend_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=""tvg-logo="https://i.ytimg.com/vi/RhlVtWnPlq0/maxresdefault.jpg"group-title="FILMES | AÇÃO CINEMA",Lutador Misterioso
-https://play.prod.gcp.vix.services/mysterious-fighter_pt/mysterious-fighter_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Conspiração 2000"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDHnmc00mNR3aZH_LOEmqu_ukGHTyvnQtt7PQig7DL30HjVczDZtO34rRfE3UeJACPch0&usqp=CAU" group-title="FILMES | AÇÃO CINEMA",Conspiração 2000
-https://play.prod.gcp.vix.services/gong-yuan_pt/gong-yuan_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A lenda de Thor"tvg-logo="https://www.justwatch.com/images/backdrop/239527005/s640/valhalla-2019" group-title="FILMES | AÇÃO CINEMA",Valhalla: A lenda de Thor
-https://play.prod.gcp.vix.services/valhalla-thor_pt/valhalla-thor_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alta Velocidade"tvg-logo="https://tokuvs.com/2642-large_default/filme-alta-velocidade-dvd.jpg" group-title="FILMES | AÇÃO CINEMA",Alta Velocidade
-https://play.prod.gcp.vix.services/driven_pt/driven_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Queda! As Últimas Horas de Hitler"tvg-logo="https://i.ytimg.com/vi/i9Akt3_BGbA/maxresdefault.jpg" group-title="FILMES | AÇÃO CINEMA",A Queda! As Últimas Horas de Hitler
-https://play.prod.gcp.vix.services/der-untergang_pt/der-untergang_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Portões do Sol"tvg-logo="hhttps://br.web.img3.acsta.net/c_310_420/pictures/15/02/20/11/46/136782.jpg" group-title="FILMES | AÇÃO CINEMA",Portões do Sol
-https://play.prod.gcp.vix.services/les-portes-du-soleil_pt/les-portes-du-soleil_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Fera"tvg-logo="hhttps://cinema10.com.br/upload/filmes/filmes_16290_82d3b2fd-32bc-4192-a7d2-5fc35cffded9.jpg" group-title="FILMES | AÇÃO CINEMA",A Fera
-https://play.prod.gcp.vix.services/beastly_pt/beastly_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Vingança perfeita"tvg-logo="https://br.web.img3.acsta.net/pictures/18/03/27/21/23/4996248.jpg" group-title="FILMES | AÇÃO CINEMA",A Vingança perfeita
-https://play.prod.gcp.vix.services/terminal_pt/terminal_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jesse James - O Roubo do Trem Negro"tvg-logo="https://ottvsimg.ottvs.com.br/cov/a2.066858/0066858_335.jpg" group-title="FILMES | AÇÃO CINEMA",Jesse James - O Roubo do Trem Negro
-https://play.prod.gcp.vix.services/jesse-james-train_pt/jesse-james-train_pt_1-1/hls_2500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Desafios de uma Vida"tvg-logo="https://i.ytimg.com/vi/kAb09BUPYgc/maxresdefault.jpg" group-title="FILMES | AÇÃO CINEMA",Desafios de uma Vida
-https://play.prod.gcp.vix.services/red-dirt-rising_pt/red-dirt-rising_pt_1-1/hls_2500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Morcegos"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ-6fcIqUtLPnIYkEHqRYClLRSyt50F6h_yUSA7kgs12MO27nUspV07t_RfELkHUSYlg&usqp=CAU" group-title="FILMES | AÇÃO CINEMA",Morcegos
-https://play.prod.gcp.vix.services/bats_pt/bats_pt_1-1/play_v1_hls_432p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Em águas agitadas"tvg-logo="https://i1.wp.com/temalguemassistindo.com.br/wp-content/uploads/2023/02/em-aguas-agitadas-350x170.png"group-title="FILMES | AÇÃO CINEMA",Em águas agitadas
-https://play.prod.gcp.vix.services/troubled-waters_pt/troubled-waters_pt_1-1/play_v1_hls_432p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="tik-tok"tvg-logo="https://i.ytimg.com/vi/DR3B3b5Vj2k/maxresdefault.jpg" group-title="FILMES | AÇÃO CINEMA",tik-tok
-https://play.prod.gcp.vix.services/tik-tok_pt/tik-tok_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="kung fu yoga"tvg-logo="https://images.indianexpress.com/2017/01/jackie-chan-gif.gif" group-title="FILMES | AÇÃO CINEMA",kung fu yoga
-https://play.prod.gcp.vix.services/kung-fu-yoga_pt/kung-fu-yoga_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cão de briga"tvg-logo="http://1.bp.blogspot.com/-mrlXSyBy0D4/U5dQss0hOJI/AAAAAAAABAM/mt4WbiH2p_k/s1600/c%C3%A3o+de+briga.jpg" group-title="FILMES | AÇÃO CINEMA",Cão de briga
-https://play.prod.gcp.vix.services/danny-the-dog_pt/danny-the-dog_pt_1-1/play_v1_hls_720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Perigo no Oceano"tvg-logo="https://br.web.img3.acsta.net/pictures/18/05/23/09/20/0659238.jpg" group-title="FILMES | AÇÃO CINEMA",Perigo no Oceano
-https://play.prod.gcp.vix.services/black-water_pt/black-water_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="As Idades do Amor"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/2b95e4ad49d1676926c2b4e0396ad19a3f50b6f62cd570a57798c30cbd557e59._RI_V_TTW_.jpg" group-title="FILMES | AÇÃO CINEMA",As Idades do Amor
-https://play.prod.gcp.vix.services/ages-of-love_pt/ages-of-love_pt_1-1/play_v1_hls_540p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Corrida Selvagem"tvg-logo="https://media.fstatic.com/X837k1RkKv8ZGTuaWsiKsRVj18k=/322x478/smart/filters:format(webp)/media/movies/covers/2017/03/Running_Wild_2017.jpg" group-title="FILMES | AÇÃO CINEMA",Corrida Selvagem
-https://play.prod.gcp.vix.services/running-wild_pt/running-wild_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Oeste Sem Lei"tvg-logo="https://images.justwatch.com/poster/11571908/s592/slow-west" group-title="FILMES | AÇÃO CINEMA",Oeste Sem Lei
-https://play.prod.gcp.vix.services/slow-west_pt/slow-west_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Um Caso de Amor"tvg-logo="https://d1aid1ai1ve9l.cloudfront.net/capasm/20577.jpg" group-title="FILMES | AÇÃO CINEMA",Um Caso de Amor
-https://play.prod.gcp.vix.services/case-of-you_pt/case-of-you_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Momentum"tvg-logo="https://i.ytimg.com/vi/UqAWOwwD8c0/maxresdefault.jpg" group-title="FILMES | AÇÃO CINEMA",Momentum
-https://play.prod.gcp.vix.services/momentum_pt/momentum_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Espada da Vingança"tvg-logo="https://i.ytimg.com/vi/9lCRjkHIO_A/maxresdefault.jpg" group-title="FILMES | AÇÃO CINEMA",Espada da Vingança
-https://play.prod.gcp.vix.services/broken-swords-line_pt/broken-swords-line_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DNA: Caçada ao Predador"tvg-logo="https://i.ytimg.com/vi/-kBamUaCa8U/maxresdefault.jpg" group-title="FILMES | AÇÃO CINEMA",DNA: Caçada ao Predador
-https://play.prod.gcp.vix.services/dna-1996_pt/dna-1996_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A espiã"tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/14/06/11/16/42/352585.jpg" group-title="FILMES | AÇÃO CINEMA",A espiã
-https://play.prod.gcp.vix.services/spionen_pt/spionen_pt_1-1/play_v1_hls_432p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sem Defesa"tvg-logo="https://i.ytimg.com/vi/lqHq7Xe_fko/maxresdefault.jpg" group-title="FILMES | AÇÃO CINEMA",Sem Defesa
-https://play.prod.gcp.vix.services/defenseless_pt/defenseless_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Em busca do castelo dourado"tvg-logo="https://br.web.img3.acsta.net/pictures/21/06/02/11/14/1090259.jpg" group-title="FILMES | AÇÃO CINEMA",Em busca do castelo dourado
-https://play.prod.gcp.vix.services/ash-lad-castle_pt/ash-lad-castle_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Apenas Uma Vez"tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/87/75/21/19961181.jpg" group-title="FILMES | AÇÃO CINEMA",Apenas Uma Vez
-https://play.prod.gcp.vix.services/once_pt/once_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Eu sei quem me matou"tvg-logo="https://fotos-g.imagemfilmes.com.br/103717/103717_001.jpg" group-title="FILMES | AÇÃO CINEMA",Eu sei quem me matou
-https://play.prod.gcp.vix.services/know-killed-me_pt/know-killed-me_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sequestro na Romênia"tvg-logo="https://i.ytimg.com/vi/oAk1nGeo2sc/maxresdefault.jpg" group-title="FILMES | AÇÃO CINEMA",Sequestro na Romênia
-https://play.prod.gcp.vix.services/kidnapped-romania_en/kidnapped-romania_en_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Em Defesa de Cristo"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d6d3573091f9aa5f5a4b21cc7fdeaf9f796fc666e4ef1a9a141259d9b7e73b89._RI_V_TTW_.jpg" group-title="FILMES | AÇÃO CINEMA",Em Defesa de Cristo
-https://play.prod.gcp.vix.services/case-for-christ_pt/case-for-christ_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Jack e a Mecânica do Coração"tvg-logo="http://4.bp.blogspot.com/-QKDIaqgABZo/U_08gZ27odI/AAAAAAAAGWY/9u9aMfabVdw/s1600/1946122-concours-jack-et-la-mecanique-du-coeur-votre-enfant-dans-un-moment-d-amour.jpg" group-title="FILMES | AÇÃO CINEMA",Jack e a Mecânica do Coração
-https://play.prod.gcp.vix.services/jack-coeur_pt/jack-coeur_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PERIGO NO OCEANO"tvg-logo="https://strapi.api-tvcine.com/uploads/7a9c2b3ead0b4f1fb1415ab488160498.jpg" group-title="FILMES | AÇÃO CINEMA",PERIGO NO OCEANO
-https://play.prod.gcp.vix.services/black-water_pt/black-water_pt_1-1/play_v1_hls_540p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CÓDIGO DE CONDUTA"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/39b5ba3eeeffc0dd011389fbfc82e1d5b6d1c42b104c7cd19402eb86ec7482b8._RI_V_TTW_.jpg" group-title="FILMES | AÇÃO CINEMA",CÓDIGO DE CONDUTA
-https://play.prod.gcp.vix.services/law-abiding_pt/law-abiding_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A FERA"tvg-logo="http://25.media.tumblr.com/bea911a8b52bf22ac0c270cc3865a2d5/tumblr_mtn9s3hzne1si6vd0o1_500.gif" group-title="FILMES | AÇÃO CINEMA",A FERA
-https://play.prod.gcp.vix.services/beastly_pt/beastly_pt_1-1/play_v1_hls_360p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="braven"tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXNPG1D/image?locale=en-us&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg" group-title="FILMES | AÇÃO CINEMA",braven
-https://play.prod.gcp.vix.services/braven_pt/braven_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="kabluey"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/9716b5e988f57b76f91c14f775da1340c5b39f273907ddb1af6c8527e953256c._RI_V_TTW_.jpg" group-title="FILMES | AÇÃO CINEMA",kabluey
-https://play.prod.gcp.vix.services/kabluey_pt/kabluey_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sonhos-roubado"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/e/e7/Sonhos_Roubados.jpg" group-title="FILMES | AÇÃO CINEMA",sonhos-roubado
-https://play.prod.gcp.vix.services/sonhos-roubados_pt/sonhos-roubados_pt_1-1/hls_2500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ringu-3"tvg-logo="http://pm1.narvii.com/7173/e863961630c1abcf8e18bdd0bde98aa851775801r1-719-1000v2_uhq.jpg" group-title="FILMES | AÇÃO CINEMA",Ringu-3
-https://play.prod.gcp.vix.services/ringu-3_pt/ringu-3_pt_1-1/hls_2500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Bravestorm"tvg-logo="https://br.web.img3.acsta.net/pictures/18/09/10/14/09/4328345.jpg" group-title="FILMES | AÇÃO CINEMA",Bravestorm
-https://play.prod.gcp.vix.services/bravestorm_pt/bravestorm_pt_1-1/hls_2500.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dying"tvg-logo="https://www.gamersegames.com.br/wp-content/uploads/2022/03/Dying-Light.jpg" group-title="FILMES | AÇÃO CINEMA",Dying
-https://play.prod.gcp.vix.services/lay-dying_pt/lay-dying_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="10 dias no deserto"tvg-logo="https://cdn.fstatic.com/media/movies/photos/2016/03/deserto_t88217.jpg" group-title="FILMES | AÇÃO CINEMA",10 dias no deserto
-https://play.prod.gcp.vix.services/last-days-desert_pt/last-days-desert_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="digger"tvg-logo="https://assets.mubicdn.net/images/film/254948/image-w1280.jpg?1613549472" group-title="FILMES | AÇÃO CINEMA",digger
-https://play.prod.gcp.vix.services/gold-digger_pt/gold-digger_pt_1-1/play_v1_hls_540p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="jaspion"tvg-logo="https://i.makeagif.com/media/10-31-2013/XhEnsV.gif" group-title="FILMES | AÇÃO CINEMA",jaspion
-https://play.prod.gcp.vix.services/jaspion_jp/jaspion_jp_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="jiraiya"tvg-logo="https://thumbs.gfycat.com/AlivePeriodicFrog-small.gif" group-title="FILMES | AÇÃO CINEMA",jiraiya
-https://play.prod.gcp.vix.services/jiraiya_jp/jiraiya_jp_1-1/play_v1_hls_1080p.m3u8
-
 #EXTM3U url-tvg="http://grade-de-Filmes Ficcao Cientifica.xml"
 ############## Filmes Ficcao Cientifica ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFilmes Ficcao Cientifica" group-title="
@@ -6086,377 +6033,6 @@ https://play.prod.gcp.vix.services/armour-of-god_pt/armour-of-god_pt_1-1/play_v1
 https://play.prod.gcp.vix.services/armour-of-god-2_pt/armour-of-god-2_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Três Ladrões e um Bebê"tvg-logo="http://s2.glbimg.com/5UnBdhvFJuxXwXuYMUzVD9fM__s=/s.glbimg.com/og/rg/f/original/2016/04/20/jackie.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Três Ladrões e um Bebê
 https://play.prod.gcp.vix.services/robin-b-hood_pt/robin-b-hood_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Agentes Vanguard  (2020)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/slR16xWVy7kc3xr1GlSK41ZSjpa.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Agentes Vanguard  (2020)*
-http://7go.xyz:8080/movie/zogbi11/982451290/277876.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fora do Rumo  (2016)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hVx1PZuGZCpm0gHKUgMLtMukFWG.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Fora do Rumo  (2016)*
-http://7go.xyz:8080/movie/zogbi11/982451290/294484.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Fúria do Protetor (1985)" tvg-logo="http://7online.xyz:8080/images/647ddf00d2659f017737f432dcdbf734.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",A Fúria do Protetor (1985)
-http://7go.xyz:8080/movie/zogbi11/982451290/196924.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Acerto (2004)" tvg-logo="http://7online.xyz:8080/images/d5c2ecaf053c5bce1f3b078299f36457.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",A Hora do Acerto (2004)
-http://7go.xyz:8080/movie/zogbi11/982451290/196926.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush (1998)" tvg-logo="http://7online.xyz:8080/images/a4084d34b7ce452eba2ca486c77d8241.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",A Hora do Rush (1998)
-http://7go.xyz:8080/movie/zogbi11/982451290/196927.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush 2 (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5DNVpS1gzEgaoPIW5HuPbKa1dnT.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",A Hora do Rush 2 (2001)
-http://7go.xyz:8080/movie/zogbi11/982451290/196928.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Hora do Rush 3 (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7sqXl2yNWv1roe3LN3hNrhozJvn.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",A Hora do Rush 3 (2007)
-http://7go.xyz:8080/movie/zogbi11/982451290/196929.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mestre Invencível 2 (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5LcqEmIpkuu7zkMp1vmSmp9Xuas.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",O Mestre Invencível 2 (1994)
-http://7go.xyz:8080/movie/zogbi11/982451290/196930.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Marca do Dragão (1977)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kiYMJISu7s3PIqsUkl9gdqoGz9o.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",A Marca do Dragão (1977)
-http://7go.xyz:8080/movie/zogbi11/982451290/196931.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Nova Fúria do Dragão (1976)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wAxu7VYgBtrGF14GtwxQ7Vk3S8K.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",A Nova Fúria do Dragão (1976)
-http://7go.xyz:8080/movie/zogbi11/982451290/196932.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Armadura de Deus - Versão Estendida (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nstPbqmWlOibLutLsVvgT7RarRk.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Armadura de Deus - Versão Estendida (1986)
-http://7go.xyz:8080/movie/zogbi11/982451290/196933.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Arrebentando em Nova York (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bkUfOcy1ILbBCzNYpSsQsUVF2GN.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Arrebentando em Nova York (1995)
-http://7go.xyz:8080/movie/zogbi11/982451290/196934.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bater ou Correr (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AqQ0tVxhMYTRgkMvttEOKBJJQYR.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Bater ou Correr (2000)
-http://7go.xyz:8080/movie/zogbi11/982451290/196935.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bater ou Correr em Londres (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fVPZumNA50cSePKm56lEZ9G86f4.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Bater ou Correr em Londres (2003)
-http://7go.xyz:8080/movie/zogbi11/982451290/196936.mp4
-#EXTINF:-1 tvg-id="" tvg-name="City Hunter: O Caçador de Encrencas (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kiI6SZNweOy7R4l02RUwVu6hVfF.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",City Hunter: O Caçador de Encrencas (1993)
-http://7go.xyz:8080/movie/zogbi11/982451290/196937.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Contos do Caçador de Sombras (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/myKEaA1a1fnDxjqDrz3ZI6U3Bxx.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Contos do Caçador de Sombras (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/196938.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Detonando em Barcelona (1984)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eP6bdBy2Ie19UlcMxCMBqB8ru7u.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Detonando em Barcelona (1984)
-http://7go.xyz:8080/movie/zogbi11/982451290/196939.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batalha dos Impérios (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jehJ5TlgBqfP6DkWqOjcCkMYxgd.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Batalha dos Impérios (2015)
-http://7go.xyz:8080/movie/zogbi11/982451290/196940.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Confronto com o Dragão (1983)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6pT99NwH2DeqOVzlaRknsFkI0VV.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Confronto com o Dragão (1983)
-http://7go.xyz:8080/movie/zogbi11/982451290/196941.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragões em Dose Dupla (1992)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jX7HdFkLt4B1yacZJ433Ns32gZq.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Dragões em Dose Dupla (1992)
-http://7go.xyz:8080/movie/zogbi11/982451290/196942.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dragões para Sempre (1988)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vbTkEAOSCuwFpCqzRbf9pRys2YK.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Dragões para Sempre (1988)
-http://7go.xyz:8080/movie/zogbi11/982451290/196943.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Em Nome da Lei (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kNy5zuG6lG4rsqYJ1cBZk3F61X1.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Em Nome da Lei (2013)
-http://7go.xyz:8080/movie/zogbi11/982451290/196944.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Espião por Acidente (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/jTY7fpQf3hWMxu3OAMNxh1v70WV.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Espião por Acidente (2001)
-http://7go.xyz:8080/movie/zogbi11/982451290/196945.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Inimigo Mortal (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tzz1t8UvSvISZxDxBmEd531nIPg.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Inimigo Mortal (2017)
-http://7go.xyz:8080/movie/zogbi11/982451290/196946.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Karatê Kid (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AbBlpGNj69gWQNKO0qg6QGDnbaW.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Karatê Kid (2010)
-http://7go.xyz:8080/movie/zogbi11/982451290/196947.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kickboxer 2: A Vingança do Dragão (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2Y8n0XLc7qK4Ro8AGPk6b4sbL7c.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Kickboxer 2: A Vingança do Dragão (1991)
-http://7go.xyz:8080/movie/zogbi11/982451290/196948.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu Yoga (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/rvUMGvHc0roYX8MSoIN0Kw8XZ3V.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Kung Fu Yoga (2017)
-http://7go.xyz:8080/movie/zogbi11/982451290/196949.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Missão Quase Impossível (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ccoL6SB1efI9epaLrqxwHVZ8uKN.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Missão Quase Impossível (2010)
-http://7go.xyz:8080/movie/zogbi11/982451290/196950.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Estrangeiro (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/c0k6pnGCNPJHmTHyRzY6tbgVZvl.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",O Estrangeiro (2017)
-http://7go.xyz:8080/movie/zogbi11/982451290/196951.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Grande Desafio (1999)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8sSQVFmKhPq6wuArxY4u6yjNAqf.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",O Grande Desafio (1999)
-http://7go.xyz:8080/movie/zogbi11/982451290/196952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Guarda Costas (1978)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/h7MCFUhw6quzmhlvl6xJLo4R7AH.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",O Guarda Costas (1978)
-http://7go.xyz:8080/movie/zogbi11/982451290/196953.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Medalhão (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aFOgmPanK5OKTsiJ0ZNfPKznIfO.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",O Medalhão (2003)
-http://7go.xyz:8080/movie/zogbi11/982451290/196954.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mestre Invencível 2 (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5LcqEmIpkuu7zkMp1vmSmp9Xuas.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",O Mestre Invencível 2 (1994)
-http://7go.xyz:8080/movie/zogbi11/982451290/196955.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mito (2005)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/y5x3qlWbPExOh2i1quShN1aL0ta.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",O Mito (2005)
-http://7go.xyz:8080/movie/zogbi11/982451290/196956.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Operação Condor: Um Kickboxer Muito Louco (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8TzrZsXbDrhfLQjr6nnwTkcQobM.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Operação Condor: Um Kickboxer Muito Louco (1991)
-http://7go.xyz:8080/movie/zogbi11/982451290/196957.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Operação Zodíaco (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dgG3sfVaLBDEddWjrdeOqj5jHrW.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Operação Zodíaco (2012)
-http://7go.xyz:8080/movie/zogbi11/982451290/196958.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Templo do Dragão (1978)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8XRuW6Q3c64A03UHfHyudf683iw.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",O Templo do Dragão (1978)
-http://7go.xyz:8080/movie/zogbi11/982451290/196959.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Terno de 2 Bilhões de Dólares (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kF1aWQzrAaSBCtUrPSZKFXjSoNb.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",O Terno de 2 Bilhões de Dólares (2002)
-http://7go.xyz:8080/movie/zogbi11/982451290/196960.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Police Story: A Guerra das Drogas (1985)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vKG35nO8lzZTkB7g6EiXjYFjYca.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Police Story: A Guerra das Drogas (1985)
-http://7go.xyz:8080/movie/zogbi11/982451290/196961.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Primeiro Impacto (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lM4VYfr04LrRYQ32J1IZJg0bHXV.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Primeiro Impacto (1996)
-http://7go.xyz:8080/movie/zogbi11/982451290/196962.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Projeto China (1983)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uvQadnCrtustVtz49hv3mRpNVZg.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Projeto China (1983)
-http://7go.xyz:8080/movie/zogbi11/982451290/196963.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Projeto China 2: A Vingança (1987)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZnRRUGMIW38xbgGMWy6cCAhoC4.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Projeto China 2: A Vingança (1987)
-http://7go.xyz:8080/movie/zogbi11/982451290/196964.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Punhos de serpente (1978)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/kyWBkI94uT3pmAdbdqdSQ96Qxt9.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Punhos de serpente (1978)
-http://7go.xyz:8080/movie/zogbi11/982451290/196965.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Quem Sou Eu? (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aYo4p9ylfjGs2Cw6QTRd31aoVO6.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Quem Sou Eu? (1998)
-http://7go.xyz:8080/movie/zogbi11/982451290/196966.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Thunderbolt: Ação Sobre Rodas (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/f87fY5kuGCKiWJduVXtBWxtJttF.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Thunderbolt: Ação Sobre Rodas (1995)
-http://7go.xyz:8080/movie/zogbi11/982451290/196967.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Três Ladrões e um Bebê (2006)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fcpjgDRIgYQTvJE9UPo0WmNKqbz.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Três Ladrões e um Bebê (2006)
-http://7go.xyz:8080/movie/zogbi11/982451290/196968.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Volta ao Mundo em 80 Dias: Uma Aposta Muito Louca (2004)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xcy62czpO413jOCrBnwa5AF1Wrd.jpg" group-title="FILMES | COLETANEA JACKIE CHAN",Volta ao Mundo em 80 Dias: Uma Aposta Muito Louca (2004)
-http://7go.xyz:8080/movie/zogbi11/982451290/196969.mp4
-
-#EXTM3U url-tvg="http://grade-de-FILMES | COLETANEA O GRANDE MESTRE.xml"
-############## FILMES | COLETANEA O GRANDE MESTRE ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETANEA O GRANDE MESTRE" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Ip Man: Nasce uma Lenda (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tlZh3zKTC0HHboIRqCQus7OFlgA.jpg" group-title="FILMES | COLETÂNEA O GRANDE MESTRE",Ip Man: Nasce uma Lenda (2010)
-http://7go.xyz:8080/movie/zogbi11/982451290/221500.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Ip Man: A Batalha Final (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9jbYud3egdO8NzoKBNFBOookYgd.jpg" group-title="FILMES | COLETÂNEA O GRANDE MESTRE",Ip Man: A Batalha Final (2013)
-http://7go.xyz:8080/movie/zogbi11/982451290/221501.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Grande Mestre (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/v3pXEOIw5WCEyCLMnYIUVtI5yw9.jpg" group-title="FILMES | COLETÂNEA O GRANDE MESTRE",O Grande Mestre (2013)
-http://7go.xyz:8080/movie/zogbi11/982451290/221502.mkv
-#EXTINF:-1 tvg-id="" tvg-name="O Grande Mestre 2 (2010)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ik2fNhSATobUCukor4pKjT82Tvb.jpg" group-title="FILMES | COLETÂNEA O GRANDE MESTRE",O Grande Mestre 2 (2010)
-http://7go.xyz:8080/movie/zogbi11/982451290/221503.mkv
-#EXTINF:-1 tvg-id="" tvg-name="O Grande Mestre 3 (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/24E7IAfZsmQIBVydzw994navV5b.jpg" group-title="FILMES | COLETÂNEA O GRANDE MESTRE",O Grande Mestre 3 (2015)
-http://7go.xyz:8080/movie/zogbi11/982451290/221504.mkv
-#EXTINF:-1 tvg-id="" tvg-name="O Grande Mestre 4 (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7o7jvOGAIzu7nitHFGzoDjPqIJo.jpg" group-title="FILMES | COLETÂNEA O GRANDE MESTRE",O Grande Mestre 4 (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/221505.mp4
-
-#EXTM3U url-tvg="http://grade-de-FILMES | COLETANEA JET-LI.xml"
-############## FILMES | COLETANEA JET-LI ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETANEA JET-LI" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Mestre Chinês (2011)" tvg-logo="http://7online.xyz:8080/images/7d08bc60e8cc1b43b1f295f5838c559e.jpg" group-title="FILMES | COLETANEA JET-LI",A Lenda do Mestre Chinês (2011)
-http://7go.xyz:8080/movie/zogbi11/982451290/197136.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Máscara da Morte (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ufMl2fYWCXX1O0y9t99OA0h1uwT.jpg" group-title="FILMES | COLETANEA JET-LI",Máscara da Morte (1995)
-http://7go.xyz:8080/movie/zogbi11/982451290/197137.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Luta do Dragão (1989)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/33SgNPNjPhdz6AirT25CtVNxS2A.jpg" group-title="FILMES | COLETANEA JET-LI",A Luta do Dragão (1989)
-http://7go.xyz:8080/movie/zogbi11/982451290/197138.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Múmia - Tumba do Imperador Dragão (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lHv4SqGuQ6K9Z0H6E5fkU7yZlxD.jpg" group-title="FILMES | COLETANEA JET-LI",A Múmia - Tumba do Imperador Dragão (2008)
-http://7go.xyz:8080/movie/zogbi11/982451290/197139.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Saga de um Herói (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qvum9aD5iR2ToYZQ6CGjxjCAitP.jpg" group-title="FILMES | COLETANEA JET-LI",A Saga de um Herói (1993)
-http://7go.xyz:8080/movie/zogbi11/982451290/197140.mkv
-#EXTINF:-1 tvg-id="" tvg-name="A Última Luta (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pXwc74SrunfnWu78TcjmKKh03M8.jpg" group-title="FILMES | COLETANEA JET-LI",A Última Luta (1993)
-http://7go.xyz:8080/movie/zogbi11/982451290/197141.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batalha de Honra (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tIC9FGD5L7tAb2JHesVFLySTN7G.jpg" group-title="FILMES | COLETANEA JET-LI",Batalha de Honra (1993)
-http://7go.xyz:8080/movie/zogbi11/982451290/197142.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Contra o Tempo (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mpiRkNiEijphzmDkS8bR9BMVku8.jpg" group-title="FILMES | COLETANEA JET-LI",Contra o Tempo (2003)
-http://7go.xyz:8080/movie/zogbi11/982451290/197144.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cão de Briga (2005)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2LCejE5Hkg5g5KvhnT8hBYJwZ8G.jpg" group-title="FILMES | COLETANEA JET-LI",Cão de Briga (2005)
-http://7go.xyz:8080/movie/zogbi11/982451290/197145.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Dupla em Fúria (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5VbkE3ZICUP2WepwOoLhq8u7sTp.jpg" group-title="FILMES | COLETANEA JET-LI",Dupla em Fúria (2013)
-http://7go.xyz:8080/movie/zogbi11/982451290/197146.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Em Busca da Escritura Sagrada (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dg3ZSPkzumoj1dR4PxNsvZKsrSG.jpg" group-title="FILMES | COLETANEA JET-LI",Em Busca da Escritura Sagrada (1996)
-http://7go.xyz:8080/movie/zogbi11/982451290/197147.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Em Nome da Honra (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hnGWLacr32mpYO90tiLgOcpdtVN.jpg" group-title="FILMES | COLETANEA JET-LI",Em Nome da Honra (1994)
-http://7go.xyz:8080/movie/zogbi11/982451290/197148.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez na China 2 (1992)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/xuRCcjCnHbB7pABUqHQqGPj7qKr.jpg" group-title="FILMES | COLETANEA JET-LI",Era Uma Vez na China 2 (1992)
-http://7go.xyz:8080/movie/zogbi11/982451290/197149.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez na China (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gBrsCTmOBggTzJkTfBMfx1z8Z6T.jpg" group-title="FILMES | COLETANEA JET-LI",Era Uma Vez na China (1991)
-http://7go.xyz:8080/movie/zogbi11/982451290/197150.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Era Uma Vez na China 3 (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8VWlK4vjY0d8kXB1b4BwtwiWRO3.jpg" group-title="FILMES | COLETANEA JET-LI",Era Uma Vez na China 3 (1993)
-http://7go.xyz:8080/movie/zogbi11/982451290/197151.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Garras de Aço (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/pOzmio021Hvew8ogz7Se7y3qAlv.jpg" group-title="FILMES | COLETANEA JET-LI",Garras de Aço (1993)
-http://7go.xyz:8080/movie/zogbi11/982451290/197153.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Herói (2002)" tvg-logo="https://media.fstatic.com/MsLOmDrxfF2nB1WVDCAAi8G33ig=/290x478/smart/media/movies/covers/2009/03/heroi.jpg" group-title="FILMES | COLETANEA JET-LI",Herói (2002)
-http://7go.xyz:8080/movie/zogbi11/982451290/197154.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Hitman, O Rei dos Assassinos (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gOXno6cjXYcav9LmvwpbIMedXrO.jpg" group-title="FILMES | COLETANEA JET-LI",Hitman, O Rei dos Assassinos (1998)
-http://7go.xyz:8080/movie/zogbi11/982451290/197155.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lutar ou Morrer (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qH4MIMNOS2lTf4eyQ7XNKaKn1UH.jpg" group-title="FILMES | COLETANEA JET-LI",Lutar ou Morrer (1994)
-http://7go.xyz:8080/movie/zogbi11/982451290/197156.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Máscara Negra (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/53tgL9U4WAaln5fAsJN1eMSZvk7.jpg" group-title="FILMES | COLETANEA JET-LI",Máscara Negra (1996)
-http://7go.xyz:8080/movie/zogbi11/982451290/197157.mkv
-#EXTINF:-1 tvg-id="" tvg-name="O Beijo do Dragão (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hpGBqX4SG7xNJx4wqLv075KQoQl.jpg" group-title="FILMES | COLETANEA JET-LI",O Beijo do Dragão (2001)
-http://7go.xyz:8080/movie/zogbi11/982451290/197158.mkv
-#EXTINF:-1 tvg-id="" tvg-name="O Confronto (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/74K8HmqhYv9RE97Buqt8N1NDvo3.jpg" group-title="FILMES | COLETANEA JET-LI",O Confronto (2001)
-http://7go.xyz:8080/movie/zogbi11/982451290/197159.mkv
-#EXTINF:-1 tvg-id="" tvg-name="O Guarda-Costas em Ação (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eJOtGPybhBaMQyaJe0CGmkYBM28.jpg" group-title="FILMES | COLETANEA JET-LI",O Guarda-Costas em Ação (1994)
-http://7go.xyz:8080/movie/zogbi11/982451290/197160.mkv
-#EXTINF:-1 tvg-id="" tvg-name="O Justiceiro (1995)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hpWQJEXyksQNLEeKodphLjnyn4N.jpg" group-title="FILMES | COLETANEA JET-LI",O Justiceiro (1995)
-http://7go.xyz:8080/movie/zogbi11/982451290/197161.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Justiceiro - Dragon Kid (1995)" tvg-logo="https://media.fstatic.com/IpyavQG5teNJyHfCSyLVr-Kee80=/290x478/smart/media/movies/covers/2013/01/3995b182b5fb17838f6a0b1565033a60.jpg" group-title="FILMES | COLETANEA JET-LI",O Justiceiro - Dragon Kid (1995)
-http://7go.xyz:8080/movie/zogbi11/982451290/197162.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Mestre (1992)" tvg-logo="https://media.fstatic.com/LJt4rSLRWSrXqDzYM3oiAmkpARY=/290x478/smart/media/movies/covers/2010/05/e665e12ae28884e6a7e27d617a862bd5.jpg" group-title="FILMES | COLETANEA JET-LI",O Mestre (1992)
-http://7go.xyz:8080/movie/zogbi11/982451290/197163.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Retorno do Dragão - A Cidade Perdida (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vx1jjr71GgxsrdfBxio02nKx4q3.jpg" group-title="FILMES | COLETANEA JET-LI",O Retorno do Dragão - A Cidade Perdida (2011)
-http://7go.xyz:8080/movie/zogbi11/982451290/197165.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Os Senhores da Guerra (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n4otfooydG9Pbyl52TYyHF1GeuV.jpg" group-title="FILMES | COLETANEA JET-LI",Os Senhores da Guerra (2007)
-http://7go.xyz:8080/movie/zogbi11/982451290/197166.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Templo de Shaolin 2: As Crianças de Shaolin (1984)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/ccArk8x6Cv1d6wboIkqUPxudc1A.jpg" group-title="FILMES | COLETANEA JET-LI",O Templo de Shaolin 2: As Crianças de Shaolin (1984)
-http://7go.xyz:8080/movie/zogbi11/982451290/197167.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Templo de Shaolin 3: As Artes Marciais de Shaolin (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5Pr671n2kWZwBIDqVedZKqFDbDn.jpg" group-title="FILMES | COLETANEA JET-LI",O Templo de Shaolin 3: As Artes Marciais de Shaolin (1986)
-http://7go.xyz:8080/movie/zogbi11/982451290/197168.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Nascido para Vencer (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cXWSVoL3WrzRhjN5AfWY9kXMBWG.jpg" group-title="FILMES | COLETANEA JET-LI",Nascido para Vencer (1986)
-http://7go.xyz:8080/movie/zogbi11/982451290/197169.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rogue - O Assassino (2007)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/68Bu8QIYcpv3XZZkrUoqQFfwfHx.jpg" group-title="FILMES | COLETANEA JET-LI",Rogue - O Assassino (2007)
-http://7go.xyz:8080/movie/zogbi11/982451290/197170.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Romeu Tem Que Morrer (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/wwCuBA58NukJIqx81sD785RGh0i.jpg" group-title="FILMES | COLETANEA JET-LI",Romeu Tem Que Morrer (2000)
-http://7go.xyz:8080/movie/zogbi11/982451290/197171.mkv
-
-#EXTM3U url-tvg="http://grade-de-FILMES | COLETANEA BRUCE LEE.xml"
-############## FILMES | COLETANEA BRUCE LEE ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETANEA BRUCE LEE" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Dragão: A História de Bruce Lee  (1993)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/khIy7lbWogcYbSI1oeFOV37D1AB.jpg" group-title="FILMES | COLETANEA BRUCE LEE",Dragão: A História de Bruce Lee  (1993)*
-http://7go.xyz:8080/movie/zogbi11/982451290/295426.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Fúria do Dragão (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dlcipCOa9hlfBBz7kCAyjsf3q0E.jpg" group-title="FILMES | COLETANEA BRUCE LEE",Bruce Lee: A Fúria do Dragão (1972)
-http://7go.xyz:8080/movie/zogbi11/982451290/50952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Maldição do Dragão (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hNBIJdHOtvlkaUBYki95UfcCYDL.jpg" group-title="FILMES | COLETANEA BRUCE LEE",Bruce Lee: A Maldição do Dragão (1993)
-http://7go.xyz:8080/movie/zogbi11/982451290/51104.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Origem do Dragão (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/89PrfqYkqafUrSK8YhWqyMt4E3M.jpg" group-title="FILMES | COLETANEA BRUCE LEE",Bruce Lee: A Origem do Dragão (2017)
-http://7go.xyz:8080/movie/zogbi11/982451290/51101.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Lenda (1984)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fdD3whXbdfHjlcDNt2oEy6jsxjD.jpg" group-title="FILMES | COLETANEA BRUCE LEE",Bruce Lee: A Lenda (1984)
-http://7go.xyz:8080/movie/zogbi11/982451290/51103.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Jornada de um Guerreiro (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yvm10wHnOQaGl9a4X9KnDHaoJ8W.jpg" group-title="FILMES | COLETANEA BRUCE LEE",Bruce Lee: A Jornada de um Guerreiro (2000)
-http://7go.xyz:8080/movie/zogbi11/982451290/51102.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Fúria do Dragão (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dlcipCOa9hlfBBz7kCAyjsf3q0E.jpg" group-title="FILMES | COLETANEA BRUCE LEE",Bruce Lee: A Fúria do Dragão (1972)
-http://7go.xyz:8080/movie/zogbi11/982451290/50952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Maldição do Dragão (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hNBIJdHOtvlkaUBYki95UfcCYDL.jpg" group-title="FILMES | COLETANEA BRUCE LEE",Bruce Lee: A Maldição do Dragão (1993)
-http://7go.xyz:8080/movie/zogbi11/982451290/51104.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Origem do Dragão (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/89PrfqYkqafUrSK8YhWqyMt4E3M.jpg" group-title="FILMES | COLETANEA BRUCE LEE",Bruce Lee: A Origem do Dragão (2017)
-http://7go.xyz:8080/movie/zogbi11/982451290/51101.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bruce Lee: A Fúria do Dragão (1972)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/dlcipCOa9hlfBBz7kCAyjsf3q0E.jpg" group-title="FILMES | COLETANEA BRUCE LEE",Bruce Lee: A Fúria do Dragão (1972)
-http://7go.xyz:8080/movie/zogbi11/982451290/50952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Eu Sou Bruce Lee (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bvHjKTLFIHOHzl0arxzu2fYtLfR.jpg" group-title="FILMES | COLETANEA BRUCE LEE",Eu Sou Bruce Lee (2012)
-http://7go.xyz:8080/movie/zogbi11/982451290/51105.mkv
-
-#EXTM3U url-tvg="http://grade-de-FILMES | COLETANEA VAN DAMME.xml"
-############## FILMES | COLETANEA VAN DAMME ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETANEA VAN DAMME" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Contato Mortal  (1988)*" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cHOyNRHS89GP8XVpRRuahE3tYIt.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Contato Mortal  (1988)*
-http://7go.xyz:8080/movie/zogbi11/982451290/295425.mp4
-#EXTINF:-1 tvg-id="" tvg-name="6 Balas (2012)" tvg-logo="http://7online.xyz:8080/images/588200be136080f7993169fae690aad7.jpg" group-title=" FILMES | COLETANEA VAN DAMME",6 Balas (2012)
-http://7go.xyz:8080/movie/zogbi11/982451290/196970.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Colônia (1997)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3iJo11qHvGKInhoB5Ur1PbJeT6h.jpg" group-title=" FILMES | COLETANEA VAN DAMME",A Colônia (1997)
-http://7go.xyz:8080/movie/zogbi11/982451290/196971.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aliança Mortal (2013)" tvg-logo="http://7online.xyz:8080/images/8c0cf599e259e104e9d21512cde5bc65.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Aliança Mortal (2013)
-http://7go.xyz:8080/movie/zogbi11/982451290/196972.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bem Vindo à Selva (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5fJYDJDv3xVs6VbjHHoARjVJf0o.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Bem Vindo à Selva (2013)
-http://7go.xyz:8080/movie/zogbi11/982451290/196973.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Desafio Mortal (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iKYvaAj73SVuxDvhuDVqF9FUvVW.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Desafio Mortal (1996)
-http://7go.xyz:8080/movie/zogbi11/982451290/196974.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Duplo Impacto (1991)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yJeT2pmnuktgJdMZRbQTlphpXfk.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Duplo Impacto (1991)
-http://7go.xyz:8080/movie/zogbi11/982451290/196975.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Garantia de Morte (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/n4VV2lPHXbRgeTsfn0MEfZlKeNi.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Garantia de Morte (1990)
-http://7go.xyz:8080/movie/zogbi11/982451290/196976.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Hell - A Ira Está Solta (2003)" tvg-logo="https://br.web.img3.acsta.net/pictures/210/497/21049768_20131015171558401.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Hell - A Ira Está Solta (2003)
-http://7go.xyz:8080/movie/zogbi11/982451290/196977.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Inferno (1999)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oE5jvjeav3h9PH0yrCdWgUTxiaN.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Inferno (1999)
-http://7go.xyz:8080/movie/zogbi11/982451290/196978.mp4
-#EXTINF:-1 tvg-id="" tvg-name="JCVD: A Maior Luta de Sua Vida (2008)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/g65MZXhaDrLVPo0uwxhgG6R0so6.jpg" group-title=" FILMES | COLETANEA VAN DAMME",JCVD: A Maior Luta de Sua Vida (2008)
-http://7go.xyz:8080/movie/zogbi11/982451290/196979.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jogos Letais (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vL6kabte9SJvJz6Q7vktDPBZRm0.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Jogos Letais (2011)
-http://7go.xyz:8080/movie/zogbi11/982451290/196980.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Jogo Sujo (2014)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3DJ8KOT2t8y8FiLn3hrMyPT9MyS.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Jogo Sujo (2014)
-http://7go.xyz:8080/movie/zogbi11/982451290/196981.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kickboxer: A Retaliação (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yUteP76nVPVqtbxPzW5qDsNoJOI.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Kickboxer: A Retaliação (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/196982.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kickboxer: A Vingança do Dragão (2016)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gV816EXzpzpcWYW4cplZoSC4yyp.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Kickboxer: A Vingança do Dragão (2016)
-http://7go.xyz:8080/movie/zogbi11/982451290/196983.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Kickboxer: O Desafio do Dragão (1989)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/e50XYhyoaJpJUNn18Fs4FsZgtfx.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Kickboxer: O Desafio do Dragão (1989)
-http://7go.xyz:8080/movie/zogbi11/982451290/196984.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Legionário (1998)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4U03VR1zD6KytEuvcRC7FT7ruBF.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Legionário (1998)
-http://7go.xyz:8080/movie/zogbi11/982451290/196985.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Leão Branco: O Lutador Sem Lei (1990)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/6wCr3ffW7YNkFHKESGZVwTjgc8h.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Leão Branco: O Lutador Sem Lei (1990)
-http://7go.xyz:8080/movie/zogbi11/982451290/196986.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lukas (2018)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/z2Ujt0FwMwHhAo7QJC0u1HG1m1h.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Lukas (2018)
-http://7go.xyz:8080/movie/zogbi11/982451290/196987.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Alvo (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/98xtnc5kvvcm39VjPGQuRLOBCyQ.jpg" group-title=" FILMES | COLETANEA VAN DAMME",O Alvo (1993)
-http://7go.xyz:8080/movie/zogbi11/982451290/196988.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Grande Dragão Branco 2 (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8z9EIJ7PS94mkkaHYg7DAkpGuic.jpg" group-title=" FILMES | COLETANEA VAN DAMME",O Grande Dragão Branco 2 (1996)
-http://7go.xyz:8080/movie/zogbi11/982451290/196989.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Olhos de Dragão (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/iOU8xDtY4dcuPnvsefWcuiPoTNn.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Olhos de Dragão (2012)
-http://7go.xyz:8080/movie/zogbi11/982451290/196990.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Osso Duro (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/lb5NWDhW3dhw5AAK4djY2id7To9.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Osso Duro (2015)
-http://7go.xyz:8080/movie/zogbi11/982451290/196991.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Vingador da Iugoslávia (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k6UePQE4PStlu6TkcV1HCX1Rd4F.jpg" group-title=" FILMES | COLETANEA VAN DAMME",O Vingador da Iugoslávia (2017)
-http://7go.xyz:8080/movie/zogbi11/982451290/196992.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Replicante (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3oVs2AC7OH2gKeLZdWJr0VK6g4C.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Replicante (2001)
-http://7go.xyz:8080/movie/zogbi11/982451290/196993.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Retroceder Nunca, Render-se Jamais (1986)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/7KB0U5KGINqPuE5nmJ6T8YkWh34.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Retroceder Nunca, Render-se Jamais (1986)
-http://7go.xyz:8080/movie/zogbi11/982451290/196994.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Risco Máximo (1996)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/zZo72jTKFoeUk41S0OgbD2iuk8H.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Risco Máximo (1996)
-http://7go.xyz:8080/movie/zogbi11/982451290/196995.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Segundo em Comando (2006)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yfClcix0iwBaAsm4QRPbmmFAcYk.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Segundo em Comando (2006)
-http://7go.xyz:8080/movie/zogbi11/982451290/196996.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Soldado Universal (1992)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3YvFMseLMzqmbFaFjo0Bt1W8j6B.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Soldado Universal (1992)
-http://7go.xyz:8080/movie/zogbi11/982451290/196997.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Soldado Universal: O Retorno (1999)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9xdqqOJpzvk1rUL7p23N9bKsGTX.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Soldado Universal: O Retorno (1999)
-http://7go.xyz:8080/movie/zogbi11/982451290/196998.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Soldado Universal 3: Regeneração (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/nUk8EAx72Taxb8ttio1ADFKppmF.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Soldado Universal 3: Regeneração (2009)
-http://7go.xyz:8080/movie/zogbi11/982451290/196999.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Soldado Universal 4: Juízo Final (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9Dqozo0zRiQ7pSJYnFKux2Js5qV.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Soldado Universal 4: Juízo Final (2012)
-http://7go.xyz:8080/movie/zogbi11/982451290/197000.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Street Fighter: A Última Batalha (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/k7DOPUhlGLxRowC4VFY9n0wQTup.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Street Fighter: A Última Batalha (1994)
-http://7go.xyz:8080/movie/zogbi11/982451290/197001.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Timecop: O Guardião do Tempo (1994)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9icQABTwqS67xz6GCMaBOzBM1uX.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Timecop: O Guardião do Tempo (1994)
-http://7go.xyz:8080/movie/zogbi11/982451290/197002.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Vencer ou Morrer (1993)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vZGCG847nhYqScEsRggyxcCWwI6.jpg" group-title=" FILMES | COLETANEA VAN DAMME",Vencer ou Morrer (1993)
-http://7go.xyz:8080/movie/zogbi11/982451290/197003.mp4
-
-#EXTM3U url-tvg="http://grade-de-FILMES | COLETANEA O SENHOR DOS ANÉIS.xml"
-############## FILMES | COLETANEA O SENHOR DOS ANÉIS ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETANEA O SENHOR DOS ANÉIS" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis: O Retorno do Rei  (2003)*" tvg-logo="http://br.web.img2.acsta.net/medias/nmedia/18/92/91/47/20224867.jpg" group-title="FILMES | COLETANEA O SENHOR DOS ANÉIS",O Senhor dos Anéis: O Retorno do Rei  (2003)*
-http://7go.xyz:8080/movie/zogbi11/982451290/293634.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Hobbit 3: A Batalha dos Cinco Exércitos (2014)" tvg-logo="http://7online.xyz:8080/images/9c7fec8ef230b7427582245e66890eda.jpg" group-title="FILMES | COLETANEA O SENHOR DOS ANÉIS",O Hobbit 3: A Batalha dos Cinco Exércitos (2014)
-http://7go.xyz:8080/movie/zogbi11/982451290/196198.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Hobbit 2: A Desolação de Smaug (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/beqHE5BZY5LczMxJezL4FdY7mBp.jpg" group-title="FILMES | COLETANEA O SENHOR DOS ANÉIS",O Hobbit 2: A Desolação de Smaug (2013)
-http://7go.xyz:8080/movie/zogbi11/982451290/196199.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Hobbit 1: Uma Jornada Inesperada (2012)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/asuSvb1MDN04HftUFxlp7i6ZHpV.jpg" group-title="FILMES | COLETANEA O SENHOR DOS ANÉIS",O Hobbit 1: Uma Jornada Inesperada (2012)
-http://7go.xyz:8080/movie/zogbi11/982451290/196200.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis (1978)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/liW0mjvTyLs7UCumaHhx3PpU4VT.jpg" group-title="FILMES | COLETANEA O SENHOR DOS ANÉIS",O Senhor dos Anéis (1978)
-http://7go.xyz:8080/movie/zogbi11/982451290/196201.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis 2: As Duas Torres (2002)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/20eUL6eN89SM0U7KPDw8iR82mOT.jpg" group-title="FILMES | COLETANEA O SENHOR DOS ANÉIS",O Senhor dos Anéis 2: As Duas Torres (2002)
-http://7go.xyz:8080/movie/zogbi11/982451290/196202.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis 1: A Sociedade do Anel (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2MK3i5CsPuWNwMmgS3ntAcOQhRF.jpg" group-title="FILMES | COLETANEA O SENHOR DOS ANÉIS",O Senhor dos Anéis 1: A Sociedade do Anel (2001)
-http://7go.xyz:8080/movie/zogbi11/982451290/196203.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Senhor dos Anéis 3: O Retorno do Rei (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/izPNMzffsgZUvlbiYlPxjFr3TAa.jpg" group-title="FILMES | COLETANEA O SENHOR DOS ANÉIS",O Senhor dos Anéis 3: O Retorno do Rei (2003)
-http://7go.xyz:8080/movie/zogbi11/982451290/196204.mp4
-
-#EXTM3U url-tvg="http://grade-de-FILMES | COLETANEA X-MEN.xml"
-############## FILMES | COLETANEA X-MEN ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETANEA X-MEN" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 1 (2000)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/eTAK1gU8vTaHt0W9I6PFYQsdhKP.jpg" group-title="FILMES | COLETANEA X-MEN",X-Men 1 (2000)
-http://7go.xyz:8080/movie/zogbi11/982451290/50978.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 2 (2003)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/tRDvoi7z7B6YdzoRcRQ8LwLA47q.jpg" group-title="FILMES | COLETANEA X-MEN",X-Men 2 (2003)
-http://7go.xyz:8080/movie/zogbi11/982451290/50980.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 3 (2006)" tvg-logo="http://www.themoviedb.org/t/p/w600_and_h900_bestv2/fqwe4Asmlg1s3ZFN7fP2xVwlYNP.jpg" group-title="FILMES | COLETANEA X-MEN",X-Men 3 (2006)
-http://7go.xyz:8080/movie/zogbi11/982451290/50977.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 4 (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qUqx0nGiUGeDRQtCWItG3lpuFjY.jpg" group-title="FILMES | COLETANEA X-MEN",X-Men 4 (2009)
-http://7go.xyz:8080/movie/zogbi11/982451290/50981.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 5 (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AqTCbMhG9X93sly2fvyiu6sHPIS.jpg" group-title="FILMES | COLETANEA X-MEN",X-Men 5 (2011)
-http://7go.xyz:8080/movie/zogbi11/982451290/50979.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 6 (2014)" tvg-logo="http://www.themoviedb.org/t/p/w600_and_h900_bestv2/s83Vwn9FtrofNmFiie7SXVKpXa5.jpg" group-title="FILMES | COLETANEA X-MEN",X-Men 6 (2014)
-http://7go.xyz:8080/movie/zogbi11/982451290/50975.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 7 (2016)" tvg-logo="http://www.themoviedb.org/t/p/w600_and_h900_bestv2/2mtQwJKVKQrZgTz49Dizb25eOQQ.jpg" group-title="FILMES | COLETANEA X-MEN",X-Men 7 (2016)
-http://7go.xyz:8080/movie/zogbi11/982451290/50974.mp4
-#EXTINF:-1 tvg-id="" tvg-name="X-Men 8 (2019)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/sKacZh7L9qR5jLpSnxgxung6D4Y.jpg" group-title="FILMES | COLETANEA X-MEN",X-Men 8 (2019)
-http://7go.xyz:8080/movie/zogbi11/982451290/50976.mp4
-
-#EXTM3U url-tvg="http://grade-de-FILMES | COLETANEA OS TRAPALHÕES.xml"
-############## FILMES | COLETANEA OS TRAPALHÕES ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETANEA OS TRAPALHÕES" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="A Princesa Xuxa e os Trapalhões (1989)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qwlWDaJJ6ZSbukRzAReSwyImTpZ.jpg" group-title="FILMES | COLETANEA OS TRAPALHÕES",A Princesa Xuxa e os Trapalhões (1989)
-http://7go.xyz:8080/movie/zogbi11/982451290/44210.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Aladim e a Lâmpada Maravilhosa (1973)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gMKZIPVowwvPmRzbXfZqEj80QhB.jpg" group-title="FILMES | COLETANEA OS TRAPALHÕES",Aladim e a Lâmpada Maravilhosa (1973)
-http://7go.xyz:8080/movie/zogbi11/982451290/44209.mp4
-
-
-#EXTM3U url-tvg="http://grade-de-FILMES | COLETANEA VELOZES E FURIOSOS.xml"
-############## FILMES | COLETANEA VELOZES E FURIOSOS ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILMES | COLETANEA VELOZES E FURIOSOS" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 1 (2001)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oUEiEsdF1hRqJGJo6Zoc69ZsebG.jpg" group-title=" FILMES | COLETANEA VELOZES E FURIOSOS",Velozes  Furiosos 1 (2001)
-http://7go.xyz:8080/movie/zogbi11/982451290/41263.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos - 2003" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tMUnCAgfARTdAu8ylPw4Wjh3e5N.jpg" group-title=" FILMES | COLETANEAA VELOZES E FURIOSOS", Velozes  Furiosos - 2003
-http://apkwuv.xyz:80/movie/cristina2021/graniptv2005/156579.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 3 - Desafio em Tóquio (2006)" tvg-logo="http://i.imgur.com/jpXFmTa.jpg" group-title=" FILMES | COLETANEA VELOZES E FURIOSOS",Velozes  Furiosos 3 - Desafio em Tóquio (2006)
-http://7go.xyz:8080/movie/zogbi11/982451290/41261.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 4 (2009)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/aKLcJzYIuuu7BQdr2x9oJfePvk5.jpg" group-title=" FILMES | COLETANEAA VELOZES E FURIOSOS",Velozes  Furiosos 4 (2009)
-http://7go.xyz:8080/movie/zogbi11/982451290/41264.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 5 - Operação Rio (2011)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3u5RexOOAJuwm5JtNmxT9P0CdLG.jpg" group-title=" FILMES | COLETANEA VELOZES E FURIOSOS",Velozes  Furiosos 5 - Operação Rio (2011)
-http://7go.xyz:8080/movie/zogbi11/982451290/41265.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 7 (2015)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/vK3EINuibdkBwUe9jOhVUXtLeb6.jpg" group-title=" FILMES | COLETANEAA VELOZES E FURIOSOS",Velozes  Furiosos 7 (2015)
-http://7go.xyz:8080/movie/zogbi11/982451290/50082.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 8 (2017)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/5L2IpMfGFfwOmxNdIJeJtdlz03.jpg" group-title=" FILMES | COLETANEA VELOZES E FURIOSOS",Velozes  Furiosos 8 (2017)
-http://7go.xyz:8080/movie/zogbi11/982451290/50083.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Velozes  Furiosos 6 (2013)" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/yeF9WQvxHRrJnr5fGEfnzDpn4pA.jpg" group-title=" FILMES | COLETANEA VELOZES E FURIOSOS",Velozes  Furiosos 6 (2013)
-http://7go.xyz:8080/movie/zogbi11/982451290/41266.mp4
-#EXTINF:-1 tvg-id="" tvg-name="velozes furiosos 4" tvg-logo="https://cinepop.com.br/wp-content/uploads/2023/04/imagem_2023-04-20_155630085-e1682017091515.jpg" group-title=" FILMES | COLETANEAA VELOZES E FURIOSOS",velozes furiosos 4
-https://ia902707.us.archive.org/17/items/assistir-velozes-furiosos-tv-fax/Assistir%20Velozes%20e%20Furiosos%204%20Dublado%20Online%20e%20Gr%C3%A1tis%20-%20Supe.mp4
-#EXTINF:-1 tvg-id="" tvg-name="velozes furiosos 5" tvg-logo="https://img.quizur.com/f/img630d5baa7bb4c6.34810542.jpg?lastEdited=1661819823" group-title=" FILMES | COLETANEAA VELOZES E FURIOSOS",velozes furiosos 5
-https://archive.org/download/assistir-velozes-furiosos-tv-fax/Assistir%20Velozes%20%26%20Furiosos%205%20Opera%C3%A7%C3%A3o%20Rio%20Dublado%20Online%20e%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="velozes furiosos 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxZ_2sYu-96ej11DsgBl4hJrJoMzNv2L39cA&usqp=CAU" group-title=" FILMES | COLETANEAA VELOZES E FURIOSOS",velozes furiosos 6
-https://archive.org/download/assistir-velozes-furiosos-tv-fax/Assistir%20Velozes%20%26%20Furiosos%206%20Dublado%20Online%20e%20Gr%C3%A1tis%20-%20Supe.mp4
-#EXTINF:-1 tvg-id="" tvg-name="velozes furiosos 7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDwuOAKcwWpr9aAo12-WLyzDdxbd152rZhB74H30SnZdz3K-qe5lZXHhN8L7duaYgUdnI&usqp=CAU" group-title=" FILMES | COLETANEAA VELOZES E FURIOSOS",velozes furiosos 7
-https://archive.org/download/assistir-velozes-furiosos-tv-fax/Assistir%20Velozes%20%26%20Furiosos%207%20Dublado%20Online%20e%20Gr%C3%A1tis%20-%20Supe.mp4
-#EXTINF:-1 tvg-id="" tvg-name="velozes furiosos 8" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQtjAYXc0rYaRKR2gEsTYT7GrJN930FjEyCZkfNvy1klP4DtACKqHdA7ts3iCgKeEs8S0&usqp=CAU" group-title=" FILMES | COLETANEAA VELOZES E FURIOSOS",velozes furiosos 8
-https://ia902707.us.archive.org/17/items/assistir-velozes-furiosos-tv-fax/Assistir%20Velozes%20%26%20Furiosos%208%20Dublado%20Online%20e%20Gr%C3%A1tis%20-%20Supe.mp4
-#EXTINF:-1 tvg-id="" tvg-name="velozes furiosos 9" tvg-logo="https://cinepop.com.br/wp-content/uploads/2023/04/imagem_2023-04-20_155630085-e1682017091515.jpg" group-title=" FILMES | COLETANEAA VELOZES E FURIOSOS",velozes furiosos 9
-https://ia902707.us.archive.org/17/items/assistir-velozes-furiosos-tv-fax/Assistir%20Velozes%20e%20Furiosos%204%20Dublado%20Online%20e%20Gr%C3%A1tis%20-%20Supe.mp4
-#EXTINF:-1 tvg-id="" tvg-name="velozes furiosos 10" tvg-logo="https://cinepop.com.br/wp-content/uploads/2023/04/imagem_2023-04-20_155630085-e1682017091515.jpg" group-title=" FILMES | COLETANEAA VELOZES E FURIOSOS",velozes furiosos 10
-https://archive.org/download/assistir-velozes-furiosos-tv-fax/Assistir%20Velozes%20%26%20Furiosos%2010%20Dublado%20Online%20e%20Gr%C3%A1tis%20-%20Sup.mp4
 
 #EXTM3U url-tvg="http://grade-de-FILMES   NACIONAL CINEMA.xml"
 ############## FILMES   NACIONAL CINEMA ################# 
@@ -6573,6 +6149,16 @@ https://play.prod.gcp.vix.services/felix-golden-egg_pt/felix-golden-egg_pt_1-1/p
 https://play.prod.gcp.vix.services/the-mermaid_pt/the-mermaid_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Um conto de sereia"tvg-logo="https://br.web.img3.acsta.net/pictures/17/11/24/16/00/5072460.jpg" group-title="FILMES | INFANTIL CINEMA",Um conto de sereia
 https://play.prod.gcp.vix.services/mermaid-tale_pt/mermaid-tale_pt_1-1/play_v1_hls_720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Turma Da Monica"tvg-logo="https://media.tenor.com/8POLqSLpa8cAAAAC/monica-susto.gif"group-title="FILMES | INFANTIL CINEMA",Turma Da Monica
+https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="moranguinho"tvg-logo="https://media.tenor.com/JSe-kOJJd2IAAAAC/strawberry-shortcake.gif"group-title="FILMES | INFANTIL CINEMA",moranguinho
+https://play.prod.gcp.vix.services/moranguinho_pt/moranguinho_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="car patrol"tvg-logo="https://m.media-amazon.com/images/M/MV5BZDU5OTkxN2EtOWU0MC00NjUzLWJjYWItYmY1MTFiYTIzZjU0XkEyXkFqcGdeQXVyODg1Njg2Njc@._V1_.jpg"group-title="FILMES | INFANTIL CINEMA",car patrol
+https://play.prod.gcp.vix.services/car-patrol_pt/car-patrol_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUNDO KIDS SD"tvg-logo="https://media.tenor.com/ebDsb4OasR8AAAAM/mundokidsigarape.gif"group-title="FILMES | INFANTIL CINEMA",MUNDO KIDS SD
+https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O BICHO VAI PEGAR 3"tvg-logo="https://image.tmdb.org/t/p/w342/gxh80YqyRcxOnFsmsEOXhkO6Qwx.jpg"group-title="FILMES | INFANTIL CINEMA",O BICHO VAI PEGAR 3
+https://video.wixstatic.com/video/834009_a3ece7d11c0949689f53dda20d7bd8c8/720p/mp4/file.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NICK SD"tvg-logo="https://media0.giphy.com/media/kibxTdFJXzAA0/giphy.gif?cid=6c09b952f012a53161a12761b5868a2ab05a60a50b13c4c2&rid=giphy.gif&ct=g" group-title="FILMES | INFANTIL CINEMA",NICK SD
 http://84.17.44.179:14310/
 #EXTINF:-1 tvg-id="" tvg-name="CARTOONITO"tvg-logo="https://media.tenor.com/vCktXaNRcK4AAAAC/cartoon-network.gif" group-title="FILMES | INFANTIL CINEMA",CARTOONITO
@@ -6591,16 +6177,6 @@ http://speedapp.uniredes.com.br/amanda123/amanda123/9
 http://15.235.10.31:14361
 #EXTINF:-1 tvg-id="" tvg-name="TV DESTAK"tvg-logo="https://agendadacidade.com.br/attachmentable/show/40862"group-title="FILMES | INFANTIL CINEMA",TV DESTAK
 https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/chunklist_w1873588273.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Turma Da Monica"tvg-logo="https://media.tenor.com/8POLqSLpa8cAAAAC/monica-susto.gif"group-title="FILMES | INFANTIL CINEMA",Turma Da Monica
-https://play.prod.gcp.vix.services/cinegibi_pt/cinegibi_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="moranguinho"tvg-logo="https://media.tenor.com/JSe-kOJJd2IAAAAC/strawberry-shortcake.gif"group-title="FILMES | INFANTIL CINEMA",moranguinho
-https://play.prod.gcp.vix.services/moranguinho_pt/moranguinho_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="car patrol"tvg-logo="https://m.media-amazon.com/images/M/MV5BZDU5OTkxN2EtOWU0MC00NjUzLWJjYWItYmY1MTFiYTIzZjU0XkEyXkFqcGdeQXVyODg1Njg2Njc@._V1_.jpg"group-title="FILMES | INFANTIL CINEMA",car patrol
-https://play.prod.gcp.vix.services/car-patrol_pt/car-patrol_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MUNDO KIDS SD"tvg-logo="https://media.tenor.com/ebDsb4OasR8AAAAM/mundokidsigarape.gif"group-title="FILMES | INFANTIL CINEMA",MUNDO KIDS SD
-https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O BICHO VAI PEGAR 3"tvg-logo="https://image.tmdb.org/t/p/w342/gxh80YqyRcxOnFsmsEOXhkO6Qwx.jpg"group-title="FILMES | INFANTIL CINEMA",O BICHO VAI PEGAR 3
-https://video.wixstatic.com/video/834009_a3ece7d11c0949689f53dda20d7bd8c8/720p/mp4/file.mp4
 
 #EXTM3U url-tvg="http://grade-de-FILMES  ADOLECENTE CINEMA.xml"
 ############## FILMES  ADOLECENTE CINEMA ################# 
@@ -6925,15 +6501,6 @@ https://ia902707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma
 #EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: DE QUEM E ESSA SERIE S01 E09" tvg-logo="https://media.tenor.com/8mAYzViLlLIAAAAC/she-hulk-throwing.gif" group-title="SÉRIES | Mulher Hulk",Mulher-Hulk: DE QUEM E ESSA SERIE S01 E09
 https://ia902707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x9%20De%20Quem%20%C3%89%20Essa%20S%C3%A9rie.mp4
 
-#EXTM3U url-tvg="http://grade-de-Pantera Cor de Rosa.xml"
-############## Pantera Cor de Rosa ################# 
-#EXTINF:-1 tvg-id=" iddocanaldePantera Cor de Rosa" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pantera Cor de Rosa 1" tvg-logo="https://i.imgur.com/JyfiU8H.jpg" group-title="Pantera Cor de Rosa",[24H] Pantera Cor de Rosa 1
-http://srv.cldplay.net:80/live/820584rohs/67864336899/147949.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="[24H] Pantera Cor de Rosa 2" tvg-logo="https://i.imgur.com/JyfiU8H.jpg" group-title="Pantera Cor de Rosa",[24H] Pantera Cor de Rosa 2
-http://srv.cldplay.net:80/live/820584rohs/67864336899/62990.m3u8
-
 #EXTM3U url-tvg="http://grade-de-24 Horas | Desenhos.xml"
 ############## 24 Horas | Desenhos ################# 
 #EXTINF:-1 tvg-id=" iddocanalde24 Horas | Desenhos" group-title="
@@ -7225,409 +6792,6 @@ http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/1386216.mp4
 #EXTINF:-1 tvg-name="Velozes e Furiosos - Espiões do Asfalto S04E08" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQUWXR9eaM1N-HaJNUGWkZ1Obi4gWnYz0Jdf6LiMd3r8v2QsTGpc_Ix7sqjMEAGdGuE.jpg" group-title="SÉRIES | ANIMES",Velozes e Furiosos - Espiões do Asfalto S04E08
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/1386217.mp4
 
-#EXTM3U url-tvg="http://grade-de-SERIES | REALITY SHOWS Largados e Pelados.xml"
-############## SERIES | REALITY SHOWS Largados e Pelados ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSERIES | REALITY SHOWS Largados e Pelados" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E01" tvg-logo="http://7online.xyz:8080/images/375ce92164779084194757ef98fb7f73.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E01
-http://7go.xyz:8080/series/zogbi11/982451290/231749.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E02" tvg-logo="http://7online.xyz:8080/images/ed4518603b2834394093d880a92628ec.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E02
-http://7go.xyz:8080/series/zogbi11/982451290/231750.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E03" tvg-logo="http://7online.xyz:8080/images/889869a66ce374c7ff110b4bfe5b21c1.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E03
-http://7go.xyz:8080/series/zogbi11/982451290/231751.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E04" tvg-logo="http://7online.xyz:8080/images/d1e24e67cc1a6fcbf6f28cb224772ace.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E04
-http://7go.xyz:8080/series/zogbi11/982451290/231752.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E05" tvg-logo="http://7online.xyz:8080/images/2a8c2e14f95999101a4d24619cebbb73.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E05
-http://7go.xyz:8080/series/zogbi11/982451290/231753.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E06" tvg-logo="http://7online.xyz:8080/images/4bf84f075b2a0fa317b90a4e6be0b91e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E06
-http://7go.xyz:8080/series/zogbi11/982451290/231754.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E07" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E07
-http://7go.xyz:8080/series/zogbi11/982451290/231755.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E08" tvg-logo="http://7online.xyz:8080/images/7875a5a392ab12a44815bd2c35d9167b.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E08
-http://7go.xyz:8080/series/zogbi11/982451290/231756.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E09" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E09
-http://7go.xyz:8080/series/zogbi11/982451290/231757.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E10" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E10
-http://7go.xyz:8080/series/zogbi11/982451290/231758.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E11" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E11
-http://7go.xyz:8080/series/zogbi11/982451290/231759.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E12" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E12
-http://7go.xyz:8080/series/zogbi11/982451290/231760.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E13" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E13
-http://7go.xyz:8080/series/zogbi11/982451290/231761.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E14" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E14
-http://7go.xyz:8080/series/zogbi11/982451290/231762.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E15" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E15
-http://7go.xyz:8080/series/zogbi11/982451290/231763.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E16" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E16
-http://7go.xyz:8080/series/zogbi11/982451290/231764.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E17" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E17
-http://7go.xyz:8080/series/zogbi11/982451290/231765.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E18" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E18
-http://7go.xyz:8080/series/zogbi11/982451290/231766.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E19" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E19
-http://7go.xyz:8080/series/zogbi11/982451290/231767.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E20" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E20
-http://7go.xyz:8080/series/zogbi11/982451290/231768.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E21" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E21
-http://7go.xyz:8080/series/zogbi11/982451290/231769.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E22" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E22
-http://7go.xyz:8080/series/zogbi11/982451290/231770.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E23" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E23
-http://7go.xyz:8080/series/zogbi11/982451290/231771.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E24" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E24
-http://7go.xyz:8080/series/zogbi11/982451290/231772.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E25" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E25
-http://7go.xyz:8080/series/zogbi11/982451290/231773.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S01 E26" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S01 E26
-http://7go.xyz:8080/series/zogbi11/982451290/231774.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E01" tvg-logo="http://7online.xyz:8080/images/3318ed95a20ccaf1ddc4d59033c32bc2.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E01
-http://7go.xyz:8080/series/zogbi11/982451290/231775.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E02" tvg-logo="http://7online.xyz:8080/images/d3abd41a6c9936ed9f7adacb8b8e46a8.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E02
-http://7go.xyz:8080/series/zogbi11/982451290/231776.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E03" tvg-logo="http://7online.xyz:8080/images/35eb102174f232774f88da12149db364.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E03
-http://7go.xyz:8080/series/zogbi11/982451290/231777.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E04" tvg-logo="http://7online.xyz:8080/images/855b205632e0707a4998e4b1d27cc40b.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E04
-http://7go.xyz:8080/series/zogbi11/982451290/231778.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E05" tvg-logo="http://7online.xyz:8080/images/a36c83c26a652dd8d43c31d5c6109006.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E05
-http://7go.xyz:8080/series/zogbi11/982451290/231779.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E06" tvg-logo="http://7online.xyz:8080/images/347fb78487e839066676db548342b232.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E06
-http://7go.xyz:8080/series/zogbi11/982451290/231780.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E07" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E07
-http://7go.xyz:8080/series/zogbi11/982451290/231781.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E08" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E08
-http://7go.xyz:8080/series/zogbi11/982451290/231782.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E09" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E09
-http://7go.xyz:8080/series/zogbi11/982451290/231783.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E10" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E10
-http://7go.xyz:8080/series/zogbi11/982451290/231784.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E11" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E11
-http://7go.xyz:8080/series/zogbi11/982451290/231785.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E12" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E12
-http://7go.xyz:8080/series/zogbi11/982451290/231786.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E13" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E13
-http://7go.xyz:8080/series/zogbi11/982451290/231787.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E14" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E14
-http://7go.xyz:8080/series/zogbi11/982451290/231788.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E15" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E15
-http://7go.xyz:8080/series/zogbi11/982451290/231789.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E16" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E16
-http://7go.xyz:8080/series/zogbi11/982451290/231790.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E17" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E17
-http://7go.xyz:8080/series/zogbi11/982451290/231791.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E18" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E18
-http://7go.xyz:8080/series/zogbi11/982451290/231792.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E19" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E19
-http://7go.xyz:8080/series/zogbi11/982451290/231793.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E20" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E20
-http://7go.xyz:8080/series/zogbi11/982451290/231794.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E21" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E21
-http://7go.xyz:8080/series/zogbi11/982451290/231795.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E22" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E22
-http://7go.xyz:8080/series/zogbi11/982451290/231796.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E23" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E23
-http://7go.xyz:8080/series/zogbi11/982451290/231797.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E24" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E24
-http://7go.xyz:8080/series/zogbi11/982451290/231798.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E25" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E25
-http://7go.xyz:8080/series/zogbi11/982451290/231799.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E26" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E26
-http://7go.xyz:8080/series/zogbi11/982451290/231800.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E27" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E27
-http://7go.xyz:8080/series/zogbi11/982451290/231801.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E28" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E28
-http://7go.xyz:8080/series/zogbi11/982451290/231802.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E29" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E29
-http://7go.xyz:8080/series/zogbi11/982451290/231803.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S02 E30" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S02 E30
-http://7go.xyz:8080/series/zogbi11/982451290/231804.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S03 E01" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S03 E01
-http://7go.xyz:8080/series/zogbi11/982451290/231805.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S03 E02" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S03 E02
-http://7go.xyz:8080/series/zogbi11/982451290/231806.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S03 E03" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S03 E03
-http://7go.xyz:8080/series/zogbi11/982451290/231807.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S03 E04" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S03 E04
-http://7go.xyz:8080/series/zogbi11/982451290/231808.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S03 E05" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S03 E05
-http://7go.xyz:8080/series/zogbi11/982451290/231809.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S03 E06" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S03 E06
-http://7go.xyz:8080/series/zogbi11/982451290/231810.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S03 E07" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S03 E07
-http://7go.xyz:8080/series/zogbi11/982451290/231811.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S03 E08" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S03 E08
-http://7go.xyz:8080/series/zogbi11/982451290/231812.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S03 E09" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S03 E09
-http://7go.xyz:8080/series/zogbi11/982451290/231813.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S04 E01" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S04 E01
-http://7go.xyz:8080/series/zogbi11/982451290/302789.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S04 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/bp0624rAUfLiMxrOERHFLDputGt.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S04 E02
-http://7go.xyz:8080/series/zogbi11/982451290/302790.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S04 E03" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S04 E03
-http://7go.xyz:8080/series/zogbi11/982451290/302791.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S04 E04" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S04 E04
-http://7go.xyz:8080/series/zogbi11/982451290/302792.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S04 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/gVzxxsMTpI7qfxjMNzNAzJ3FxPL.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S04 E05
-http://7go.xyz:8080/series/zogbi11/982451290/302793.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S04 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2oQSsFqvVQwT0Cf1or8wPrNnVQg.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S04 E06
-http://7go.xyz:8080/series/zogbi11/982451290/302794.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S04 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/4DC7EQah9EGMTQp3IvGspK3wdZl.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S04 E07
-http://7go.xyz:8080/series/zogbi11/982451290/302795.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S04 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/b2ivUi3VvqlSRr4WywQpY7bsBi0.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S04 E08
-http://7go.xyz:8080/series/zogbi11/982451290/302796.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S04 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/qQtfsst4xBAtzozwrKqetSzW9w6.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S04 E09
-http://7go.xyz:8080/series/zogbi11/982451290/302797.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S04 E10" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S04 E10
-http://7go.xyz:8080/series/zogbi11/982451290/302798.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S04 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/AbnrvHf7Ba8dgyprYcdKZsWdCcR.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S04 E11
-http://7go.xyz:8080/series/zogbi11/982451290/302799.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S05 E01" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S05 E01
-http://7go.xyz:8080/series/zogbi11/982451290/302800.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S05 E02" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S05 E02
-http://7go.xyz:8080/series/zogbi11/982451290/302801.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S05 E03" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S05 E03
-http://7go.xyz:8080/series/zogbi11/982451290/302802.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S05 E04" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S05 E04
-http://7go.xyz:8080/series/zogbi11/982451290/302803.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S05 E05" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S05 E05
-http://7go.xyz:8080/series/zogbi11/982451290/302804.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S05 E06" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S05 E06
-http://7go.xyz:8080/series/zogbi11/982451290/302805.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S05 E07" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S05 E07
-http://7go.xyz:8080/series/zogbi11/982451290/302806.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S05 E08" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S05 E08
-http://7go.xyz:8080/series/zogbi11/982451290/302807.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S05 E09" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S05 E09
-http://7go.xyz:8080/series/zogbi11/982451290/302808.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S06 E01" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S06 E01
-http://7go.xyz:8080/series/zogbi11/982451290/302809.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S06 E02" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S06 E02
-http://7go.xyz:8080/series/zogbi11/982451290/302810.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S06 E03" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S06 E03
-http://7go.xyz:8080/series/zogbi11/982451290/302811.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S06 E04" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S06 E04
-http://7go.xyz:8080/series/zogbi11/982451290/302812.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S06 E05" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S06 E05
-http://7go.xyz:8080/series/zogbi11/982451290/302813.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S06 E06" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S06 E06
-http://7go.xyz:8080/series/zogbi11/982451290/302814.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S06 E07" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S06 E07
-http://7go.xyz:8080/series/zogbi11/982451290/302815.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S06 E08" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S06 E08
-http://7go.xyz:8080/series/zogbi11/982451290/302816.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S06 E09" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S06 E09
-http://7go.xyz:8080/series/zogbi11/982451290/302817.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S06 E10" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S06 E10
-http://7go.xyz:8080/series/zogbi11/982451290/302818.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S06 E11" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S06 E11
-http://7go.xyz:8080/series/zogbi11/982451290/302819.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S06 E12" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S06 E12
-http://7go.xyz:8080/series/zogbi11/982451290/302820.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S07 E01" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S07 E01
-http://7go.xyz:8080/series/zogbi11/982451290/302821.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S07 E02" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S07 E02
-http://7go.xyz:8080/series/zogbi11/982451290/302822.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S07 E03" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S07 E03
-http://7go.xyz:8080/series/zogbi11/982451290/302823.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S07 E04" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S07 E04
-http://7go.xyz:8080/series/zogbi11/982451290/302824.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S07 E05" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S07 E05
-http://7go.xyz:8080/series/zogbi11/982451290/302825.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S07 E06" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S07 E06
-http://7go.xyz:8080/series/zogbi11/982451290/302826.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S07 E07" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S07 E07
-http://7go.xyz:8080/series/zogbi11/982451290/302827.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S07 E08" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S07 E08
-http://7go.xyz:8080/series/zogbi11/982451290/302828.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S07 E09" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S07 E09
-http://7go.xyz:8080/series/zogbi11/982451290/302829.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S07 E10" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S07 E10
-http://7go.xyz:8080/series/zogbi11/982451290/302830.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S07 E11" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S07 E11
-http://7go.xyz:8080/series/zogbi11/982451290/302831.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S08 E01" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S08 E01
-http://7go.xyz:8080/series/zogbi11/982451290/302832.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S08 E02" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S08 E02
-http://7go.xyz:8080/series/zogbi11/982451290/302833.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S08 E03" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S08 E03
-http://7go.xyz:8080/series/zogbi11/982451290/302834.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S08 E04" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S08 E04
-http://7go.xyz:8080/series/zogbi11/982451290/302835.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S08 E05" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S08 E05
-http://7go.xyz:8080/series/zogbi11/982451290/302836.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S08 E06" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S08 E06
-http://7go.xyz:8080/series/zogbi11/982451290/302837.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S09 E01" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/naAcXIPOYgidgoup7uKI61Sw5oB.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S09 E01
-http://7go.xyz:8080/series/zogbi11/982451290/302838.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S09 E02" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9VMq8pIuDeFe8mTHYwdARpHszRd.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S09 E02
-http://7go.xyz:8080/series/zogbi11/982451290/302839.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S09 E03" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8aOwNhYjoAOwDISNHPUQ53IQvcw.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S09 E03
-http://7go.xyz:8080/series/zogbi11/982451290/302840.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S09 E04" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/oT95ISPAuKtRS7q68jiQ6uGGNM4.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S09 E04
-http://7go.xyz:8080/series/zogbi11/982451290/302841.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S09 E05" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/fS2xWyc7dtGWVc3fD0cM1oHnaAH.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S09 E05
-http://7go.xyz:8080/series/zogbi11/982451290/302842.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S09 E06" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8WaVApbVAAXTqxz3UFp1borzuO5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S09 E06
-http://7go.xyz:8080/series/zogbi11/982451290/302843.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S09 E07" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/2boSATNSuCcsrTmfofNLaidduWx.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S09 E07
-http://7go.xyz:8080/series/zogbi11/982451290/302844.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S09 E08" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/3UPTzIj6EZlOvMHVm0H6W2dGIdn.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S09 E08
-http://7go.xyz:8080/series/zogbi11/982451290/302845.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S09 E09" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/uxJC9PuL9Zi9rBznMQHSGdWhW9p.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S09 E09
-http://7go.xyz:8080/series/zogbi11/982451290/302846.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S09 E10" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/seNQbNa3eTM9velpEfhhCybo7zi.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S09 E10
-http://7go.xyz:8080/series/zogbi11/982451290/302847.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S09 E11" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9tV57jyY4WCXV2NwUJd5VBwzidK.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S09 E11
-http://7go.xyz:8080/series/zogbi11/982451290/302848.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S09 E12" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/mzSUulp9e68mAqsPdnVkLvfsgwI.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S09 E12
-http://7go.xyz:8080/series/zogbi11/982451290/302849.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S09 E13" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/myixTdrJRrf9BI41CQRAbygcVir.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S09 E13
-http://7go.xyz:8080/series/zogbi11/982451290/302850.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S09 E14" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/SDBkoI9I5zTN0y1cDj8zIq4XAS.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S09 E14
-http://7go.xyz:8080/series/zogbi11/982451290/302851.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S09 E15" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/8NjAyDIOSE7Q5MQkp5Tk611uTd6.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S09 E15
-http://7go.xyz:8080/series/zogbi11/982451290/302852.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E01" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E01
-http://7go.xyz:8080/series/zogbi11/982451290/302853.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E02" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E02
-http://7go.xyz:8080/series/zogbi11/982451290/302854.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E03" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E03
-http://7go.xyz:8080/series/zogbi11/982451290/302855.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E04" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E04
-http://7go.xyz:8080/series/zogbi11/982451290/302856.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E05" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E05
-http://7go.xyz:8080/series/zogbi11/982451290/302857.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E06" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E06
-http://7go.xyz:8080/series/zogbi11/982451290/302858.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E07" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E07
-http://7go.xyz:8080/series/zogbi11/982451290/302859.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E08" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E08
-http://7go.xyz:8080/series/zogbi11/982451290/302860.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E09" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E09
-http://7go.xyz:8080/series/zogbi11/982451290/302861.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E10" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E10
-http://7go.xyz:8080/series/zogbi11/982451290/302862.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E11" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E11
-http://7go.xyz:8080/series/zogbi11/982451290/302863.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E12" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E12
-http://7go.xyz:8080/series/zogbi11/982451290/302864.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E13" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E13
-http://7go.xyz:8080/series/zogbi11/982451290/302865.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E14" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E14
-http://7go.xyz:8080/series/zogbi11/982451290/302866.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E15" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E15
-http://7go.xyz:8080/series/zogbi11/982451290/302867.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E16" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E16
-http://7go.xyz:8080/series/zogbi11/982451290/302868.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E17" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E17
-http://7go.xyz:8080/series/zogbi11/982451290/302869.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E18" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E18
-http://7go.xyz:8080/series/zogbi11/982451290/302870.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E19" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E19
-http://7go.xyz:8080/series/zogbi11/982451290/302871.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S10 E20" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S10 E20
-http://7go.xyz:8080/series/zogbi11/982451290/302872.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E01" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E01
-http://7go.xyz:8080/series/zogbi11/982451290/302873.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E02" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E02
-http://7go.xyz:8080/series/zogbi11/982451290/302874.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E03" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E03
-http://7go.xyz:8080/series/zogbi11/982451290/302875.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E04" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E04
-http://7go.xyz:8080/series/zogbi11/982451290/302876.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E05" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E05
-http://7go.xyz:8080/series/zogbi11/982451290/302877.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E06" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E06
-http://7go.xyz:8080/series/zogbi11/982451290/302878.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E07" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E07
-http://7go.xyz:8080/series/zogbi11/982451290/302879.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E08" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E08
-http://7go.xyz:8080/series/zogbi11/982451290/302880.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E09" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E09
-http://7go.xyz:8080/series/zogbi11/982451290/302881.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E10" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E10
-http://7go.xyz:8080/series/zogbi11/982451290/302882.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E11" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E11
-http://7go.xyz:8080/series/zogbi11/982451290/302883.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E12" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E12
-http://7go.xyz:8080/series/zogbi11/982451290/302884.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E13" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E13
-http://7go.xyz:8080/series/zogbi11/982451290/302885.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E14" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E14
-http://7go.xyz:8080/series/zogbi11/982451290/302886.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E15" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E15
-http://7go.xyz:8080/series/zogbi11/982451290/302887.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E16" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E16
-http://7go.xyz:8080/series/zogbi11/982451290/302888.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E17" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E17
-http://7go.xyz:8080/series/zogbi11/982451290/302889.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E18" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E18
-http://7go.xyz:8080/series/zogbi11/982451290/302890.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E19" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E19
-http://7go.xyz:8080/series/zogbi11/982451290/302891.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E20" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E20
-http://7go.xyz:8080/series/zogbi11/982451290/302892.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E21" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E21
-http://7go.xyz:8080/series/zogbi11/982451290/302893.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E22" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E22
-http://7go.xyz:8080/series/zogbi11/982451290/302894.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E23" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E23
-http://7go.xyz:8080/series/zogbi11/982451290/302895.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E24" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E24
-http://7go.xyz:8080/series/zogbi11/982451290/302896.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados (2013) S11 E25" tvg-logo="http://7online.xyz:8080/images/f26abbfd4be7d23233d3f62aca594f6e.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados (2013) S11 E25
-http://7go.xyz:8080/series/zogbi11/982451290/302897.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S01 E01" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S01 E01
-http://7go.xyz:8080/series/zogbi11/982451290/231715.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S01 E02" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S01 E02
-http://7go.xyz:8080/series/zogbi11/982451290/231716.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S01 E03" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S01 E03
-http://7go.xyz:8080/series/zogbi11/982451290/231717.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S01 E04" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S01 E04
-http://7go.xyz:8080/series/zogbi11/982451290/231718.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S01 E05" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S01 E05
-http://7go.xyz:8080/series/zogbi11/982451290/231719.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S01 E06" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S01 E06
-http://7go.xyz:8080/series/zogbi11/982451290/231720.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S01 E07" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S01 E07
-http://7go.xyz:8080/series/zogbi11/982451290/231721.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S01 E08" tvg-logo="http://7online.xyz:8080/images/f9a9f479d9a6b9ef0a815fc401f459d5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S01 E08
-http://7go.xyz:8080/series/zogbi11/982451290/231722.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S01 E09" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S01 E09
-http://7go.xyz:8080/series/zogbi11/982451290/231723.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S02 E01" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S02 E01
-http://7go.xyz:8080/series/zogbi11/982451290/231724.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S02 E02" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S02 E02
-http://7go.xyz:8080/series/zogbi11/982451290/231725.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S02 E03" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S02 E03
-http://7go.xyz:8080/series/zogbi11/982451290/231726.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S02 E04" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S02 E04
-http://7go.xyz:8080/series/zogbi11/982451290/231727.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S02 E05" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S02 E05
-http://7go.xyz:8080/series/zogbi11/982451290/231728.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S02 E06" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S02 E06
-http://7go.xyz:8080/series/zogbi11/982451290/231729.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S02 E07" tvg-logo="http://7online.xyz:8080/images/4a5ac86a6fac2e719d83c0e2aa2298c5.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S02 E07
-http://7go.xyz:8080/series/zogbi11/982451290/231730.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S03 E01" tvg-logo="http://7online.xyz:8080/images/1abfef7697edcafb11010308d9a517ab.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S03 E01
-http://7go.xyz:8080/series/zogbi11/982451290/231731.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S03 E02" tvg-logo="http://7online.xyz:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S03 E02
-http://7go.xyz:8080/series/zogbi11/982451290/231732.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S03 E03" tvg-logo="http://7online.xyz:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S03 E03
-http://7go.xyz:8080/series/zogbi11/982451290/231733.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S03 E04" tvg-logo="http://7online.xyz:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S03 E04
-http://7go.xyz:8080/series/zogbi11/982451290/231734.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S03 E05" tvg-logo="http://7online.xyz:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S03 E05
-http://7go.xyz:8080/series/zogbi11/982451290/231735.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S03 E06" tvg-logo="http://7online.xyz:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S03 E06
-http://7go.xyz:8080/series/zogbi11/982451290/231736.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S03 E07" tvg-logo="http://7online.xyz:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S03 E07
-http://7go.xyz:8080/series/zogbi11/982451290/231737.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S03 E08" tvg-logo="http://7online.xyz:8080/images/bb8bc0ac0abfe47d90a6419cabbdbe27.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S03 E08
-http://7go.xyz:8080/series/zogbi11/982451290/231738.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Largados e Pelados: A Tribo (2015) S03 E09" tvg-logo="http://7online.xyz:8080/images/b9521d3bd340ff0ea884c595fecaba29.jpg" group-title="SERIES | REALITY SHOWS",Largados e Pelados: A Tribo (2015) S03 E09
-http://7go.xyz:8080/series/zogbi11/982451290/231739.mp4
-
 #EXTM3U url-tvg="http://grade-de-SÉRIES | NCIS Havaí.xml"
 ############## SÉRIES | NCIS Havaí  ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | NCIS Havaí" group-title="
@@ -7911,537 +7075,6 @@ http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97816.mp4
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97817.mp4
 #EXTINF:-1 tvg-name="CSI: Miami S05E24" tvg-logo="http://uione.dadg.today:80/images/1CX9HZ1TpsR6jq_dGSnHkL3RYtCxzpf9bXBCAmvYmQVbH0JOz0hhfEgRzyluBPlLFinF7TED2FgAb-sRoZ9Usg.jpg" group-title="SÉRIES | PARAMOUNT+",CSI: Miami S05E24
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97818.mp4
-
-#EXTM3U url-tvg="http://grade-de-PARAMOUT +.xml"
-############## PARAMOUT +  ################# 
-#EXTINF:-1 tvg-id=" iddocanaldePARAMOUT +" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E01" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E01
-http://axr.life:80/series/968367/462903/2346478.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E02" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E02
-http://axr.life:80/series/968367/462903/2346479.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E03" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E03
-http://axr.life:80/series/968367/462903/2346480.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E04" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E04
-http://axr.life:80/series/968367/462903/2346481.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E05" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E05
-http://axr.life:80/series/968367/462903/2346482.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E06" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E06
-http://axr.life:80/series/968367/462903/2346483.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E07" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E07
-http://axr.life:80/series/968367/462903/2346484.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E08" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E08
-http://axr.life:80/series/968367/462903/2346485.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E09" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E09
-http://axr.life:80/series/968367/462903/2346486.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E10" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E10
-http://axr.life:80/series/968367/462903/2346487.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E11" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E11
-http://axr.life:80/series/968367/462903/2346488.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E12" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E12
-http://axr.life:80/series/968367/462903/2346489.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E13" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E13
-http://axr.life:80/series/968367/462903/2346490.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E14" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E14
-http://axr.life:80/series/968367/462903/2346491.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E15" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E15
-http://axr.life:80/series/968367/462903/2346492.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E16" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E16
-http://axr.life:80/series/968367/462903/2346493.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E17" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E17
-http://axr.life:80/series/968367/462903/2346494.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E18" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E18
-http://axr.life:80/series/968367/462903/2346495.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E19" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E19
-http://axr.life:80/series/968367/462903/2346496.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S01 E20" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S01 E20
-http://axr.life:80/series/968367/462903/2346497.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E01" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E01
-http://axr.life:80/series/968367/462903/2346498.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E02" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E02
-http://axr.life:80/series/968367/462903/2346499.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E03" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E03
-http://axr.life:80/series/968367/462903/2346500.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E04" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E04
-http://axr.life:80/series/968367/462903/2346501.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E05" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E05
-http://axr.life:80/series/968367/462903/2346502.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E06" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E06
-http://axr.life:80/series/968367/462903/2346503.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E07" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E07
-http://axr.life:80/series/968367/462903/2346504.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E08" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E08
-http://axr.life:80/series/968367/462903/2346505.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E09" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E09
-http://axr.life:80/series/968367/462903/2346506.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E10" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E10
-http://axr.life:80/series/968367/462903/2346507.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E11" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E11
-http://axr.life:80/series/968367/462903/2346508.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E12" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E12
-http://axr.life:80/series/968367/462903/2346509.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E13" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E13
-http://axr.life:80/series/968367/462903/2346510.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E14" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E14
-http://axr.life:80/series/968367/462903/2346511.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E15" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E15
-http://axr.life:80/series/968367/462903/2346512.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E16" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E16
-http://axr.life:80/series/968367/462903/2346513.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E17" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E17
-http://axr.life:80/series/968367/462903/2346514.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E18" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E18
-http://axr.life:80/series/968367/462903/2346515.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E19" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E19
-http://axr.life:80/series/968367/462903/2346516.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E20" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E20
-http://axr.life:80/series/968367/462903/2346517.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S02 E21" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S02 E21
-http://axr.life:80/series/968367/462903/2346518.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E01" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E01
-http://axr.life:80/series/968367/462903/2346519.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E02" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E02
-http://axr.life:80/series/968367/462903/2346520.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E03" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E03
-http://axr.life:80/series/968367/462903/2346521.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E04" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E04
-http://axr.life:80/series/968367/462903/2346522.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E05" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E05
-http://axr.life:80/series/968367/462903/2346523.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E06" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E06
-http://axr.life:80/series/968367/462903/2346524.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E07" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E07
-http://axr.life:80/series/968367/462903/2346525.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E08" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E08
-http://axr.life:80/series/968367/462903/2346526.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E09" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E09
-http://axr.life:80/series/968367/462903/2346527.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E10" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E10
-http://axr.life:80/series/968367/462903/2346528.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E11" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E11
-http://axr.life:80/series/968367/462903/2346529.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E12" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E12
-http://axr.life:80/series/968367/462903/2346530.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E13" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E13
-http://axr.life:80/series/968367/462903/2346531.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E14" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E14
-http://axr.life:80/series/968367/462903/2346532.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E15" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E15
-http://axr.life:80/series/968367/462903/2346533.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E16" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E16
-http://axr.life:80/series/968367/462903/2346534.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E17" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E17
-http://axr.life:80/series/968367/462903/2346535.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E18" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E18
-http://axr.life:80/series/968367/462903/2346536.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E19" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E19
-http://axr.life:80/series/968367/462903/2346537.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S03 E20" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S03 E20
-http://axr.life:80/series/968367/462903/2346538.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E01" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E01
-http://axr.life:80/series/968367/462903/2346539.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E02" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E02
-http://axr.life:80/series/968367/462903/2346540.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E03" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E03
-http://axr.life:80/series/968367/462903/2346541.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E04" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E04
-http://axr.life:80/series/968367/462903/2346542.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E05" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E05
-http://axr.life:80/series/968367/462903/2346543.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E06" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E06
-http://axr.life:80/series/968367/462903/2346544.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E07" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E07
-http://axr.life:80/series/968367/462903/2346545.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E08" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E08
-http://axr.life:80/series/968367/462903/2346546.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E09" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E09
-http://axr.life:80/series/968367/462903/2346547.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E10" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E10
-http://axr.life:80/series/968367/462903/2346548.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E11" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E11
-http://axr.life:80/series/968367/462903/2346549.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E12" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E12
-http://axr.life:80/series/968367/462903/2346550.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E13" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E13
-http://axr.life:80/series/968367/462903/2346551.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E14" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E14
-http://axr.life:80/series/968367/462903/2346552.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E15" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E15
-http://axr.life:80/series/968367/462903/2346553.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E16" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E16
-http://axr.life:80/series/968367/462903/2346554.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E17" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E17
-http://axr.life:80/series/968367/462903/2346555.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E18" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E18
-http://axr.life:80/series/968367/462903/2346556.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E19" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E19
-http://axr.life:80/series/968367/462903/2346557.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S04 E20" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S04 E20
-http://axr.life:80/series/968367/462903/2346558.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E01" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E01
-http://axr.life:80/series/968367/462903/2346559.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E02" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E02
-http://axr.life:80/series/968367/462903/2346560.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E03" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E03
-http://axr.life:80/series/968367/462903/2346561.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E04" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E04
-http://axr.life:80/series/968367/462903/2346562.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E05" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E05
-http://axr.life:80/series/968367/462903/2346563.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E06" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E06
-http://axr.life:80/series/968367/462903/2346564.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E07" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E07
-http://axr.life:80/series/968367/462903/2346565.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E08" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E08
-http://axr.life:80/series/968367/462903/2346566.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E09" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E09
-http://axr.life:80/series/968367/462903/2346567.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E10" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E10
-http://axr.life:80/series/968367/462903/2346568.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E11" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E11
-http://axr.life:80/series/968367/462903/2346569.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E12" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E12
-http://axr.life:80/series/968367/462903/2346570.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E13" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E13
-http://axr.life:80/series/968367/462903/2346571.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E14" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E14
-http://axr.life:80/series/968367/462903/2346572.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E15" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E15
-http://axr.life:80/series/968367/462903/2346573.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E16" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E16
-http://axr.life:80/series/968367/462903/2346574.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E17" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E17
-http://axr.life:80/series/968367/462903/2346575.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E18" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E18
-http://axr.life:80/series/968367/462903/2346576.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E19" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E19
-http://axr.life:80/series/968367/462903/2346577.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S05 E20" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S05 E20
-http://axr.life:80/series/968367/462903/2346578.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E01" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E01
-http://axr.life:80/series/968367/462903/2346579.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E02" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E02
-http://axr.life:80/series/968367/462903/2346580.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E03" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E03
-http://axr.life:80/series/968367/462903/2346581.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E04" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E04
-http://axr.life:80/series/968367/462903/2346582.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E05" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E05
-http://axr.life:80/series/968367/462903/2346583.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E06" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E06
-http://axr.life:80/series/968367/462903/2346584.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E07" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E07
-http://axr.life:80/series/968367/462903/2346585.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E08" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E08
-http://axr.life:80/series/968367/462903/2346586.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E09" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E09
-http://axr.life:80/series/968367/462903/2346587.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E10" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E10
-http://axr.life:80/series/968367/462903/2346588.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E11" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E11
-http://axr.life:80/series/968367/462903/2346589.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E12" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E12
-http://axr.life:80/series/968367/462903/2346590.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E13" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E13
-http://axr.life:80/series/968367/462903/2346591.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E14" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E14
-http://axr.life:80/series/968367/462903/2346592.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E15" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E15
-http://axr.life:80/series/968367/462903/2346593.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E16" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E16
-http://axr.life:80/series/968367/462903/2346594.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E17" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E17
-http://axr.life:80/series/968367/462903/2346595.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E18" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E18
-http://axr.life:80/series/968367/462903/2346596.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E19" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E19
-http://axr.life:80/series/968367/462903/2346597.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E20" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E20
-http://axr.life:80/series/968367/462903/2346598.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E21" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E21
-http://axr.life:80/series/968367/462903/2346599.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S06 E22" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S06 E22
-http://axr.life:80/series/968367/462903/2346600.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E01" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E01
-http://axr.life:80/series/968367/462903/2346601.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E02" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E02
-http://axr.life:80/series/968367/462903/2346602.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E03" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E03
-http://axr.life:80/series/968367/462903/2346603.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E04" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E04
-http://axr.life:80/series/968367/462903/2346604.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E05" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E05
-http://axr.life:80/series/968367/462903/2346605.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E06" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E06
-http://axr.life:80/series/968367/462903/2346606.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E07" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E07
-http://axr.life:80/series/968367/462903/2346607.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E08" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E08
-http://axr.life:80/series/968367/462903/2346608.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E09" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E09
-http://axr.life:80/series/968367/462903/2346609.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E10" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E10
-http://axr.life:80/series/968367/462903/2346610.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E11" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E11
-http://axr.life:80/series/968367/462903/2346611.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E12" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E12
-http://axr.life:80/series/968367/462903/2346612.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E13" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E13
-http://axr.life:80/series/968367/462903/2346613.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E14" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E14
-http://axr.life:80/series/968367/462903/2346614.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E15" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E15
-http://axr.life:80/series/968367/462903/2346615.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E16" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E16
-http://axr.life:80/series/968367/462903/2346616.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E17" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E17
-http://axr.life:80/series/968367/462903/2346617.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E18" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E18
-http://axr.life:80/series/968367/462903/2346618.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E19" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E19
-http://axr.life:80/series/968367/462903/2346619.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E20" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E20
-http://axr.life:80/series/968367/462903/2346620.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E21" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E21
-http://axr.life:80/series/968367/462903/2346621.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E22" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E22
-http://axr.life:80/series/968367/462903/2346622.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E23" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E23
-http://axr.life:80/series/968367/462903/2346623.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E24" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E24
-http://axr.life:80/series/968367/462903/2346624.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E25" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E25
-http://axr.life:80/series/968367/462903/2346625.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S07 E26" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S07 E26
-http://axr.life:80/series/968367/462903/2346626.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E01" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E01
-http://axr.life:80/series/968367/462903/2346627.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E02" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E02
-http://axr.life:80/series/968367/462903/2346628.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E03" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E03
-http://axr.life:80/series/968367/462903/2346629.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E04" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E04
-http://axr.life:80/series/968367/462903/2346630.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E05" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E05
-http://axr.life:80/series/968367/462903/2346631.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E06" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E06
-http://axr.life:80/series/968367/462903/2346632.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E07" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E07
-http://axr.life:80/series/968367/462903/2346633.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E08" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E08
-http://axr.life:80/series/968367/462903/2346634.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E09" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E09
-http://axr.life:80/series/968367/462903/2346635.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E10" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E10
-http://axr.life:80/series/968367/462903/2346636.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E11" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E11
-http://axr.life:80/series/968367/462903/2346637.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E12" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E12
-http://axr.life:80/series/968367/462903/2346638.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E13" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E13
-http://axr.life:80/series/968367/462903/2346639.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E14" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E14
-http://axr.life:80/series/968367/462903/2346640.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E15" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E15
-http://axr.life:80/series/968367/462903/2346641.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E16" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E16
-http://axr.life:80/series/968367/462903/2346642.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E17" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E17
-http://axr.life:80/series/968367/462903/2346643.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E18" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E18
-http://axr.life:80/series/968367/462903/2346644.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E19" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E19
-http://axr.life:80/series/968367/462903/2346645.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E20" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E20
-http://axr.life:80/series/968367/462903/2346646.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E21" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E21
-http://axr.life:80/series/968367/462903/2346647.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E22" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E22
-http://axr.life:80/series/968367/462903/2346648.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E23" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E23
-http://axr.life:80/series/968367/462903/2346649.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E24" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E24
-http://axr.life:80/series/968367/462903/2346650.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S08 E25" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S08 E25
-http://axr.life:80/series/968367/462903/2346651.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E01" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E01
-http://axr.life:80/series/968367/462903/2346652.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E02" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E02
-http://axr.life:80/series/968367/462903/2346653.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E03" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E03
-http://axr.life:80/series/968367/462903/2346654.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E04" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E04
-http://axr.life:80/series/968367/462903/2346655.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E05" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E05
-http://axr.life:80/series/968367/462903/2346656.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E06" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E06
-http://axr.life:80/series/968367/462903/2346657.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E07" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E07
-http://axr.life:80/series/968367/462903/2346658.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E08" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E08
-http://axr.life:80/series/968367/462903/2346659.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E09" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E09
-http://axr.life:80/series/968367/462903/2346660.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E10" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E10
-http://axr.life:80/series/968367/462903/2346661.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E11" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E11
-http://axr.life:80/series/968367/462903/2346662.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E12" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E12
-http://axr.life:80/series/968367/462903/2346663.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E13" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E13
-http://axr.life:80/series/968367/462903/2346664.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E14" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E14
-http://axr.life:80/series/968367/462903/2346665.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E15" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E15
-http://axr.life:80/series/968367/462903/2346666.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E16" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E16
-http://axr.life:80/series/968367/462903/2346667.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E17" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E17
-http://axr.life:80/series/968367/462903/2346668.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E18" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E18
-http://axr.life:80/series/968367/462903/2346669.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E19" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E19
-http://axr.life:80/series/968367/462903/2346670.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E20" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E20
-http://axr.life:80/series/968367/462903/2346671.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E21" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E21
-http://axr.life:80/series/968367/462903/2346672.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E22" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E22
-http://axr.life:80/series/968367/462903/2346673.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E23" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E23
-http://axr.life:80/series/968367/462903/2346674.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E24" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E24
-http://axr.life:80/series/968367/462903/2346675.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E25" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E25
-http://axr.life:80/series/968367/462903/2346676.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S09 E26" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S09 E26
-http://axr.life:80/series/968367/462903/2346677.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S10 E01" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S10 E01
-http://axr.life:80/series/968367/462903/2346678.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S10 E02" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S10 E02
-http://axr.life:80/series/968367/462903/2346679.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S10 E03" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S10 E03
-http://axr.life:80/series/968367/462903/2346680.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S10 E04" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S10 E04
-http://axr.life:80/series/968367/462903/2346681.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S10 E05" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S10 E05
-http://axr.life:80/series/968367/462903/2346682.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S10 E06" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S10 E06
-http://axr.life:80/series/968367/462903/2346683.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S10 E07" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S10 E07
-http://axr.life:80/series/968367/462903/2346684.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S10 E08" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S10 E08
-http://axr.life:80/series/968367/462903/2346685.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S10 E09" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S10 E09
-http://axr.life:80/series/968367/462903/2346686.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S10 E10" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S10 E10
-http://axr.life:80/series/968367/462903/2346687.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S10 E11" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S10 E11
-http://axr.life:80/series/968367/462903/2346688.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E01" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E01
-http://axr.life:80/series/968367/462903/2346689.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E02" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E02
-http://axr.life:80/series/968367/462903/2346690.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E03" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E03
-http://axr.life:80/series/968367/462903/2346691.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E04" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E04
-http://axr.life:80/series/968367/462903/2346692.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E05" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E05
-http://axr.life:80/series/968367/462903/2346693.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E06" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E06
-http://axr.life:80/series/968367/462903/2346694.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E07" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E07
-http://axr.life:80/series/968367/462903/2346695.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E08" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E08
-http://axr.life:80/series/968367/462903/2346696.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E09" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E09
-http://axr.life:80/series/968367/462903/2346697.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E10" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E10
-http://axr.life:80/series/968367/462903/2346698.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E11" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E11
-http://axr.life:80/series/968367/462903/2346699.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E12" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E12
-http://axr.life:80/series/968367/462903/2346700.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E13" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E13
-http://axr.life:80/series/968367/462903/2346701.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E14" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E14
-http://axr.life:80/series/968367/462903/2346702.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E15" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E15
-http://axr.life:80/series/968367/462903/2346703.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E16" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E16
-http://axr.life:80/series/968367/462903/2346704.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E17" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E17
-http://axr.life:80/series/968367/462903/2346705.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E18" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E18
-http://axr.life:80/series/968367/462903/2346706.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E19" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E19
-http://axr.life:80/series/968367/462903/2346707.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E20" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E20
-http://axr.life:80/series/968367/462903/2346708.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E21" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E21
-http://axr.life:80/series/968367/462903/2346709.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E22" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E22
-http://axr.life:80/series/968367/462903/2346710.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E23" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E23
-http://axr.life:80/series/968367/462903/2346711.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E24" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E24
-http://axr.life:80/series/968367/462903/2346712.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E25" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E25
-http://axr.life:80/series/968367/462903/2346713.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S11 E26" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S11 E26
-http://axr.life:80/series/968367/462903/2346714.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E01" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E01
-http://axr.life:80/series/968367/462903/2346715.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E02" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E02
-http://axr.life:80/series/968367/462903/2346716.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E03" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E03
-http://axr.life:80/series/968367/462903/2346717.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E04" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E04
-http://axr.life:80/series/968367/462903/2346718.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E05" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E05
-http://axr.life:80/series/968367/462903/2346719.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E06" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E06
-http://axr.life:80/series/968367/462903/2346720.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E07" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E07
-http://axr.life:80/series/968367/462903/2346721.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E08" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E08
-http://axr.life:80/series/968367/462903/2346722.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E09" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E09
-http://axr.life:80/series/968367/462903/2346723.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E10" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E10
-http://axr.life:80/series/968367/462903/2346724.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E11" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E11
-http://axr.life:80/series/968367/462903/2346725.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E12" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E12
-http://axr.life:80/series/968367/462903/2346726.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E13" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E13
-http://axr.life:80/series/968367/462903/2346727.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E14" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E14
-http://axr.life:80/series/968367/462903/2346728.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E15" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E15
-http://axr.life:80/series/968367/462903/2346729.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E16" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E16
-http://axr.life:80/series/968367/462903/2346730.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E17" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E17
-http://axr.life:80/series/968367/462903/2346731.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E18" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E18
-http://axr.life:80/series/968367/462903/2346732.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E19" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E19
-http://axr.life:80/series/968367/462903/2346733.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E20" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E20
-http://axr.life:80/series/968367/462903/2346734.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E21" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E21
-http://axr.life:80/series/968367/462903/2346735.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E22" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E22
-http://axr.life:80/series/968367/462903/2346736.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E23" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E23
-http://axr.life:80/series/968367/462903/2346737.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E24" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E24
-http://axr.life:80/series/968367/462903/2346738.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E25" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E25
-http://axr.life:80/series/968367/462903/2346739.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja Calca Quadrada S12 E26" tvg-logo="http://5ce.me:80/images/vzYIzF7izuXS5vKgFEhZwDTiCQ2_big.jpg" group-title="PARAMOUT +",Bob Esponja Calca Quadrada S12 E26
-http://axr.life:80/series/968367/462903/2346740.mp4
 
 #EXTM3U url-tvg="http://grade-de-SÉRIES | DIVERSAS.xml"
 ############## SÉRIES | DIVERSAS  ################# 
@@ -8784,6 +7417,91 @@ http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/104389.mp4
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/104390.mp4
 #EXTINF:-1 tvg-name="O Mentalista S07E12" tvg-logo="https://image.tmdb.org/t/p/w300/tE6WZnyyS6HI39sh24wZWIeNmd5.jpg" group-title="SÉRIES | DIVERSAS",O Mentalista S07E12
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/104391.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | DISNEY+.xml"
+############## SÉRIES | DISNEY+  ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | DISNEY+" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wyFkHgmHfZtUq76nR6PMbQ2q72x.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S01 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4d4EazkDFHs8fqq0LPlzCOUOO4j.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S01 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6FjzkDrWlxyN7uICTRS6Zorwni.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S01 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5AnaAfD126BIA0uu6mvI9N6LXPf.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S01 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DCQqOhThIt4ieZnyaC5rCdgX1X.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S01 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nOs61lQB9blR9hfdu7MAPjdZLhh.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S01 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9dHnv4RKisU1xbOKR3lHwS547UJ.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S01 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A8ekEYX137Tn4u4ZS3sbHRxCCIr.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S01 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/BJISBlYYcGMBYSKdDkc2WByzKn.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S02 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQfZjH7jz3Koz7NSXa98k9HvsfX.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S02 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5IxBn00M7aYdqNbCkUp10w5qtax.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S02 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyIudO5Y2xZpu1XVbzrl5U6JS9j.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S02 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/61JNMLjoMr39VpYkq8CDLrZtvWi.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S02 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4tlmPUTAevIyWOS4ZHGhuhDNchH.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S02 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hrDtN5MkqSq0s5hKizyxIj5XAC.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S02 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8LlNsIMTtgoIwzkkvP19lc2la8.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S02 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tWjO61okGiqwiaCZNekwT7vEB7.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S02 E09
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288240.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4bbX69k6e2dEKVBDiscAn62f03j.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S02 E10
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vpnBgGU4fCDqtCR2hwWB6egLikc.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S03 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288242.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jS7M66JkPU8GCQCKCSWnWuvkEDh.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S03 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99QL8xkf9hf0GMeQ0kx5E1vS4sC.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S03 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b8xJbvT02VZtGgXNeGwVAQKOtui.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S03 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWWE8qrxAB8Q43BwWguVju2bmNp.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S03 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/glzwqXk1SApfaCUZIH6g6vpZWqF.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S03 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bT2tJmu3V9PKIRMxXC3iRzS5BCJ.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S03 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ko3Z10L8aRxoOL9QHVoHhzikMqe.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S03 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN6d2XLb6lCoer118Ekkv8jsiBo.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S04 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7sDXJh6TRifVfTq0v9xcHyG71gR.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S04 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1HUCQFWMK7xKb1ELLpb6Q480n8.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S04 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7zEZ9T3WrsFaXCcFYjPEFQpim.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S04 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9iz5zArco4WiVkDD3cDvl1Q4c4Q.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S04 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgU3zwtK0KSndjdMbs86Hp9GbV9.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S04 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kcr3JHUGnkKD9IrVyJLbk4uLiOJ.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S04 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hyrbf8pKIBACbwn2isvppl1DQgK.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S04 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AsslIoWDva5OeQi15iWUJ9sOUBa.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S05 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k21v2548HxSyDcH0KPxafBzDOU4.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S05 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ugHUKWOF0cfxWFaTGu5mPAuIAj9.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S05 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSEt9MUm8rf9inzGjMfhWSptAoS.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S05 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czwUIA3p2gBtEZ9i4AEGrT2EqGM.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S05 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288262.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Maravilhosa Sra. Maisel S05 E06" tvg-logo="https://image.tmdb.org/t/p/w300/nT0l0wyyYSEVnot5TvzBOVLcTwL.jpg" group-title=" SÉRIES | Disney+",Maravilhosa Sra. Maisel S05 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289217.mp4
 
 #EXTM3U url-tvg="http://grade-de-SÉRIES | DISNEY+.xml"
 ############## SÉRIES | DISNEY+  ################# 
@@ -9184,6 +7902,11 @@ http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101383.mp4
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101384.mp4
 #EXTINF:-1 tvg-name="The Flash S06E15" tvg-logo="https://image.tmdb.org/t/p/w300/theU0p73PguZckx4sFNbPW9shSr.jpg" group-title="SÉRIES | NETFLIX",The Flash S06E15
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/101385.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | NETFLIX.xml"
+############## SÉRIES | NETFLIX ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | NETFLIX" group-title="
+
 #EXTINF:-1 tvg-name="O Menino Maluquinho S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | NETFLIX",O Menino Maluquinho S01E01
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778145.mp4
 #EXTINF:-1 tvg-name="O Menino Maluquinho S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | NETFLIX",O Menino Maluquinho S01E02
@@ -9236,6 +7959,11 @@ http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778168.mp4
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778169.mp4
 #EXTINF:-1 tvg-name="O Menino Maluquinho S01E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | NETFLIX",O Menino Maluquinho S01E26
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138778170.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | NETFLIX.xml"
+############## SÉRIES | NETFLIX ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | NETFLIX" group-title="
+
 #EXTINF:-1 tvg-name="Daniel, o Caçador de Magia S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1y8CQVXaO5FZsmig6caKqDqUcdU.jpg" group-title="SÉRIES | NETFLIX",Daniel, o Caçador de Magia S01E01
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138779725.mp4
 #EXTINF:-1 tvg-name="Daniel, o Caçador de Magia S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xWpngyMtcbKQ0QTqHNkooc0IQBW.jpg" group-title="SÉRIES | NETFLIX",Daniel, o Caçador de Magia S01E02
@@ -9256,680 +7984,181 @@ http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138779732.mp4
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138779733.mp4
 #EXTINF:-1 tvg-name="Daniel, o Caçador de Magia S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7xLz6sNiyfJawWhcoTXmJ155Ac.jpg" group-title="SÉRIES | NETFLIX",Daniel, o Caçador de Magia S01E10
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138779734.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E01" tvg-logo="http://7online.xyz:8080/images/e59bd17a6f1f97b3a4f9bb6779eab0a6.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E01
-http://7go.xyz:8080/series/zogbi11/982451290/217606.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E02" tvg-logo="http://7online.xyz:8080/images/205ab171ba0f574d61f5691b92ea69d3.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E02
-http://7go.xyz:8080/series/zogbi11/982451290/217607.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E03" tvg-logo="http://7online.xyz:8080/images/94f4a9298afcb1d8849a6709d3279ab4.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E03
-http://7go.xyz:8080/series/zogbi11/982451290/217608.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E04" tvg-logo="http://7online.xyz:8080/images/3d90c89db18e57677ade62cec743fba6.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E04
-http://7go.xyz:8080/series/zogbi11/982451290/217609.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E05" tvg-logo="http://7online.xyz:8080/images/11010b574f8b5ad935539b4be8811d34.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E05
-http://7go.xyz:8080/series/zogbi11/982451290/217610.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E06" tvg-logo="http://7online.xyz:8080/images/c8e84b064f7e5fabc32a20bc4feea351.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E06
-http://7go.xyz:8080/series/zogbi11/982451290/217611.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E07" tvg-logo="http://7online.xyz:8080/images/767460ea1006281df4d5a7aa27c86189.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E07
-http://7go.xyz:8080/series/zogbi11/982451290/217612.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E08" tvg-logo="http://7online.xyz:8080/images/cb465837b879c6f9914291ac23362cce.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E08
-http://7go.xyz:8080/series/zogbi11/982451290/217613.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E09" tvg-logo="http://7online.xyz:8080/images/55bddef2c1e0840e84343653257e0743.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E09
-http://7go.xyz:8080/series/zogbi11/982451290/217614.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S01 E10" tvg-logo="http://7online.xyz:8080/images/2305c2aefb50ff819608e92175535c3f.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S01 E10
-http://7go.xyz:8080/series/zogbi11/982451290/217615.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E01" tvg-logo="http://7online.xyz:8080/images/371f6bc49728e56090e0ce05f1427060.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E01
-http://7go.xyz:8080/series/zogbi11/982451290/217628.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E02" tvg-logo="http://7online.xyz:8080/images/b00ba4576b84f84af17d762faa677e55.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E02
-http://7go.xyz:8080/series/zogbi11/982451290/217629.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E03" tvg-logo="http://7online.xyz:8080/images/1a943c1d33d8e9d0162c9ba448924db3.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E03
-http://7go.xyz:8080/series/zogbi11/982451290/217630.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E04" tvg-logo="http://7online.xyz:8080/images/87e86ff82e83850b93a09ad1cc367f37.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E04
-http://7go.xyz:8080/series/zogbi11/982451290/217631.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E05" tvg-logo="http://7online.xyz:8080/images/263d14c68b37dc69767ee0bc8505e719.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E05
-http://7go.xyz:8080/series/zogbi11/982451290/217632.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E06" tvg-logo="http://7online.xyz:8080/images/cbff08dc7ccabc3312a0845ccb2c1a1e.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E06
-http://7go.xyz:8080/series/zogbi11/982451290/217633.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E07" tvg-logo="http://7online.xyz:8080/images/9d395ab97f18895dada03492ad82eb5a.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E07
-http://7go.xyz:8080/series/zogbi11/982451290/217634.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E08" tvg-logo="http://7online.xyz:8080/images/daa9912b1d5a216a5402318517084192.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E08
-http://7go.xyz:8080/series/zogbi11/982451290/217635.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E09" tvg-logo="http://7online.xyz:8080/images/f4427297dfc820a05503cbb81a9eb1a9.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E09
-http://7go.xyz:8080/series/zogbi11/982451290/217636.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S02 E10" tvg-logo="http://7online.xyz:8080/images/b673adf4dd74f0265fea471d21a217e8.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S02 E10
-http://7go.xyz:8080/series/zogbi11/982451290/217637.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E01" tvg-logo="http://7online.xyz:8080/images/85bf7e4e63eb97032c33fb662a2dbd34.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E01
-http://7go.xyz:8080/series/zogbi11/982451290/217652.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E02" tvg-logo="http://7online.xyz:8080/images/5336b07ab1c7f9e5293224367a2b95b3.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E02
-http://7go.xyz:8080/series/zogbi11/982451290/217653.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E03" tvg-logo="http://7online.xyz:8080/images/858b1fcfd92027504bd55be1bb72bf9b.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E03
-http://7go.xyz:8080/series/zogbi11/982451290/217654.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E04" tvg-logo="http://7online.xyz:8080/images/cc2f9e972252485e408bf222fdad3722.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E04
-http://7go.xyz:8080/series/zogbi11/982451290/217655.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E05" tvg-logo="http://7online.xyz:8080/images/3f017aa8aa5928aaa73c8010dc7fde4c.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E05
-http://7go.xyz:8080/series/zogbi11/982451290/217656.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E06" tvg-logo="http://7online.xyz:8080/images/4374453a0742a13c4c828a8a97b50217.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E06
-http://7go.xyz:8080/series/zogbi11/982451290/217657.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E07" tvg-logo="http://7online.xyz:8080/images/9d9764c7af7a37faefc4048a68ae5b31.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E07
-http://7go.xyz:8080/series/zogbi11/982451290/217658.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E08" tvg-logo="http://7online.xyz:8080/images/4e6024cbc68b2a7b076fa148145e4227.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E08
-http://7go.xyz:8080/series/zogbi11/982451290/217659.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E09" tvg-logo="http://7online.xyz:8080/images/d95dba380dfff7201337ebdc256eb638.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E09
-http://7go.xyz:8080/series/zogbi11/982451290/217660.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S03 E10" tvg-logo="http://7online.xyz:8080/images/734c20ed955b7b41438f74bf3a44a6a0.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S03 E10
-http://7go.xyz:8080/series/zogbi11/982451290/217661.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E01" tvg-logo="http://7online.xyz:8080/images/8720c451890311f8ce862604a7faac3b.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E01
-http://7go.xyz:8080/series/zogbi11/982451290/217674.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E02" tvg-logo="http://7online.xyz:8080/images/d164f0e7f058db9b87fbe370c2029010.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E02
-http://7go.xyz:8080/series/zogbi11/982451290/217675.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E03" tvg-logo="http://7online.xyz:8080/images/dd9bbfa84b5e5119aacc5a42da5ecd54.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E03
-http://7go.xyz:8080/series/zogbi11/982451290/217676.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E04" tvg-logo="http://7online.xyz:8080/images/12df4e84701cdb569300fd43be6e327c.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E04
-http://7go.xyz:8080/series/zogbi11/982451290/217677.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E05" tvg-logo="http://7online.xyz:8080/images/f87382dee6f4a6b16dbac1acef38d510.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E05
-http://7go.xyz:8080/series/zogbi11/982451290/217678.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E06" tvg-logo="http://7online.xyz:8080/images/47bd926a378861cb150c26d12c501568.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E06
-http://7go.xyz:8080/series/zogbi11/982451290/217679.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E07" tvg-logo="http://7online.xyz:8080/images/395d583e2eaa4adffc86c7af4e6abf89.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E07
-http://7go.xyz:8080/series/zogbi11/982451290/217680.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E08" tvg-logo="http://7online.xyz:8080/images/477d9497c8059e3a6c5ceb50991ac4f2.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E08
-http://7go.xyz:8080/series/zogbi11/982451290/217681.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E09" tvg-logo="http://7online.xyz:8080/images/afc94ae96d7de02e557b464203f6ccdf.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E09
-http://7go.xyz:8080/series/zogbi11/982451290/217682.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S04 E10" tvg-logo="http://7online.xyz:8080/images/933b4e0019e321c9bba1b9fa76231cce.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S04 E10
-http://7go.xyz:8080/series/zogbi11/982451290/217683.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E01" tvg-logo="http://7online.xyz:8080/images/3ea6da1310e43d747801b8c88ee59ef9.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E01
-http://7go.xyz:8080/series/zogbi11/982451290/225202.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E02" tvg-logo="http://7online.xyz:8080/images/0a5aca2029e39b50b06f2ec6cb8af9c9.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E02
-http://7go.xyz:8080/series/zogbi11/982451290/225203.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E03" tvg-logo="http://7online.xyz:8080/images/58239103cfc669825c00e2dc6ab9d764.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E03
-http://7go.xyz:8080/series/zogbi11/982451290/225204.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E04" tvg-logo="http://7online.xyz:8080/images/042d8cfe5fa9f8c2a84bd60260912099.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E04
-http://7go.xyz:8080/series/zogbi11/982451290/225205.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E05" tvg-logo="http://7online.xyz:8080/images/1abc18cdbd8d3dc78120303fc207e2ca.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E05
-http://7go.xyz:8080/series/zogbi11/982451290/225206.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E06" tvg-logo="http://7online.xyz:8080/images/04d85d96da42cf26d1cfb88f042250ea.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E06
-http://7go.xyz:8080/series/zogbi11/982451290/225207.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E07" tvg-logo="http://7online.xyz:8080/images/51838175a6b5ee2373e53876b08acf93.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E07
-http://7go.xyz:8080/series/zogbi11/982451290/225208.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E08" tvg-logo="http://7online.xyz:8080/images/fb070677dd2971dc875f7e3cabaf4d9c.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E08
-http://7go.xyz:8080/series/zogbi11/982451290/225209.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E09" tvg-logo="http://7online.xyz:8080/images/01996e365e22c0c47854ca525764e727.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E09
-http://7go.xyz:8080/series/zogbi11/982451290/225210.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Cobra Kai (2018) S05 E10" tvg-logo="http://7online.xyz:8080/images/8f5e59f153c0cc5d73b5eb01ce140ab4.jpg" group-title="SERIES | NETFLIX",Cobra Kai (2018) S05 E10
-http://7go.xyz:8080/series/zogbi11/982451290/225211.mp4
 
-#EXTM3U url-tvg="http://grade-de-SERIES | AMAZON.xml"
-############## SERIES | AMAZON ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSERIES | AMAZON" group-title="
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Netflix.xml"
+############## SÉRIES | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Netflix" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E01" tvg-logo="http://7online.xyz:8080/images/1fb4f2c1ad84052d61ca197e43f45177.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E01
-http://7go.xyz:8080/series/zogbi11/982451290/210585.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E02" tvg-logo="http://7online.xyz:8080/images/98b41078af6fac92c452ae755cee8384.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E02
-http://7go.xyz:8080/series/zogbi11/982451290/210586.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E03" tvg-logo="http://7online.xyz:8080/images/38027e29539427bfd007ecd35db437e8.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E03
-http://7go.xyz:8080/series/zogbi11/982451290/210587.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E04" tvg-logo="http://7online.xyz:8080/images/562df63577b56f6f775fd0e889bd99e0.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E04
-http://7go.xyz:8080/series/zogbi11/982451290/210588.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E05" tvg-logo="http://7online.xyz:8080/images/ffda5169aef6dcd1177f66b904276906.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E05
-http://7go.xyz:8080/series/zogbi11/982451290/210589.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E06" tvg-logo="http://7online.xyz:8080/images/6828e50d1de51d602caf429b33f7253d.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E06
-http://7go.xyz:8080/series/zogbi11/982451290/210590.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E07" tvg-logo="http://7online.xyz:8080/images/b7d8e02ed1549ceb319acd31a2408776.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E07
-http://7go.xyz:8080/series/zogbi11/982451290/210591.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E08" tvg-logo="http://7online.xyz:8080/images/758a81f1942ff3c31c523bd8e6da1001.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E08
-http://7go.xyz:8080/series/zogbi11/982451290/210592.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E09" tvg-logo="http://7online.xyz:8080/images/b7bf9e0051e0e7ac3c90a8c306c1279a.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E09
-http://7go.xyz:8080/series/zogbi11/982451290/210593.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E10" tvg-logo="http://7online.xyz:8080/images/a7d3d887469d914653d0378a136671b5.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E10
-http://7go.xyz:8080/series/zogbi11/982451290/210594.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E11" tvg-logo="http://7online.xyz:8080/images/eb024a683ff9d651af921d766ad8dca9.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E11
-http://7go.xyz:8080/series/zogbi11/982451290/210595.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E12" tvg-logo="http://7online.xyz:8080/images/cf8a1e8a867984c6779a4ec7e9827f77.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E12
-http://7go.xyz:8080/series/zogbi11/982451290/210596.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E13" tvg-logo="http://7online.xyz:8080/images/8e99aa1089a6272e9206d146245f9d2d.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E13
-http://7go.xyz:8080/series/zogbi11/982451290/210597.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E14" tvg-logo="http://7online.xyz:8080/images/83857585b72c82f6073598806e5897da.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E14
-http://7go.xyz:8080/series/zogbi11/982451290/210598.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E15" tvg-logo="http://7online.xyz:8080/images/d998728a3baa95d1a3ef931ea858276f.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E15
-http://7go.xyz:8080/series/zogbi11/982451290/210599.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E16" tvg-logo="http://7online.xyz:8080/images/ba2714d751139d62c36610532acf68d2.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E16
-http://7go.xyz:8080/series/zogbi11/982451290/210600.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E17" tvg-logo="http://7online.xyz:8080/images/5710b2b757300ea9254a0b03c0ed9eb1.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E17
-http://7go.xyz:8080/series/zogbi11/982451290/210601.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S01 E18" tvg-logo="http://7online.xyz:8080/images/2313153d1a21ec80b0a224053aa1982d.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S01 E18
-http://7go.xyz:8080/series/zogbi11/982451290/210602.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E01" tvg-logo="http://7online.xyz:8080/images/218c8e357aab5fc77be556da64cf6a17.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E01
-http://7go.xyz:8080/series/zogbi11/982451290/210603.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E02" tvg-logo="http://7online.xyz:8080/images/e339b74d5967cb19ac5572b1867629a6.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E02
-http://7go.xyz:8080/series/zogbi11/982451290/210604.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E03" tvg-logo="http://7online.xyz:8080/images/746e4a2058c85dcdf2676a4b4235e949.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E03
-http://7go.xyz:8080/series/zogbi11/982451290/210605.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E04" tvg-logo="http://7online.xyz:8080/images/55496032714addc952c6f1d2287ab0f9.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E04
-http://7go.xyz:8080/series/zogbi11/982451290/210606.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E05" tvg-logo="http://7online.xyz:8080/images/cfae64d8f4226f271ae92ced9fa0661a.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E05
-http://7go.xyz:8080/series/zogbi11/982451290/210607.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E06" tvg-logo="http://7online.xyz:8080/images/fcc8c4848f2f7cd15e69179b2fcfc188.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E06
-http://7go.xyz:8080/series/zogbi11/982451290/210608.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E07" tvg-logo="http://7online.xyz:8080/images/6653e357282fae22c3b3f168c0d3c350.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E07
-http://7go.xyz:8080/series/zogbi11/982451290/210609.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E08" tvg-logo="http://7online.xyz:8080/images/40da92942c5e781c7641bfeeb2d93a43.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E08
-http://7go.xyz:8080/series/zogbi11/982451290/210610.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E09" tvg-logo="http://7online.xyz:8080/images/db758a7ff41a95f486a5b666563bc752.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E09
-http://7go.xyz:8080/series/zogbi11/982451290/210611.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E10" tvg-logo="http://7online.xyz:8080/images/dffcf4c3273817e700356b27d6c50473.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E10
-http://7go.xyz:8080/series/zogbi11/982451290/210612.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E11" tvg-logo="http://7online.xyz:8080/images/eac2448cefc87829b8aae2339b5ceddc.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E11
-http://7go.xyz:8080/series/zogbi11/982451290/210613.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E12" tvg-logo="http://7online.xyz:8080/images/d35bfe0bcf11e24ac08fa871a08114d5.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E12
-http://7go.xyz:8080/series/zogbi11/982451290/210614.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E13" tvg-logo="http://7online.xyz:8080/images/50774ca12b87c0d37caaa178b1f2e864.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E13
-http://7go.xyz:8080/series/zogbi11/982451290/210615.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E14" tvg-logo="http://7online.xyz:8080/images/c97146c9bd97181172f219358bc7a524.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E14
-http://7go.xyz:8080/series/zogbi11/982451290/210616.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E15" tvg-logo="http://7online.xyz:8080/images/1d36b01f25b927a252e7cf005a5e2378.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E15
-http://7go.xyz:8080/series/zogbi11/982451290/210617.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E16" tvg-logo="http://7online.xyz:8080/images/e2b26386490b0aea39bbe2e8afe0d44a.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E16
-http://7go.xyz:8080/series/zogbi11/982451290/210618.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E17" tvg-logo="http://7online.xyz:8080/images/26e46bf8eed54a1b9198f818dc7d416e.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E17
-http://7go.xyz:8080/series/zogbi11/982451290/210619.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E18" tvg-logo="http://7online.xyz:8080/images/c5ebe84ada2095382aff6dee5aba26c4.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E18
-http://7go.xyz:8080/series/zogbi11/982451290/210620.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E19" tvg-logo="http://7online.xyz:8080/images/4e8bdb92bb36cd68e13926dc119acdaa.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E19
-http://7go.xyz:8080/series/zogbi11/982451290/210621.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E20" tvg-logo="http://7online.xyz:8080/images/6331f4e2b2377dab64e5e4c4e294423a.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E20
-http://7go.xyz:8080/series/zogbi11/982451290/210622.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E21" tvg-logo="http://7online.xyz:8080/images/64703bd2855e4b010ccccba831726482.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E21
-http://7go.xyz:8080/series/zogbi11/982451290/210623.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S02 E22" tvg-logo="http://7online.xyz:8080/images/9c3c7711a9ddbaf6bb3f9732a9b5ce7d.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S02 E22
-http://7go.xyz:8080/series/zogbi11/982451290/210624.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E01" tvg-logo="http://7online.xyz:8080/images/460457116235cbfbfa4397285b3463c7.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E01
-http://7go.xyz:8080/series/zogbi11/982451290/210625.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E02" tvg-logo="http://7online.xyz:8080/images/015ed784d77e45c8dc23a57464dea3f3.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E02
-http://7go.xyz:8080/series/zogbi11/982451290/210626.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E03" tvg-logo="http://7online.xyz:8080/images/04fa7878ec3e2604339511d652320da0.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E03
-http://7go.xyz:8080/series/zogbi11/982451290/210627.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E04" tvg-logo="http://7online.xyz:8080/images/823e5c1a44d52e93932270d88b6c4b5e.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E04
-http://7go.xyz:8080/series/zogbi11/982451290/210628.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E05" tvg-logo="http://7online.xyz:8080/images/01f363b8ca82d88b5c5216195d58d620.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E05
-http://7go.xyz:8080/series/zogbi11/982451290/210629.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E06" tvg-logo="http://7online.xyz:8080/images/9647c3416575e9538c90c0dcaa019bca.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E06
-http://7go.xyz:8080/series/zogbi11/982451290/210630.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E07" tvg-logo="http://7online.xyz:8080/images/1a5995c63b5de56884e5e231e792bb4f.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E07
-http://7go.xyz:8080/series/zogbi11/982451290/210631.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E08" tvg-logo="http://7online.xyz:8080/images/36a3b40a382200f633f349957d5c611d.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E08
-http://7go.xyz:8080/series/zogbi11/982451290/210632.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E09" tvg-logo="http://7online.xyz:8080/images/87be4ba12b871f200538f415e7c5f229.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E09
-http://7go.xyz:8080/series/zogbi11/982451290/210633.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E10" tvg-logo="http://7online.xyz:8080/images/2b53b0dc5cb240458edbbd62cf614ab1.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E10
-http://7go.xyz:8080/series/zogbi11/982451290/210634.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E11" tvg-logo="http://7online.xyz:8080/images/e0fa253935dc50850c9cce9cc79f18a1.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E11
-http://7go.xyz:8080/series/zogbi11/982451290/210635.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E12" tvg-logo="http://7online.xyz:8080/images/eb8f5d1d8dd6eaf5f0be80168f1258ac.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E12
-http://7go.xyz:8080/series/zogbi11/982451290/210636.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E13" tvg-logo="http://7online.xyz:8080/images/964c620da17d363c1c9b0f9a24de729b.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E13
-http://7go.xyz:8080/series/zogbi11/982451290/210637.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E14" tvg-logo="http://7online.xyz:8080/images/2b969bf1e5149d379f2884f88f35122a.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E14
-http://7go.xyz:8080/series/zogbi11/982451290/210638.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E15" tvg-logo="http://7online.xyz:8080/images/91108bf1fbe7f0d09465b20dd7042a33.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E15
-http://7go.xyz:8080/series/zogbi11/982451290/210639.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E16" tvg-logo="http://7online.xyz:8080/images/f92a432978a3c48f335d538794e86ab3.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E16
-http://7go.xyz:8080/series/zogbi11/982451290/210640.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E17" tvg-logo="http://7online.xyz:8080/images/11b92ddc75b096dca3db66fd65285300.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E17
-http://7go.xyz:8080/series/zogbi11/982451290/210641.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E18" tvg-logo="http://7online.xyz:8080/images/09c5b62966ad2b3f6cf76e49f48f4774.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E18
-http://7go.xyz:8080/series/zogbi11/982451290/210642.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E19" tvg-logo="http://7online.xyz:8080/images/cf7fece050d93bfcaedf2dc166e15657.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E19
-http://7go.xyz:8080/series/zogbi11/982451290/210643.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S03 E20" tvg-logo="http://7online.xyz:8080/images/15f0350d9560ccea1673a6d241305d03.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S03 E20
-http://7go.xyz:8080/series/zogbi11/982451290/210644.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E01" tvg-logo="http://7online.xyz:8080/images/1cc7ddc83e2856bdc5775f52d4e8aad3.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E01
-http://7go.xyz:8080/series/zogbi11/982451290/210645.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E02" tvg-logo="http://7online.xyz:8080/images/c4e7f9d24dc6114d4437c0cc1fb7b3e6.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E02
-http://7go.xyz:8080/series/zogbi11/982451290/210646.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E03" tvg-logo="http://7online.xyz:8080/images/27f6d4bcce3a5c1f339c3a076450c03c.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E03
-http://7go.xyz:8080/series/zogbi11/982451290/210647.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E04" tvg-logo="http://7online.xyz:8080/images/59125b5d472a8f1cf8ec4ce72487d026.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E04
-http://7go.xyz:8080/series/zogbi11/982451290/210648.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E05" tvg-logo="http://7online.xyz:8080/images/9cddd1fab9cf0f0308f84168bde82b2a.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E05
-http://7go.xyz:8080/series/zogbi11/982451290/210649.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E06" tvg-logo="http://7online.xyz:8080/images/ff7b5ba5ac03edcfc50901f86d02d875.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E06
-http://7go.xyz:8080/series/zogbi11/982451290/210650.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E07" tvg-logo="http://7online.xyz:8080/images/73ff181215c8d47e2010a65f26f582b6.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E07
-http://7go.xyz:8080/series/zogbi11/982451290/210651.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E08" tvg-logo="http://7online.xyz:8080/images/e3cecf0acfdb329f40e089423717d4d3.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E08
-http://7go.xyz:8080/series/zogbi11/982451290/210652.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E09" tvg-logo="http://7online.xyz:8080/images/d852df262cffd1b2ed690c6e76bb522c.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E09
-http://7go.xyz:8080/series/zogbi11/982451290/210653.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E10" tvg-logo="http://7online.xyz:8080/images/9c36d3764afe92be1d1666806d7af876.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E10
-http://7go.xyz:8080/series/zogbi11/982451290/210654.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E11" tvg-logo="http://7online.xyz:8080/images/67cf4d9f1e366f8f537c81207fc937b5.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E11
-http://7go.xyz:8080/series/zogbi11/982451290/210655.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E12" tvg-logo="http://7online.xyz:8080/images/7fd6fa24b7970b98ff6b0be6ff1dcbc0.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E12
-http://7go.xyz:8080/series/zogbi11/982451290/210656.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E13" tvg-logo="http://7online.xyz:8080/images/4502ab00f97c6e96877b75b66f5f2c57.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E13
-http://7go.xyz:8080/series/zogbi11/982451290/210657.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E14" tvg-logo="http://7online.xyz:8080/images/5303c938fc6f8457f87cde874ac38cb1.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E14
-http://7go.xyz:8080/series/zogbi11/982451290/210658.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E15" tvg-logo="http://7online.xyz:8080/images/68bf7c3369bf366ff8fd95608e8cc59d.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E15
-http://7go.xyz:8080/series/zogbi11/982451290/210659.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E16" tvg-logo="http://7online.xyz:8080/images/7c85915b9e240b2ae0f795296aba7b64.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E16
-http://7go.xyz:8080/series/zogbi11/982451290/210660.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E17" tvg-logo="http://7online.xyz:8080/images/c92931ff8a1541a0b6b6b7a7f4540ee8.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E17
-http://7go.xyz:8080/series/zogbi11/982451290/210661.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E18" tvg-logo="http://7online.xyz:8080/images/48a0350caa8622d9e82a939674f20eb6.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E18
-http://7go.xyz:8080/series/zogbi11/982451290/210662.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E19" tvg-logo="http://7online.xyz:8080/images/356af9d40889d2bdf0db67a3e5a458bc.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E19
-http://7go.xyz:8080/series/zogbi11/982451290/210663.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E20" tvg-logo="http://7online.xyz:8080/images/176c0e589a3993d181efc20c549e3f5e.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E20
-http://7go.xyz:8080/series/zogbi11/982451290/210664.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E21" tvg-logo="http://7online.xyz:8080/images/ae43d0f0ef068d5faea50920391e359c.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E21
-http://7go.xyz:8080/series/zogbi11/982451290/210665.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S04 E22" tvg-logo="http://7online.xyz:8080/images/e55aafd7c6e55fc716ddfe8eb6f25567.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S04 E22
-http://7go.xyz:8080/series/zogbi11/982451290/210666.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E01" tvg-logo="http://7online.xyz:8080/images/b535dc69fbb5e3c517ba60187600ab99.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E01
-http://7go.xyz:8080/series/zogbi11/982451290/210667.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E02" tvg-logo="http://7online.xyz:8080/images/c0aa050b983ff813a4958beafc5e7850.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E02
-http://7go.xyz:8080/series/zogbi11/982451290/210668.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E03" tvg-logo="http://7online.xyz:8080/images/fe8e6163ed5e82420127eb80f56aa3db.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E03
-http://7go.xyz:8080/series/zogbi11/982451290/210669.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E04" tvg-logo="http://7online.xyz:8080/images/e6341a09c2b794a0b8a023ba493592dc.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E04
-http://7go.xyz:8080/series/zogbi11/982451290/210670.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E05" tvg-logo="http://7online.xyz:8080/images/f8cfeaa63fb71ff23b6bd17e7e7946c0.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E05
-http://7go.xyz:8080/series/zogbi11/982451290/210671.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E06" tvg-logo="http://7online.xyz:8080/images/06cfe8bc0186b22f14ea210176807880.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E06
-http://7go.xyz:8080/series/zogbi11/982451290/210672.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E07" tvg-logo="http://7online.xyz:8080/images/ed2cae01efd24b41266fc34667c09ba2.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E07
-http://7go.xyz:8080/series/zogbi11/982451290/210673.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E08" tvg-logo="http://7online.xyz:8080/images/1d9b10509678f2b589def85f2d771824.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E08
-http://7go.xyz:8080/series/zogbi11/982451290/210674.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E09" tvg-logo="http://7online.xyz:8080/images/c09af087e97c1bf4c90018664986f8cb.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E09
-http://7go.xyz:8080/series/zogbi11/982451290/210675.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E10" tvg-logo="http://7online.xyz:8080/images/5509fe6f54a52a9234f21891e7df70ce.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E10
-http://7go.xyz:8080/series/zogbi11/982451290/210676.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E11" tvg-logo="http://7online.xyz:8080/images/f31ca969de6ccba0ce0740f98043abca.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E11
-http://7go.xyz:8080/series/zogbi11/982451290/210677.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E12" tvg-logo="http://7online.xyz:8080/images/c793f7addd73f5f882754777208288ac.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E12
-http://7go.xyz:8080/series/zogbi11/982451290/210678.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E13" tvg-logo="http://7online.xyz:8080/images/4dbdc667a021497c53da2c4c0a7fe655.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E13
-http://7go.xyz:8080/series/zogbi11/982451290/210679.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E14" tvg-logo="http://7online.xyz:8080/images/e6c2b2047bce5c451b98d04003b09547.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E14
-http://7go.xyz:8080/series/zogbi11/982451290/210680.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E15" tvg-logo="http://7online.xyz:8080/images/2af092a0c2f0e51b8abb72deaede949e.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E15
-http://7go.xyz:8080/series/zogbi11/982451290/210681.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E16" tvg-logo="http://7online.xyz:8080/images/6c7cc54093623145de10652407387014.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E16
-http://7go.xyz:8080/series/zogbi11/982451290/210682.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E17" tvg-logo="http://7online.xyz:8080/images/f9c56ac37d00e5ae7549dada30f4636e.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E17
-http://7go.xyz:8080/series/zogbi11/982451290/210683.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E18" tvg-logo="http://7online.xyz:8080/images/ffe2a342286e9f4ab0e22dff9dd0e029.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E18
-http://7go.xyz:8080/series/zogbi11/982451290/210684.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E19" tvg-logo="http://7online.xyz:8080/images/125bde9a19156ede817d6bbe805eff7c.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E19
-http://7go.xyz:8080/series/zogbi11/982451290/210685.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S05 E20" tvg-logo="http://7online.xyz:8080/images/255ee62b1bc7e802367ac275776917c9.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S05 E20
-http://7go.xyz:8080/series/zogbi11/982451290/210686.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E01" tvg-logo="http://7online.xyz:8080/images/a8a2406acc37ad262ad53a47cb034415.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E01
-http://7go.xyz:8080/series/zogbi11/982451290/210687.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E02" tvg-logo="http://7online.xyz:8080/images/85316cbcfbab8c4eb59a1e50bb7baea3.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E02
-http://7go.xyz:8080/series/zogbi11/982451290/210688.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E03" tvg-logo="http://7online.xyz:8080/images/377ce4e64173f07b7a1819b981c17eff.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E03
-http://7go.xyz:8080/series/zogbi11/982451290/210689.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E04" tvg-logo="http://7online.xyz:8080/images/d57e0f17b4617daead57daaabdbecb1b.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E04
-http://7go.xyz:8080/series/zogbi11/982451290/210690.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E05" tvg-logo="http://7online.xyz:8080/images/e0daa104ac4f50f97a70591cc1d77d2b.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E05
-http://7go.xyz:8080/series/zogbi11/982451290/210691.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E06" tvg-logo="http://7online.xyz:8080/images/a7884bc181972c6cf64b02fbde8059e4.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E06
-http://7go.xyz:8080/series/zogbi11/982451290/210692.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E07" tvg-logo="http://7online.xyz:8080/images/75fb14ece3cfbfa2c4294b8847acc1f3.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E07
-http://7go.xyz:8080/series/zogbi11/982451290/210693.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E08" tvg-logo="http://7online.xyz:8080/images/d4a25936fb999caaf376fe2ab4b3643c.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E08
-http://7go.xyz:8080/series/zogbi11/982451290/210694.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E09" tvg-logo="http://7online.xyz:8080/images/6333e8dcc35099277aca9b1fdcbff08a.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E09
-http://7go.xyz:8080/series/zogbi11/982451290/210695.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E10" tvg-logo="http://7online.xyz:8080/images/295b72b1ff835ecfed86f365145c18c6.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E10
-http://7go.xyz:8080/series/zogbi11/982451290/210696.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E11" tvg-logo="http://7online.xyz:8080/images/b9846bf3f29f771d9b56786557c8c9b4.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E11
-http://7go.xyz:8080/series/zogbi11/982451290/210697.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E12" tvg-logo="http://7online.xyz:8080/images/e9c312873125082330d62ea0e4549e4f.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E12
-http://7go.xyz:8080/series/zogbi11/982451290/210698.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E13" tvg-logo="http://7online.xyz:8080/images/11bf7b58146820b8a1e7ce34438c64f7.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E13
-http://7go.xyz:8080/series/zogbi11/982451290/210699.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E14" tvg-logo="http://7online.xyz:8080/images/1c7ca4937943c6e67e6cc3d061e0672d.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E14
-http://7go.xyz:8080/series/zogbi11/982451290/210700.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E15" tvg-logo="http://7online.xyz:8080/images/39999626f3e919d8c2913ea399ba62f4.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E15
-http://7go.xyz:8080/series/zogbi11/982451290/210701.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S06 E16" tvg-logo="http://7online.xyz:8080/images/3c96d6661e830e763fc693d6e351dcce.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S06 E16
-http://7go.xyz:8080/series/zogbi11/982451290/210702.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E01" tvg-logo="http://7online.xyz:8080/images/b0efc018cbb9ff818a2fc8dba53eb0aa.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E01
-http://7go.xyz:8080/series/zogbi11/982451290/210703.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E02" tvg-logo="http://7online.xyz:8080/images/e6d842df2719da053cbb75ea2b72cd7f.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E02
-http://7go.xyz:8080/series/zogbi11/982451290/210704.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E03" tvg-logo="http://7online.xyz:8080/images/2a3475e6256964ed37f016b65bb416a5.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E03
-http://7go.xyz:8080/series/zogbi11/982451290/210705.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E04" tvg-logo="http://7online.xyz:8080/images/6a465bed685d2c6e33afa63f2ff3dc21.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E04
-http://7go.xyz:8080/series/zogbi11/982451290/210706.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E05" tvg-logo="http://7online.xyz:8080/images/8af7651f54d48895d1825e50caee5869.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E05
-http://7go.xyz:8080/series/zogbi11/982451290/210707.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E06" tvg-logo="http://7online.xyz:8080/images/9c5650f15f4d1b8e5efa840d536b7bb2.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E06
-http://7go.xyz:8080/series/zogbi11/982451290/210708.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E07" tvg-logo="http://7online.xyz:8080/images/463f8fd33ddea12993021c2f86199140.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E07
-http://7go.xyz:8080/series/zogbi11/982451290/210709.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E08" tvg-logo="http://7online.xyz:8080/images/757f70e8dbaa44da7ca5809764ab2c6c.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E08
-http://7go.xyz:8080/series/zogbi11/982451290/210710.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E09" tvg-logo="http://7online.xyz:8080/images/8afb93105eb8eb1438431a4b1c48efb1.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E09
-http://7go.xyz:8080/series/zogbi11/982451290/210711.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E10" tvg-logo="http://7online.xyz:8080/images/1f86b5346dbac06183bf0487f9fd4788.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E10
-http://7go.xyz:8080/series/zogbi11/982451290/210712.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E11" tvg-logo="http://7online.xyz:8080/images/b2f15b9382db986a7d3174bf26214a5e.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E11
-http://7go.xyz:8080/series/zogbi11/982451290/210713.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E12" tvg-logo="http://7online.xyz:8080/images/20bb471f9a42ef290950dcc49e079866.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E12
-http://7go.xyz:8080/series/zogbi11/982451290/210714.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E13" tvg-logo="http://7online.xyz:8080/images/223fad7a61a4efe442f68d9c26f6fb15.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E13
-http://7go.xyz:8080/series/zogbi11/982451290/296644.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E14" tvg-logo="http://7online.xyz:8080/images/c4d5693b96e243584c166f74417b45c3.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E14
-http://7go.xyz:8080/series/zogbi11/982451290/210716.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E15" tvg-logo="http://7online.xyz:8080/images/d08f37f57503c608b8feaf6cec3f3811.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E15
-http://7go.xyz:8080/series/zogbi11/982451290/210717.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E16" tvg-logo="http://7online.xyz:8080/images/7a6442abc8abcf916272231edf3348c3.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E16
-http://7go.xyz:8080/series/zogbi11/982451290/210718.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E17" tvg-logo="http://7online.xyz:8080/images/968564059f8a3526cf5c5b872fa1852f.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E17
-http://7go.xyz:8080/series/zogbi11/982451290/210719.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E18" tvg-logo="http://7online.xyz:8080/images/3d25b41057635c7e1af93438ef65b80a.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E18
-http://7go.xyz:8080/series/zogbi11/982451290/210720.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E19" tvg-logo="http://7online.xyz:8080/images/70806d36ed45b7b087d591b08cb5a837.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E19
-http://7go.xyz:8080/series/zogbi11/982451290/210721.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E20" tvg-logo="http://7online.xyz:8080/images/37fd7156cccac5d1b89fcbd17016e39f.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E20
-http://7go.xyz:8080/series/zogbi11/982451290/210722.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E21" tvg-logo="http://7online.xyz:8080/images/ba24e6ddcc58b8efa69a2618ce597635.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E21
-http://7go.xyz:8080/series/zogbi11/982451290/210723.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Chicago Med (2015) S07 E22" tvg-logo="http://7online.xyz:8080/images/ba1b40bd885270ba41e53668b6c4f41c.jpg" group-title="SERIES | AMAZON",Chicago Med (2015) S07 E22
-http://7go.xyz:8080/series/zogbi11/982451290/210724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k0LvYwVcJYOq7YmABqXs41HWBEr.jpg" group-title=" SÉRIES | Netflix",Sandman S01 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/250422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGsvL1VEcpSirQK9fHmv1IsjUG2.jpg" group-title=" SÉRIES | Netflix",Sandman S01 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/250423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tge5yBQKktKmsvtqoXWBYndAwxW.jpg" group-title=" SÉRIES | Netflix",Sandman S01 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/250424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4PUXbuhmp39jN5f7miSOWGIBq76.jpg" group-title=" SÉRIES | Netflix",Sandman S01 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/250425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyAxCf27BFCL3eNaLPiyh44kVMv.jpg" group-title=" SÉRIES | Netflix",Sandman S01 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/250426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/IpMD0EYgQ6nS23tTmoAP2lLAz0.jpg" group-title=" SÉRIES | Netflix",Sandman S01 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/250427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0Raj4r9uG4noZNTb7hYffkmut8.jpg" group-title=" SÉRIES | Netflix",Sandman S01 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/250428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhaJ4kktv8zFK0D1tov78B2Xxa9.jpg" group-title=" SÉRIES | Netflix",Sandman S01 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/250429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AjMlbxXVnKyVvPzN2N7kJcZ7Tc.jpg" group-title=" SÉRIES | Netflix",Sandman S01 E09
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/250430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s1twJ2VTnvyUI7IbEZ0nG10YPb9.jpg" group-title=" SÉRIES | Netflix",Sandman S01 E10
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/250431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sandman S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/vrvkh02as8iI2dhE4eKmAPkHHch.jpg" group-title=" SÉRIES | Netflix",Sandman S01 E11
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/251263.mp4
 
-#EXTM3U url-tvg=" http://grade-de-SERIES | HBO / HBO MAX Batwoman.xml "
- ############## SERIES | HBO / HBO MAX Batwoman ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeSERIES | HBO / HBO MAX Batwoman" group-title="
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Netflix.xml"
+############## SÉRIES | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Netflix" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E01" tvg-logo="http://7online.xyz:8080/images/899f9ceefba4ee0a07ce3a12941f25bd.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E01
-http://7go.xyz:8080/series/zogbi11/982451290/204895.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E02" tvg-logo="http://7online.xyz:8080/images/3cfc9eb41ee02a3ec71dce115cb366ac.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E02
-http://7go.xyz:8080/series/zogbi11/982451290/204896.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E03" tvg-logo="http://7online.xyz:8080/images/955e9d090f5b893a0abcd501d38ce86f.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E03
-http://7go.xyz:8080/series/zogbi11/982451290/204897.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E04" tvg-logo="http://7online.xyz:8080/images/3e709ce55a55496b9b961cfaeea8f7c8.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E04
-http://7go.xyz:8080/series/zogbi11/982451290/204898.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E05" tvg-logo="http://7online.xyz:8080/images/3c63dc60b9d9353235be10a6ebbc0c74.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E05
-http://7go.xyz:8080/series/zogbi11/982451290/204899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E06" tvg-logo="http://7online.xyz:8080/images/93c58510adec5a834537927c3a609d0b.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E06
-http://7go.xyz:8080/series/zogbi11/982451290/204900.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E07" tvg-logo="http://7online.xyz:8080/images/1c43f6ab88f1367aa10d3edf203c67ee.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E07
-http://7go.xyz:8080/series/zogbi11/982451290/204901.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E08" tvg-logo="http://7online.xyz:8080/images/adb42e1e2ee6cdb6c725b974b5e9c879.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E08
-http://7go.xyz:8080/series/zogbi11/982451290/204902.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E09" tvg-logo="http://7online.xyz:8080/images/7252c36a53405911a2d38dfa3e0d6c25.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E09
-http://7go.xyz:8080/series/zogbi11/982451290/204903.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E10" tvg-logo="http://7online.xyz:8080/images/9f55d8b3f2a99c37ad6245305ae48e4b.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E10
-http://7go.xyz:8080/series/zogbi11/982451290/204904.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E11" tvg-logo="http://7online.xyz:8080/images/b9aea3de0a5010cc224f3589b843b344.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E11
-http://7go.xyz:8080/series/zogbi11/982451290/204905.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E12" tvg-logo="http://7online.xyz:8080/images/d87a987f0417aabd3e035525b1ab1325.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E12
-http://7go.xyz:8080/series/zogbi11/982451290/204906.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E13" tvg-logo="http://7online.xyz:8080/images/d98f22002115ac75dab878e05784a458.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E13
-http://7go.xyz:8080/series/zogbi11/982451290/204907.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E14" tvg-logo="http://7online.xyz:8080/images/8d894731115e194ff6c5dd930881b453.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E14
-http://7go.xyz:8080/series/zogbi11/982451290/204908.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E15" tvg-logo="http://7online.xyz:8080/images/fe2a72a3ed6472c3140ee39d788844c7.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E15
-http://7go.xyz:8080/series/zogbi11/982451290/204909.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E16" tvg-logo="http://7online.xyz:8080/images/204d03c772f8c1eeb6a5fb8c1d5a3689.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E16
-http://7go.xyz:8080/series/zogbi11/982451290/204910.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E17" tvg-logo="http://7online.xyz:8080/images/ee1a4e3b145bf23919de2cd870b2432f.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E17
-http://7go.xyz:8080/series/zogbi11/982451290/204911.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E18" tvg-logo="http://7online.xyz:8080/images/fb29fee9d4bc95006ff3f23f59e6812f.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E18
-http://7go.xyz:8080/series/zogbi11/982451290/204912.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E19" tvg-logo="http://7online.xyz:8080/images/9bb77c1295c67be71d18ea4e28fc9f9e.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E19
-http://7go.xyz:8080/series/zogbi11/982451290/204913.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S01 E20" tvg-logo="http://7online.xyz:8080/images/b7ebe4e78280caf8ef722af6381852ba.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S01 E20
-http://7go.xyz:8080/series/zogbi11/982451290/204914.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E01" tvg-logo="http://7online.xyz:8080/images/1321213f91be31a3a35546cc1ea6d6c4.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E01
-http://7go.xyz:8080/series/zogbi11/982451290/204915.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E02" tvg-logo="http://7online.xyz:8080/images/e18d3deeed90eb78878034ffe67a3fac.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E02
-http://7go.xyz:8080/series/zogbi11/982451290/204916.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E03" tvg-logo="http://7online.xyz:8080/images/23965d800bb9ef1ecf4469568ca21a7c.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E03
-http://7go.xyz:8080/series/zogbi11/982451290/204917.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E04" tvg-logo="http://7online.xyz:8080/images/bcbca86c29fce0d49da576d3a2eaaac5.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E04
-http://7go.xyz:8080/series/zogbi11/982451290/204918.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E05" tvg-logo="http://7online.xyz:8080/images/d2f0d776d263aab199a464549f3e95f1.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E05
-http://7go.xyz:8080/series/zogbi11/982451290/204919.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E06" tvg-logo="http://7online.xyz:8080/images/d8a4ecf47ddeb66df40f338995242998.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E06
-http://7go.xyz:8080/series/zogbi11/982451290/204920.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E07" tvg-logo="http://7online.xyz:8080/images/fee6e4564b7c1fd317c010f25eb838c3.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E07
-http://7go.xyz:8080/series/zogbi11/982451290/204921.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E08" tvg-logo="http://7online.xyz:8080/images/f4ca896d0fe229afde82c74937a94ae4.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E08
-http://7go.xyz:8080/series/zogbi11/982451290/204922.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E09" tvg-logo="http://7online.xyz:8080/images/f6bb3bdbe738f926c796638381aeed82.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E09
-http://7go.xyz:8080/series/zogbi11/982451290/204923.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E10" tvg-logo="http://7online.xyz:8080/images/e89efa47d8b80fd2da8ba87de38a92f9.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E10
-http://7go.xyz:8080/series/zogbi11/982451290/204924.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E11" tvg-logo="http://7online.xyz:8080/images/0f86eabbf9ad51991ca42f113c4d2363.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E11
-http://7go.xyz:8080/series/zogbi11/982451290/204925.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E12" tvg-logo="http://7online.xyz:8080/images/bacdbfac23ddbdf0354cb9a7ead22ea8.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E12
-http://7go.xyz:8080/series/zogbi11/982451290/204926.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E13" tvg-logo="http://7online.xyz:8080/images/3530aef108fcab55d18a871f22e834c2.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E13
-http://7go.xyz:8080/series/zogbi11/982451290/204927.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E14" tvg-logo="http://7online.xyz:8080/images/fcf7e192da5ec7c890583f8f71d695fc.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E14
-http://7go.xyz:8080/series/zogbi11/982451290/204928.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E15" tvg-logo="http://7online.xyz:8080/images/ee961b425db07205884d603b365750ee.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E15
-http://7go.xyz:8080/series/zogbi11/982451290/204929.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E16" tvg-logo="http://7online.xyz:8080/images/cb0eb4e389fd901cb407b3a7964a5560.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E16
-http://7go.xyz:8080/series/zogbi11/982451290/204930.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E17" tvg-logo="http://7online.xyz:8080/images/a99a421d6bfafde4790e24bb4c798a30.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E17
-http://7go.xyz:8080/series/zogbi11/982451290/204931.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S02 E18" tvg-logo="http://7online.xyz:8080/images/c6376fe7300fff8da3b796ace780f7a3.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S02 E18
-http://7go.xyz:8080/series/zogbi11/982451290/204932.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S03 E01" tvg-logo="http://7online.xyz:8080/images/03f817689b7f76334e33c889bbea4001.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S03 E01
-http://7go.xyz:8080/series/zogbi11/982451290/108285.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S03 E02" tvg-logo="http://7online.xyz:8080/images/4b17a339bb81a11ea7a35e926329eecd.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S03 E02
-http://7go.xyz:8080/series/zogbi11/982451290/108286.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S03 E03" tvg-logo="http://7online.xyz:8080/images/de6d5dd9b0ee984b4ddb2cf8bf10ae29.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S03 E03
-http://7go.xyz:8080/series/zogbi11/982451290/108287.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S03 E04" tvg-logo="http://7online.xyz:8080/images/b8179edea2f657e70205e514bd623ff5.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S03 E04
-http://7go.xyz:8080/series/zogbi11/982451290/108288.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S03 E05" tvg-logo="http://7online.xyz:8080/images/27117346c4a10c607f251eabff02d680.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S03 E05
-http://7go.xyz:8080/series/zogbi11/982451290/108289.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S03 E06" tvg-logo="http://7online.xyz:8080/images/9ac00fdc30f13221109d5691d391a087.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S03 E06
-http://7go.xyz:8080/series/zogbi11/982451290/108290.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Batwoman (2019) S03 E07" tvg-logo="http://7online.xyz:8080/images/5f0e313fa3d921540125d6745c2073b3.jpg" group-title="SERIES | HBO / HBO MAX",Batwoman (2019) S03 E07
-http://7go.xyz:8080/series/zogbi11/982451290/108291.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bonde S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/of5ns2RAOy5S1k5qj9MOPoIHgTe.jpg" group-title=" SÉRIES | Netflix",O Bonde S01 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bonde S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/chV9Rb5WzmtrqIjucE3e86y369G.jpg" group-title=" SÉRIES | Netflix",O Bonde S01 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bonde S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4UjXtw1me8MTgsxGQId8KeFhMG.jpg" group-title=" SÉRIES | Netflix",O Bonde S01 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bonde S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cETiblDO5tCGLewlORgiunwquYF.jpg" group-title=" SÉRIES | Netflix",O Bonde S01 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bonde S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wzCXXtwZ1xDVEdLgmVNjPy3fn3p.jpg" group-title=" SÉRIES | Netflix",O Bonde S01 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Bonde S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eCyfPFqAUdfbr4DX9z61buX3vyr.jpg" group-title=" SÉRIES | Netflix",O Bonde S01 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276867.mp4
 
-#EXTM3U url-tvg="http://grade-de- Serie Bob Zoom.xml"
-############## Serie Bob Zoom ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSerie Bob Zoom" group-title="
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Netflix.xml"
+############## SÉRIES | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Netflix" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E01" tvg-logo="http://7online.xyz:8080/images/04d8a4f104a98961738d1567e118ba88.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E01
-http://7go.xyz:8080/series/zogbi11/982451290/247580.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E02" tvg-logo="http://7online.xyz:8080/images/a0246edc7514b3d7cc53c74f488616cd.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E02
-http://7go.xyz:8080/series/zogbi11/982451290/247581.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E03" tvg-logo="http://7online.xyz:8080/images/17b108e6ec56bc2aef606ec51b0c557c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E03
-http://7go.xyz:8080/series/zogbi11/982451290/247582.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E04" tvg-logo="http://7online.xyz:8080/images/c6491d6c147b5a15de579a39a8cf6605.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E04
-http://7go.xyz:8080/series/zogbi11/982451290/247583.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E05" tvg-logo="http://7online.xyz:8080/images/c9e1fc1e23d6edb9b5f6d94eedc20ebb.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E05
-http://7go.xyz:8080/series/zogbi11/982451290/247584.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E06" tvg-logo="http://7online.xyz:8080/images/aae94128354795c8d3bf8dea8b6bdb01.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E06
-http://7go.xyz:8080/series/zogbi11/982451290/247585.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E07" tvg-logo="http://7online.xyz:8080/images/4c18b5526005bc9e243a4013bba65c1c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E07
-http://7go.xyz:8080/series/zogbi11/982451290/247586.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E08" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E08
-http://7go.xyz:8080/series/zogbi11/982451290/247587.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E09" tvg-logo="http://7online.xyz:8080/images/2073276cfbc04daab0fc890a565344d9.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E09
-http://7go.xyz:8080/series/zogbi11/982451290/247588.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E10" tvg-logo="http://7online.xyz:8080/images/5b1d3f34ca8aa214b8a0002068d4a105.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E10
-http://7go.xyz:8080/series/zogbi11/982451290/247589.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E11" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E11
-http://7go.xyz:8080/series/zogbi11/982451290/247590.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E12" tvg-logo="http://7online.xyz:8080/images/fa1225017f367b5e5de206f3c040b556.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E12
-http://7go.xyz:8080/series/zogbi11/982451290/247591.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E13" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E13
-http://7go.xyz:8080/series/zogbi11/982451290/247592.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E14" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E14
-http://7go.xyz:8080/series/zogbi11/982451290/247593.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E15" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E15
-http://7go.xyz:8080/series/zogbi11/982451290/247594.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E16" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E16
-http://7go.xyz:8080/series/zogbi11/982451290/247595.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E17" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E17
-http://7go.xyz:8080/series/zogbi11/982451290/247596.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E18" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E18
-http://7go.xyz:8080/series/zogbi11/982451290/247597.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E19" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E19
-http://7go.xyz:8080/series/zogbi11/982451290/247598.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E20" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E20
-http://7go.xyz:8080/series/zogbi11/982451290/247599.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E21" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E21
-http://7go.xyz:8080/series/zogbi11/982451290/247600.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E22" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E22
-http://7go.xyz:8080/series/zogbi11/982451290/247601.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E23" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E23
-http://7go.xyz:8080/series/zogbi11/982451290/247602.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E24" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E24
-http://7go.xyz:8080/series/zogbi11/982451290/247603.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E25" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E25
-http://7go.xyz:8080/series/zogbi11/982451290/247604.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E26" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E26
-http://7go.xyz:8080/series/zogbi11/982451290/247605.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E27" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E27
-http://7go.xyz:8080/series/zogbi11/982451290/247606.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E28" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E28
-http://7go.xyz:8080/series/zogbi11/982451290/247607.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E29" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E29
-http://7go.xyz:8080/series/zogbi11/982451290/247608.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E30" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E30
-http://7go.xyz:8080/series/zogbi11/982451290/247609.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E31" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E31
-http://7go.xyz:8080/series/zogbi11/982451290/247610.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E32" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E32
-http://7go.xyz:8080/series/zogbi11/982451290/247611.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E33" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E33
-http://7go.xyz:8080/series/zogbi11/982451290/247612.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E34" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E34
-http://7go.xyz:8080/series/zogbi11/982451290/247613.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E35" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E35
-http://7go.xyz:8080/series/zogbi11/982451290/247614.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S01 E36" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S01 E36
-http://7go.xyz:8080/series/zogbi11/982451290/247615.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E01" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E01
-http://7go.xyz:8080/series/zogbi11/982451290/262893.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E02" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E02
-http://7go.xyz:8080/series/zogbi11/982451290/262894.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E03" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E03
-http://7go.xyz:8080/series/zogbi11/982451290/262895.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E04" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E04
-http://7go.xyz:8080/series/zogbi11/982451290/262896.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E05" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E05
-http://7go.xyz:8080/series/zogbi11/982451290/262897.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E06" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E06
-http://7go.xyz:8080/series/zogbi11/982451290/262898.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E07" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E07
-http://7go.xyz:8080/series/zogbi11/982451290/262899.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E08" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E08
-http://7go.xyz:8080/series/zogbi11/982451290/262900.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E09" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E09
-http://7go.xyz:8080/series/zogbi11/982451290/262901.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E10" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E10
-http://7go.xyz:8080/series/zogbi11/982451290/262902.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E11" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E11
-http://7go.xyz:8080/series/zogbi11/982451290/262903.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E12" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E12
-http://7go.xyz:8080/series/zogbi11/982451290/262904.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E13" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E13
-http://7go.xyz:8080/series/zogbi11/982451290/262905.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E14" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E14
-http://7go.xyz:8080/series/zogbi11/982451290/262906.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E15" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E15
-http://7go.xyz:8080/series/zogbi11/982451290/262907.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E16" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E16
-http://7go.xyz:8080/series/zogbi11/982451290/262908.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E17" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E17
-http://7go.xyz:8080/series/zogbi11/982451290/262909.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E18" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E18
-http://7go.xyz:8080/series/zogbi11/982451290/262910.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E19" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E19
-http://7go.xyz:8080/series/zogbi11/982451290/262911.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E20" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E20
-http://7go.xyz:8080/series/zogbi11/982451290/262912.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E21" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E21
-http://7go.xyz:8080/series/zogbi11/982451290/262913.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E22" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E22
-http://7go.xyz:8080/series/zogbi11/982451290/262914.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E23" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E23
-http://7go.xyz:8080/series/zogbi11/982451290/262915.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E24" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E24
-http://7go.xyz:8080/series/zogbi11/982451290/262916.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E25" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E25
-http://7go.xyz:8080/series/zogbi11/982451290/262917.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E26" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E26
-http://7go.xyz:8080/series/zogbi11/982451290/262918.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E27" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E27
-http://7go.xyz:8080/series/zogbi11/982451290/262919.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E28" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E28
-http://7go.xyz:8080/series/zogbi11/982451290/262920.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E29" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E29
-http://7go.xyz:8080/series/zogbi11/982451290/262921.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E30" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E30
-http://7go.xyz:8080/series/zogbi11/982451290/262922.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E31" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E31
-http://7go.xyz:8080/series/zogbi11/982451290/262923.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E32" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E32
-http://7go.xyz:8080/series/zogbi11/982451290/262924.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E33" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E33
-http://7go.xyz:8080/series/zogbi11/982451290/262925.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E34" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E34
-http://7go.xyz:8080/series/zogbi11/982451290/262926.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E35" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E35
-http://7go.xyz:8080/series/zogbi11/982451290/262927.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bob Zoom (2012) S02 E36" tvg-logo="http://7online.xyz:8080/images/cd86264933676934ff6acae7fa1e491c.jpg" group-title="SERIES | DESENHOS INFANTIS",Bob Zoom (2012) S02 E36
-http://7go.xyz:8080/series/zogbi11/982451290/262928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Match Perfeito S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIzPtm8KBfhxXN1vVf1D01xHIFX.jpg" group-title=" SÉRIES | Netflix",Match Perfeito S01 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Match Perfeito S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fWnmjK1vjsU1Yj62b9DQj32iFuj.jpg" group-title=" SÉRIES | Netflix",Match Perfeito S01 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Match Perfeito S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/83bzir5ERI6OdEid0N76OujTfCn.jpg" group-title=" SÉRIES | Netflix",Match Perfeito S01 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Match Perfeito S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQfEDvgLihyHKbNKciWl5f5NFmY.jpg" group-title=" SÉRIES | Netflix",Match Perfeito S01 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Match Perfeito S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lTIHjXfQoxoBRXrRXlmbk8RuOro.jpg" group-title=" SÉRIES | Netflix",Match Perfeito S01 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Match Perfeito S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sYV00tmrW8cUn1aaIxVbYPaQAJ1.jpg" group-title=" SÉRIES | Netflix",Match Perfeito S01 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Match Perfeito S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdKvAGsHvQXzYZY1lm2NpQtlHEc.jpg" group-title=" SÉRIES | Netflix",Match Perfeito S01 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Match Perfeito S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZMNDsir1Y9zgKLQSxoYVU9lIlf.jpg" group-title=" SÉRIES | Netflix",Match Perfeito S01 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Match Perfeito S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dPOzyS0GJtS0ZgEUV8mWVvSe8AK.jpg" group-title=" SÉRIES | Netflix",Match Perfeito S01 E09
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Match Perfeito S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ex8JOdHQt219ylaoSW2ytePi1bk.jpg" group-title=" SÉRIES | Netflix",Match Perfeito S01 E10
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Match Perfeito S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/saElz1bn35n7cwjHekAwZyEwXuy.jpg" group-title=" SÉRIES | Netflix",Match Perfeito S01 E11
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Match Perfeito S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/YpYQYdYXWGPBnSEOO4UQsSioj7.jpg" group-title=" SÉRIES | Netflix",Match Perfeito S01 E12
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276879.mp4
 
-#EXTM3U url-tvg="http://grade-de-SÉRIES  Kung Fu.xml"
-############## SÉRIES  Kung Fu ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES  Kung Fu" group-title="
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Netflix.xml"
+############## SÉRIES | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Netflix" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S01 E01" tvg-logo="http://7online.xyz:8080/images/7816cc0e5876948623e1e7c740edf8e6.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S01 E01
-http://7go.xyz:8080/series/zogbi11/982451290/162372.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S01 E02" tvg-logo="http://7online.xyz:8080/images/ef7e134378a8b3e5fa200c1af98e84a0.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S01 E02
-http://7go.xyz:8080/series/zogbi11/982451290/162373.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S01 E03" tvg-logo="http://7online.xyz:8080/images/501816e6f6a5e4fd3da51bb54e6247cd.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S01 E03
-http://7go.xyz:8080/series/zogbi11/982451290/162374.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S01 E04" tvg-logo="http://7online.xyz:8080/images/2853253633a86f9dcca6d9566d0a2872.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S01 E04
-http://7go.xyz:8080/series/zogbi11/982451290/162375.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S01 E05" tvg-logo="http://7online.xyz:8080/images/cc7fb8736ab093d01f7746d1607c273a.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S01 E05
-http://7go.xyz:8080/series/zogbi11/982451290/162376.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S01 E06" tvg-logo="http://7online.xyz:8080/images/59aabc43806d968020b203ebc84e030d.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S01 E06
-http://7go.xyz:8080/series/zogbi11/982451290/162377.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S01 E07" tvg-logo="http://7online.xyz:8080/images/6106b063cd8ef5529ecc770c0bb7677c.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S01 E07
-http://7go.xyz:8080/series/zogbi11/982451290/162378.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S01 E08" tvg-logo="http://7online.xyz:8080/images/daa1e7100445c2872b7bce0e6b7be0c8.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S01 E08
-http://7go.xyz:8080/series/zogbi11/982451290/162379.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S01 E09" tvg-logo="http://7online.xyz:8080/images/66eebe51f0f02fa1b21154f67198b461.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S01 E09
-http://7go.xyz:8080/series/zogbi11/982451290/162380.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S01 E10" tvg-logo="http://7online.xyz:8080/images/431b239df0974b1cb0d186eced0811da.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S01 E10
-http://7go.xyz:8080/series/zogbi11/982451290/162381.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S01 E11" tvg-logo="http://7online.xyz:8080/images/c2575b3a05b788414286888b83ca143b.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S01 E11
-http://7go.xyz:8080/series/zogbi11/982451290/162382.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S01 E12" tvg-logo="http://7online.xyz:8080/images/bcf5b8e76a26153593c0734dcda8e734.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S01 E12
-http://7go.xyz:8080/series/zogbi11/982451290/162383.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S01 E13" tvg-logo="http://7online.xyz:8080/images/2a52ad1eb0dae5968040a94b38cb82df.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S01 E13
-http://7go.xyz:8080/series/zogbi11/982451290/162384.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S02 E01" tvg-logo="http://7online.xyz:8080/images/ea0d18624c933737f56b502e91720107.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S02 E01
-http://7go.xyz:8080/series/zogbi11/982451290/162308.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S02 E02" tvg-logo="http://7online.xyz:8080/images/0b662e11807122d4989d5dddb28557ce.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S02 E02
-http://7go.xyz:8080/series/zogbi11/982451290/162309.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S02 E03" tvg-logo="http://7online.xyz:8080/images/10719bd39a9d47de9ab31e05dc21b298.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S02 E03
-http://7go.xyz:8080/series/zogbi11/982451290/162310.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S02 E04" tvg-logo="http://7online.xyz:8080/images/2e6255fe39438b66c08da3027cc591c9.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S02 E04
-http://7go.xyz:8080/series/zogbi11/982451290/162311.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S02 E05" tvg-logo="http://7online.xyz:8080/images/16414dfd5cf66294cdc8c0d7db4ed7cc.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S02 E05
-http://7go.xyz:8080/series/zogbi11/982451290/162312.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S02 E06" tvg-logo="http://7online.xyz:8080/images/16414dfd5cf66294cdc8c0d7db4ed7cc.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S02 E06
-http://7go.xyz:8080/series/zogbi11/982451290/162313.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Kung Fu (2021) S02 E07" tvg-logo="http://7online.xyz:8080/images/16414dfd5cf66294cdc8c0d7db4ed7cc.jpg" group-title="SERIES | WARNER",Kung Fu (2021) S02 E07
-http://7go.xyz:8080/series/zogbi11/982451290/162314.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E09
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E10
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E11
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E12
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E13
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E14
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E15
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E16
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E17
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E18
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E19
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E20
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E21
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E22
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E23
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E24
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E25
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E26
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276905.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Netflix.xml"
+############## SÉRIES | Netflix ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Netflix" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/avsFNcBxrzFyFzMpYcSFhOvZaRM.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4DuSsBaMV4fVO3m5xTliiAefgtC.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xyBgiKzJkDlEfoegD98Z4oE9eZV.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpvgq8kLQRsVPm8rPomU1kbrcHH.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yKgDxwm2heXRHoDTtR090T97we3.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7rrhWDr9tMZzHBYbaKOfdnGtzv.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7I9aqFvRMsgQwc5fGkrNRxyv1t7.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bcy5CbYBqA8ne32MU6weuBKMEQK.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wEndIvxWWCjULd7VJUSQton7LQq.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E09
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8NLmdYKa2IfxdVgOpUBFs73sbv.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E10
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhrQXxCqD7XBmBsQbmE32TdsmfK.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E11
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8BVHdxY7K7G98ZF12gLZOSSRZ1.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E12
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3ccDdvVkMnw1AKttJmWUvriyec.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E13
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/30Z4SknZQlWOl5IQ6XrQWWELMbi.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E14
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRP7FElBy4Dgt0ykCRm8yf5kU0H.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E15
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olf1zuL2Rlqb9WV0vCz0ZeStJut.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E16
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i94Pc8JJDXVV36zeTYFen9D2SQk.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E17
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nGhJ6QYdGF5UM5nM1jbkMBvYRSb.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E18
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2IxJxxb5utHkOEF5qBmUhiEyVZ.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E19
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Uma Odisséia Coreana S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tvf5nQBiP6QfxUgE2rZ6ykRICFd.jpg" group-title=" SÉRIES | Netflix",Uma Odisséia Coreana S01 E20
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/276847.mp4
 
 #EXTM3U url-tvg="http://grade-de-SÉRIES  Menudo.xml"
 ############## SÉRIES  Menudo ################# 
@@ -10056,6 +8285,11 @@ http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782451.mp4
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782452.mp4
 #EXTINF:-1 tvg-name="O Mundo de Karma S01E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ffrzvwMqefHzEGXApUDM4pugeTv.jpg" group-title="SÉRIES | KIDS",O Mundo de Karma S01E15
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782453.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | KIDS.xml"
+############## SÉRIES | KIDS ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | KIDS" group-title="
+
 #EXTINF:-1 tvg-name="Os Smurfs S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v6ArH4IgtvUrJPduV35DZ6ZE2d0.jpg" group-title="SÉRIES | KIDS",Os Smurfs S01E01
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782454.mp4
 #EXTINF:-1 tvg-name="Os Smurfs S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gVgSafFkHfaLGpoR1Tp6gdDxn7q.jpg" group-title="SÉRIES | KIDS",Os Smurfs S01E02
@@ -10076,6 +8310,11 @@ http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782461.mp4
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782462.mp4
 #EXTINF:-1 tvg-name="Os Smurfs S01E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/D32TLlPbJQpHgNmGnsfGZOecxf.jpg" group-title="SÉRIES | KIDS",Os Smurfs S01E10
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782463.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | KIDS.xml"
+############## SÉRIES | KIDS ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | KIDS" group-title="
+
 #EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhEtV8AOSorIvSI8QLwh0ekwAxz.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E01
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777946.mp4
 #EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xn6WmRMF3xCb05IcUFVlKBTjXOf.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E02
@@ -10128,6 +8367,11 @@ http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777969.mp4
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777970.mp4
 #EXTINF:-1 tvg-name="Gus: O Pequeno Cavaleiro S01E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXG9CBxCcp5pkgDQohMXQbNszTO.jpg" group-title="SÉRIES | KIDS",Gus: O Pequeno Cavaleiro S01E26
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777971.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | KIDS.xml"
+############## SÉRIES | KIDS ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | KIDS" group-title="
+
 #EXTINF:-1 tvg-name="Pretzel e os Filhotes S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXG9CBxCcp5pkgDQohMXQbNszTO.jpg" group-title="SÉRIES | KIDS",Pretzel e os Filhotes S01E01
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777972.mp4
 #EXTINF:-1 tvg-name="Pretzel e os Filhotes S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXG9CBxCcp5pkgDQohMXQbNszTO.jpg" group-title="SÉRIES | KIDS",Pretzel e os Filhotes S01E02
@@ -10144,6 +8388,11 @@ http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777977.mp4
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777978.mp4
 #EXTINF:-1 tvg-name="Pretzel e os Filhotes S01E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXG9CBxCcp5pkgDQohMXQbNszTO.jpg" group-title="SÉRIES | KIDS",Pretzel e os Filhotes S01E08
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777979.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | KIDS.xml"
+############## SÉRIES | KIDS ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | KIDS" group-title="
+
 #EXTINF:-1 tvg-name="Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vP8m47TDM5ECwKZ7UhhZZCf4Xw4.jpg" group-title="SÉRIES | KIDS",Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E01
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777980.mp4
 #EXTINF:-1 tvg-name="Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cX11YCn58axrPE195hWIpSk8c0Y.jpg" group-title="SÉRIES | KIDS",Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E02
@@ -10168,6 +8417,306 @@ http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777989.mp4
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777990.mp4
 #EXTINF:-1 tvg-name="Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJGOah7NjTSv7JNWhAYkgqVIwwm.jpg" group-title="SÉRIES | KIDS",Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru S01E12
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138777991.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Animação.xml"
+############## SÉRIES | Animação ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Animação" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Mulligan S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x00Ta90IhrMRRnkkQ93fss70OH9.jpg" group-title="SÉRIES | Animação",Mulligan S01 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulligan S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7uge0wIPyvdomY76M9bDFKc37do.jpg" group-title="SÉRIES | Animação",Mulligan S01 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulligan S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xvMN2SbeSc02lW9ePMWj1JIgAeW.jpg" group-title="SÉRIES | Animação",Mulligan S01 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulligan S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4yvxQnxWsFAgVsxVDYT44k8vrf.jpg" group-title="SÉRIES | Animação",Mulligan S01 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulligan S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/azLpTSY7eLRsrYCpjrbZnjOJpym.jpg" group-title="SÉRIES | Animação",Mulligan S01 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulligan S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wBGAsDI3uUQhOJ3zm9mnPFwrBpJ.jpg" group-title="SÉRIES | Animação",Mulligan S01 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulligan S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yGA4GImbnNkRpaCKGqJ3yq3VBwT.jpg" group-title="SÉRIES | Animação",Mulligan S01 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulligan S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxcZyLXeTX7h9OaCaagJMUXZjjM.jpg" group-title="SÉRIES | Animação",Mulligan S01 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulligan S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/24WioJmOZFb2Ln9WNWu9gkEXGiG.jpg" group-title="SÉRIES | Animação",Mulligan S01 E09
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mulligan S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/99N4TbZXx85PYeilj7oVa4CZNMn.jpg" group-title="SÉRIES | Animação",Mulligan S01 E10
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289691.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Animação.xml"
+############## SÉRIES | Animação ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Animação" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/1eBuFyGJwCGaEW1DOSShDGnhbD2.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E01
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/kvswdhfYB6zGShpfyKwn7sX1dET.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E02
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/cDPkM8Bx42Jt0I9MePAc7WNhxXe.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E03
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/eIV4TEa9kBxzVH9NwCbfv8fmgwM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E04
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/15dFhmjRRjeBgewvT18uZ3AtpEA.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E05
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42944.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Animação.xml"
+############## SÉRIES | Animação ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Animação" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E06
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E07
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E08
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E09
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E10
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E11
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E12
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E13
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E14
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E15
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E16
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E17
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E18
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E19
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E20
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E21
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E22
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E23
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E24
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E25
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E26
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E27
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E28
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E29
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E30
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E31
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E32
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E33
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E34
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E35
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E36
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E37
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E38
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E39
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E40
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E41
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E42
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E43
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E44
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E45
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E46
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E47
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E48
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E49
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E50
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E51
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E52
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E53
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E54
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E55
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E56
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E57
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E58
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E59
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E60
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E61
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/43000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E62
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/43001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E63
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/43002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E64
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/43003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E65
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/43004.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Animação.xml"
+############## SÉRIES | Animação ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Animação" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNnz0C6LozY58XTTr1HnO2TAl8h.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S01 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Iv5itxkEofDjC86nN8lAhDm86.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S01 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/siQcivhn37nn72hiZcj6GFQne4s.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S01 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppINOi8l23qMLr8CBZQFGWbyBu8.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S01 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dClfj9L6vXw2TJvIFNcCW4wM7Y.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S01 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fgQwauFgigPsdzduJfyFhKczLPJ.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S01 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTvXGV24uaw9tQtcok91MAenT7P.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S01 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXGk30GW24il2RrY1EtfRnIJo7g.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S01 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285823.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3qL06JgluEySLzKYTbd5rtQfsb.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S01 E09
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285824.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/doQZdyAXyKIcVkGwyERMPQEsnEs.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S01 E10
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e4hyPFT803DPdnek4IIzg4s9v6Y.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DEvILwCs8oH3SKJ5t2E6Nk0bdP.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/flHvwKRMoAk6jyXfW3AR8tvjSql.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cmDQi9nhZN9Q1NtGuDvb1Nf0azC.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/skT0DLdieItq3JdRxz0Zai3K5JG.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lF7MAF3gBIEBDHTcWFzvkJMRm4j.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mBkMaFv1H7ZaokyKKCGTZshLPs4.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ebDHQ6QFsyh4HUJJKEl7vzucj98.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kQU30uVR9yOQyJMMueqUjVxuaCc.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E09
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7rQtGUwkBIrRXDYkfKmtTpZjKJ.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E10
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/HvuF3lQGsT5jFi9c68cyg8qPuU.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E11
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dSxH68iXZVWTPR3MPrnGlWkutNN.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E12
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h9buzaLtXXuNB5U1herGjxxm2qH.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E13
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yV9sSEuAcD5TR0eqMBNS6ESlufG.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E14
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nRHqCilRfVUnjXBFHUXyS7iytEM.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E15
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1r0QcQzgAQbauX4k6u06WTn0YzA.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S02 E16
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S03 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S03 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S03 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S03 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S03 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S03 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S03 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S03 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S03 E09
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S03 E10
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S03 E11
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S03 E12
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S03 E13
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S04 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S04 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S04 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S04 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S04 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S04 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S04 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S04 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S04 E09
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S04 E10
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S04 E11
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S04 E12
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tsE6Dbx7aejDDmAy4DX55YxE8pT.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S04 E13
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhl7Zu2TFq0OxAS90m76VFAmGkf.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S05 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlCfp7jmn0brCMzvx0k7lDDTpsy.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S05 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sopJLtbgM8UatsqifRytff1V5xO.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S05 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1QCT7FtMsuic2bzSCa7X973hSEY.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S05 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svZxppk9PaHh2OIPGnioCnDHbLb.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S05 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i12iqyT62iA7eCKVsU60ElR0CJc.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S05 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjjwNTsnrz45VzNHKlW0OEJ2mlU.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S05 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/el8uG6mL9hrW8bzA0Hlr1vMrRUF.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S05 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t90RQ4PhH7lhZHy6S0tW3Op8Rky.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S05 E09
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4lpzwxwVV7OlSuT393yp7aUTIRH.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S05 E10
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cC4K7l31cBsiiFgMjVvGDbhGTF8.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S05 E11
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKkeTSvJYtLj9p7vZn1ZXMpfs8P.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S05 E12
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Saúdem Todos o Rei Julien S05 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sxLtRYMh7WiXoHPZeWUWiFHHvEI.jpg" group-title="SÉRIES | Animação",Saúdem Todos o Rei Julien S05 E13
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285880.mp4
 
 #EXTM3U url-tvg="http://grade-de-SÉRIES | Animação",D.P.A.xml"
 ############## SÉRIES | Animação",D.P.A ################# 
@@ -11217,144 +9766,941 @@ http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86576.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Xena: A Princesa Guerreira S06 E22" tvg-logo="https://image.tmdb.org/t/p/w300/bHgRKriSuQPgH60dJPlX0jP7o5j.jpg" group-title="SÉRIES | Xena",Xena: A Princesa Guerreira S06 E22
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/86577.mp4
 
-#EXTM3U url-tvg="http://grade-de-Família Dinossauros.xml"
-############## Família Dinossauros ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFamília Dinossauros" group-title="
+#EXTM3U url-tvg="http://grade-de-SÉRIES | GloboPlay.xml"
+############## SÉRIES | GloboPlay ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | GloboPlay" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/1eBuFyGJwCGaEW1DOSShDGnhbD2.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E01
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42940.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/kvswdhfYB6zGShpfyKwn7sX1dET.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E02
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42941.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/cDPkM8Bx42Jt0I9MePAc7WNhxXe.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E03
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42942.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/eIV4TEa9kBxzVH9NwCbfv8fmgwM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E04
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42943.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/15dFhmjRRjeBgewvT18uZ3AtpEA.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E05
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42944.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E06
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42945.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E07
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42946.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E08
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42947.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E09
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42948.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E10
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42949.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E11
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42950.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E12
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42951.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E13
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42952.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E14
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42953.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E15
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42954.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E16
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42955.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E17
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42956.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E18
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42957.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E19
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42958.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E20
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42959.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E21
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42960.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E22
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42961.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E23
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42962.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E24
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42963.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E25
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42964.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E26
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42965.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E27
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42966.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E28
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42967.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E29
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42968.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E30
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42969.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E31
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42970.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E32
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42971.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E33
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42972.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E34
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42973.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E35
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42974.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E36
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42975.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E37
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42976.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E38
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42977.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E39
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42978.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E40
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42979.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E41
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42980.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E42
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42981.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E43
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42982.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E44
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42983.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E45
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42984.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E46
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42985.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E47
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42986.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E48
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42987.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E49
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42988.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E50
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42989.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E51
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42990.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E52
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42991.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E53
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42992.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E54
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42993.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E55
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42994.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E56
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42995.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E57
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42996.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E58
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42997.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E59
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42998.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E60
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/42999.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E61
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/43000.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E62
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/43001.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E63
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/43002.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E64
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/43003.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Família Dinossauros S01 E65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmho9KQniTBvsPfJMn60CJQ3akM.jpg" group-title="SÉRIES | Animação",Família Dinossauros S01 E65
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/43004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7WMhfX56ZW0bkTF4DsGn007MF6I.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287329.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tt5kdqXMKpKzmoPVp42t4ouOYgu.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287330.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmFdwfO0Yc97rHhrKUQK9Htf4ey.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287331.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aM6Vy42TGeb3144SWC7qeib8MPF.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287332.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vZOvSlIjLR470DaBLk28mDdy3hY.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v8ufHEcGGugumrj3DjilpKp9Ahx.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287334.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jwAjIBUExppNFZTnpq376F7FgPb.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287335.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hbCkdmiLzfQ55WENMHGL9uQERvl.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287336.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/95GHCif2VYnMlY7Cedfw8RusdCX.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E09
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287337.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E10
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287338.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E11
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287339.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E12
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287340.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E13
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287341.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E14
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287342.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E15
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287343.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E16
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287344.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E17
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E18
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287346.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E19
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E20
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287348.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E21
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287349.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E22
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287350.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E23
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287351.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E24
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287352.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E25
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287353.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E26
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287354.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E27
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287355.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E28
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287356.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E29
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287357.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor e Honra S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jVl5QlioeaZirB7WCbnWrEri7S5.jpg" group-title="SÉRIES | GloboPlay",Amor e Honra S01 E30
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287358.mp4
 
-#EXTM3U url-tvg="http://grade-de-SÉRIES | Rebelde.xml"
-############## SÉRIES | Rebelde ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Rebelde" group-title="
+#EXTM3U url-tvg="http://grade-de-SÉRIES | GloboPlay.xml"
+############## SÉRIES | GloboPlay ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | GloboPlay" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Amores Roubados S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97szk7pLswdSAIn0fRL7y6SzglH.jpg" group-title="SÉRIES | GloboPlay",Amores Roubados S01 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amores Roubados S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97szk7pLswdSAIn0fRL7y6SzglH.jpg" group-title="SÉRIES | GloboPlay",Amores Roubados S01 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amores Roubados S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97szk7pLswdSAIn0fRL7y6SzglH.jpg" group-title="SÉRIES | GloboPlay",Amores Roubados S01 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amores Roubados S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97szk7pLswdSAIn0fRL7y6SzglH.jpg" group-title="SÉRIES | GloboPlay",Amores Roubados S01 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amores Roubados S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97szk7pLswdSAIn0fRL7y6SzglH.jpg" group-title="SÉRIES | GloboPlay",Amores Roubados S01 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amores Roubados S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97szk7pLswdSAIn0fRL7y6SzglH.jpg" group-title="SÉRIES | GloboPlay",Amores Roubados S01 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amores Roubados S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97szk7pLswdSAIn0fRL7y6SzglH.jpg" group-title="SÉRIES | GloboPlay",Amores Roubados S01 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amores Roubados S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97szk7pLswdSAIn0fRL7y6SzglH.jpg" group-title="SÉRIES | GloboPlay",Amores Roubados S01 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amores Roubados S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97szk7pLswdSAIn0fRL7y6SzglH.jpg" group-title="SÉRIES | GloboPlay",Amores Roubados S01 E09
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amores Roubados S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97szk7pLswdSAIn0fRL7y6SzglH.jpg" group-title="SÉRIES | GloboPlay",Amores Roubados S01 E10
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283943.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Telenovela.xml"
+############## SÉRIES | Telenovela ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Telenovela" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Amor Perfeito S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuIqmy0BSpitRVUw5lQFqUMmVlT.jpg" group-title="SÉRIES | GloboPlay",Amor Perfeito S01 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Perfeito S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuIqmy0BSpitRVUw5lQFqUMmVlT.jpg" group-title="SÉRIES | GloboPlay",Amor Perfeito S01 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Perfeito S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuIqmy0BSpitRVUw5lQFqUMmVlT.jpg" group-title="SÉRIES | GloboPlay",Amor Perfeito S01 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Perfeito S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuIqmy0BSpitRVUw5lQFqUMmVlT.jpg" group-title="SÉRIES | GloboPlay",Amor Perfeito S01 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Perfeito S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuIqmy0BSpitRVUw5lQFqUMmVlT.jpg" group-title="SÉRIES | GloboPlay",Amor Perfeito S01 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Perfeito S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuIqmy0BSpitRVUw5lQFqUMmVlT.jpg" group-title="SÉRIES | GloboPlay",Amor Perfeito S01 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Perfeito S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuIqmy0BSpitRVUw5lQFqUMmVlT.jpg" group-title="SÉRIES | GloboPlay",Amor Perfeito S01 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287447.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Perfeito S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuIqmy0BSpitRVUw5lQFqUMmVlT.jpg" group-title="SÉRIES | GloboPlay",Amor Perfeito S01 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287448.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Perfeito S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuIqmy0BSpitRVUw5lQFqUMmVlT.jpg" group-title="SÉRIES | GloboPlay",Amor Perfeito S01 E09
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287449.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Perfeito S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuIqmy0BSpitRVUw5lQFqUMmVlT.jpg" group-title="SÉRIES | GloboPlay",Amor Perfeito S01 E10
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287450.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Perfeito S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuIqmy0BSpitRVUw5lQFqUMmVlT.jpg" group-title="SÉRIES | GloboPlay",Amor Perfeito S01 E11
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287451.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Perfeito S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuIqmy0BSpitRVUw5lQFqUMmVlT.jpg" group-title="SÉRIES | GloboPlay",Amor Perfeito S01 E12
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Perfeito S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuIqmy0BSpitRVUw5lQFqUMmVlT.jpg" group-title="SÉRIES | GloboPlay",Amor Perfeito S01 E13
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Perfeito S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuIqmy0BSpitRVUw5lQFqUMmVlT.jpg" group-title="SÉRIES | GloboPlay",Amor Perfeito S01 E14
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Perfeito S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuIqmy0BSpitRVUw5lQFqUMmVlT.jpg" group-title="SÉRIES | GloboPlay",Amor Perfeito S01 E15
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Perfeito S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuIqmy0BSpitRVUw5lQFqUMmVlT.jpg" group-title="SÉRIES | GloboPlay",Amor Perfeito S01 E16
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Perfeito S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuIqmy0BSpitRVUw5lQFqUMmVlT.jpg" group-title="SÉRIES | GloboPlay",Amor Perfeito S01 E17
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Perfeito S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuIqmy0BSpitRVUw5lQFqUMmVlT.jpg" group-title="SÉRIES | GloboPlay",Amor Perfeito S01 E18
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Perfeito S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuIqmy0BSpitRVUw5lQFqUMmVlT.jpg" group-title="SÉRIES | GloboPlay",Amor Perfeito S01 E19
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Perfeito S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuIqmy0BSpitRVUw5lQFqUMmVlT.jpg" group-title="SÉRIES | GloboPlay",Amor Perfeito S01 E20
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Perfeito S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuIqmy0BSpitRVUw5lQFqUMmVlT.jpg" group-title="SÉRIES | GloboPlay",Amor Perfeito S01 E21
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Perfeito S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuIqmy0BSpitRVUw5lQFqUMmVlT.jpg" group-title="SÉRIES | GloboPlay",Amor Perfeito S01 E22
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Perfeito S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuIqmy0BSpitRVUw5lQFqUMmVlT.jpg" group-title="SÉRIES | GloboPlay",Amor Perfeito S01 E23
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Perfeito S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuIqmy0BSpitRVUw5lQFqUMmVlT.jpg" group-title="SÉRIES | GloboPlay",Amor Perfeito S01 E24
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Perfeito S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuIqmy0BSpitRVUw5lQFqUMmVlT.jpg" group-title="SÉRIES | GloboPlay",Amor Perfeito S01 E25
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Perfeito S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuIqmy0BSpitRVUw5lQFqUMmVlT.jpg" group-title="SÉRIES | GloboPlay",Amor Perfeito S01 E26
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Perfeito S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuIqmy0BSpitRVUw5lQFqUMmVlT.jpg" group-title="SÉRIES | GloboPlay",Amor Perfeito S01 E27
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Amor Perfeito S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vuIqmy0BSpitRVUw5lQFqUMmVlT.jpg" group-title="SÉRIES | GloboPlay",Amor Perfeito S01 E28
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287468.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Telenovela.xml"
+############## SÉRIES | Telenovela ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Telenovela" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iDPJv8R46SR4M6svVr8mFQaZIbJ.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AaaibWqvsjlS0EGnhGovqrfOsIF.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhSxvi5Z1XzPcqof8ZGA9ua4YkP.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v7mlOdiyeRhNp7m6y52sqsYYIaQ.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTrpVg0zhLh5s4c2nXAMQBboV1x.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f695DkJsHFJaZayLima4u7gMVZS.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yUO5IaKetiFLjHoGI5Husjo1pIc.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/esSHr5LLLnr3agzEsP1T28JQO9j.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pyH9CnCJHmTIe8NXPqcbyJXmQJa.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E09
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6KbHir9Bf028nGuLwgsfu8O7De.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E10
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iDMXTGuttsrT1Vx8Lbs9Ps4b63B.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E11
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zOBc8GxhFEszvZlqqAoj1SkiKJe.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E12
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yTTYPFtYFy8ex6cBNBOYAzGJzWR.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E13
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6OIGaokUiytqZwFC6itIvQwOJY.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E14
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bwjpbKmolQofcoJhEd5lupJ1Dbs.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E15
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hDarFOR51JdQqkbv665NFhOltIH.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E16
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8t5296yThaUvVG4N4M74fPgGvPJ.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E17
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jRyTqFd5iFqIZ2IuFEXqx2p5Z31.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E18
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3hblJPK3hEK4xnxNid0jS3j4Eb.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E19
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWRcEreGDA6bvMpgmmcPLakapOa.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E20
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AnJXNMhWOtPKnOCJ5HgTt3oCelu.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E21
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k8amHW9SnoAk7y2pbJu2PYBmjQf.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E22
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rhlM2LCXcCb1HjLNUaWgGur2tqu.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E23
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4ZQ0DvlkH3ygIOzPaZYIMtBEqe.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E24
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vOi4oN3ExzMUnGNixip8IMhibRO.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E25
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ymTjJ2xoscqVFq1UEaZR1WZ4ar.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E26
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hop8NovqYpCSSnG6JhQp0Rz7I6B.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E27
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApePBA1JEFprzfKwXMIt1vrNaUP.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E28
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bI17JMUJSqI5Au2C11t3ektAzuR.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E29
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Qv6TCPbWi7TAI6EpVuc51VCm4m.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E30
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHmb5FWrlPDx16uM0PlYnfriS9B.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E31
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E32
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E33
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E34
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E35
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E36
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E37
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E38
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E39
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E40
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E41
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E42
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E43
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E44
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E45
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E46
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E47
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E48
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E49
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E50
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E51
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E52
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/283999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E53
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E54
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E55
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E56
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E57
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E58
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E59
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E60
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E61
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E62
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E63
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E64
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E65
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E66" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E66
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E67" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E67
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E68" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E68
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E69" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E69
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E70" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E70
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E71" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E71
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E72" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E72
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E73" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E73
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E74" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E74
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E75" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E75
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E76" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E76
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E77" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E77
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S01 E78" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S01 E78
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lVVTvpxVUSbEfyhmVPmlN3IPNQm.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rq8V5olExtpenSace0lD9NdI1vD.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TOxTRPxibGKvxGiN4MQGAAxGle.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l3mpBuha596bK3N6LkOf7ekbaJv.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iXNEX7LE68d2SrkgyicshKy3cDn.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lKzCVtR7wk0jb3RVzprHA5c7NFL.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csTFfumP7x1RwFbuPlgxNgnPnro.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/unMTLLzLbrbnUbH6yBaNj2MvGw8.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kurGeEH26Inni9VJY9QJwqfDnDT.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E09
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zNgMLdnsQIbKA3ZWmbnWYVUBItX.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E10
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b5mYROAzKQsRTaP7or2plJuGr54.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E11
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0GSHuRlnGj6PZ4S8HL5eQ1QOYp.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E12
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7lvhcQOsNZs7n7MUy9VRZOhkzU.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E13
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7lfsi1l67xJy0abEjvCCCkoU1Mt.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E14
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fERbayOuB5Ml7oLG7Akz33FMyw8.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E15
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sHc8K2GNeP0vd0KVIf1VyUcu3rW.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E16
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdvBqUzrdCt4TSZzbHzFlADzcwY.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E17
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lI5Uhu3vx1g7Hpt1gtnmYdj9Qch.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E18
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jUeyApXvjTHzBmx1ND9z3PQ1myk.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E19
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oPDOnDo4y3GvnszWaCcftNhkHgP.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E20
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E21
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E22
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E23
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E24
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E25
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E26
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E27
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMqA3YYhR9BU1KjNZs7gSmzRqiR.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E28
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E29
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E30
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E31
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E32
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E33
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E34
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E35
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E36
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E37
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E38
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E39
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E40
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E41
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E42
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E43
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E44
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E45
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E46
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E47
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E48
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E49
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E50
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E51
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E52
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E53
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E54
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E55
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E56
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E57
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E58
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E59
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E60
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E61
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E62
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E63
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E64
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E65
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E66" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E66
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E67" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E67
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E68" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E68
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E69" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E69
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E70" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E70
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Iludida S02 E71" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xC9vUFVIrxnhZiEYLeMDVqxj7og.jpg" group-title="SÉRIES | Telenovela",Iludida S02 E71
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284096.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Telenovela.xml"
+############## SÉRIES | Telenovela ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Telenovela" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E09
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E10
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E11
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E12
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E13
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E14
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E15
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E16
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E17
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E18
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E19
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E20
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E21
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E22
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E23
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E24
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E25
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E26
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E27
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E28
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E29
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E30
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E31
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E32
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E33
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E34
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E35
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E36
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E37
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E38
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E39
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E40
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E41
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E42
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E43
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E44
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E45
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E46
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E47
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E48
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E49
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E50
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/284999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E51
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E52
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E53
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E54
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E55
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E56
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E57
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E58
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E59
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E60
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E61
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E62
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E63
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E64
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E65
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E66" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E66
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E67" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E67
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E68" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E68
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E69" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E69
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E70" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E70
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E71" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E71
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E72" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E72
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E73" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E73
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E74" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E74
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E75" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E75
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E76" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E76
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E77" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E77
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E78" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E78
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E79" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E79
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E80" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E80
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E81" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E81
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E82" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E82
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E83" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E83
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E84" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E84
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E85" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E85
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E86" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E86
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E87" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E87
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E88" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E88
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E89" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E89
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E90" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E90
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E91" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E91
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E92" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E92
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E93" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E93
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E94" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E94
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E95" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E95
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E96" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E96
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E97" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E97
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E98" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E98
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E99" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E99
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E100" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E100
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E101" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E101
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E102" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E102
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E103" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E103
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E104" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E104
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E105" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E105
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E106" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E106
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E107" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E107
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E108" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E108
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E109" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E109
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E110" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E110
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E111" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E111
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E112" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E112
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E113" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E113
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E114" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E114
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E115" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E115
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E116" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E116
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E117" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E117
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E118" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E118
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E119" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E119
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E120" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E120
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E121" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E121
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E122" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E122
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E123" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E123
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E124" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E124
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E125" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E125
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E126" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E126
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E127" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E127
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E128" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E128
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E129" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E129
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E130" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E130
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E131" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E131
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E132" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E132
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E133" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E133
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E134" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E134
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E135" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E135
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E136" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E136
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E137" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E137
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E138" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E138
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E139" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E139
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E140" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E140
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E141" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E141
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E142" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E142
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E143" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E143
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E144" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E144
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E145" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E145
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E146" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E146
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E147" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E147
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E148" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E148
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E149" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E149
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E150" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E150
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E151" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E151
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E152" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E152
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E153" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E153
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E154" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E154
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E155" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E155
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E156" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E156
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E157" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E157
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E158" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E158
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Água Viva S01 E159" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ylQZDsUdSIOCWcyxuLdtpLGZj1q.jpg" group-title="SÉRIES | Telenovela",Água Viva S01 E159
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285108.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Telenovela.xml"
+############## SÉRIES | Telenovela ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Telenovela" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2wMLdYBW28tcBCKeGyNv5uA0oz2.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1NtG1Om59jYjYawFYSjXk1ub54O.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3J738Z7s3xCPehWEefWeiKmyGF.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/doQOhpLUSWc5urSsg2mADeyvMur.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lYSBMzny5M4PiqO39qx7hB42dKR.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/w3r5sT66GASgCNwMM6rCf90ehom.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2T4JwdOH4KqDm238FDy3Ikdit1U.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mLKhyLcQfgeuP3jAqfhcOdh8di1.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEUnYDFSL5BJXZa66rDHtKy8263.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E09
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d48ZT0plnx1sMrZlUQwDxejJaIm.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E10
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hwD5i0ZHW0pIECQsKvo7Y1op8rd.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E11
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9GkLNHtQFX77TDpYdnvxFtiyhdM.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E12
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6ks3MQ4DfcDBa1LoQJiSpSbZ5if.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E13
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpYnpWO0aS6PfUpN58a3BvzFIE9.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E14
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifMsSIaYmCZOzLDEu22rQHFckhI.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E15
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36MoAsb9goBkpeUafZvsEv9WYr1.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E16
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ds8HyiLjuqFsrTeWhhAjMTUcilL.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E17
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvD0ImM9jUImSHavL7j4UkiaPmT.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E18
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zL6uhGrFW2pOrDtuxJojmjwSIBZ.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E19
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHvd5kPKq2FVKxOlSEl1ObeCXzY.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E20
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oF841euLUFe7l9iuPFXTEFKle1.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E21
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnKVB5EgIEjePcokfDfdkCzLabB.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E22
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fu4vfFQe32Ly9TszPMz8p4GRGwl.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E23
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8i8Q3RkGVVMLoHvPs7DWtx2e18.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E24
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jpGMSUPBmv9TxZfNGye4ojQg1S.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E25
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xXMGnkAVeFztkPwmZ0qqdLH4Z56.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E26
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocOt4biPL6KsEdL5fhc0pNlGXQ7.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E27
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mTBP27IVW5qfd8Sk04u0dFP4wNU.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E28
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xev0gRoFa8cyIbFX3UAUXpCZeZ.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E29
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8pMsSxbnJCvDBM27vktE9LW4pzT.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E30
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDrrObLSmvyJngX9e0QVUVEreDD.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E31
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHpKqGsGgMGVUJxZKEFDeIqcEe5.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E32
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wjFRsq9xkTyQQIAPEUwsV9JEHFR.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E33
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289170.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNeArSUFX92nwVvWqh4depSnnN9.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E34
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1BLZH3ijjsSIKFRMznSU9SMiwFx.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E35
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bjLlPJE8zVbG93eARDYzX0zksEL.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E36
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hWmvd0wRm2Uy8oMDbRkxteb2nUv.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E37
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gS5ELTdBeYo8R1HGynZjURofdWv.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E38
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kS3uiJz3owGHx6SNluqGikS5f1m.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E39
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qM2K7KTsgNDBvzbXnqNQiwLE4ow.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E40
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vj6k1gVpchMNsC1tSDNlGMyQ6Vv.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E41
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iczyU6tPszmYNNV0YWBbSUkBJS2.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E42
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZrN9v5dbCFU3j2Ijwh1KLjlQIE.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E43
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289180.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xhWyLmtEJ0ySrEwDQtQCw7MkIRU.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E44
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289181.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TrAXw52aiSmMtqKzWZWZY678N7.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E45
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wpLrWW8pjDmP4D8eS2afAOpmFeb.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E46
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289183.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oNKiVZbvclcqXm1s0jUyehKrpfD.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E47
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289184.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9oHWpYYsMfBD7KCFlCziTfWzSE.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E48
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289185.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jcRMhgG2TxJqrUF95YqBT4kYtjw.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E49
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289186.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E50" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t3lt02gU89InBSppcjhPBwmtK1K.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E50
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E51" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrLEjNsptSv8rfHFygsPunREHZd.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E51
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E52" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrLEjNsptSv8rfHFygsPunREHZd.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E52
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289189.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E53" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrLEjNsptSv8rfHFygsPunREHZd.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E53
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289190.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E54" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrLEjNsptSv8rfHFygsPunREHZd.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E54
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289191.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E55" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrLEjNsptSv8rfHFygsPunREHZd.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E55
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289192.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E56" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrLEjNsptSv8rfHFygsPunREHZd.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E56
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289193.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E57" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrLEjNsptSv8rfHFygsPunREHZd.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E57
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289194.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E58" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrLEjNsptSv8rfHFygsPunREHZd.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E58
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289195.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E59" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrLEjNsptSv8rfHFygsPunREHZd.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E59
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289196.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E60" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrLEjNsptSv8rfHFygsPunREHZd.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E60
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289197.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E61" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrLEjNsptSv8rfHFygsPunREHZd.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E61
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289198.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E62" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrLEjNsptSv8rfHFygsPunREHZd.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E62
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289199.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E63" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrLEjNsptSv8rfHFygsPunREHZd.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E63
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289200.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E64" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrLEjNsptSv8rfHFygsPunREHZd.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E64
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289201.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E65" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrLEjNsptSv8rfHFygsPunREHZd.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E65
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289202.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E66" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrLEjNsptSv8rfHFygsPunREHZd.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E66
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E67" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrLEjNsptSv8rfHFygsPunREHZd.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E67
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E68" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrLEjNsptSv8rfHFygsPunREHZd.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E68
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E69" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrLEjNsptSv8rfHFygsPunREHZd.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E69
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E70" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrLEjNsptSv8rfHFygsPunREHZd.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E70
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E71" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrLEjNsptSv8rfHFygsPunREHZd.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E71
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E72" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrLEjNsptSv8rfHFygsPunREHZd.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E72
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E73" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrLEjNsptSv8rfHFygsPunREHZd.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E73
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E74" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrLEjNsptSv8rfHFygsPunREHZd.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E74
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Todas as Flores S01 E75" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yrLEjNsptSv8rfHFygsPunREHZd.jpg" group-title="SÉRIES | Telenovela",Todas as Flores S01 E75
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289212.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Telenovela.xml"
+############## SÉRIES | Telenovela ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Telenovela" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="Rebelde S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Xz9ApVVctDsD4PAgLtaqHGMYYf.jpg" group-title="SÉRIES | Telenovela",Rebelde S01 E01
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/149569.mp4
@@ -12215,9 +11561,9 @@ http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/150002.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rebelde S02 E209" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iehrrb9CmYCiV1hXp5pdGQQmGNe.jpg" group-title="SÉRIES | Telenovela",Rebelde S02 E209
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/150003.mp4
 
-#EXTM3U url-tvg="http://grade-de-SÉRIES  Ação Máquina Mortífera.xml"
-############## SÉRIES  Ação Máquina Mortífera ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES  Ação Máquina Mortífera" group-title="
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Ação.xml"
+############## SÉRIES | Ação ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Ação" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/acjlUGrxPbEUihAWNNH0Befsilw.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S01 E01
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245206.mp4
@@ -12330,9 +11676,44 @@ http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245259.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xXbUa483zGv6lBIuEuPJRuJ00gc.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S03 E15
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245260.mp4
 
-#EXTM3U url-tvg="http://grade-de-SÉRIES Nos Bastidores do Balé.xml"
-############## SÉRIES Nos Bastidores do Balé ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES Nos Bastidores do Balé" group-title="
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Aventura.xml"
+############## SÉRIES | Aventura ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Aventura" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Viagem ao Centro da Terra S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHe5cxwbmB52D76whIFZo9z9ml7.jpg" group-title="SÉRIES | Aventura",Viagem ao Centro da Terra S01 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viagem ao Centro da Terra S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Gtp2xpmIYV7VTL5ZRScKlaNLrP.jpg" group-title="SÉRIES | Aventura",Viagem ao Centro da Terra S01 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viagem ao Centro da Terra S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfcH7Z7lkU1OApyAh0FSMKAFFPS.jpg" group-title="SÉRIES | Aventura",Viagem ao Centro da Terra S01 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viagem ao Centro da Terra S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6NzH6IKzIaKFa17kAFTNwyyQmBC.jpg" group-title="SÉRIES | Aventura",Viagem ao Centro da Terra S01 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viagem ao Centro da Terra S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPdlJMxfRG8Y5bymArmjqmbC5Vl.jpg" group-title="SÉRIES | Aventura",Viagem ao Centro da Terra S01 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viagem ao Centro da Terra S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/reO9yna7sPMO7d4kvK9kdsargk1.jpg" group-title="SÉRIES | Aventura",Viagem ao Centro da Terra S01 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viagem ao Centro da Terra S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozmEY2pNl8ndrRPH3Elg5BY4sEs.jpg" group-title="SÉRIES | Aventura",Viagem ao Centro da Terra S01 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Viagem ao Centro da Terra S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlKQUl69PuI6QckrKLBKUR6f8Bh.jpg" group-title="SÉRIES | Aventura",Viagem ao Centro da Terra S01 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gotham Knights: A Série S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qoqZmiDR3rgxvNzYf7sA6jvILdO.jpg" group-title="SÉRIES | Aventura",Gotham Knights: A Série S01 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gotham Knights: A Série S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlcAbxHDMI3rn8P152uXxr839Tc.jpg" group-title="SÉRIES | Aventura",Gotham Knights: A Série S01 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gotham Knights: A Série S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hgVFxw5TuiVXYI08og7XQ7odlP.jpg" group-title="SÉRIES | Aventura",Gotham Knights: A Série S01 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gotham Knights: A Série S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edJCvTkvn4iPsgbY6uEXoOFlIJK.jpg" group-title="SÉRIES | Aventura",Gotham Knights: A Série S01 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gotham Knights: A Série S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAMFOw9JnZ2OfN6Krf9BvpNkrzD.jpg" group-title="SÉRIES | Aventura",Gotham Knights: A Série S01 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gotham Knights: A Série S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbQQhdjNDFn1nYFZUgXkVLvVXqn.jpg" group-title="SÉRIES | Aventura",Gotham Knights: A Série S01 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Gotham Knights: A Série S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyLe8ZB48HkFD0M1JiRIH5Nr3J6.jpg" group-title="SÉRIES | Aventura",Gotham Knights: A Série S01 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289126.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Drama.xml"
+############## SÉRIES | Drama ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Drama" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="L'Opéra: Nos Bastidores do Balé S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rXNLBI6gjULGTTyNS0V82jN3pXp.jpg" group-title="SÉRIES | Drama",L'Opéra: Nos Bastidores do Balé S01 E01
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/287281.mp4
@@ -12367,9 +11748,232 @@ http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/287295.mp4
 #EXTINF:-1 tvg-id="" tvg-name="L'Opéra: Nos Bastidores do Balé S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qHKy1Foh6fTfPE7fOSokiyyM9HQ.jpg" group-title="SÉRIES | Drama",L'Opéra: Nos Bastidores do Balé S02 E08
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/287296.mp4
 
-#EXTM3U url-tvg="http://grade-de-SÉRIES  Comédia Que Chegue a Você.xml"
-############## SÉRIES  Comédia Que Chegue a Você ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES  Comédia Que Chegue a Você" group-title="
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Comédia.xml"
+############## SÉRIES | Comédia ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Comédia" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="O Assassino Midiático S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50DI9lyvuqnAmJqocrKEICOSRTo.jpg" group-title="SÉRIES | Drama",O Assassino Midiático S01 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285203.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Assassino Midiático S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jMpGTTZCtgzYR7iG3OlZD4AAqIw.jpg" group-title="SÉRIES | Drama",O Assassino Midiático S01 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285204.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Assassino Midiático S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljkxBrCHngli3LH9Af1uOK086V2.jpg" group-title="SÉRIES | Drama",O Assassino Midiático S01 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285205.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Assassino Midiático S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zJjE2nTr4FIt5ses94Ykk4UZD2p.jpg" group-title="SÉRIES | Drama",O Assassino Midiático S01 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285206.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Assassino Midiático S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AfDLaVzQnxIWdhQKWDRctemPi3E.jpg" group-title="SÉRIES | Drama",O Assassino Midiático S01 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285207.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Assassino Midiático S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kYcFXPG2kMHwmMDDID9nxSFcXz9.jpg" group-title="SÉRIES | Drama",O Assassino Midiático S01 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285208.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Assassino Midiático S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yM7mI9hc9gjZeHMrp0G9xoLsXO6.jpg" group-title="SÉRIES | Drama",O Assassino Midiático S01 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285209.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Assassino Midiático S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n5HqsZvbjMSkF18EbxdZZtkFAon.jpg" group-title="SÉRIES | Drama",O Assassino Midiático S01 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285210.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Assassino Midiático S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQ9EIuepFvIto9OwaEc0vPT53qz.jpg" group-title="SÉRIES | Drama",O Assassino Midiático S01 E09
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285211.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Assassino Midiático S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gK5QEtJ2avrs9WsTJO7UGDqywVg.jpg" group-title="SÉRIES | Drama",O Assassino Midiático S01 E10
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285212.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hXTJYbmF4V0g8DCPewxBqQg4CAv.jpg" group-title="SÉRIES | Drama",Perry Mason S01 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285213.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hOQoADBVDSEKkYFcadHZBSdLIdk.jpg" group-title="SÉRIES | Drama",Perry Mason S01 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285214.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qUfLd4uE8lWenHDLhV0hYaOY4Oo.jpg" group-title="SÉRIES | Drama",Perry Mason S01 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285215.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sRs0VZYHJ2oP2xLVn0dEzUs5d1p.jpg" group-title="SÉRIES | Drama",Perry Mason S01 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285216.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wvZZk5H1sR9J3LPgjlQ4RPJY4q4.jpg" group-title="SÉRIES | Drama",Perry Mason S01 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285217.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QLrHFocrRb1oA7MbZEN4LZd4rn.jpg" group-title="SÉRIES | Drama",Perry Mason S01 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285218.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/caWOIrSCFoWOeiqh2C8GZgFh674.jpg" group-title="SÉRIES | Drama",Perry Mason S01 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285219.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6RlZh65p6b0SmoO1NgAWmVaFEAb.jpg" group-title="SÉRIES | Drama",Perry Mason S01 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285220.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9l81E9o6UpT1SQsORaqb3GPKluD.jpg" group-title="SÉRIES | Drama",Perry Mason S02 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287384.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/558PmIghii6y3jbkdEDWgQyPs1F.jpg" group-title="SÉRIES | Drama",Perry Mason S02 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287385.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tevCPzWpFh8xJkt6a8D0cDMm21b.jpg" group-title="SÉRIES | Drama",Perry Mason S02 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287386.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NF5Qv6nrhwGdKU6sdeyEKeLEVh.jpg" group-title="SÉRIES | Drama",Perry Mason S02 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287387.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8OSqtfzl0ePlY5ALt6bq3TxVPPo.jpg" group-title="SÉRIES | Drama",Perry Mason S02 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287388.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmu2KdMUxPvEpcarSbMP2erCSbI.jpg" group-title="SÉRIES | Drama",Perry Mason S02 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287389.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srJb9QfpSNPGAlOf7InyfJmHsex.jpg" group-title="SÉRIES | Drama",Perry Mason S02 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287390.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Perry Mason S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/eLMqp2OwOFi3ubSCFk1X936oDHc.jpg" group-title="SÉRIES | Drama",Perry Mason S02 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/288050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transatlântico S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9CvJgI0kwRWVFTgHKz5KqDLTSpF.jpg" group-title="SÉRIES | Drama",Transatlântico S01 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transatlântico S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ixRZkUwyRv4yJUd4B2ParqHzzJU.jpg" group-title="SÉRIES | Drama",Transatlântico S01 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transatlântico S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zkUbCOAJ8qtzYFDbVv9naFPqT3l.jpg" group-title="SÉRIES | Drama",Transatlântico S01 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transatlântico S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5yicTZ6uNtQcf753zek1GDRKT7C.jpg" group-title="SÉRIES | Drama",Transatlântico S01 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transatlântico S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mQqKw0oLVKRjZH4IiyZueztSwYU.jpg" group-title="SÉRIES | Drama",Transatlântico S01 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transatlântico S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s7Vj8g3UY6N85jrmUe46cRQARib.jpg" group-title="SÉRIES | Drama",Transatlântico S01 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Transatlântico S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5i3UgTKPrMD1EGVmRjbJ5aeE66Q.jpg" group-title="SÉRIES | Drama",Transatlântico S01 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285232.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Comédia.xml"
+############## SÉRIES | Comédia ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Comédia" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Treta S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jFTsOVTqatG4NsdWkUM4XMyhhrg.jpg" group-title="SÉRIES | Comédia",Treta S01 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Treta S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aGyahEgRAe4Wn1rTd5xklidgA8b.jpg" group-title="SÉRIES | Comédia",Treta S01 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Treta S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCK91yZDH06muZ2CmyY9RFyZdAy.jpg" group-title="SÉRIES | Comédia",Treta S01 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Treta S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hv3GDBq0e4CVRtQ6tNbEmgERjPk.jpg" group-title="SÉRIES | Comédia",Treta S01 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Treta S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c4oNWU5RFH9AmZnBeSQCWvyNiHm.jpg" group-title="SÉRIES | Comédia",Treta S01 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Treta S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88bxKGbJntnCqF2TcfMY8SZUQTm.jpg" group-title="SÉRIES | Comédia",Treta S01 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Treta S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kSEgDFh1Mt7zbxDGv40cddTIFR3.jpg" group-title="SÉRIES | Comédia",Treta S01 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Treta S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q2vb8sPF9rJJBalpGWCfnpqKsoy.jpg" group-title="SÉRIES | Comédia",Treta S01 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285240.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Treta S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r6KrvoZUUinKnfP1I4pPZfSit1t.jpg" group-title="SÉRIES | Comédia",Treta S01 E09
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Treta S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXVwKEWWLnRJuh96T6bdEr3oP62.jpg" group-title="SÉRIES | Comédia",Treta S01 E10
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285242.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Comédia.xml"
+############## SÉRIES | Comédia ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Comédia" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="As Pequenas Coisas da Vida S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m6gDrSq8grmaY8TPQPKf8PCaxLC.jpg" group-title="SÉRIES | Comédia",As Pequenas Coisas da Vida S01 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Pequenas Coisas da Vida S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kHmqoeOrQj9v9Zvw8QQqjFCPpaw.jpg" group-title="SÉRIES | Comédia",As Pequenas Coisas da Vida S01 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Pequenas Coisas da Vida S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gK9bcv7nqIEYSiMqG8gyIycPLe3.jpg" group-title="SÉRIES | Comédia",As Pequenas Coisas da Vida S01 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Pequenas Coisas da Vida S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gkcOhSQcH98aAaXurUmbXsu7Vuu.jpg" group-title="SÉRIES | Comédia",As Pequenas Coisas da Vida S01 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Pequenas Coisas da Vida S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xQErfy5QuP5iQi0zCvAvM99rnbz.jpg" group-title="SÉRIES | Comédia",As Pequenas Coisas da Vida S01 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Pequenas Coisas da Vida S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vWUzHOadJ3SiKDkWQjXsVhURWfX.jpg" group-title="SÉRIES | Comédia",As Pequenas Coisas da Vida S01 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Pequenas Coisas da Vida S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vizvR51nvLkGIhVKSzINgUUPly8.jpg" group-title="SÉRIES | Comédia",As Pequenas Coisas da Vida S01 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285467.mp4
+#EXTINF:-1 tvg-id="" tvg-name="As Pequenas Coisas da Vida S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2kugRzI8PRiFy2UHOFtu6PzGF1.jpg" group-title="SÉRIES | Comédia",As Pequenas Coisas da Vida S01 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285468.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Comédia.xml"
+############## SÉRIES | Comédia ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Comédia" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Sgrqr77JdttVjmOTQoTFKuzW83.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285504.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Sgrqr77JdttVjmOTQoTFKuzW83.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285512.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6azkO6LDJrPXc7NGfVmIHLHOTot.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285513.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6azkO6LDJrPXc7NGfVmIHLHOTot.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285505.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMbT3kz4X5lGRh8B0PuKINbhXm0.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285514.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bMbT3kz4X5lGRh8B0PuKINbhXm0.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285506.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkduxKcbBDKjAJNMw4YzVjuV1oX.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285515.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jkduxKcbBDKjAJNMw4YzVjuV1oX.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285507.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9i71ZlBZgbRb9LzACbnIflhVZcn.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E09
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285508.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9i71ZlBZgbRb9LzACbnIflhVZcn.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E10
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285516.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvxTbH7NqRpqh9jCDxa5OPakFSb.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E11
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285517.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yvxTbH7NqRpqh9jCDxa5OPakFSb.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E12
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285509.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b45MsfBpu1fruqz8Yf8dJDte5FQ.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E13
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285510.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b45MsfBpu1fruqz8Yf8dJDte5FQ.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E14
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285518.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmWNGnb2GFbQyW0KcBBGKfT7xMh.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E15
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285519.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmWNGnb2GFbQyW0KcBBGKfT7xMh.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E16
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285511.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmWNGnb2GFbQyW0KcBBGKfT7xMh.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E17
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285520.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mariachis S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmWNGnb2GFbQyW0KcBBGKfT7xMh.jpg" group-title="SÉRIES | Comédia",Mariachis S01 E18
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285521.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Comédia.xml"
+############## SÉRIES | Comédia ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Comédia" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Mais Quatro Doses, Por Favor! S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/syEtPP61QgaShSehwWnWTgmgDgY.jpg" group-title="SÉRIES | Comédia",Mais Quatro Doses, Por Favor! S01 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285522.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Quatro Doses, Por Favor! S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMSzQraPxcEwLl8cgxrhNNZxZla.jpg" group-title="SÉRIES | Comédia",Mais Quatro Doses, Por Favor! S01 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285523.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Quatro Doses, Por Favor! S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yWiuPhUDY70ECEJfeKUpQ7jewfn.jpg" group-title="SÉRIES | Comédia",Mais Quatro Doses, Por Favor! S01 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285524.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Quatro Doses, Por Favor! S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eQfL18ClJ1VYCxcds00BDp4c8fL.jpg" group-title="SÉRIES | Comédia",Mais Quatro Doses, Por Favor! S01 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285525.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Quatro Doses, Por Favor! S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oMOqJ3dCRdZsT6o4pEEiuZq4wdL.jpg" group-title="SÉRIES | Comédia",Mais Quatro Doses, Por Favor! S01 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285526.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Quatro Doses, Por Favor! S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vqxPtU0xA3JJT1v4oFqxC9tsev4.jpg" group-title="SÉRIES | Comédia",Mais Quatro Doses, Por Favor! S01 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285527.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Quatro Doses, Por Favor! S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rSo5qnA6elBu1EKZ3TtqZCI45Fd.jpg" group-title="SÉRIES | Comédia",Mais Quatro Doses, Por Favor! S01 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285528.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Quatro Doses, Por Favor! S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3F2UzpFLm1s40Jdf23rO443Rmg9.jpg" group-title="SÉRIES | Comédia",Mais Quatro Doses, Por Favor! S01 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285529.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Quatro Doses, Por Favor! S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pPIgV1tlVZLMN6UOGHU3xKwzizi.jpg" group-title="SÉRIES | Comédia",Mais Quatro Doses, Por Favor! S01 E09
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285530.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Quatro Doses, Por Favor! S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3CwslsWbFotvq335SmOIzond325.jpg" group-title="SÉRIES | Comédia",Mais Quatro Doses, Por Favor! S01 E10
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285531.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Quatro Doses, Por Favor! S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mghzj1bo6ht9nnTq8YmKIhTaIIJ.jpg" group-title="SÉRIES | Comédia",Mais Quatro Doses, Por Favor! S02 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285532.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Quatro Doses, Por Favor! S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hQsDAFkxPLhKKtfYXZVGJcXfnhV.jpg" group-title="SÉRIES | Comédia",Mais Quatro Doses, Por Favor! S02 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285533.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Quatro Doses, Por Favor! S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUJ7Aahit2WypDpuavuOI02yQRk.jpg" group-title="SÉRIES | Comédia",Mais Quatro Doses, Por Favor! S02 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285534.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Quatro Doses, Por Favor! S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQsjCZG38Ex55Mp6IHX0WAn6Nxu.jpg" group-title="SÉRIES | Comédia",Mais Quatro Doses, Por Favor! S02 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285535.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Quatro Doses, Por Favor! S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kH8DZySjwuzuGwgn2G0fjsHnDQd.jpg" group-title="SÉRIES | Comédia",Mais Quatro Doses, Por Favor! S02 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285536.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Quatro Doses, Por Favor! S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7l6CkBuG7JPg1sqfofF2qmqo5mi.jpg" group-title="SÉRIES | Comédia",Mais Quatro Doses, Por Favor! S02 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Quatro Doses, Por Favor! S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WBeDeikkC3V7OBy0eMkhsjoQPU.jpg" group-title="SÉRIES | Comédia",Mais Quatro Doses, Por Favor! S02 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Quatro Doses, Por Favor! S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kXWbZPeXaor1proLsHhvYQ3yyOr.jpg" group-title="SÉRIES | Comédia",Mais Quatro Doses, Por Favor! S02 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285539.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Quatro Doses, Por Favor! S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rxU5lR5E4W6EHKoT3tJwuwVsLgP.jpg" group-title="SÉRIES | Comédia",Mais Quatro Doses, Por Favor! S02 E09
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Quatro Doses, Por Favor! S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ujt8Y9lclSIrQR8E61ZtXnaPEw.jpg" group-title="SÉRIES | Comédia",Mais Quatro Doses, Por Favor! S02 E10
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285541.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Quatro Doses, Por Favor! S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcqiV9JECNfrc8809c7Z4p3Ve6X.jpg" group-title="SÉRIES | Comédia",Mais Quatro Doses, Por Favor! S03 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Quatro Doses, Por Favor! S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPDfuqIGk49y0nXNyrv2Zzrvoga.jpg" group-title="SÉRIES | Comédia",Mais Quatro Doses, Por Favor! S03 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285543.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Quatro Doses, Por Favor! S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zKc5Aq49eBKI8pHxGD6pYPlwxTv.jpg" group-title="SÉRIES | Comédia",Mais Quatro Doses, Por Favor! S03 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285544.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Quatro Doses, Por Favor! S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qgmkqrEG3qbBeqhNbCxg3FaIVi9.jpg" group-title="SÉRIES | Comédia",Mais Quatro Doses, Por Favor! S03 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285545.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Quatro Doses, Por Favor! S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/MX4RXq13wIjTiYksD8L9arMKbO.jpg" group-title="SÉRIES | Comédia",Mais Quatro Doses, Por Favor! S03 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285546.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Quatro Doses, Por Favor! S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fKR13SAaiSeI8NA9MQs0hovzDMW.jpg" group-title="SÉRIES | Comédia",Mais Quatro Doses, Por Favor! S03 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285547.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Quatro Doses, Por Favor! S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hfgoL3tDuhpV0bvh7LnkPDhlqha.jpg" group-title="SÉRIES | Comédia",Mais Quatro Doses, Por Favor! S03 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285548.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Quatro Doses, Por Favor! S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fzv7H0OToo2ItrvM7JILUM8IBS.jpg" group-title="SÉRIES | Comédia",Mais Quatro Doses, Por Favor! S03 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285549.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Quatro Doses, Por Favor! S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vue9zVdl8Fvnuq9h5fYYFfkZMJn.jpg" group-title="SÉRIES | Comédia",Mais Quatro Doses, Por Favor! S03 E09
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285550.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mais Quatro Doses, Por Favor! S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5OIUyqG8kceQSDQQ1a9Ynm9V6W1.jpg" group-title="SÉRIES | Comédia",Mais Quatro Doses, Por Favor! S03 E10
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285551.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Comédia.xml"
+############## SÉRIES | Comédia ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Comédia" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="Que Chegue a Você: Kimi ni Todoke S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ao9k3tYeXC24hveuidbSadRrahe.jpg" group-title="SÉRIES | Comédia",Que Chegue a Você: Kimi ni Todoke S01 E01
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/287259.mp4
@@ -12396,9 +12000,55 @@ http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/287269.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Que Chegue a Você: Kimi ni Todoke S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qWytkX79GHcd4Kx6j60UgL7nHUz.jpg" group-title="SÉRIES | Comédia",Que Chegue a Você: Kimi ni Todoke S01 E12
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/287270.mp4
 
-#EXTM3U url-tvg="http://grade-de-SÉRIES  Drama Doogie Kamealoha.xml"
-############## SÉRIES  Drama Doogie Kamealoha ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES  Drama Doogie Kamealoha" group-title="
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Drama.xml"
+############## SÉRIES | Drama ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Drama" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Dance Brothers S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c5eJeXfhjKSWhsAXt2EhC7TGmhY.jpg" group-title="SÉRIES | Drama",Dance Brothers S01 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dance Brothers S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNhQe6XFHosASjVk2Pis2IAELHS.jpg" group-title="SÉRIES | Drama",Dance Brothers S01 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dance Brothers S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6k3Rx2oDjrQHxbTSCuq4p2Ik5lY.jpg" group-title="SÉRIES | Drama",Dance Brothers S01 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dance Brothers S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kZWm9mdz0dC3sAEQSJ5551PdtJ.jpg" group-title="SÉRIES | Drama",Dance Brothers S01 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dance Brothers S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/arPQolMZJqhwSQtwbqN6orKVn74.jpg" group-title="SÉRIES | Drama",Dance Brothers S01 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dance Brothers S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gdsj01EQjFm2HMWYGAafaxDHp4z.jpg" group-title="SÉRIES | Drama",Dance Brothers S01 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dance Brothers S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/M6IcNCW3WOB3AeQvFPyvl2r412.jpg" group-title="SÉRIES | Drama",Dance Brothers S01 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dance Brothers S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rJYE05C1L6ZTPO9YllqdOMwEST.jpg" group-title="SÉRIES | Drama",Dance Brothers S01 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dance Brothers S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lxZX0h6aV9kEWGt1cYX0jwtyxnv.jpg" group-title="SÉRIES | Drama",Dance Brothers S01 E09
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dance Brothers S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oIhRoaUQbxt3DqzGDERNs1f5n2s.jpg" group-title="SÉRIES | Drama",Dance Brothers S01 E10
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289673.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Drama.xml"
+############## SÉRIES | Drama ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Drama" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Dois Tempos S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2GFTkeiFgE3gBx8zV6VaseyeB93.jpg" group-title="SÉRIES | Drama",Dois Tempos S01 E01
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dois Tempos S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8tmXjVkqcZiAkS9U0Dooqsn1VPF.jpg" group-title="SÉRIES | Drama",Dois Tempos S01 E02
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dois Tempos S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5m4WuxFzZK1CTFDDEHphzwIPG7b.jpg" group-title="SÉRIES | Drama",Dois Tempos S01 E03
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dois Tempos S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7pCrKOPcnwmOWnAnfZCuAJcud78.jpg" group-title="SÉRIES | Drama",Dois Tempos S01 E04
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dois Tempos S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wVSHdRmPSMJ7IGvhlSl487qDmpF.jpg" group-title="SÉRIES | Drama",Dois Tempos S01 E05
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dois Tempos S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1v49qpNmxBWqXB9Hae0mRvJDlYU.jpg" group-title="SÉRIES | Drama",Dois Tempos S01 E06
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dois Tempos S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJTV7v8bUneAwCMrQ0HgzLEk4ol.jpg" group-title="SÉRIES | Drama",Dois Tempos S01 E07
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dois Tempos S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziarCiLW0fhJKM85YMq2AnxqiBm.jpg" group-title="SÉRIES | Drama",Dois Tempos S01 E08
+http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289681.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Drama.xml"
+############## SÉRIES | Drama ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Drama" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="Doogie Kamealoha: Doutora Precoce S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ek3moeEDlbgZ5LNrRoNPfwF1xSq.jpg" group-title="SÉRIES | Drama",Doogie Kamealoha: Doutora Precoce S01 E01
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/287224.mp4
@@ -12820,8 +12470,6 @@ https://live-europaplus.cdnvideo.ru/europaplus/smil:eurptv2.smil/chunklist_b5128
 https://wowza2.videostreamingwowza.com/denhaag/denhaag/chunklist_w881915846.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="  Dance TV  "  tvg-logo="https://64.media.tumblr.com/dc23c6fa24519f6e94d582c768b8ae60/cd389cda20ee9043-43/s400x600/ba870a1ea0a1213f036c9a5ed3fb92a528c1564f.gif" group-title="FAX | CLIPS AO VIVO",Dance TV 
 https://mbit1.worldcast.tv/dancetelevisionseven/stream_0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name=" Hip Hop TV   " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRSzzlT8IUwEJxhHFNmxlTlFu2pTSInMANuwF6PciGTc7B7D3y42AmOM8Lr_4qaJz2Ooo&usqp=CAU" group-title="FAX | CLIPS AO VIVO",Hip Hop TV
-https://cdn3.invivo.bg/359t/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=" City TV online   " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpLMjuauW7iR7j8AYJHo9ZejyIXMYIKAx_-AbhwZ-j8lxBxuZK1M7fzQ7vohYt2-_mWRk&usqp=CAU" group-title="FAX | CLIPS AO VIVO",City TV online
 https://tv.city.bg/play/tshls/citytv/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="  Tin Tv  " tvg-logo="https://oklivetv.com/wp-content/uploads/2015/09/icon175x175.png" group-title="FAX | CLIPS AO VIVO",AFNL Music - Tin Tv
