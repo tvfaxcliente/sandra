@@ -2,15 +2,6 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="TV FAX 11 941386627"tvg-logo="https://i.picasion.com/pic92/e7a120ef007b8c3f4778f662e6425e0e.gif" group-title="TV FAX",TV FAX 11 941386627
 https://ia902601.us.archive.org/14/items/new-creative-video-2/New%20creative%20video%20%282%29.mp4
-#EXTINF:-1 tvg-id="" tvg-name="TV FAX 11 941386627"tvg-logo="https://i.picasion.com/pic92/e7a120ef007b8c3f4778f662e6425e0e.gif" group-title="TV FAX",TV FAX 11 941386627
-https://ia902700.us.archive.org/14/items/video-de-moletom-e-cropped-apresentando-uma-mulher-sorrident/V%C3%ADdeo%20de%20moletom%20e%20cropped%20apresentando%20uma%20mulher%20sorrident.mp4
-
-#EXTM3U url-tvg=" http://grade-de-ALEX Radio DEUS é Tudo.xml "
- ############## ALEX Radio DEUS é Tudo ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeALEX Radio DEUS é Tudo" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name=" ALEX Radio DEUS é Tudo"tvg-logo="https://images.zeno.fm/PkMXcuWoplZAaxQ7h52k5pNbGDeE0j5h1QOvIFFC0sw/rs:fit:170:170/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSURRczdlS2tRb01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSURRczdYZjVRZ01vZ0VFZW1WdWJ3L2ltYWdlLw.webp?u=Fri%20Aug%2012%2015:20:18%20UTC+0000%202022" group-title="ALEX Radio DEUS é Tudo",Radio DEUS é Tudo",Alex Silva Produtor 11 941386627
-http://stream.zeno.fm/pss6v1h6mfhvv
 
 #EXTM3U url-tvg=" http://grade-de-ALEX Radio FAX Deus Sempre Presente.xml "
  ############## ALEX Radio FAX Deus Sempre Presente ############## ### 
@@ -2507,40 +2498,7 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83558
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme - SD" tvg-logo="https://tinyurl.com/u9hboe" group-title="CANAIS HBO Xtreme",HBO Xtreme - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83557
 
-#EXTM3U url-tvg=" http://grade-de-CANAIS | TNT.xml "
- ############## CANAIS | TNT ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAIS | TNT" group-title="
 
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT - FHDR" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QR9kG__TwVIptGSjrNoSEDckRRiX8AfZ8ZoYwo4Yjau.jpg" group-title="CANAIS | TNT",TNT - FHDR
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83589
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QR9kG__TwVIptGSjrNoSEDckRRiX8AfZ8ZoYwo4Yjau.jpg" group-title="CANAIS | TNT",TNT - FHD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/88861
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QR9kG__TwVIptGSjrNoSEDckRRiX8AfZ8ZoYwo4Yjau.jpg" group-title="CANAIS | TNT",TNT - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83588
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QR9kG__TwVIptGSjrNoSEDckRRiX8AfZ8ZoYwo4Yjau.jpg" group-title="CANAIS | TNT",TNT - HD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/88880
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QR9kG__TwVIptGSjrNoSEDckRRiX8AfZ8ZoYwo4Yjau.jpg" group-title="CANAIS | TNT",TNT - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83587
-#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QR9kG__TwVIptGSjrNoSEDckRRiX8AfZ8ZoYwo4Yjau.jpg" group-title="CANAIS | TNT",TNT - SD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/88879
-#EXTINF:-1 tvg-id="" tvg-name="WEW TNT Sports 5"tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/TNT-sports.webp" group-title="CANAIS | TNT",WEW TNT Sports 5
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 5 WEW Brasil"tvg-id="TNTSports5Brazil.br" tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="CANAIS | TNT",TNT Sports 5 WEW Brasil 
-https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT 2 SÉRIES HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1024px-TNT_TV_logo.svg.png" group-title="CANAIS | TNT",TNT 2 SÉRIES HD
-http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16761
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD"tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="CANAIS | TNT",TNT HD
-http://45.58.126.146:14341
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD"tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="CANAIS | TNT",TNT HD
-http://45.58.126.146:14270
-#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="CANAIS | TNT",TNT 
-http://45.58.126.146:14342
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANAIS | TNT",TNT SERIES
-http://45.58.126.146:14345
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANAIS | TNT",TNT SERIES
-http://45.58.126.146:14345
-#EXTINF:-1 tvg-id="" tvg-name="TNT HD"tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="CANAIS | TNT",TNT HD
-http://45.58.126.146:14341
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS | TELECINE.xml "
  ############## CANAIS | TELECINE ############## ### 
@@ -2922,29 +2880,66 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83534
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RHtC9BJ0-RnXOgLY-5yKNc.png" group-title="Canais FX",FX - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83533
 
+
+#EXTM3U url-tvg=" http://grade-de-CANAIS | TNT.xml "
+ ############## CANAIS | TNT ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS | TNT" group-title="
+
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT - FHDR" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QR9kG__TwVIptGSjrNoSEDckRRiX8AfZ8ZoYwo4Yjau.jpg" group-title="CANAIS | TNT",TNT - FHDR
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83589
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QR9kG__TwVIptGSjrNoSEDckRRiX8AfZ8ZoYwo4Yjau.jpg" group-title="CANAIS | TNT",TNT - FHD²
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/88861
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QR9kG__TwVIptGSjrNoSEDckRRiX8AfZ8ZoYwo4Yjau.jpg" group-title="CANAIS | TNT",TNT - HD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83588
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QR9kG__TwVIptGSjrNoSEDckRRiX8AfZ8ZoYwo4Yjau.jpg" group-title="CANAIS | TNT",TNT - HD²
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/88880
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QR9kG__TwVIptGSjrNoSEDckRRiX8AfZ8ZoYwo4Yjau.jpg" group-title="CANAIS | TNT",TNT - SD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83587
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4QR9kG__TwVIptGSjrNoSEDckRRiX8AfZ8ZoYwo4Yjau.jpg" group-title="CANAIS | TNT",TNT - SD²
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/88879
+#EXTINF:-1 tvg-id="" tvg-name="WEW TNT Sports 5"tvg-logo="https://tv0800.net/wp-content/uploads/2022/07/TNT-sports.webp" group-title="CANAIS | TNT",WEW TNT Sports 5
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT Sports 5 WEW Brasil"tvg-id="TNTSports5Brazil.br" tvg-logo="https://i.imgur.com/XA3zxEE.png" group-title="CANAIS | TNT",TNT Sports 5 WEW Brasil 
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT 2 SÉRIES HD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TNT_TV_logo.svg/1024px-TNT_TV_logo.svg.png" group-title="CANAIS | TNT",TNT 2 SÉRIES HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/16761
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD"tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="CANAIS | TNT",TNT HD
+http://45.58.126.146:14341
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD"tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="CANAIS | TNT",TNT HD
+http://45.58.126.146:14270
+#EXTINF:-1 tvg-id="" tvg-name="TNT"tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="CANAIS | TNT",TNT 
+http://45.58.126.146:14342
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANAIS | TNT",TNT SERIES
+http://45.58.126.146:14345
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CANAIS | TNT",TNT SERIES
+http://45.58.126.146:14345
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD"tvg-logo="https://i.pinimg.com/originals/dd/3c/59/dd3c592d19b7aa8e13114c0c6d083087.gif" group-title="CANAIS | TNT",TNT HD
+http://45.58.126.146:14341
+
+
 #EXTM3U url-tvg=" http://grade-de-Canais | TNT  Filmes e Séries.xml "
  ############## Canais | TNT  Filmes e Séries ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais | TNT  Filmes e Séries" group-title="
 
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT Filmes e Séries",TNT FHD
+#EXTINF:-1 tvg-id="TNT FHD" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  Filmes e Séries",TNT FHD
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83822
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD [Alt]" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT Filmes e Séries",TNT FHD [Alt]
+#EXTINF:-1 tvg-id="TNT FHD [Alt]" tvg-name="TNT FHD [Alt]" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  Filmes e Séries",TNT FHD [Alt]
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147715
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  Filmes e Séries",TNT HD
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  Filmes e Séries",TNT HD
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83268
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD [Alt]" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  TNT  Filmes e Séries",TNT HD [Alt]
+#EXTINF:-1 tvg-id="TNT HD [Alt]" tvg-name="TNT HD [Alt]" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  Filmes e Séries",TNT HD [Alt]
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147716
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT SD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  Filmes e Séries",TNT SD
+#EXTINF:-1 tvg-id="TNT SD" tvg-name="TNT SD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  Filmes e Séries",TNT SD
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83638
-#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series FHD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | TNT  Filmes e Séries",TNT Series FHD
+#EXTINF:-1 tvg-id="TNT Series FHD" tvg-name="TNT Series FHD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | TNT  Filmes e Séries",TNT Series FHD
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136806
-#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series FHD [Alt]" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | TNT  Filmes e Séries",TNT Series FHD [Alt]
+#EXTINF:-1 tvg-id="TNT Series FHD [Alt]" tvg-name="TNT Series FHD [Alt]" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | TNT  Filmes e Séries",TNT Series FHD [Alt]
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147717
-#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series HD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | TNT  Filmes e Séries",TNT Series HD
+#EXTINF:-1 tvg-id="TNT Series HD" tvg-name="TNT Series HD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | TNT  Filmes e Séries",TNT Series HD
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83269
-#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series HD [Alt]" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | TNT  Filmes e Séries",TNT Series HD [Alt]
+#EXTINF:-1 tvg-id="TNT Series HD [Alt]" tvg-name="TNT Series HD [Alt]" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | TNT  Filmes e Séries",TNT Series HD [Alt]
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147718
-#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series SD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | TNT  Filmes e Séries",TNT Series SD
+#EXTINF:-1 tvg-id="TNT Series SD" tvg-name="TNT Series SD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | TNT  Filmes e Séries",TNT Series SD
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83639
 
 #EXTM3U url-tvg=" http://grade-de-title="Canais  Sony.xml "
@@ -3612,8 +3607,6 @@ https://tvcanais.xyz/espn1/tracks-v1/index.fmp4.m3u8?token=69df07286d5af835da2ce
 https://tvcanais.xyz/espn2/tracks-v1/index.fmp4.m3u8?token=a1439e88070d9fa2c67ce9aca5b2708b8967fb85-c85059bfa514f51854cc2c339085f035-1689644967-1689644787
 #EXTINF:-1 tvg-id="Example" tvg-name="espn 2" tvg-logo="https://golatinotv.com/wp-content/uploads/2021/02/espn2-min.png" group-title="CANAIS | ESPORTES espn extra",espn 2
 https://tvcanais.xyz/espn2/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 tvg-id="Example" tvg-name="espn 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRADX-uVMU3yaUOc4hRBiMaYP1pHYLKi9JYmvD1qAVpWlnZ0_37dQNeG1a-Tde3w7y8pZw&usqp=CAU" group-title="CANAIS | ESPORTES espn extra",espn 3
-https://tvcanais.xyz/espn3/tracks-v1/index.fmp4.m3u8?token=72ec8bb70656d95b9eded90a98c4f54ded42f5cc-eda406ddfa3beb62ffddb974537946ee-1689647139-1689646959
 #EXTINF:-1 tvg-id="Example" tvg-name="espn 4" tvg-logo="https://www.am.com.mx/u/fotografias/fotosnoticias/2021/12/1/52278.jpg" group-title="CANAIS | ESPORTES espn extra",espn 4
 https://tvcanais.xyz/espn4/tracks-v1/index.fmp4.m3u8?token=77b6011351625edf73b5c10ceb8c31529781fb57-2605174d1e6e55cc288a6a095c24726c-1689647729-1689647549
 #EXTINF:-1 tvg-id="Example" tvg-name="espn 4" tvg-logo="https://www.am.com.mx/u/fotografias/fotosnoticias/2021/12/1/52278.jpg" group-title="CANAIS | ESPORTES espn extra",espn 4
@@ -4395,7 +4388,6 @@ https://ia902704.us.archive.org/19/items/ruby-marinho-monstro-adolescente-tv-fax
 ############## FILMES | TV FAX #################
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES | TV FAX" group-title="
 
-
 #EXTINF:-1 tvg-id="" tvg-name=",JACKIE CHAN ESPIÃ O POR ACIDENTE 2019"tvg-logo="https://http2.mlstatic.com/D_NQ_NP_781084-MLB46950635784_082021-W.jpg"group-title="FILMES | TV FAX",JACKIE CHAN ESPIÃ O POR ACIDENTE 2019
 https://ia902708.us.archive.org/30/items/jackie-chan-espia-o-por-acidente-2019-tv-fax/JACKIE%20CHAN%20ESPI%C3%83O%20POR%20ACIDENTE%202019%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",A Colônia"tvg-logo="https://i.ytimg.com/vi/K0QJO22OB-4/maxresdefault.jpg"group-title="FILMES | TV FAX",A Colônia
@@ -4831,10 +4823,26 @@ https://play.prod.gcp.vix.services/solo_en/solo_en_1-1/play_v1_hls_1080p.m3u8
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83314
 #EXTINF:-1 tvg-id="" tvg-name="O Menino Cego Órfão De Pai E Mãe Nelinho De Deus Faça Alguma Coisa Vídeo Oficial. DM MÚSICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccoLYcVcoEyQ1n132A_B9DYT9lX57mrFFHjX_NG5zJt9jSSKByqsXWrHKwrpCgGG_xrs&usqp=CAU"group-title="FILMES | TV FAX",O Menino Cego Órfão De Pai E Mãe Nelinho De Deus Faça Alguma Coisa Vídeo Oficial. DM MÚSICA
 https://ia902700.us.archive.org/9/items/o-menino-cego-orfao-de-pai-e-mae-nelinho-de-deus-faca-alguma-coisa-video-official.-dm-music/O%20menino%20Cego%20%C3%B3rf%C3%A3o%20de%20pai%20e%20m%C3%A3e%20%20Nelinho%20de%20Deus%20_fa%C3%A7a%20alguma%20coisa%20%20Video%20Official.%20DM-MUSIC.ia.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Stan e Ollie O Gordo e o Magro 2018"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gMk8iriC4lSPXG3HVmNqo13pHHJ.jpg"group-title="FILMES | TV FAX",Stan e Ollie O Gordo e o Magro 2018
+#EXTINF:-1 tvg-id="" tvg-name="Stan e Ollie O Gordo e o Magro 2018"tvg-logo="https://classic.exame.com/wp-content/uploads/2018/12/Stan-Ollie.jpg?quality=70&strip=info&w=620"group-title="FILMES | TV FAX",Stan e Ollie O Gordo e o Magro 2018
 http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/63968.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi As Aventuras de Pedro Malasartes (1960)"tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/38vUpNIbGdjYEzjBw0X4GbIIv5g.jpg"group-title="FILMES | TV FAX",Mazzaropi As Aventuras de Pedro Malasartes (1960)
+#EXTINF:-1 tvg-id="" tvg-name="Mazzaropi As Aventuras de Pedro Malasartestvg-logo="https://alanuemurablog.files.wordpress.com/2017/08/mazzaropi3.jpg"group-title="FILMES | TV FAX",Mazzaropi As Aventuras de Pedro Malasartes
 http://7go.xyz:8080/movie/zogbi11/982451290/50378.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Alita Anjo de Combate"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrklGc7KHTwKdQDXfj0JFuuPnrlZoDjlHEoPSQ_lGQEdgZKq8k33Pn1Ntr1mz_DHfcOwE&usqp=CAU"group-title="FILMES | TV FAX",Alita Anjo de Combate
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/63048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sra Harris Vai a Paris"tvg-logo="https://midias.jb.com.br/_midias/jpg/2022/11/29/mrsharris-706588.jpeg"group-title="FILMES | TV FAX",Sra Harris Vai a Paris
+http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/271382.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bela Vingança"tvg-logo="https://s2-glamour.glbimg.com/WQviGyyMW_raC-VcKyDbQLijPSY=/0x0:607x426/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_ba3db981e6d14e54bb84be31c923b00c/internal_photos/bs/2021/5/e/2ysFW3S9WpOu1UBKAUAg/2021-04-07-bela-vinganca-emerald-fennell-carey-mulligan-01.jpg"group-title="FILMES | TV FAX",Bela Vingança
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Mula"tvg-logo="https://i.ytimg.com/vi/v-W23zGSvl0/maxresdefault.jpg"group-title="FILMES | TV FAX",A Mula
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/66060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Freira"tvg-logo="https://ogimg.infoglobo.com.br/in/23041612-220-bf9/FT1500A/690/Cena-do-filme-A-freira-de-Corin-Hardy.jpg"group-title="FILMES | TV FAX",A Freira
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/63068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Crime e infiltraçoes"tvg-logo="https://i2.wp.com/cineplot.com.br/wp-content/uploads/2022/05/Critica-Ambulancia-Um-dia-de-Crime.jpg?fit=1200%2C738&w=640"group-title="FILMES | TV FAX",Crime e infiltraçoes
+http://esrv.cc/movie/MarcoOj9Nq/Rj5tr/97167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="realidade virtual"tvg-logo="https://i0.wp.com/cloud.estacaonerd.com/wp-content/uploads/2018/03/30032518/RPO-OASIS-Pic5.jpg?fit=1920%2C1079&ssl=1"group-title="FILMES | TV FAX",realidade virtual
+http://esrv.cc/movie/MarcoOj9Nq/Rj5tr/97178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="so mais uma face"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuuzTv2kQ-wTb1AkIxsUeHeDiaiDZmDNmfg-nDHVgui7yG70ygcFpnKffL6iCj5Kheh9w&usqp=CAU"group-title="FILMES | TV FAX",so mais uma face
+http://esrv.cc/movie/MarcoOj9Nq/Rj5tr/95334.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Último Resgate"tvg-logo="https://i.ytimg.com/vi/7BEwWgmfJgA/maxresdefault.jpg"group-title="FILMES | TV FAX",O Último Resgate
 https://play.prod.gcp.vix.services/we-go-dawn_pt/we-go-dawn_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="As Apimentadas  Entrar para Ganhar"tvg-logo="https://image.tmdb.org/t/p/w185/64BU3QqQEBtt5mJf1FjrCLBzzf5.jpg"group-title="FILMES | TV FAX",As Apimentadas  Entrar para Ganhar
@@ -4931,30 +4939,12 @@ https://play.prod.gcp.vix.services/last-boy_pt/last-boy_pt_1-1/play_v1_hls_1080p
 https://play.prod.gcp.vix.services/other-life_pt/other-life_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fim dos Tempos"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d3696d59afc1b8a949d663f68d41d68f9753cd1734d541454902a4a98395fe9e._RI_TTW_.jpg"group-title="FILMES | TV FAX",Fim dos Tempos
 https://play.prod.gcp.vix.services/the-end-time_en/the-end-time_en_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sra Harris Vai a Paris (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5RUXwZPgkOXMNlTBCcmYXYrMsNg.jpg"group-title="FILMES | TV FAX",Sra Harris Vai a Paris (2023)
-http://bgp.cdnr1.xyz:80/movie/Ludovico991387230/ghoe78drs/271382.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Bela Vingança 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r7FwclLTWB8i6XfBNTtUsyONlgN.jpg"group-title="FILMES | TV FAX",Bela Vingança 4K
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175676.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Alita Anjo de Combate 4K [HDR]"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i7eGbUjw721W02ofWEJt4zpiJDp.jpg"group-title="FILMES | TV FAX",Alita Anjo de Combate 4K [HDR]
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/63048.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Mula 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kE9pO1utmOD5nQAcn7tyoUAldkX.jpg"group-title="FILMES | TV FAX",A Mula 4K
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/66060.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Freira 4K"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ShELeGBnk5HYgI0cLfDuS4JMb3.jpg"group-title="FILMES | TV FAX",A Freira 4K
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/63068.mp4
-#EXTINF:-1 tvg-id="" tvg-name="1917 4K"tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KkyXE7Hd9MPOOkORxkMM6SUXAB.jpg"group-title="FILMES | TV FAX",1917 4K
-http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/66058.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Zumbido" tvg-logo="https://img.ev01.to/xxrz/250x400/183/26/b5/26b5df3a2777ff48f73d243b3aff7fd1/26b5df3a2777ff48f73d243b3aff7fd1.jpg"group-title="FILMES | TV FAX",Zumbido
 https://eno.dokicloud.one/_v10/9eb6cd864e29f824f065a00cb16e1122a6d336223fa70d13e573bdb65e08ea6f33efdd176988a48aea1f2097b4a9653c2babbd8a268d77aeb521b524196ca12d734348192c391be42ab32b6a19d3c7b721fb72db33a33196bcbf0b3c333dfcc158bebdf39b663a973601e35cbcc0c7043c748892af9e3b5d68e7fe902031a997/1080/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Raquel 1 1" tvg-logo="https://img.ev01.to/xxrz/250x400/183/cc/19/cc195d12d1ebc7576601946949aaab8f/cc195d12d1ebc7576601946949aaab8f.jpg"group-title="FILMES | TV FAX",Raquel 1 1
 https://eerht.artdesigncdn.net/_v10/262004f4cae559d6839d2d05962b855489c09417f3f16372c5c534dc6adc75faf9e5b4275b1b7d75b80c8a817167422582b8586a0a8c70b50a9bed38ac0dde6586fb6c745917dda442e8c8dcf7c5181d5752b8c91253fd9861c5caeb6f897e40310f9393c9ebd378c1e3aae95f152b1f4c0aaf9fe3cb169ef926219c11e6b6d7/1080/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A caminho de casa"tvg-logo="https://m.media-amazon.com/images/I/71PwC9SS2rL._AC_UF1000,1000_QL80_.jpg"group-title="FILMES | TV FAX",A caminho de casa
 http://esrv.cc/movie/MarcoOj9Nq/Rj5tr/97164.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Crime e infiltraçoes"tvg-logo="https://media.filmelier.com/tit/XV6URw/poster/untold-crime-e-infracoes_AhlEj6Q.jpeg"group-title="FILMES | TV FAX",Crime e infiltraçoes
-http://esrv.cc/movie/MarcoOj9Nq/Rj5tr/97167.mp4
-#EXTINF:-1 tvg-id="" tvg-name="realidade virtual"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1xV3MQ3nxuE-0y-weI07oPwlA4NYPGgV9_Xew2sKkYth0OqZhKgUdOCqKh4U41zwqoG0&usqp=CAU"group-title="FILMES | TV FAX",realidade virtual
-http://esrv.cc/movie/MarcoOj9Nq/Rj5tr/97178.mp4
-#EXTINF:-1 tvg-id="" tvg-name="so mais uma face"tvg-logo="https://s2.glbimg.com/6_Q1dVVkJrVjFbrffApOM45rh3I=/362x536/https://s2.glbimg.com/La7l0l75FQ5A9AwTHKZHns_xWjU=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2023/T/X/AAIGDjQVmqrDv26IoNlA/8808824-poster.jpg"group-title="FILMES | TV FAX",so mais uma face
-http://esrv.cc/movie/MarcoOj9Nq/Rj5tr/95334.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Um Dia Difícil"tvg-logo="https://media.fstatic.com/wZdioIog12_CzEqD0pVnI6k_eEQ=/322x478/smart/filters:format(webp)/media/movies/covers/2022/02/FF1510E5-8475-48EE-87CC-F4691DCC73B4.jpeg"group-title="FILMES | TV FAX",Um Dia Difícil
 https://ia902705.us.archive.org/1/items/um-dia-dificil-tv-fax/Um%20Dia%20Dif%C3%ADcil%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Um Espião E Meio"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRExkf-eDxBUujBjQ3ydFUEGvFEXjJM390m1FgERhzaJMi73TxqsxAR_g5vxjj-dmT2g7o&usqp=CAU"group-title="FILMES | TV FAX",Um Espião E Meio
@@ -5051,9 +5041,9 @@ https://ia902602.us.archive.org/26/items/a-queda_202306/A%20Queda.mp4
 https://seig.tv/19/1/97c990a6b53b1f8612174350de91946a/720p/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Um Ato De Liberdade"tvg-logo="https://fotos-g.imagemfilmes.com.br/103853/103853_001.jpg"group-title="FILME TV FAX B HISTORIA REAL",Um Ato De Liberdade
 https://ia802702.us.archive.org/34/items/um-ato-de-liberdade-filmes-tv-fax-hd/Um%20Ato%20de%20Liberdade%20%20Filmes%20TV%20FAX%20HD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O FAZENDEIRO E DEUS"tvg-logo="https://stbup.com/images/tGTKmTYm7PSkMYUV0D3WuIVuspi_big.jpg"group-title="FILME TV FAX B HISTORIA REAL",O FAZENDEIRO E DEUS
+#EXTINF:-1 tvg-id="" tvg-name="O FAZENDEIRO E DEUS"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/9da37bfb54bf62e94c1133ec4711b725ac86f0db5a02a1dd539f2cacea3918a7._UY500_UX667_RI_TTW_.jpg"group-title="FILME TV FAX B HISTORIA REAL",O FAZENDEIRO E DEUS
 http://tntmais.com:80/movie/123456789/123456789/9968.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O FILHO DE DEUS"tvg-logo="https://stbup.com/images/dawSGD2qjDGNL29yIF9oW4dICgS_big.jpg"group-title="FILME TV FAX B HISTORIA REAL",O FILHO DE DEUS
+#EXTINF:-1 tvg-id="" tvg-name="O FILHO DE DEUS"tvg-logo="https://play-lh.googleusercontent.com/QklhhABKTziSChaYpYDHU3Y1GPxyUatrjNhkk4U408M1HCldLs1HJbl_6zJZ_ErH0zYU"group-title="FILME TV FAX B HISTORIA REAL",O FILHO DE DEUS
 http://tntmais.com:80/movie/123456789/123456789/9969.mp4
 #EXTINF:-1 tvg-id="" tvg-name="o segredo do lago"tvg-logo="https://i.ytimg.com/vi/joW45FpcRcA/hqdefault.jpg"group-title="FILME TV FAX B HISTORIA REAL",o segredo do lago
 https://ia802702.us.archive.org/14/items/filme-gospel-drama-biografia-familia-historia-dublado-lancamento-2019-360-tv-fax/Filme%20Gospel%20Drama%20Biografia%20Fam%C3%ADlia%20Historia%20Dublado%20Lancamento%202019%20360%20TV%20FAX%20.mp4
@@ -5142,7 +5132,7 @@ http://dns.p2.wtf:80/movie/5678bam3aa/8w5xgpli6g/142996.mkv
 ############## FILMES TV FAX | AÇÃO CINEMA ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES TV FAX | AÇÃO CINEMA" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Nezha: Correndo pela Vida" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/8f6925f75b3cede749c4ba166fd533678af46666c96e9ab9607eea558584c848._RI_V_TTW_.jpg" group-title="FILMES | AÇÃO CINEMA",Nezha: Correndo pela Vida
+#EXTINF:-1 tvg-id="" tvg-name="Nezha Correndo pela Vida" tvg-logo="https://i.ytimg.com/vi/RYua3Dl32aw/maxresdefault.jpg" group-title="FILMES TV FAX | AÇÃO CINEMA",Nezha Correndo pela Vida
 https://play.prod.gcp.vix.services/ne-zha_pt/ne-zha_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sobreviventes"tvg-logo="https://br.web.img3.acsta.net/c_310_420/pictures/15/08/04/21/37/556902.jpg"group-title="FILMES TV FAX | AÇÃO CINEMA",Sobreviventes
 https://play.prod.gcp.vix.services/backcountry_pt/backcountry_pt_1-1/hls_2500.m3u8
@@ -7386,7 +7376,7 @@ https://ia902709.us.archive.org/5/items/assistir-wandinha-1-temporada-episodio-1
 https://ia802709.us.archive.org/5/items/assistir-wandinha-1-temporada-episodio-1-online-gratis-e-dub/Assistir%20Wandinha%201%20Temporada%20Episodio%204%20Online%20Gr%C3%A1tis%20e%20Dub.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Wandinha Quem semeia vento colhe tristeza S01E05" tvg-logo="https://media.giphy.com/media/uwB4QnaqMuamPHW7mL/giphy.gif" group-title="SÉRIES | WANDINHA",Wandinha Quem semeia vento colhe tristeza S01E05
 https://ia902709.us.archive.org/5/items/assistir-wandinha-1-temporada-episodio-1-online-gratis-e-dub/Assistir%20Wandinha%201%20Temporada%20Episodio%205%20Online%20Gr%C3%A1tis%20e%20Dub.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Wandinha Aniversário triste S01E06" tvg-logo="https://media.tenor.com/GhEkS53u3hUAAAAC/jenna-ortega.gif" group-title="SÉRIES |WANDINHA",Wandinha Aniversário triste S01E06
+#EXTINF:-1 tvg-id="" tvg-name="Wandinha Aniversário triste S01E06" tvg-logo="https://media.giphy.com/media/uwB4QnaqMuamPHW7mL/giphy.gif" group-title="SÉRIES | WANDINHA",Wandinha Aniversário triste S01E06
 https://ia802709.us.archive.org/5/items/assistir-wandinha-1-temporada-episodio-1-online-gratis-e-dub/Assistir%20Wandinha%201%20Temporada%20Episodio%206%20Online%20Gr%C3%A1tis%20e%20Dub.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Wandinha É triste que ainda não me conheças S01E07" tvg-logo="https://hollywoodforevertv.com.br/media/uploads/jenna-ortega-gif.gif" group-title="SÉRIES | WANDINHA",Wandinha É triste que ainda não me conheças S01E07
 https://ia802709.us.archive.org/5/items/assistir-wandinha-1-temporada-episodio-1-online-gratis-e-dub/Assistir%20Wandinha%201%20Temporada%20Episodio%207%20Online%20Gr%C3%A1tis%20e%20Dub.mp4
@@ -9165,7 +9155,6 @@ http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/97818.mp4
 ############## SÉRIES | DIVERSAS  ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | DIVERSAS" group-title="
 
-http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/74955.avi
 #EXTINF:-1 tvg-name="Inferno Sobre Rodas S01E01" tvg-logo="https://image.tmdb.org/t/p/w300/4ejs8ls4WqD3Gn373LpZrStGLyQ.jpg" group-title="SÉRIES | DIVERSAS",Inferno Sobre Rodas S01E01
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/73951.mp4
 #EXTINF:-1 tvg-name="Inferno Sobre Rodas S01E02" tvg-logo="https://image.tmdb.org/t/p/w300/1xrn9z7NpbQjsRQRhPRZedOuscY.jpg" group-title="SÉRIES | DIVERSAS",Inferno Sobre Rodas S01E02
@@ -13927,6 +13916,965 @@ http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/150003.mp4
 ############## SÉRIES | Ação ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Ação" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1nQMJ5o9X3gSTXLtF6azUtXMQ3U.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/197714.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiL0xbw92OaJf8ZOBVkei9rDW8S.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/197715.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Vezn6ZXas1IcxeG9wCcoHkTZy8.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/197716.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/idwhICSRe5a3K8mykKZV3aKeQpg.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/197717.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/du4R9oWAHLfQXfGFebfI2ZKUkZd.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/197718.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5Nn9AZJcypY5rtu17tcm6qM787.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/197719.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ki7xqZTkdC2zlzzomq97ur46xBn.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/197720.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wAJhjll19qVLP9uTejZ4lUPCX8H.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/197721.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g2zfehFrjJjXpp36W4njJ7GhBOT.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/197722.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEnwTMaERa7BgUlr3ZoDUp0O3re.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/197723.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMWYMCkGdE3aUTg0UAYkLwv5V27.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/197724.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kLW719NfwlM8RA11X14P2bSlEBS.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/197725.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4yqXFjMAO2i1zG1iIeNPETrbACI.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/197726.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hdysX1ucDlu7tjbbXBazVZW2hDo.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/197727.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9bZKlRpQ5IeZK7HxeR9HDMwvvPe.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/197728.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s13tfepNcoy6c72nE79xjbuntiW.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/197729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l17opF8lneVr5hpya6guw69cFka.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/197730.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3fYfkx4sJbjB5rnu8uAC2Oqxhd.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/197731.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jzHBb9TUZrcBmelZ7uAWstWbEgz.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/197732.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2Pki0ftndfhsPnIyQSPAGIQ7kD.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/197733.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5YaHqerTeq7yuXm1zVJQFpdMUVT.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/197734.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1aGgvT2sIuqf4SUpjXINHEp5DiU.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/197735.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jCkNJV9B1BWHWbYQ34u2ao6I1sZ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S01 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/197736.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjTeJvwTMswAVVl4U5TFA98gP3B.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/197760.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjTeJvwTMswAVVl4U5TFA98gP3B.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/197737.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQwwwpSY1Ub8XQ5H88X6tpgQsIN.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/197761.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQwwwpSY1Ub8XQ5H88X6tpgQsIN.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/197738.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApdYPp0gz0VM31WaiLJEocDSbWx.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/197762.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ApdYPp0gz0VM31WaiLJEocDSbWx.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/197739.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CyBcg8FCg5shib7KHSthWqUBkw.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/197763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7CyBcg8FCg5shib7KHSthWqUBkw.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/197740.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tDvEftJeEwt9MeumZc0vm3SWdy.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/197764.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tDvEftJeEwt9MeumZc0vm3SWdy.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/197741.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/so10ph6K6aRJUthkfkbXe45pcwT.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/197742.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/so10ph6K6aRJUthkfkbXe45pcwT.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/197765.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8C7cRkddKHH09KTL2laSWMkyOSz.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/197743.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8C7cRkddKHH09KTL2laSWMkyOSz.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/197766.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgjPo9T9vaMKpiqpk6RlMNhYMqx.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/197744.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lgjPo9T9vaMKpiqpk6RlMNhYMqx.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/197767.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xD70qaFE4TgVAJ3YmdDhpfDdoPl.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/197745.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xD70qaFE4TgVAJ3YmdDhpfDdoPl.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/197768.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BbSjk60XEwczP5xxmMCRW8X8b1.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/197769.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3BbSjk60XEwczP5xxmMCRW8X8b1.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/197746.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sW05qHzN9BlLg3dZIJmkNoS0T2D.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/197747.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sW05qHzN9BlLg3dZIJmkNoS0T2D.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/197770.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0Z2fYv7gmflLmkZXyB2Epf8o1i.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/197771.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a0Z2fYv7gmflLmkZXyB2Epf8o1i.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E24
+http://apkwuv.xyz:80/series/judeva/deva10ju/197748.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyIPwElKKSUweoyBuM3uJqbGndW.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E25
+http://apkwuv.xyz:80/series/judeva/deva10ju/197772.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyIPwElKKSUweoyBuM3uJqbGndW.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E26
+http://apkwuv.xyz:80/series/judeva/deva10ju/197749.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbfB1vwVUieWwjdQhkRfGUtdlJX.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E27
+http://apkwuv.xyz:80/series/judeva/deva10ju/197773.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbfB1vwVUieWwjdQhkRfGUtdlJX.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E28
+http://apkwuv.xyz:80/series/judeva/deva10ju/197750.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZewCCBAfmkT2j5m1LI1VkRUEZK.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E29
+http://apkwuv.xyz:80/series/judeva/deva10ju/197751.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ZewCCBAfmkT2j5m1LI1VkRUEZK.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E30
+http://apkwuv.xyz:80/series/judeva/deva10ju/197774.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqGuvrr9wybB7drNyScSxqUcOzQ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E31
+http://apkwuv.xyz:80/series/judeva/deva10ju/197752.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqGuvrr9wybB7drNyScSxqUcOzQ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E32
+http://apkwuv.xyz:80/series/judeva/deva10ju/197775.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUbSj4HxGZF0KptgrvJ6jBYphOa.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E33
+http://apkwuv.xyz:80/series/judeva/deva10ju/197753.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oUbSj4HxGZF0KptgrvJ6jBYphOa.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E34
+http://apkwuv.xyz:80/series/judeva/deva10ju/197776.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hSf8FGTPthQvzQMg3Y6eimhP4s.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E35
+http://apkwuv.xyz:80/series/judeva/deva10ju/197754.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hSf8FGTPthQvzQMg3Y6eimhP4s.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E36
+http://apkwuv.xyz:80/series/judeva/deva10ju/197777.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h65f50UXgdNgVVB66qvveqMztJq.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E37
+http://apkwuv.xyz:80/series/judeva/deva10ju/197778.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h65f50UXgdNgVVB66qvveqMztJq.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E38
+http://apkwuv.xyz:80/series/judeva/deva10ju/197755.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Zliz7GH1nRyHlZCUrHP9fBHPvo.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E39
+http://apkwuv.xyz:80/series/judeva/deva10ju/197779.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Zliz7GH1nRyHlZCUrHP9fBHPvo.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E40
+http://apkwuv.xyz:80/series/judeva/deva10ju/197756.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNt3dUzNfeFtBdr0tDDtwKs71By.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E41
+http://apkwuv.xyz:80/series/judeva/deva10ju/197757.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNt3dUzNfeFtBdr0tDDtwKs71By.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E42
+http://apkwuv.xyz:80/series/judeva/deva10ju/197780.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsTeNrXxzFMcBL3xMEtx13BaS0F.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E43
+http://apkwuv.xyz:80/series/judeva/deva10ju/197781.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xsTeNrXxzFMcBL3xMEtx13BaS0F.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E44
+http://apkwuv.xyz:80/series/judeva/deva10ju/197758.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWwesh80czKzQaKulIP3CUcy5RT.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E45
+http://apkwuv.xyz:80/series/judeva/deva10ju/197782.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S02 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bWwesh80czKzQaKulIP3CUcy5RT.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S02 E46
+http://apkwuv.xyz:80/series/judeva/deva10ju/197759.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxQUJtawHa8WJxX7IWGaDtfULh.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/197783.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tmQ9SQpqMxlgypHh42lcc0kOunY.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/197784.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWC7L0IFbsjw4GCBFtGlr5bGzTq.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/197785.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aOiGUS1uvUeFg9q4TLrvGZhqFvq.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/197786.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGF8BqNWamAl0GIORxSBm1J9wi0.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/197787.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/160NliksaHZCz1uZTQo7J8tz6kM.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/197788.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fFlwrCzXqwmhoW03RCoXZr6zxyX.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/197789.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vjhTLx9wreWUiSRgujMJFgCEg6M.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/197790.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMaUBZBeaheJJZfy1XB65VAYtad.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/197791.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sA98ImwEsAkjCHJWjyGVhWajDfJ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/197792.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6STMw50xyG9h5OpXonqzEVADMLW.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/197793.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5rcW3QUyoA0KsajwD8WETegHXfA.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/197794.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jrhhfxkEX47ejuWZWyLRPg6qsJA.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/197795.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/czbVM8BATl6nU6HpsvblBYJTAlN.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/197796.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p1wtZkik3iWHGmwlPg0uJWcDe3.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/197797.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vr0oD7OqDSaInR7wt6idXobf876.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/197798.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wy9bP3jiCnxxDpE6dn8ILQ1LU19.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/197799.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6llFhg9oPNLGSks57Ujst0LWd87.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/197800.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDF4r4GB51XouXX7hEyhEW35jfB.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/197801.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z0XHty0dfXdBLUyJPstjCICaNom.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/197802.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1seDDmIvaeGxg7WUVCv5j4MPtU.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/197803.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzttHEfyPHD3TIfMB1vWK9dOPHb.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/197804.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iZHPoLecbCkX6NRHRW5II9Ht76.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/197805.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S03 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbz5kEkw5oss4ytKyikqptW3WXn.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S03 E24
+http://apkwuv.xyz:80/series/judeva/deva10ju/197806.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MzU7xJSLHy2IKRKbyFO32ug5RG.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/197807.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A4vwHj73oPHeXHLmwJeYdbE0AnS.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/197808.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wkxIbvgEtBbPg3fzl8UgRxWbrZ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/197809.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4zEi3zTX9EnkMHKg5gyO1GBIQjr.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/197810.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gB4ZwrwepRlQS7Tnns6DppWcrib.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/197811.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/huUoQySbeFvK9ZRtYW2FbTydTIp.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/197812.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwAlDnIm65svM5fFOpaa9cxTbxF.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/197813.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jSIg9F42dFhBiD3OddS0PWK4Gov.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/197814.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9z4acuW9FCu9kO9eliCu30Cj87.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/197815.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lqh3BWQIvIjkm0QzUantWfs2Cbk.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/197816.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pOA6vcfO9Zvd478qiLWyFofGHWg.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/197817.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKbrpTJDz53PX5xfoTAHI2PLVku.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/197818.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3j2XsLLR0YfYYjaTVdj6RAOxCcM.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/197819.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncmRylsi5slQ7qkHnYGfOJA0j63.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/197820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3S4PMQypZ2BZTCb2XqvnrwxPjO7.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/197821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fre2wSDXFNJOG9Z35IsSqpXbFtY.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/197822.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1IhG6DYmdkqZqtw0pFgSsyejp4E.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/197823.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wiqXs8wzpNUxlH6QvjJIVuBhX1s.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/197824.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4V24QIA2MNpWHyVVYNGHSwPtiVC.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/197825.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cuqxmu1pnU4odoNdvAwBx2BoaxJ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/197826.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4l7slBoiWvgVUAdq56ojISVRxf1.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/197827.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zro9zT4i7LaThs70MWBgYbjaolC.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/197828.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTifhtpNkjO9JNeosqLFQBtJRfI.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/197829.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S04 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJ7FducqFKH3nyMhTJ2jG0vy5vW.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S04 E24
+http://apkwuv.xyz:80/series/judeva/deva10ju/197830.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jHOXj5Vf7FaoY513Xbv5RP0YFMF.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/197831.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y5z4UxWXEQ4QpiJwFlkRG2Oc6Ei.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/197832.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBndQ4rZDsNOncvsi7LEnfgrdYE.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/197833.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ATviYwpvJW0WlGGLzx83at0CIw.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/197834.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgoFpQJOZQfr7Sab2F0i8gbvNMQ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/197835.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oU9gTllkeTkMCecvCnbGmby7ETV.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/197836.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n22NEJYtgQXNchUzXx1XUDNC1sj.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/197837.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ia4Sqc0pkpgwGl4BZmUDWipXvU.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/197838.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5h6iw4cVDXgpGYTwP4DyaYkf5C7.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/197839.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3REjlteHws47MrvcPycN8zrGFGH.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/197840.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/udyWKBAoOJutoSCtgJf4d8jMAks.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/197841.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmjh6TeRaClY3L22qosbOgl3AcP.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/197842.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gFfxjyHRofvVww3Q59K14xzJCHU.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/197843.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6IZkGimRgu5YtoGogSciEwQNxvv.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/197844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hA4TXlrYFwJl3wIjBP3RXfw9nvJ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/197845.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D1CNFql44wZUfzVeeXF9gl7zNk.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/197846.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gupmG0quLGqOjwh5CPkckh9Qhcd.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/197847.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S05 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvSgrTYTBnrBGlpPg2QbcpKwJRS.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S05 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/197848.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bV3b2kR6Qu77FqerItgP9kbzeAQ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/197849.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9X7kvMzP43607TTPiuF9I1browe.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/197850.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d1M3VrDnANjWPDnyFS57keGms5a.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/197851.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmBnfIbWxe4GbqRvDeRs8kp6UCk.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/197852.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lXtUKv4d917jZ4AZVxeRaRxXcYK.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/197853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n7Rl5JYgcXbZTHcTLCPnGrLIjUt.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/197854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hNZttdr51VwuN265OLrGuWeDNQK.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/197855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dP6PR2yGkv63vKCqAjMvem5SHZu.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/197856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lwY1Pl57O9T3zeuctHbMJcisxJK.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/197857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fpIA06jD1PjM4OYl4bux1fW4YJo.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/197858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXm0ktXApf2nR3z3FKjlx0MXHAh.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/197859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wbDrSWn59SjLbm33S2CoMLjMslr.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/197860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8cdQokfLusnanSReExBcELkR3mi.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/197861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtpi5ak86PD3V6ARsHHXzdTOSak.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/197862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7tJFgS3XPU4BBCohdqWsUwhziAE.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/197863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lprn5kr9cGZkSr7kNwBEOXwl4Mz.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/197864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TiQ9k3I6IjQ9eTzi5JByT7OJfg.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/197865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iEBzdURgex2xDg5DhcZiCSoS7n.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/197866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyLNWOe6hHWuaErjIOEaOZ1Gz7u.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/197867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxkWIvOAC27iRLqlzJnboJzEBB.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/197868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNI6lCaR0g5CKkzFfLoJhkgpTbf.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/197869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z93AL1CX2rdzQ06PEiq0uTtfmCp.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/197870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vYrN9bgfkhAZBu0cObmH3b6MYSA.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/197871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9AhPbuiZaYFURz7ocXhCSG3Z9GX.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E24
+http://apkwuv.xyz:80/series/judeva/deva10ju/197872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S06 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gTZgYUM8IZTPB0UHGaVnMCNpWdh.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S06 E25
+http://apkwuv.xyz:80/series/judeva/deva10ju/197873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5WZJspVtIThloQd8KTjVsvDIul9.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/197874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8afO82loxMoYu51MoNBY20gTgQw.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/197875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/emRdBMFpbCgtFmMAGuOGt2pej0c.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/197876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2QxPAtz8WJGyV1Ak1vkI5g6Jlj.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/197877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9r88mESch8ibUWyaicZRI8foHM.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/197878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/trYIp0yUP31z19jFCMXDDmke0aB.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/197879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cR5pvpqOcOJREHydOVEtbAfeP3O.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/197880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sF8UM0Yf4ShobrevsOAWuOn4RAL.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/197881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q3NdmtDzL0TjeXxLuwD87GdaoON.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/197882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqQ9gCMDJZPUVao85NN5CWVjFMW.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/197883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/S4tG6C3tSkMA3dljzBewREDzFs.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/197884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NQZ26i6fmBfniQTMBTyhPcKrJA.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/197885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4bLrOXIEj4clnfv5iVC6rxGKKA.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/197886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/viPSI8JNhLXF7Iupd9rBeAHpnyR.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/197887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8LjxUf4xfgqZ7zVGYSwbEyaNJfb.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/197888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqtP2cH7vk6MoINpWl3OjAcnhM3.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/197889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n6SwbahtxYR38mXgBWR1aJCAvgI.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/197890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AbAsYOp6A12Ua32z0kmbKR3zwUe.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/197891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cbjizs6j6HhZ1sPrZnGNrQXJagk.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/197892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nEiBwYQ6HQ6PBsNzuJLyzoRC2a4.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/197893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oBu5JbYfgaPnK7oRvNpCYRIr9QM.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/197894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b48DJjmAXk9cCtfWY0hBY71dgeH.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/197895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xpZHtMYvau4lyNhaxmgHItiM3RI.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/197896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S07 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yIiOsgfTxNJlIX9k0Z581rj2AY3.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S07 E24
+http://apkwuv.xyz:80/series/judeva/deva10ju/197897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ckLLxdamwtkp9ggTmdAcLlbARQ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/197898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oHvXbFNabshFMrS0m3QN89K7Aix.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/197899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TifyFpmzT4SqhshClgrr2Q9K2X.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/197900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5JX1A4GVZoOI7XeAXTcPyUxk2RB.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/197901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8ro1El3nFRx47uQQ6tsbSvrGUU.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/197902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfzVSeOaz7fUhfaEEsmSZCi6fwP.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/197903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDOvGBdLr1FykOziZoy4gQcy9dP.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/197904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/74EXpaqz5422T8px4eUv3O5zzyQ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/197905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCMJJNP6qTDnEyWs5IcCHEDJQDQ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/197906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yBXh9L2w1k50TI4G63xcOEl6yUf.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/197907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fGxSer0Jq46GA0RJIDGVlTMiGX9.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/197908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGxlSmTqNAZC8xNsKJZ94MTt45f.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/197909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEj0yfPv9wVggeNrh9T6fvDdt71.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/197910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zIF4HN4vm4sWvGy967lAnoylM9x.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/197911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wG9Q998DfAxGNFIAvd0XcqERPR4.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/197912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qu8Thaiq9brcBI5huDa4SAIsdbY.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/197913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pDDuA6XyxjXqXEWhm7vcbyk5Lvw.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/197914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1eSO7O20io3h5izo2Niv2gyc9N.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/197915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4pxBBRSEw933vxAlzPja2a8Q6Nt.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/197916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcuGJ5erwSL9uM5KGfMs8bj3jLi.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/197917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMBtb820wTu2CaWmZfiVZAl3TjH.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/197918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d6a0dv2Sl8sCAHcFMtNg8d4vW48.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/197919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zWx3QYAgEQ00uk2MKybUYXbVdMT.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/197920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S08 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9E6IVfcI6V8qV0Kj0PdV7hzri07.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S08 E24
+http://apkwuv.xyz:80/series/judeva/deva10ju/197921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eOPESjPvnYHkOzoKjEErbCauzh9.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/197922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ktoyOYttg9zxcO2mbiEq70lZjCt.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/197923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLaWFgFO2pnC37x75CQm2dSn9XB.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/197924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZZMVAFT2qJBaVbqCwEtKLXiv1q.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/197925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2VPG9bvbHZraTVIfZlFPZSBSETm.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/197926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZgEVKTMfYz0GY8GYBrQEaA8f5D.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/197927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pdeV9fcs7LYR9KKh0q1Mcw94dxH.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/197928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/humv4bBKDeIOLCdJr9d3SGdHHnc.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/197929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gmgRidyEchxUjOmspZqxSa12NFa.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/197930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qXeRT9nXR9uLxJSElEmW4GuHSti.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/197931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uO2Rl15jWlSx3XgXCdDP0xc2DLH.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/197932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/flExMGv2puo9JiJTXeIMmYRJwJ3.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/197933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m7NY9Dg8LtQswpBwGV3rkmYz5LG.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/197934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lopn9ZzbybIiWVP1Ywaj4wSNbhA.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/197935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pVcJ0g65EuaSqV9bz149M5409ef.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/197936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t7o41cdjDLX46xTTmIbENg2n6VI.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/197937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mnnPfnnP5SSqAlHWJnVTzf2rS34.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/197938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/giTwxDmGpgMk5WhBA5WyFHxIF8P.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/197939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rokecYkFQbFYGjLiuUupdjJXbVO.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/197940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hiEYDOYubej8zMKOYIpfCBTolIU.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/197941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zN5AMKvfF9dGmYt94PD2LR88DPn.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/197942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMltrptEhkPeCdPnn5Ns4iHCeVU.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/197943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atDGA2RXvJoVhFGFmzgvqVOb2Pj.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/197944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S09 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sB1mmYSsC8LTgqr8bc8RCFNI0dQ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S09 E24
+http://apkwuv.xyz:80/series/judeva/deva10ju/197945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uEEgjx7KjUdSxkhZaKxhRdzY4dU.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/197946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zcbp5hovpNYOgQrumnJ9tKoWZT4.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/197947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uz3HXs5RVEtrJxwhv56NnZSXIRP.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/197948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e5a6cd4keKDgH4bdEWkDCaCI0Sm.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/197949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KtxXoFfyAlKPIHxnPB0U7306Uf.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/197950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r5BZ19aCtw4DbqWmLJnv9VY166O.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/197951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3MFQzfJsJJcc3hXm5sELaOM0xa.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/197952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/916Izq6EWwutv7MnlWwE0uVbt1K.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/197953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/85aoWkhHIPbxAWxKQpAeszRzjWc.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/197954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k45fqbcEUoC0UI4qgG8QHllJxAZ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/197955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dfCI0h7LUnvF6tdC9KWu62kXbJU.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/197956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sQeT9AKjDg5v2CzFLyC2gwb6lEq.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/197957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y58thwXnoILwZ9ZiX4yaL4rhG0M.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/197958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u1wfLrY8QxShMNwBomXm1QUOoYd.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/197959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mlOvAnewXAzH9PfliQhAHWrCAzG.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/197960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tpiqGhU4TMkLijvWy8vcwD4yYc.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/197961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nQRMX614zn7XsykScu1uvAEbVwq.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/197962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cEwZQAPRUKxCedTDp3qBUqwv5e3.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/197963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gp2p1U3IHzKomh6lrzG3XjVBn0m.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/197964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mG9XKVQBDRKxKiWhuIwa7IMhfGi.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/197965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gzNh9zbotIbWfpMYXe2Zfzijf2W.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/197966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jv73xAQYPglppEhlkWrvnrdwTvL.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/197967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovc29iwtyDIaqRD8BjMyyZkYsWi.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/197968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S10 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8GtMVVeyVO8ZjCKZYfSc31AmYhM.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S10 E24
+http://apkwuv.xyz:80/series/judeva/deva10ju/197969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tf6PZi2Dw2mg00IL2h6RRJWwrjf.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/197970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uF3krw93K6bGBdUItaswyJ5Zzcq.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/197971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3OLrztIaROc5V76PIOfk86ZqBQ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/197972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ao6rVlJMj5ulGRs0sNmVWoWZnQr.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/197973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uDEyHlmtGBLqoFZ8fTPtaJaNnQ5.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/197974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n2x3RqvfbwOIUc6k1v9RrP8eZR0.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/197975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l1juXf3G4McWFu6IcZO08w8evoQ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/197976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nsGVI4pzGGGuV9LkhrWQLgpIYHy.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/197977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/niRsDQKUvcGSfKbDD69K0cREAXJ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/197978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8fCWXuPqjaVu2Ibx6jgB3K3j3Iz.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/197979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oEtW0jhfFhUM3YSrn08G6g3xpUQ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/197980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2TsNTxp2fjLQRq32byij95uZV7n.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/197981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/znlpwqpBQ43cbgMKum7jBrIbFrg.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/197982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mo2vxWekJw6D4WfJbdODGUYEL1D.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/197983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS7xo3KK8FUSowiZnUJIrF5yg4O.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/197984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wIreXXp6nXyJ9oulJvxqijhmYHV.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/197985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7PebjhgYFCSvhXH5OUnjUiYMXR0.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/197986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tR8ICZIblwclrvhcVhIgWj0pHHF.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/197987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLSG2Pc7w9v1PfXuiZzQGrmysiH.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/197988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sjc1hV9ZVQa4dEom9CWljKDUne8.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/197989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/omKJvTt3HtqFBsMsnJ9dJhdYPHp.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/197990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hLZkbKv65HkAeGnuUzNWafwR3t.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/197991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/acUQyYHUaPrTArhYfd3UijUwrcf.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/197992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S11 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/joYidiWSbnMPuNGRVixmTYUdDP0.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S11 E24
+http://apkwuv.xyz:80/series/judeva/deva10ju/197993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tNtjnHjCwjboO9DWTFles6DYGqf.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/197994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b4Zb1Xe5MlZVRLqKjgUKV15NP4W.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/197995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AggE7BOM2SyNT7S6lhdWtkoWS7F.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/197996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIDH0vkKUvbzCUGPBgGVIm9tbdD.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/197997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zSo19k3PTe9bxL5dqkYEcn8NPuh.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/197998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahX80hVP5Bc1sy6CZrxLvbbLp.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/197999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFTHZUiC4fkWxR9tQlVl81LbJg8.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/198000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWXQcDqzR2tybkgbWiF66FFBNf5.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/198001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6GtDAggAxzHRT1cxDdJct6PFrVQ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/198002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jy0XidJKXxy2L9e4KOvDE9JnIwA.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/198003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jixsKT6h1FiQdhBlySoFcRxGcuE.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/198004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/noSj19STW6UxCxsiYhiTw3zXBwo.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/198005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lFQAAcloVkwr8rF1YjRHl58NHl2.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/198006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhSBhCBHwnMRrlb3RqRQ1hSC99i.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/198007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wUrKguPPmFlbTU26hPHm369Is2W.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/198008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mWePFlGzN7FwDWVOcpVpJUFJ29h.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/198009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3G89i1SPe29wXIkgS2YI32QC7IY.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/198010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1dVXUjILRiz68Y87MwZNCnSq4j3.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/198011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDNKlIu7KQ0pGczd0ZDQv7eTw4i.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/198012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S12 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mEIMiEP34bMC86dkn6xnHdbA5gx.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S12 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/198013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nskddxxMoIE55RDAJk5zTcTDzs0.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/198014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5MQkfVOuHhdXkJB1g0RuAYGvTCA.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/198015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9iZl0BvOJoO1iMsLU4Mm7639KF.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/198016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8CGCdVrr0noWHMzsErgxYVcRAmv.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/198017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qo0PS1f4DpjgTVCF9873TIResbR.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/198018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zN3qdZ6nGeVPCxvoJ92IbAWp8Cf.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/198019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5ZRHn7ldlnp0GD1uBWsIdk5GEwZ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/198020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mNOS9Er9RrBhP85RzCcNtxDMegJ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/198021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3teMktg1TjAgVztsxNw9vlM0TRJ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/198022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gHN2mRym1pL56h1KnbrSvx8vsER.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/198023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y6rEHwZVVum8l7G3jeKeB0UxR8n.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/198024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fAphMArj4OdVKQyr2MFQC8pjTkR.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/198025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lIZAp08RaZTA23Zla9cIqFjDQt8.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/198026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ajc7O9K4yTJ0cepxJnKM7lN6lMw.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/198027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rNIo1JfupDc032tGLTjhN8MFwZS.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/198028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4EQk4vDcGVkwrrkATVGcRg2R1cl.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/198029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o1rDtum2F6JzZaYGfSeiCY4I7oM.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/198030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vVAJzB87Jul5YZcyq1qeDV7viYI.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/198031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jOqtslt9LkKA0iLjcOUdCAziZ7X.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/198032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6o1N2wJYv89YSYtnzVOjJ0fZahs.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/198033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7kWYd2QChCT5pjNIJRpW38DLKWk.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/198034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/waYRubfNb8BUlziEcQ3rE4baFQ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/198035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3x8eTGNbqqxyWGzs1mnFL0NXJOx.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/198036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S13 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jlmS4o9ulmmWtswQVMrZchM3xfo.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S13 E24
+http://apkwuv.xyz:80/series/judeva/deva10ju/198037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6oHXYIJWyGbTq2mjcTdnmNOcxo.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/198038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x6oHXYIJWyGbTq2mjcTdnmNOcxo.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/198062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gsssI6cxfbLxCIUKUtBSqSUrlW.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/198039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6gsssI6cxfbLxCIUKUtBSqSUrlW.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/198063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1P5vGXq7ON0nJyzi1XsvOna9HIu.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/198040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1P5vGXq7ON0nJyzi1XsvOna9HIu.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/198064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1E1LcadNZ3j2qDVa3J8Zjwf0g5.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/198065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/n1E1LcadNZ3j2qDVa3J8Zjwf0g5.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/198041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqryu7kHVw6XdDVzx5d7t261Csp.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/198066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uqryu7kHVw6XdDVzx5d7t261Csp.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/198042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCW5LAcuTRlhazDazfdoydsvvPZ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/198043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCW5LAcuTRlhazDazfdoydsvvPZ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/198067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztqEgEHHQCv1zS6zj7nqjJ9M83g.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/198068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztqEgEHHQCv1zS6zj7nqjJ9M83g.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/198044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cT7RxGdvYkoF7t772qH1GlF9NQW.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/198069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cT7RxGdvYkoF7t772qH1GlF9NQW.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/198045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lekPqr9BPGcBYhQ5G8EBPkxDhWJ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/198070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lekPqr9BPGcBYhQ5G8EBPkxDhWJ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/198046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4cR0tB3U9kTY0Xz8u1G00XqQH5.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/198071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4cR0tB3U9kTY0Xz8u1G00XqQH5.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/198047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMsfwiS38OoGaG9lskyVbeBFurz.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/198072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pMsfwiS38OoGaG9lskyVbeBFurz.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/198048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aNhqb92Jhi8edichieJaiusluC.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/198073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8aNhqb92Jhi8edichieJaiusluC.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E24
+http://apkwuv.xyz:80/series/judeva/deva10ju/198049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2UZUre18T94XJUr4GgzO17dNID.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E25
+http://apkwuv.xyz:80/series/judeva/deva10ju/198050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2UZUre18T94XJUr4GgzO17dNID.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E26
+http://apkwuv.xyz:80/series/judeva/deva10ju/198074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQ9O7OGFKv1cgdT1o1sf3ygTlEB.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E27
+http://apkwuv.xyz:80/series/judeva/deva10ju/198075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQ9O7OGFKv1cgdT1o1sf3ygTlEB.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E28
+http://apkwuv.xyz:80/series/judeva/deva10ju/198051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXXkn2Zdo8hsHEBpNEEacybvckL.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E29
+http://apkwuv.xyz:80/series/judeva/deva10ju/198052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cXXkn2Zdo8hsHEBpNEEacybvckL.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E30
+http://apkwuv.xyz:80/series/judeva/deva10ju/198076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sppsgPa5jHFoqvYFK8Lhdk4a1HE.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E31
+http://apkwuv.xyz:80/series/judeva/deva10ju/198053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sppsgPa5jHFoqvYFK8Lhdk4a1HE.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E32
+http://apkwuv.xyz:80/series/judeva/deva10ju/198077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fmK5YuTEaCnpfNkqIGuq2q49BvC.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E33
+http://apkwuv.xyz:80/series/judeva/deva10ju/198054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fmK5YuTEaCnpfNkqIGuq2q49BvC.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E34
+http://apkwuv.xyz:80/series/judeva/deva10ju/198078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUXe4jQdzCIcHDKLfhzW3utNDrc.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E35
+http://apkwuv.xyz:80/series/judeva/deva10ju/198055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUXe4jQdzCIcHDKLfhzW3utNDrc.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E36
+http://apkwuv.xyz:80/series/judeva/deva10ju/198079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLR8LPI09gVLMiEncH8WZ4oZMxW.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E37
+http://apkwuv.xyz:80/series/judeva/deva10ju/198080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLR8LPI09gVLMiEncH8WZ4oZMxW.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E38
+http://apkwuv.xyz:80/series/judeva/deva10ju/198056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vS0NYHpekPLvcoTzHaOjZhGGnt.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E39
+http://apkwuv.xyz:80/series/judeva/deva10ju/198081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1vS0NYHpekPLvcoTzHaOjZhGGnt.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E40
+http://apkwuv.xyz:80/series/judeva/deva10ju/198057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xm1xeEtd9KVpF2JQpQKQlZi7kwP.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E41
+http://apkwuv.xyz:80/series/judeva/deva10ju/198058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xm1xeEtd9KVpF2JQpQKQlZi7kwP.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E42
+http://apkwuv.xyz:80/series/judeva/deva10ju/198082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUeTz15Y6FbEUaBLBTb1R6thDbI.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E43
+http://apkwuv.xyz:80/series/judeva/deva10ju/198083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUeTz15Y6FbEUaBLBTb1R6thDbI.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E44
+http://apkwuv.xyz:80/series/judeva/deva10ju/198059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p30PD2B0aXGmitpabjpGOffOH2S.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E45
+http://apkwuv.xyz:80/series/judeva/deva10ju/198060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p30PD2B0aXGmitpabjpGOffOH2S.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E46
+http://apkwuv.xyz:80/series/judeva/deva10ju/198084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6k3NEb94IrihOpZLQeOGgUheM5z.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E47
+http://apkwuv.xyz:80/series/judeva/deva10ju/198061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S14 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6k3NEb94IrihOpZLQeOGgUheM5z.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S14 E48
+http://apkwuv.xyz:80/series/judeva/deva10ju/198085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/910LwyOMd7sfnEkMHwlVYyqGpN0.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/198086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oI0OZ1mCtzz94Dk70L2ffzpufZU.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/198087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9jQipW2Rgg3xjkMe5X9UQa6JqPN.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/198088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rQcEq63U8qm21dLybSGm5HBdFuW.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/198089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lZzAOj1vomEhMlbHoNoNopZZfh.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/198090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/80S9iXwK8F53LdkGpbMD10klze.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/198091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gk02unpodzNaUjWWnk5M7pH8ChB.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/198092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Dd7iuesmYj1xJEb84ph8MFWP47.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/198093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jeRulwIhlijg1TlsspeqvuNCu69.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/198094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m2fRYlz4Ttsf4vb8rHGsikffliA.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/198095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4rOHgKH1GuLGOeWEF03NZlPllok.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/198096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mkNP105pRXrjJnBKVXS0cdUt1KE.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/198097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3z9cOOuJvxVEs1E9eu4rT2wHEsV.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/198098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qzyCE0EMorZ2WmVtvCXGgRTrlOJ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/198099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSe8pVZjiq3cVxQs7fX5GUDov0S.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/198100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8XvpdgFIgXWpdrBEZwWCDw8SQ1o.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/198101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5VV9diNZ0eaoAe0Jgzoab0HcNG4.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/198102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uENMgscW87NejwZ9xMk9eUseCNJ.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/198103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8whkVGxLQsjY8ky5OqtHPPauSUi.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/198104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vhbDQIg9y2DKWd11YmDF682wqSj.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/198105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mwpxCBIF4b8Sx8iM4mH1RazNxO.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/198106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gQ5BSNQj0VX2BGWK0DiGvjJWn9B.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/198107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/id1OXfnmUjifcgX1CFpynbSKSBs.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/198108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S15 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qvPY2q1LttmbuuVfHtio8h7G4d2.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S15 E24
+http://apkwuv.xyz:80/series/judeva/deva10ju/198109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2OfDpRIiBnfdw1di5HU6Oj1hZMb.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/198110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4MTZ2trgLw5bsMMX41kyfNrbld.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/198111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AUppQ0BulJHDskuLmoTAmuto2.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/198112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wuRr5jZNnceoXihlYGFAZCFq9l4.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/198113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dI7T9wOJCRb04tiw25CKLc7Y0NK.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/198114.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSCLTMw6D3Uz6miEkrmDEAySOkA.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/198115.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oKCd4Ln79jIRHFgFjf1isDM2aqk.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/198116.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fZjPCMqaXqvh9zWWbqZzULsXc1p.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/198117.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aR0wVb6s5Umy1ivoWcimEye3fMx.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/198118.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1zCUimRihp6k6eqwazwwKReuQg.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/198119.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/srgdNBJQ6zi81FWHQGNbf1y7KiU.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/198120.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6gj6BLyX3XFsxFWHc2ntOHmFXc.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/198121.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ti2pUacaNKaIAh8elHGQbhOg6Q.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/198122.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xL2lFCkXkZOhYfzXb2bdXHWKeVN.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/198123.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kRFyeJgk3Z2PuShwYAzOBPjSoYu.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/198124.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pUFa9SjeOz7L0Z0Hq7yRfZYZvC0.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/198125.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8p3S87V7sU52UzNAmZHfvLfZdh.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/198126.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyGzAfiKnfdfjwx9xP9RUh3uK4s.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/198127.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bCbR6obSUtXAED7w26wEInkrATs.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/198128.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoRKUGGs9LSxPHQdpgg2xJoOUGg.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/198129.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dG8wUFXSJE19JY4rUE5g79trl7b.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/198130.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yPaZncGpJ1DaI6sYILLitpEiMUy.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/198131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7T5uKguGiPf93SgldUTMT6IHJs.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/198132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S16 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wQte0P7YJSOVo6ZV0npCifbrZeN.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S16 E24
+http://apkwuv.xyz:80/series/judeva/deva10ju/198133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f6r2mDLxEcViD5PhraGMrqudmJ8.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/198134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJWVRdYlBR36W2LGzqTxFuSbGAp.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/198135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A9DIjmfR5KTYlNXa43TcIJ2HpmX.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/198136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4QBC9gxrNJ8QxgK9UAb3nJXjvF5.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/198137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/73AKlsPjjVSFvHoJG5rpXzesVQD.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/198138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pybLwxo415qDekVrSNHwM64uI3N.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/198139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8IZFtkyaHHDbAfGpbRttrmzSDeo.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/198140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eAXhMr6dfQziJpyde8tt5UO4jEd.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/198141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pB8TDOJirnaq2eARSTnZ164s7AT.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/198142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dYUhjpSN2VVPdwhQWJ2QgKktffA.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/198143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mPxECULZUpCFS32zHlMzSO6vYjp.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/198144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lLJZFGqfoM80T5R17L6f9qazgZq.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/198145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xeCA8AW3ACjev9TrYwzptpQNV0r.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/198146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aw6fHV6IN4fdFp0CizDbWcpK0E.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/198147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sUHEvFDuVDN2r5tM3j2Ij4FYIl2.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/198148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z64FVrRzCEcu9ricK9d6In5InWA.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/198149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqdche2k66WdXb7pBUyXMqjXYLL.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/198150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSpsEE6vzUtIiC0itvSVGjmeeJ8.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/198151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yqSlOm6hNOnm88dinpRCynL1c5Z.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/198152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S17 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gX56I2MOYijRIwhfMB4glPqcfoK.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S17 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/198153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tThwJrv5oQ5Q4Qbj9WPV9EtR59C.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/198154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/orcQqdzFWQw6Nfdros7TsX44ojA.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/198155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5QgIXFRmE7LW997e0YY2LXWn4Ez.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/198156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGGvSEAzPa6IlsM6YtC8wteZ6zw.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/198157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5cUFaWfvjBjRvwoFFZDpoHU11SP.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/198158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A0Rjvp7BSanT7hx1yh1Urgs9lAs.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/198159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9FKJ64wMjo7alfbuwtwlAXU1zZM.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/198160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ecrds5ripoy4Fq8ugdIYmLVu3Nx.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/198161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kvZzkwynU8m1Ot9zQhV1VOPMJxn.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/198162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJa5aLufNKU23KqFO0tNw5f7iz6.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/198163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g2oC7NM05DZjt5S72Js6MQw43W2.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/198164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/egQUHdbQhghtcM6bceIwu3yKtCA.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/198165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f00ULeYDQK5l6OTmlhDFZp0eP2c.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/198166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/43wytDdgC6fH8R5IHDcN9XCXJKh.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/198167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zodGiL6FErRhLjnlQ7TQUfUDObf.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/198168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S18 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AllX1J4IsSLdtEpP63SrPDRM4M6.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S18 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/198169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S19 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMobF6gFLTSj0XoVHam70imCt7w.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S19 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/198170.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S19 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/txdEWLibheWMEb00P8pYoNch4gz.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S19 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/198171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S19 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDw3VKbxW6qr5wSwhpnA7XA7dWc.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S19 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/198172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S19 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eGWeW0ZChX43G0YSTtGik2jIcDi.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S19 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/198173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S19 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iWM780infuavHASgUW0SvZk8ptt.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S19 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/198174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S19 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7dghCOKSalQXeZ1ljTMPX7HgA4Z.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S19 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/198175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S19 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/odILTsF052wJgdmRqOh8FOMwcj6.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S19 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/198176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S19 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k2LvucMkBeGsXUTSkSzT6Vs7BtH.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S19 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/198177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S19 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pH3fkwOVX2Wvtj3j2LWVwoFR7T5.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S19 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/198178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S19 E10" tvg-logo="https://image.tmdb.org/t/p/w300/n22H93XEYuKmsWuIYu3OnEtP8uF.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S19 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/214677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S19 E11" tvg-logo="https://image.tmdb.org/t/p/w300/jOQm30mvQhonTp82aINqrCBqEcT.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S19 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/214678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S19 E12" tvg-logo="https://image.tmdb.org/t/p/w300/zXsOvxGgoGdfPo1DLqpMVITxG1y.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S19 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/214679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S20 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mMhS4UEdVheJ6ZKpz3hoGarIazd.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S20 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/304246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S20 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xs74w6KZiIZ4yYJNGrFnCUZoQGK.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S20 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/304247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S20 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lPk6U7az1nF4l1xZ4dHxFwCCic5.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S20 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/304248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S20 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/78DXCyqNL2kXsbgzxT9BjLKAtyx.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S20 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/304249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S20 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/78Q89N1mg5iCcRry8pvED9mqTu4.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S20 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/304250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S20 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pcaT4hWlRriTxazX3rOnb3iUIaA.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S20 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/304251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S20 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j32HUQ0lh5tUVRa4NWOXi4YtQoV.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S20 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/304252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S20 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Hc4Rhs64BU54YnlOusPMQZkJEV.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S20 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/304253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S20 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjH15TjIDPEWqiVQFdqauZtBHG0.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S20 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/304254.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Ação.xml"
+############## SÉRIES | Ação ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Ação" group-title="
+
 #EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/acjlUGrxPbEUihAWNNH0Befsilw.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S01 E01
 http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245206.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIsYGAT7u2E2y9smNXKM9LLZ4hW.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S01 E02
@@ -14072,6 +15020,384 @@ http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287435.mp4
 http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289125.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gotham Knights: A Série S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyLe8ZB48HkFD0M1JiRIH5Nr3J6.jpg" group-title="SÉRIES | Aventura",Gotham Knights: A Série S01 E07
 http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289126.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Drama.xml"
+############## SÉRIES | Drama ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Drama" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/43663.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/43664.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/43665.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/43666.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/43667.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/43668.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/43669.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/43670.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/43671.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/43672.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/43673.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/43674.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/43675.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/43676.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/43677.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/43678.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/43679.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/43680.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/43681.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/43682.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/43683.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/43684.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/43685.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E24
+http://apkwuv.xyz:80/series/judeva/deva10ju/43686.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E25
+http://apkwuv.xyz:80/series/judeva/deva10ju/43687.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E26
+http://apkwuv.xyz:80/series/judeva/deva10ju/43688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E27
+http://apkwuv.xyz:80/series/judeva/deva10ju/43689.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E28
+http://apkwuv.xyz:80/series/judeva/deva10ju/43690.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E29
+http://apkwuv.xyz:80/series/judeva/deva10ju/43691.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E30
+http://apkwuv.xyz:80/series/judeva/deva10ju/43692.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E31
+http://apkwuv.xyz:80/series/judeva/deva10ju/43693.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E32
+http://apkwuv.xyz:80/series/judeva/deva10ju/43694.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E33
+http://apkwuv.xyz:80/series/judeva/deva10ju/43695.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E34
+http://apkwuv.xyz:80/series/judeva/deva10ju/43696.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Milagres de Jesus S01 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zqTVizgMpNzJmpKnUaei6EMYNbZ.jpg" group-title="SÉRIES | Drama",Milagres de Jesus S01 E35
+http://apkwuv.xyz:80/series/judeva/deva10ju/43697.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Drama.xml"
+############## SÉRIES | Drama ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Drama" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jDP0SSNdjDO6NANoZA8q1ps5khm.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/222896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7VErwt3ZsyBjcLAXzCy1EJ39NZJ.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/222897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o8MoUtaLAGvVjCRSwhQQW9V9qDX.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/222898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k5Cxkp7fkenZFpSSFnHvOvQbqsk.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/222899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ev5PLgm0GYT0oBZ6q0yM8yHYcEN.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/222900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2qtjBaAuNxSKJXmf1vfqevdueLC.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/222901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4dxFEbIYEQCxZ2j1Kjfqmx9wdyK.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/222902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7oxcBt3eHyYxuabscmxU7w6r9sj.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/222903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d95FUx8IymcYgbZiMCo7kv6hYYZ.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/222904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6AjUXnH5WbTCKh4UakaF9irrseQ.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/222905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4JI3dk7lcQdejmOj7gUQODC0kTz.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/222906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRHYTu3sbY0nIjOmZjal6a9R9er.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/222907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ycvYblBRPJLQodxlTOYqtmO0dtZ.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/222908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7TzGE8FnNKJlOvwzs9uBFXWc9pv.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/222909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ilyUzTMXkS4iFuvCpApcpMrZ9YZ.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/222910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4g76Raxq4YwmwlGRid2NUnU8ovD.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/222911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5jj36vf3eJSJNQHsOMCFDCVl9zP.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/222912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/euiShFPXozStZc4Guistt7FU6yZ.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/222913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ublsSLm2uOCHjXONTcegUM6NVkw.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/222914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjKhEJMHcctsQqbJFq0hMtr41oM.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/222915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXgvbiqZaYaItFA7u43XtQ5D2MH.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/222916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/27KXwNAOP6sDXDXUTXmQlA8SfUd.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/222917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/81IT8ypLfdYG7MvLvQ0R8619hMB.jpg" group-title="SÉRIES | Drama",O Mentalista S01 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/222918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cHnMZCdgxSVAGCi1JtlsJadeahH.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/222919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pfDL2jw3dXizGrcCuIZI8ckhDuX.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/222920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQzY8IRNZYkMlFcezKonKQdWaXS.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/222921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ceThzYJyXXStupzS5CZK6GKIN8.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/222922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHPF974uHnxhHk7HH9vuHe0LcUs.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/222923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wKJRCPj1S1DdZoW1tXn18jfKOCr.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/222924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iZbIS1IAPDQVVCyYDjsiqUL7iWJ.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/222925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kj8QsrTk1bd3QUYSUlnqlM2ENgU.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/222926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8Xdt4xcBy1R8UBlq6UHcmysKuew.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/222927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8dUUl8CuWjZ64GkcugFS1KBlxU8.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/222928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tYUFHyblV3n8pBWQOlNngiOZc6u.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/222929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zMJskaF4JsnRFEDtWeTggcrFTSe.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/222930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/36fXpaOd4kfqEtGEEFMBdV56ZFF.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/222931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2orh7exIgvThLSrYSEMwqnfFyRB.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/222932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Af45MgqSx6fAjIz7QSMuSS1vfy.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/222933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7z5kURJX13InQZHUb6rfbz3ZGkT.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/222934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3tEz5xZi964iz0N5hDCGXUesAr8.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/222935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2gyNRfvwXbVaRO3ow9bywSx6fJ6.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/222936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSq7V8cF2IF2ZLJ9xJ45onasB7h.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/222937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1cYpVJiWhO2w6Ba28j2qZZxkTIq.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/222938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2teZDR2OY2Xqewj0FOEk5YhRYEo.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/222939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iOAmSnA98m7ixfktUAn2AosOnJk.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/222940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S02 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x5cHBEDR77LMskbOWyZmKMyFeIB.jpg" group-title="SÉRIES | Drama",O Mentalista S02 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/222941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j51joTgTllOfaeO4xGrkfL9jhwj.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/222942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/te3Yhs2Yyso2N42Py1nzdSBNAIC.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/222943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8GjIMGmSE2EXbfaMDS8BGhhe3JI.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/222944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97mETIrBtLSLdma6fDA0pv1Y05R.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/222945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/VVqiTCHZpAoz0w7DhF0CSt4YCb.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/222946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f9K5sJW6VuWoWrRLFUn3mQQ4Ebf.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/222947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e8oJCkd7k0evwsR4e9UfKtjXHlP.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/222948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lF3oGXhzV3kGg5eHTHc8xBBKwAx.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/222949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/akMJZOeXeKJB755F45juBmiN8b1.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/222950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f7DsZKHPcXgqND14HcaDcOStOTc.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/222951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7Rf9QwKefdLf3HeUuEu1jzku5R.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/222952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3Qn5v3qvHqWLhQa8PMMVNVseuQP.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/222953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ygTnmEdT7uApEfVEAVab60fySlk.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/222954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ocfrQ83hndEa9wJJlOTIpUv9aq7.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/222955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ZjwkO0Tyj75D2FiMJTUJ5qiyck.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/222956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lUi4BTBehU3H62e4mShC4itwsRA.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/222957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wDbk0F1QETLdHmvFNIZu7MQbury.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/222958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/93pIfYcqevW99gQckDtUoT1uPam.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/222959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/clVxqUvb3GhmYcaHDO74yqNdlrx.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/222960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upfF53iuG4rhHYp7OS0zZvZVvoz.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/222961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hCHBP3a1Ad9Z76O2ot6AjUbP7ZH.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/222962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kthKwNn416lLg6RQE3hpKNbrL8h.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/222963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S03 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pgzD3RNDmfO48e0jOvkHEyP8hhc.jpg" group-title="SÉRIES | Drama",O Mentalista S03 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/222964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5oME6nECiONQSAlYAuwNLpXVWX8.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/222965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtblAumVziIaRnyGYH1y3DOR7Tj.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/222966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtiyePK6mbzAbb7oTHmU3VUqEsw.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/222967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5CEzdCvIG47Bz11mnqX3Uowlkaf.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/222968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bI6KnDMRKaLwJoU5zxQm0ErLtfB.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/222969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gH8e3oguntArfj2PSqzaTjFT1S6.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/222970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mXqPEp53nRrPJz37QitMlgSwTv.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/222971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6QQSjjKucdj2OC2Va5I3c1FfC8.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/222972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/afX4hCEqkmYFJwGtcofS7Q6dPOv.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/222973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ypRFOEWNGZ234mtYauoXDVvVxZm.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/222974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8WDulKfL74rU45UA61KBh4Z05Wk.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/222975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQTycILSEgzwYyMwemM00Z60fQL.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/222976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s54MxtKD8sxD6RduCuzQQXgjzpF.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/222977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4ZT1Qz6j5uOf6O8SgB3MAouVrPU.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/222978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lDpRWduEBk68AU7U2wWtTNLifKr.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/222979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1gmNPFAPeBxL48OJfQlwDrPlDF.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/222980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9RfhpFHLsu8Jar5BKz4R7kbJq4l.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/222981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rkBo0LuQdNkLnykzWwavyz2wd2e.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/222982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u4CKA1cW18ZNlQpTDIvvzjD0UXc.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/222983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cd6CNxNYf8tPVhuTyj7p8clPdJS.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/222984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8rceP0pG3TdYelcWu2vUn5n0cvg.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/222985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1SkQZQvsnV5mO0gDzcck4NoCBd0.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/222986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/knn0FxdMscWqlgIiS4T6laoHBhX.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/222987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S04 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bckBQLDLLMnFqN4w3RKPw4JWnom.jpg" group-title="SÉRIES | Drama",O Mentalista S04 E24
+http://apkwuv.xyz:80/series/judeva/deva10ju/222988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vxGnPnb9wzz2D8Zeu5ty837cjYG.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/222989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vJISe5uemqI3FmVMlUJFCmfx0c3.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/222990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8r8CqchSC1AeLv591lGyetCZ3tI.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/222991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rA2xZOhD2Xf14MbLhpbSI3u5Zgl.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/222992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Er2lXBf6aISRPtoPdOuWibBvgZ.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/222993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/58P1vF3eBzUPjl1wgsRQPcmz0pg.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/222994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/32yoi47iX0WbUEiHhcxgkT58QP5.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/222995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xTvkkG1LajiKfWAPOIarXewDq5K.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/222996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5anUmnPEnzczFTsGsUUmz21TAlC.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/222997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uc4SNoVFhX5LmvPDbN5p1I03UBy.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/222998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nfncxU3dDo7Si42a2YdQO95daDX.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/222999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5cMSKu5HVXHpwfe9m0uFl9p9IJS.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/223000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rYIbgy1iaLi65ohOdjGxIGdnbcV.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/223001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v5nVxxtmxIhLYKJs4yFHeBAvNlY.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/223002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1L3YvPnk3vDpMhykEoXyA8eNnb9.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/223003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8TAimSPjRLt1JTpiJz0NJAt9VcW.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/223004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4GHX9tCvwNSlAq5K6QnJZQ9mF4.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/223005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5p4M8iCHDvTrMiZDK9P4UBT9hwH.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/223006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ifH4nB6JvR37GSXoUJqfIFqJags.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/223007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5LzJk5UkjIWhNnvbSHnLngi1tH.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/223008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCBML80TpuIpnnmmuePSgHu8B69.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/223009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S05 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lHTVrnnUqRKAv8HA0IePqkvCmYL.jpg" group-title="SÉRIES | Drama",O Mentalista S05 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/223010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yK0s7sS1OvycfixaL71tiC9vGrs.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/223011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xoGSbgs2irKl9KNXYKM3COr9zbW.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/223012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i2rB7S8by35A0uo2Sx0kmxDTBfM.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/223013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9zL6SjfdGpWaUMVGdLOCIE3rpE.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/223014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Any1WOHG9kYpm4zKiqZoD2dtPCd.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/223015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8h0McZ5lj7LgDQmeLgevue2bcgk.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/223016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p03unWudQBHcBXowDJSsq26kHn3.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/223017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Ff9qMg56nZhjF2SwPP1g6WLQAF.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/223018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b1Rz4SPntbsc57Z3GyNDnT6f4in.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/223019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5K3uT9zl8jWdecfTQ7lueLDcSUR.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/223020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBeQ7xTusKNYarzvtSPGWIlD0s0.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/223021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oivMZtRI9AsZTjQ3UEfd1nmgwVV.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/223022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bbdUihpnNzydeJ4VruYk2LR4HlW.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/223023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fyTRMNlqShtZ71eDflh8CWHnhzp.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/223024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhQTfmYzrTtomZ0YceKuZGMGmM8.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/223025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/71VJBoofmW9r9AdbVki7gIamb52.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/223026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pS22t6owaLvTm20n6TqOoEZ9zZn.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/223027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8lEHTXpm95St2GWmoJXfN07xpHf.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/223028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9ElKggmklWquhHSdzGqkSAOcBKT.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/223029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2uHxhRMZ2s9lxqnkMRqF1WXdiaF.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/223030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhlcIaP82kZLLeJkyV5G5J999cV.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/223031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S06 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g1GC0kl7MRAWP1XIGQi71qpcZDJ.jpg" group-title="SÉRIES | Drama",O Mentalista S06 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/223032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S07 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tOXSPiCbxWbXKROy5sVPVPQyls2.jpg" group-title="SÉRIES | Drama",O Mentalista S07 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/223033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S07 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gUTkKMGXqEZD21Vpk3C5zKtFwcK.jpg" group-title="SÉRIES | Drama",O Mentalista S07 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/223034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S07 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jJkqCuL3chQXbgCXGusYi3aEtS0.jpg" group-title="SÉRIES | Drama",O Mentalista S07 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/223035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S07 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/atPJKP4KVmZirGGX6ZjwVpofZlg.jpg" group-title="SÉRIES | Drama",O Mentalista S07 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/223036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S07 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oqjuGBKH7Sdetr7kHOiraZqsUa.jpg" group-title="SÉRIES | Drama",O Mentalista S07 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/223037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S07 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oeLJbMFoE5GTJVJFZR3lgFdHYtC.jpg" group-title="SÉRIES | Drama",O Mentalista S07 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/223038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S07 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3rJptgWFTE2HP0GBTeEJPZyKEzQ.jpg" group-title="SÉRIES | Drama",O Mentalista S07 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/223039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S07 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wizJqU72PpVHV2rXj2ont3AzPKM.jpg" group-title="SÉRIES | Drama",O Mentalista S07 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/223040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S07 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qyw4C9d4I5tpBfMHiZ3myzg7Mfc.jpg" group-title="SÉRIES | Drama",O Mentalista S07 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/223041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S07 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1CCcErOPNIQjOmJtBCEB2R9EH9Y.jpg" group-title="SÉRIES | Drama",O Mentalista S07 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/223042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S07 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gyQdHBBe4yVVZsaCJMwCHFGuoUD.jpg" group-title="SÉRIES | Drama",O Mentalista S07 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/223043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Mentalista S07 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tE6WZnyyS6HI39sh24wZWIeNmd5.jpg" group-title="SÉRIES | Drama",O Mentalista S07 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/223044.mp4
 
 #EXTM3U url-tvg="http://grade-de-SÉRIES | Drama.xml"
 ############## SÉRIES | Drama ################# 
