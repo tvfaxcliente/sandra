@@ -110,6 +110,52 @@ https://ia802708.us.archive.org/31/items/michael-jackson-TV-FAX/%E2%99%ABMichael
  ############## Canais | Abertos ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais | Abertos" group-title="
 
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND SP HD" tvg-logo="https://loopstatic.net/band.png" group-title="Canais | Abertos",BAND SP HD
+http://apkwuv.xyz:80/judeva/deva10ju/163037
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND SP SD" tvg-logo="https://loopstatic.net/band.png" group-title="Canais | Abertos",BAND SP SD
+http://apkwuv.xyz:80/judeva/deva10ju/83440
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND Brasilia FHD" tvg-logo="https://loopstatic.net/band.png" group-title="Canais | Abertos",BAND Brasilia FHD
+http://apkwuv.xyz:80/judeva/deva10ju/163695
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND Brasilia HD" tvg-logo="https://loopstatic.net/band.png" group-title="Canais | Abertos",BAND Brasilia HD
+http://apkwuv.xyz:80/judeva/deva10ju/83439
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND Campinas HD" tvg-logo="https://loopstatic.net/band.png" group-title="Canais | Abertos",BAND Campinas HD
+http://apkwuv.xyz:80/judeva/deva10ju/195185
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND Campinas SD" tvg-logo="https://loopstatic.net/band.png" group-title="Canais | Abertos",BAND Campinas SD
+http://apkwuv.xyz:80/judeva/deva10ju/195184
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND Cascavel TV Taroba" tvg-logo="https://loopstatic.net/band.png" group-title="Canais | Abertos",BAND Cascavel TV Taroba
+http://apkwuv.xyz:80/judeva/deva10ju/288603
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND Ceará FHD" tvg-logo="https://loopstatic.net/band.png" group-title="Canais | Abertos",BAND Ceará FHD
+http://apkwuv.xyz:80/judeva/deva10ju/288602
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND Curitiba HD" tvg-logo="https://loopstatic.net/band.png" group-title="Canais | Abertos",BAND Curitiba HD
+http://apkwuv.xyz:80/judeva/deva10ju/151319
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND FHD [Alt]" tvg-logo="https://loopstatic.net/band.png" group-title="Canais | Abertos",BAND FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147442
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND HD [Alt]" tvg-logo="https://loopstatic.net/band.png" group-title="Canais | Abertos",BAND HD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147443
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND MG FHD" tvg-logo="https://loopstatic.net/band.png" group-title="Canais | Abertos",BAND MG FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162945
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND MG HD" tvg-logo="https://loopstatic.net/band.png" group-title="Canais | Abertos",BAND MG HD
+http://apkwuv.xyz:80/judeva/deva10ju/260033
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND MG SD" tvg-logo="https://loopstatic.net/band.png" group-title="Canais | Abertos",BAND MG SD
+http://apkwuv.xyz:80/judeva/deva10ju/83591
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND Natal HD" tvg-logo="https://loopstatic.net/band.png" group-title="Canais | Abertos",BAND Natal HD
+http://apkwuv.xyz:80/judeva/deva10ju/288604
+#EXTINF:-1 tvg-id="Band" tvg-name="Band PA HD" tvg-logo="https://loopstatic.net/band.png" group-title="Canais | Abertos",Band PA HD
+http://apkwuv.xyz:80/judeva/deva10ju/162759
+#EXTINF:-1 tvg-id="Band" tvg-name="Band RJ FHD" tvg-logo="https://loopstatic.net/band.png" group-title="Canais | Abertos",Band RJ FHD
+http://apkwuv.xyz:80/judeva/deva10ju/195180
+#EXTINF:-1 tvg-id="Band" tvg-name="Band RJ HD" tvg-logo="https://loopstatic.net/band.png" group-title="Canais | Abertos",Band RJ HD
+http://apkwuv.xyz:80/judeva/deva10ju/195179
+#EXTINF:-1 tvg-id="Band" tvg-name="Band RJ SD" tvg-logo="https://loopstatic.net/band.png" group-title="Canais | Abertos",Band RJ SD
+http://apkwuv.xyz:80/judeva/deva10ju/287469
+#EXTINF:-1 tvg-id="Band" tvg-name="Band RS FHD" tvg-logo="https://loopstatic.net/band.png" group-title="Canais | Abertos",Band RS FHD
+http://apkwuv.xyz:80/judeva/deva10ju/83772
+#EXTINF:-1 tvg-id="Band" tvg-name="Band RS HD" tvg-logo="https://loopstatic.net/band.png" group-title="Canais | Abertos",Band RS HD
+http://apkwuv.xyz:80/judeva/deva10ju/156620
+#EXTINF:-1 tvg-id="Band" tvg-name="Band RS SD" tvg-logo="https://loopstatic.net/band.png" group-title="Canais | Abertos",Band RS SD
+http://apkwuv.xyz:80/judeva/deva10ju/195186
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND SP FHD" tvg-logo="https://loopstatic.net/band.png" group-title="Canais | Abertos",BAND SP FHD
+http://apkwuv.xyz:80/judeva/deva10ju/83769
 #EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil FHD" tvg-logo="https://i.imgur.com/YHc8y18.png" group-title="Canais | Abertos",TV Brasil FHD
 http://bgp.cdnr1.xyz:80/luciana38940jk/pantoja8201as/162753
 #EXTINF:-1 tvg-id="TV Brasil" tvg-name="TV Brasil FHD [Alt]" tvg-logo="https://i.imgur.com/YHc8y18.png" group-title="Canais | Abertos",TV Brasil FHD [Alt]
@@ -369,14 +415,6 @@ http://bgp.cdnr1.xyz:80/luciana38940jk/pantoja8201as/136187
 http://bgp.cdnr1.xyz:80/luciana38940jk/pantoja8201as/133628
 #EXTINF:-1 tvg-id="" tvg-name="Henrique e Juliano [Live Liberdade Provisória]" tvg-logo="https://i.imgur.com/g939zWY.png" group-title="24 Horas | Lives/Shows",Henrique e Juliano [Live Liberdade Provisória]
 http://bgp.cdnr1.xyz:80/luciana38940jk/pantoja8201as/133623
-#EXTINF:-1 tvg-id="" tvg-name="Jogos Mortais 01" tvg-logo="https://i.imgur.com/H5JYqRh.png" group-title="24 Horas | Premium",Jogos Mortais 01
-http://bgp.cdnr1.xyz:80/luciana38940jk/pantoja8201as/123177
-#EXTINF:-1 tvg-id="" tvg-name="Jogos Mortais 02" tvg-logo="https://i.imgur.com/H5JYqRh.png" group-title="24 Horas | Premium",Jogos Mortais 02
-http://bgp.cdnr1.xyz:80/luciana38940jk/pantoja8201as/123178
-#EXTINF:-1 tvg-id="" tvg-name="Jogos Vorazes - Quadrilogia" tvg-logo="https://i.imgur.com/Wp5FDZV.png" group-title="24 Horas | Premium",Jogos Vorazes - Quadrilogia
-http://bgp.cdnr1.xyz:80/luciana38940jk/pantoja8201as/123179
-#EXTINF:-1 tvg-id="" tvg-name="John Wick - Trilogia" tvg-logo="https://i.imgur.com/5PGuphP.png" group-title="24 Horas | Premium",John Wick - Trilogia
-http://bgp.cdnr1.xyz:80/luciana38940jk/pantoja8201as/133418
 #EXTINF:-1 tvg-id="" tvg-name="Jorge e Mateus [Na Praia Hotel]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Jorge e Mateus [Na Praia Hotel]
 http://bgp.cdnr1.xyz:80/luciana38940jk/pantoja8201as/136193
 #EXTINF:-1 tvg-id="" tvg-name="Jorge e Mateus [Pelo Amor de Deus]" tvg-logo="https://i.imgur.com/JVvEwSc.jpg" group-title="24 Horas | Lives/Shows",Jorge e Mateus [Pelo Amor de Deus]
@@ -552,49 +590,510 @@ http://axr.life:80/968367/462903/1263322
 #EXTINF:-1 tvg-id="record.br" tvg-name="Record SP - Capital SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/921/38DcVs.png" group-title="CANAIS RECORD",Record SP - Capital SD
 http://axr.life:80/968367/462903/1263321
 
+#EXTM3U url-tvg=" http://grade-de-CANAIS GLOBO TV TEM SOROCABA.xml "
+ ############## CANAIS GLOBO TV TEM SOROCABA ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS GLOBO TV TEM SOROCABA" group-title="
+
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA - FHD" tvg-logo="https://tinyurl.com/u9cglob" group-title="CANAIS GLOBO TV TEM SOROCABA",GLOBO TV TEM SOROCABA - FHD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/130579
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA - HD" tvg-logo="https://tinyurl.com/u9cglob" group-title="CANAIS GLOBO TV TEM SOROCABA",GLOBO TV TEM SOROCABA - HD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/130578
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA - SD" tvg-logo="https://tinyurl.com/u9cglob" group-title="CANAIS GLOBO TV TEM SOROCABA",GLOBO TV TEM SOROCABA - SD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83053
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA - SD²" tvg-logo="https://tinyurl.com/u9cglob" group-title="CANAIS GLOBO TV TEM SOROCABA",GLOBO TV TEM SOROCABA - SD²
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83123
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Sorocaba FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS GLOBO TV TEM SOROCABA",GB TV Tem Sorocaba FHD
+http://apkwuv.xyz:80/judeva/deva10ju/152579
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Sorocaba HD" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS GLOBO TV TEM SOROCABA",GB TV Tem Sorocaba HD
+http://apkwuv.xyz:80/judeva/deva10ju/162466
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Sorocaba HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS GLOBO TV TEM SOROCABA",GB TV Tem Sorocaba HD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147373
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Sorocaba SD" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS GLOBO TV TEM SOROCABA",GB TV Tem Sorocaba SD
+http://apkwuv.xyz:80/judeva/deva10ju/83654
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Sorocaba SD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="CANAIS GLOBO TV TEM SOROCABA",GB TV Tem Sorocaba SD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147372
+
 #EXTM3U url-tvg=" http://grade-de-CANAIS | GLOBO.xml "
- ############## CANAIS | GLOBO ############## ### 
+ ############## CANAIS | GLOBO SP ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS | GLOBO" group-title="
 
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - FHD" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - FHD
-https://dtv-latam-jbc.aklamaihd.net/live/vintequatrohrs1_2000/index.m3u8
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA - HD" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO TV TEM SOROCABA - HD
-https://server101.shop/globo-sp/tracks-v1a1/mono.m3u8?remote=168.227.218.11&token=4f28fb0fae9d6439ad70799faf5614866f8391c8-b1b0be60bb9568a45cad940a457aa2c5-1691195983-1691192383
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO SP - 4K H265²" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - 4K H265²
+#EXTINF:-1 tvg-id="Globorj.br" tvg-name="GLOBO SP - 4K H265²" tvg-logo="https://tinyurl.com/u9cglob" group-title="CANAIS | GLOBO SP", GLOBO SP - 4K H265²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/53599
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="Globo PE" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",Globo PE 
-https://server101.shop/globo-pe/tracks-v1a1/mono.m3u8?remote=168.227.218.11&token=decd74dcdfe4cf46986d5fffc25b7fb11bd68226-a951ff3933ed759d5d807283d2296d79-1691213032-1691209432
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - FHD" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - FHD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - FHD" tvg-logo="https://tinyurl.com/u9cglob" group-title="CANAIS | GLOBO SP", GLOBO SP - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83013
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - FHD²" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - FHD²
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - FHD²" tvg-logo="https://tinyurl.com/u9cglob" group-title="CANAIS | GLOBO SP", GLOBO SP - FHD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83014
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - H265" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - H265
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - H265" tvg-logo="https://tinyurl.com/u9cglob" group-title="CANAIS | GLOBO SP", GLOBO SP - H265
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/99889
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - HD" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - HD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - HD" tvg-logo="https://tinyurl.com/u9cglob" group-title="CANAIS | GLOBO SP", GLOBO SP - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83011
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - HD²" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - HD²
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - HD²" tvg-logo="https://tinyurl.com/u9cglob" group-title="CANAIS | GLOBO SP", GLOBO SP - HD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83012
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - SD" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO SP - SD
+#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO SP - SD" tvg-logo="https://tinyurl.com/u9cglob" group-title="CANAIS | GLOBO SP", GLOBO SP - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83010
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA - FHD" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO TV TEM SOROCABA - FHD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/130579
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA - HD" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO TV TEM SOROCABA - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/130578
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA - SD" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO TV TEM SOROCABA - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83053
-#EXTINF:-1 tvg-id="Globosp.br" tvg-name="GLOBO TV TEM SOROCABA - SD²" tvg-logo="https://tinyurl.com/u9cglob" group-title="GLOBO",GLOBO TV TEM SOROCABA - SD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83123
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Sorocaba FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="Canais | Globos",GB TV Tem Sorocaba FHD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/152579
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Sorocaba HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="Canais | Globos",GB TV Tem Sorocaba HD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/162466
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Sorocaba HD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="Canais | Globos",GB TV Tem Sorocaba HD [Alt]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147373
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Sorocaba SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="Canais | Globos",GB TV Tem Sorocaba SD
-http://apkwuv.xyz:80/cristina2021/graniptv2005/83654
-#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Sorocaba SD [Alt]" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="Canais | Globos",GB TV Tem Sorocaba SD [Alt]
-http://apkwuv.xyz:80/cristina2021/graniptv2005/147372
 
+#EXTM3U url-tvg=" http://grade-de-Canais | Globos.xml "
+ ############## Canais | Globos ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais | Globos" group-title="
+
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Araxá MG HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Araxá MG HD
+http://apkwuv.xyz:80/judeva/deva10ju/162709
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Araxá MG FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Araxá MG FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162710
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Araxá MG SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Araxá MG SD
+http://apkwuv.xyz:80/judeva/deva10ju/162708
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Bahia Salvador HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Bahia Salvador HD
+http://apkwuv.xyz:80/judeva/deva10ju/132028
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Bahia Salvador FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Bahia Salvador FHD
+http://apkwuv.xyz:80/judeva/deva10ju/132027
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Bahia Salvador FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Bahia Salvador FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147391
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Bahia Salvador HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Bahia Salvador HD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147392
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Bahia Salvador SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Bahia Salvador SD
+http://apkwuv.xyz:80/judeva/deva10ju/83644
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Brasilia FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Brasilia FHD
+http://apkwuv.xyz:80/judeva/deva10ju/154000
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Brasilia FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Brasilia FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147395
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Brasilia HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Brasilia HD
+http://apkwuv.xyz:80/judeva/deva10ju/83455
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Brasilia HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Brasilia HD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147396
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Brasilia SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Brasilia SD
+http://apkwuv.xyz:80/judeva/deva10ju/83564
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB EPTV Campinas FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB EPTV Campinas FHD
+http://apkwuv.xyz:80/judeva/deva10ju/83504
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB EPTV Campinas FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB EPTV Campinas FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147370
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB EPTV Campinas HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB EPTV Campinas HD
+http://apkwuv.xyz:80/judeva/deva10ju/83503
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB EPTV Campinas HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB EPTV Campinas HD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147371
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB EPTV Campinas SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB EPTV Campinas SD
+http://apkwuv.xyz:80/judeva/deva10ju/83550
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB EPTV Central Sao Carlos FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB EPTV Central Sao Carlos FHD
+http://apkwuv.xyz:80/judeva/deva10ju/83515
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB EPTV Central Sao Carlos HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB EPTV Central Sao Carlos HD
+http://apkwuv.xyz:80/judeva/deva10ju/162804
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB EPTV Central Sao Carlos SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB EPTV Central Sao Carlos SD
+http://apkwuv.xyz:80/judeva/deva10ju/83549
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB EPTV Ribeirao Preto FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB EPTV Ribeirao Preto FHD
+http://apkwuv.xyz:80/judeva/deva10ju/83434
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB EPTV Ribeirao Preto HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB EPTV Ribeirao Preto HD
+http://apkwuv.xyz:80/judeva/deva10ju/83514
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB EPTV Ribeirao Preto SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB EPTV Ribeirao Preto SD
+http://apkwuv.xyz:80/judeva/deva10ju/165432
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB EPTV Sul de Minas FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB EPTV Sul de Minas FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162812
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB EPTV Sul de Minas HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB EPTV Sul de Minas HD
+http://apkwuv.xyz:80/judeva/deva10ju/83516
+#EXTINF:-1 tvg-id="Globo Araxá" tvg-name="GB EPTV Sul de Minas SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB EPTV Sul de Minas SD
+http://apkwuv.xyz:80/judeva/deva10ju/284490
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV Alto Litoral FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Inter TV Alto Litoral FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162707
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV Alto Litoral FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Inter TV Alto Litoral FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147406
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV Alto Litoral HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Inter TV Alto Litoral HD
+http://apkwuv.xyz:80/judeva/deva10ju/162706
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV Alto Litoral SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Inter TV Alto Litoral SD
+http://apkwuv.xyz:80/judeva/deva10ju/162705
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV Cabugi Natal FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Inter TV Cabugi Natal FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162784
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV Cabugi Natal HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Inter TV Cabugi Natal HD
+http://apkwuv.xyz:80/judeva/deva10ju/162785
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV Cabugi Natal SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Inter TV Cabugi Natal SD
+http://apkwuv.xyz:80/judeva/deva10ju/147407
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV dos Vales FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Inter TV dos Vales FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162713
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV dos Vales HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Inter TV dos Vales HD
+http://apkwuv.xyz:80/judeva/deva10ju/162712
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV Serra Mar FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Inter TV Serra Mar FHD
+http://apkwuv.xyz:80/judeva/deva10ju/150157
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Inter TV Serra Mar HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Inter TV Serra Mar HD
+http://apkwuv.xyz:80/judeva/deva10ju/150156
+#EXTINF:-1 tvg-id="Globo Araxá" tvg-name="GB Inter TV Serra Mar SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Inter TV Serra Mar SD
+http://apkwuv.xyz:80/judeva/deva10ju/164591
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB MG Inter TV Grande Minas FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB MG Inter TV Grande Minas FHD
+http://apkwuv.xyz:80/judeva/deva10ju/165439
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB MG Inter TV Grande Minas HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB MG Inter TV Grande Minas HD
+http://apkwuv.xyz:80/judeva/deva10ju/165440
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB MG Inter TV Grande Minas SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB MG Inter TV Grande Minas SD
+http://apkwuv.xyz:80/judeva/deva10ju/162674
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Minas FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Minas FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162792
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Minas FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Minas FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147374
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Minas HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Minas HD
+http://apkwuv.xyz:80/judeva/deva10ju/83491
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Minas HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Minas HD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147375
+#EXTINF:-1 tvg-id="Globo Araxá" tvg-name="GB Minas SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Minas SD
+http://apkwuv.xyz:80/judeva/deva10ju/83565
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Nordeste Recife FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Nordeste Recife FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162790
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Nordeste Recife FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Nordeste Recife FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147376
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Nordeste Recife HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Nordeste Recife HD
+http://apkwuv.xyz:80/judeva/deva10ju/162791
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Nordeste Recife HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Nordeste Recife HD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147377
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Nordeste Recife SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Nordeste Recife SD
+http://apkwuv.xyz:80/judeva/deva10ju/83567
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Blumenau FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Blumenau FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162778
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Blumenau FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Blumenau FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147410
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Blumenau HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Blumenau HD
+http://apkwuv.xyz:80/judeva/deva10ju/83489
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Blumenau HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Blumenau HD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147670
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Centro Oeste FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Centro Oeste FHD
+http://apkwuv.xyz:80/judeva/deva10ju/193334
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Centro Oeste HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Centro Oeste HD
+http://apkwuv.xyz:80/judeva/deva10ju/193333
+#EXTINF:-1 tvg-id="Globo Araxá" tvg-name="GB NSC TV Centro Oeste SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Centro Oeste SD
+http://apkwuv.xyz:80/judeva/deva10ju/126115
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Chapeco FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Chapeco FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162714
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Chapeco HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Chapeco HD
+http://apkwuv.xyz:80/judeva/deva10ju/147411
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Chapeco SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Chapeco SD
+http://apkwuv.xyz:80/judeva/deva10ju/162715
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Criciúma FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Criciúma FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162789
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Criciúma FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Criciúma FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147412
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Criciúma HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Criciúma HD
+http://apkwuv.xyz:80/judeva/deva10ju/162771
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Florianopolis FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Florianopolis FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162775
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Florianopolis SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Florianopolis SD
+http://apkwuv.xyz:80/judeva/deva10ju/162777
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Florianópolis FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Florianópolis FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147379
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Florianópolis HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Florianópolis HD
+http://apkwuv.xyz:80/judeva/deva10ju/83500
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Florianópolis HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Florianópolis HD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147380
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Joinville FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Joinville FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162719
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Joinville FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Joinville FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147413
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB NSC TV Joinville HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB NSC TV Joinville HD
+http://apkwuv.xyz:80/judeva/deva10ju/162718
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB PB TV Paraíba HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB PB TV Paraíba HD
+http://apkwuv.xyz:80/judeva/deva10ju/147726
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB PE Asa Branca FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB PE Asa Branca FHD
+http://apkwuv.xyz:80/judeva/deva10ju/152922
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB PE Asa Branca HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB PE Asa Branca HD
+http://apkwuv.xyz:80/judeva/deva10ju/151324
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Caxias do Sul FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Caxias do Sul FHD
+http://apkwuv.xyz:80/judeva/deva10ju/83438
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Caxias do Sul HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Caxias do Sul HD
+http://apkwuv.xyz:80/judeva/deva10ju/83333
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Caxias SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Caxias SD
+http://apkwuv.xyz:80/judeva/deva10ju/147414
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Cruz Alta FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Cruz Alta FHD
+http://apkwuv.xyz:80/judeva/deva10ju/83579
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Cruz Alta HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Cruz Alta HD
+http://apkwuv.xyz:80/judeva/deva10ju/165433
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Passo Fundo FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Passo Fundo FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162761
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Passo Fundo HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Passo Fundo HD
+http://apkwuv.xyz:80/judeva/deva10ju/162803
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Passo Fundo SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Passo Fundo SD
+http://apkwuv.xyz:80/judeva/deva10ju/154680
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Pelotas FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Pelotas FHD
+http://apkwuv.xyz:80/judeva/deva10ju/86690
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Pelotas HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Pelotas HD
+http://apkwuv.xyz:80/judeva/deva10ju/86691
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Pelotas SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Pelotas SD
+http://apkwuv.xyz:80/judeva/deva10ju/147415
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Porto Alegre FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Porto Alegre FHD
+http://apkwuv.xyz:80/judeva/deva10ju/154096
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Porto Alegre FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Porto Alegre FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147381
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Porto Alegre HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Porto Alegre HD
+http://apkwuv.xyz:80/judeva/deva10ju/83462
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Porto Alegre HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Porto Alegre HD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147382
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Porto Alegre SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Porto Alegre SD
+http://apkwuv.xyz:80/judeva/deva10ju/83611
+#EXTINF:-1 tvg-id="Globo Araxá" tvg-name="GB RBS TV Santa Maria FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Santa Maria FHD
+http://apkwuv.xyz:80/judeva/deva10ju/287472
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RBS TV Santa Maria HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Santa Maria HD
+http://apkwuv.xyz:80/judeva/deva10ju/147416
+#EXTINF:-1 tvg-id="Globo Araxá" tvg-name="GB RBS TV Santa Maria SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RBS TV Santa Maria SD
+http://apkwuv.xyz:80/judeva/deva10ju/287471
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Amazonica Porto Velho HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Rede Amazonica Porto Velho HD
+http://apkwuv.xyz:80/judeva/deva10ju/163693
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Amazônica Manaus FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Rede Amazônica Manaus FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162793
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Amazônica Manaus HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Rede Amazônica Manaus HD
+http://apkwuv.xyz:80/judeva/deva10ju/83497
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Amazônica Manaus SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Rede Amazônica Manaus SD
+http://apkwuv.xyz:80/judeva/deva10ju/147417
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Amazônica Porto Velho FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Rede Amazônica Porto Velho FHD
+http://apkwuv.xyz:80/judeva/deva10ju/152928
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Amazônica Rio Branco FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Rede Amazônica Rio Branco FHD
+http://apkwuv.xyz:80/judeva/deva10ju/152927
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Amazônica Rio Branco HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Rede Amazônica Rio Branco HD
+http://apkwuv.xyz:80/judeva/deva10ju/163694
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Amazônica Rondônia FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Rede Amazônica Rondônia FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162734
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Amazônica Rondônia HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Rede Amazônica Rondônia HD
+http://apkwuv.xyz:80/judeva/deva10ju/165434
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Boa Vista FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Rede Boa Vista FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162554
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Boa Vista HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Rede Boa Vista HD
+http://apkwuv.xyz:80/judeva/deva10ju/162683
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Macapá FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Rede Macapá FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162723
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB Rede Macapá HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB Rede Macapá HD
+http://apkwuv.xyz:80/judeva/deva10ju/162685
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RJ FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RJ FHD
+http://apkwuv.xyz:80/judeva/deva10ju/83502
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RJ FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RJ FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147384
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RJ HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RJ HD
+http://apkwuv.xyz:80/judeva/deva10ju/83459
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RJ HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RJ HD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147385
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RJ SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RJ SD
+http://apkwuv.xyz:80/judeva/deva10ju/83568
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Cascavel FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Cascavel FHD
+http://apkwuv.xyz:80/judeva/deva10ju/83330
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Cascavel HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Cascavel HD
+http://apkwuv.xyz:80/judeva/deva10ju/83298
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Cascavel SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Cascavel SD
+http://apkwuv.xyz:80/judeva/deva10ju/83289
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Curitiba FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Curitiba FHD
+http://apkwuv.xyz:80/judeva/deva10ju/154280
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Curitiba FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Curitiba FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147386
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Curitiba HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Curitiba HD
+http://apkwuv.xyz:80/judeva/deva10ju/83493
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Curitiba SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Curitiba SD
+http://apkwuv.xyz:80/judeva/deva10ju/147387
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Foz do Iguaçu FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Foz do Iguaçu FHD
+http://apkwuv.xyz:80/judeva/deva10ju/86704
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Foz do Iguaçu HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Foz do Iguaçu HD
+http://apkwuv.xyz:80/judeva/deva10ju/86705
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Foz do Iguaçu SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Foz do Iguaçu SD
+http://apkwuv.xyz:80/judeva/deva10ju/147418
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Maringa FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Maringa FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162704
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Maringa HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Maringa HD
+http://apkwuv.xyz:80/judeva/deva10ju/162703
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Maringá FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Maringá FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147419
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Ponta Grossa FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Ponta Grossa FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162698
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Ponta Grossa FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Ponta Grossa FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147420
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC Ponta Grossa HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC Ponta Grossa HD
+http://apkwuv.xyz:80/judeva/deva10ju/162699
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC TV Paranavai FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC TV Paranavai FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162722
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB RPC TV Paranavai HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB RPC TV Paranavai HD
+http://apkwuv.xyz:80/judeva/deva10ju/162721
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB SP FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB SP FHD
+http://apkwuv.xyz:80/judeva/deva10ju/83510
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB SP FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB SP FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147388
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB SP HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB SP HD
+http://apkwuv.xyz:80/judeva/deva10ju/83461
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB SP HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB SP HD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147389
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB SP SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB SP SD
+http://apkwuv.xyz:80/judeva/deva10ju/83569
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Anhanguera Goiás FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Anhanguera Goiás FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162787
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Anhanguera Goiás FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Anhanguera Goiás FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147404
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Anhanguera Goiás HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Anhanguera Goiás HD
+http://apkwuv.xyz:80/judeva/deva10ju/83270
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Anhanguera Goiás HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Anhanguera Goiás HD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147405
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Anhanguera Goiás SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Anhanguera Goiás SD
+http://apkwuv.xyz:80/judeva/deva10ju/83642
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Asa Branca Caruaru FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Asa Branca Caruaru FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147421
+#EXTINF:-1 tvg-id="TV Cabo Branco" tvg-name="GB TV Cabo Branco FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Cabo Branco FHD
+http://apkwuv.xyz:80/judeva/deva10ju/153908
+#EXTINF:-1 tvg-id="TV Cabo Branco" tvg-name="GB TV Cabo Branco HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Cabo Branco HD
+http://apkwuv.xyz:80/judeva/deva10ju/162696
+#EXTINF:-1 tvg-id="TV Cabo Branco" tvg-name="GB TV Cabo Branco SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Cabo Branco SD
+http://apkwuv.xyz:80/judeva/deva10ju/83590
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Centro America Cuiabá FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Centro America Cuiabá FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162751
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Centro America Cuiabá HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Centro America Cuiabá HD
+http://apkwuv.xyz:80/judeva/deva10ju/162752
+#EXTINF:-1 tvg-id="Globo São Paulo" tvg-name="GB TV Centro America Cuiabá SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Centro America Cuiabá SD
+http://apkwuv.xyz:80/judeva/deva10ju/140943
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Centro América Cuiabá FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Centro América Cuiabá FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147368
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Centro América Cuiabá HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Centro América Cuiabá HD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147369
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Clube Teresina FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Clube Teresina FHD
+http://apkwuv.xyz:80/judeva/deva10ju/147728
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Clube Teresina HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Clube Teresina HD
+http://apkwuv.xyz:80/judeva/deva10ju/162749
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Clube Teresina SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Clube Teresina SD
+http://apkwuv.xyz:80/judeva/deva10ju/83508
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Diario Mogi das Cruzes FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Diario Mogi das Cruzes FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162745
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Diario Mogi das Cruzes HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Diario Mogi das Cruzes HD
+http://apkwuv.xyz:80/judeva/deva10ju/83313
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Diario Mogi das Cruzes SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Diario Mogi das Cruzes SD
+http://apkwuv.xyz:80/judeva/deva10ju/162746
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Fronteira Presidente Prudente FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Fronteira Presidente Prudente FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162672
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Fronteira Presidente Prudente HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Fronteira Presidente Prudente HD
+http://apkwuv.xyz:80/judeva/deva10ju/162673
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Gazeta Alagoas FHD" tvg-logo="https://loopstatic.net/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta Alagoas FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162691
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Gazeta Alagoas FHD [Alt]" tvg-logo="https://loopstatic.net/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta Alagoas FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147422
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Gazeta Alagoas HD" tvg-logo="https://loopstatic.net/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta Alagoas HD
+http://apkwuv.xyz:80/judeva/deva10ju/162692
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Gazeta Alagoas SD" tvg-logo="https://loopstatic.net/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta Alagoas SD
+http://apkwuv.xyz:80/judeva/deva10ju/139482
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Gazeta ES Sul FHD" tvg-logo="https://loopstatic.net/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta ES Sul FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162687
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Gazeta ES Sul HD" tvg-logo="https://loopstatic.net/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta ES Sul HD
+http://apkwuv.xyz:80/judeva/deva10ju/162688
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Gazeta ES Vitoria FHD" tvg-logo="https://loopstatic.net/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta ES Vitoria FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162684
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Gazeta ES Vitoria FHD [Alt]" tvg-logo="https://loopstatic.net/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta ES Vitoria FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147401
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Gazeta ES Vitoria HD" tvg-logo="https://loopstatic.net/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta ES Vitoria HD
+http://apkwuv.xyz:80/judeva/deva10ju/162686
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Gazeta ES Vitoria HD [Alt]" tvg-logo="https://loopstatic.net/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta ES Vitoria HD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147408
+#EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="GB TV Gazeta Sul FHD" tvg-logo="https://loopstatic.net/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta Sul FHD
+http://apkwuv.xyz:80/judeva/deva10ju/83310
+#EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="GB TV Gazeta Sul HD" tvg-logo="https://loopstatic.net/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta Sul HD
+http://apkwuv.xyz:80/judeva/deva10ju/83303
+#EXTINF:-1 tvg-id="TV Gazeta Sul" tvg-name="GB TV Gazeta Sul SD" tvg-logo="https://loopstatic.net/tvgazeta.png" group-title="Canais | Globos",GB TV Gazeta Sul SD
+http://apkwuv.xyz:80/judeva/deva10ju/83214
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Integracao Juiz de Fora FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Integracao Juiz de Fora FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162681
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Integracao Juiz de Fora HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Integracao Juiz de Fora HD
+http://apkwuv.xyz:80/judeva/deva10ju/162682
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Integracao Juiz de Fora SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Integracao Juiz de Fora SD
+http://apkwuv.xyz:80/judeva/deva10ju/147424
+#EXTINF:-1 tvg-id="Globo Araxá" tvg-name="GB TV Integracao Uberaba FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Integracao Uberaba FHD
+http://apkwuv.xyz:80/judeva/deva10ju/83205
+#EXTINF:-1 tvg-id="Globo Araxá" tvg-name="GB TV Integracao Uberaba HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Integracao Uberaba HD
+http://apkwuv.xyz:80/judeva/deva10ju/83401
+#EXTINF:-1 tvg-id="Globo Araxá" tvg-name="GB TV Integracao Uberaba SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Integracao Uberaba SD
+http://apkwuv.xyz:80/judeva/deva10ju/83381
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Liberal Belem FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Liberal Belem FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162744
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Liberal Belém FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Liberal Belém FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147393
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Liberal Belém HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Liberal Belém HD
+http://apkwuv.xyz:80/judeva/deva10ju/83506
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Liberal Belém HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Liberal Belém HD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147394
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Liberal Belém SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Liberal Belém SD
+http://apkwuv.xyz:80/judeva/deva10ju/83649
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Mirante Cocais FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Mirante Cocais FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162720
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Mirante Cocais HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Mirante Cocais HD
+http://apkwuv.xyz:80/judeva/deva10ju/162783
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Mirante São Luís FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Mirante São Luís FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162742
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Mirante São Luís FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Mirante São Luís FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147397
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Mirante São Luís HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Mirante São Luís HD
+http://apkwuv.xyz:80/judeva/deva10ju/83498
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Mirante São Luís HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Mirante São Luís HD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147398
+#EXTINF:-1 tvg-id="Globo Araxá" tvg-name="GB TV Mirante São Luís SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Mirante São Luís SD
+http://apkwuv.xyz:80/judeva/deva10ju/152923
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Morena MS FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Morena MS FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162733
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Morena MS FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Morena MS FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147399
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Morena MS HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Morena MS HD
+http://apkwuv.xyz:80/judeva/deva10ju/83479
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Morena MS HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Morena MS HD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147400
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Rio Sul FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Rio Sul FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162782
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Rio Sul HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Rio Sul HD
+http://apkwuv.xyz:80/judeva/deva10ju/83499
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Rio Sul SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Rio Sul SD
+http://apkwuv.xyz:80/judeva/deva10ju/147425
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Santa Cruz FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Santa Cruz FHD
+http://apkwuv.xyz:80/judeva/deva10ju/147426
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Santa Cruz HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Santa Cruz HD
+http://apkwuv.xyz:80/judeva/deva10ju/284945
+#EXTINF:-1 tvg-id="Globo Araxá" tvg-name="GB TV Santa Cruz SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/globo.png" group-title="Canais | Globos",GB TV Santa Cruz SD
+http://apkwuv.xyz:80/judeva/deva10ju/284944
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Sergipe Aracaju FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Sergipe Aracaju FHD
+http://apkwuv.xyz:80/judeva/deva10ju/83460
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Sergipe Aracaju HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Sergipe Aracaju HD
+http://apkwuv.xyz:80/judeva/deva10ju/147427
+#EXTINF:-1 tvg-id="Globo São Paulo" tvg-name="GB TV Sergipe Aracaju SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Sergipe Aracaju SD
+http://apkwuv.xyz:80/judeva/deva10ju/83775
+#EXTINF:-1 tvg-id="Globo Araxá" tvg-name="GB TV Subae FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Subae FHD
+http://apkwuv.xyz:80/judeva/deva10ju/83546
+#EXTINF:-1 tvg-id="Globo São Paulo" tvg-name="GB TV Subae HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Subae HD
+http://apkwuv.xyz:80/judeva/deva10ju/162779
+#EXTINF:-1 tvg-id="Globo São Paulo" tvg-name="GB TV Subae SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Subae SD
+http://apkwuv.xyz:80/judeva/deva10ju/162750
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Bauru FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Tem Bauru FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162736
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Bauru HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Tem Bauru HD
+http://apkwuv.xyz:80/judeva/deva10ju/162737
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Bauru SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Tem Bauru SD
+http://apkwuv.xyz:80/judeva/deva10ju/83652
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem Itapetininga HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Tem Itapetininga HD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/162676
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem São José do Rio Preto FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Tem São José do Rio Preto FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162678
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem São José do Rio Preto HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Tem São José do Rio Preto HD
+http://apkwuv.xyz:80/judeva/deva10ju/162679
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tem São José do Rio Preto SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Tem São José do Rio Preto SD
+http://apkwuv.xyz:80/judeva/deva10ju/162680
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tribuna Santos FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Tribuna Santos FHD
+http://apkwuv.xyz:80/judeva/deva10ju/150151
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tribuna Santos HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Tribuna Santos HD
+http://apkwuv.xyz:80/judeva/deva10ju/150150
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Tribuna Santos SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Tribuna Santos SD
+http://apkwuv.xyz:80/judeva/deva10ju/83655
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Vanguarda S.J. dos Campos FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Vanguarda S.J. dos Campos FHD
+http://apkwuv.xyz:80/judeva/deva10ju/140740
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Vanguarda S.J. dos Campos HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Vanguarda S.J. dos Campos HD
+http://apkwuv.xyz:80/judeva/deva10ju/140741
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Vanguarda S.J. dos Campos SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Vanguarda S.J. dos Campos SD
+http://apkwuv.xyz:80/judeva/deva10ju/83656
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Vanguarda Taubate FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Vanguarda Taubate FHD
+http://apkwuv.xyz:80/judeva/deva10ju/169522
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Vanguarda Taubate HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Vanguarda Taubate HD
+http://apkwuv.xyz:80/judeva/deva10ju/169521
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Vanguarda Taubate SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Vanguarda Taubate SD
+http://apkwuv.xyz:80/judeva/deva10ju/169520
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Verdes Mares Ceará FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Verdes Mares Ceará FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162741
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Verdes Mares Ceará FHD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Verdes Mares Ceará FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147402
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Verdes Mares Ceará HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Verdes Mares Ceará HD
+http://apkwuv.xyz:80/judeva/deva10ju/83507
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Verdes Mares Ceará HD [Alt]" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Verdes Mares Ceará HD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147403
+#EXTINF:-1 tvg-id="Globo Rio de Janeiro" tvg-name="GB TV Verdes Mares Ceará SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",GB TV Verdes Mares Ceará SD
+http://apkwuv.xyz:80/judeva/deva10ju/83657
+#EXTINF:-1 tvg-id="Globo Araxá" tvg-name="Globo Integração Divinópolis FHD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",Globo Integração Divinópolis FHD
+http://apkwuv.xyz:80/judeva/deva10ju/162717
+#EXTINF:-1 tvg-id="Globo Araxá" tvg-name="Globo Integração Divinópolis HD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",Globo Integração Divinópolis HD
+http://apkwuv.xyz:80/judeva/deva10ju/162675
+#EXTINF:-1 tvg-id="Globo Araxá" tvg-name="Globo Integração DIvinópolis SD" tvg-logo="https://loopstatic.net/globo.png" group-title="Canais | Globos",Globo Integração DIvinópolis SD
+http://apkwuv.xyz:80/judeva/deva10ju/151322
 #EXTM3U url-tvg=" http://grade-de-TV FAX FECHADOS.xml "
  ############## TV FAX FECHADOS ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeTV FAX FECHADOS" group-title="
@@ -2349,19 +2848,6 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83538
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4bQXjY-ieITmA6Klq9QepR5n9AwkYFWhUIh_FcLAHgSN.png" group-title="Canais Star Channel",Star Channel - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83537
 
-#EXTM3U url-tvg=" http://grade-de-CANAL SONY.xml "
- ############## CANAL SONY ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAL SONY" group-title="
-
-#EXTINF:-1 tvg-id="SONYCH" tvg-name="CANAL SONY - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4c0DbDNj44lqxRzj10B1RjPujPq1cezfr98hQPd7dhaz.png" group-title="CANAL SONY",CANAL SONY - FHD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83527
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4c0DbDNj44lqxRzj10B1RjPujPq1cezfr98hQPd7dhaz.png" group-title="CANAL SONY",CANAL SONY - FHD²
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83528
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4c0DbDNj44lqxRzj10B1RjPujPq1cezfr98hQPd7dhaz.png" group-title="CANAL SONY",CANAL SONY - HD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83526
-#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4c0DbDNj44lqxRzj10B1RjPujPq1cezfr98hQPd7dhaz.png" group-title="CANAL SONY",CANAL SONY - SD
-http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83525
-
 #EXTM3U url-tvg=" http://grade-de-CANAIS  A&E.xml "
  ############## CANAIS  A&E ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS  A&E" group-title="
@@ -2408,19 +2894,19 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83520
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="CANAIS  AXN",AXN - SD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83521
 
-#EXTM3U url-tvg=" http://grade-de-CANAL AMC.xml "
- ############## CANAL AMC ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAL AMC" group-title="
+#EXTM3U url-tvg=" http://grade-de-CANAIS AMC.xml "
+ ############## CANAIS AMC ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS AMC" group-title="
 
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAL AMC",AMC - FHD
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAIS AMC",AMC - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83519
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAL AMC",AMC - HD
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAIS AMC",AMC - HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83517
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAL AMC",AMC - HD²
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAIS AMC",AMC - HD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83518
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAL AMC",AMC - SD
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAIS AMC",AMC - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83515
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAL AMC",AMC - SD²
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAIS AMC",AMC - SD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83516
 
 #EXTM3U url-tvg=" http://grade-de-Canais FX.xml "
@@ -2436,46 +2922,83 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83534
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RHtC9BJ0-RnXOgLY-5yKNc.png" group-title="Canais FX",FX - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83533
 
-#EXTM3U url-tvg=" http://grade-de-Canais  Filmes e Series.xml "
- ############## Canais  Filmes e Series ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais  Filmes e Series" group-title="
+#EXTM3U url-tvg=" http://grade-de-Canais | TNT  Filmes e Séries.xml "
+ ############## Canais | TNT  Filmes e Séries ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais | TNT  Filmes e Séries" group-title="
 
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | Filmes e Séries",TNT FHD
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT Filmes e Séries",TNT FHD
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83822
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD [Alt]" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | Filmes e Séries",TNT FHD [Alt]
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD [Alt]" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT Filmes e Séries",TNT FHD [Alt]
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147715
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | Filmes e Séries",TNT HD
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  Filmes e Séries",TNT HD
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83268
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD [Alt]" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | Filmes e Séries",TNT HD [Alt]
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD [Alt]" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  TNT  Filmes e Séries",TNT HD [Alt]
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147716
-#EXTINF:-1 tvg-id="TNT" tvg-name="TNT SD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | Filmes e Séries",TNT SD
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT SD" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  Filmes e Séries",TNT SD
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83638
-#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series FHD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | Filmes e Séries",TNT Series FHD
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series FHD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | TNT  Filmes e Séries",TNT Series FHD
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136806
-#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series FHD [Alt]" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | Filmes e Séries",TNT Series FHD [Alt]
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series FHD [Alt]" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | TNT  Filmes e Séries",TNT Series FHD [Alt]
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147717
-#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series HD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | Filmes e Séries",TNT Series HD
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series HD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | TNT  Filmes e Séries",TNT Series HD
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83269
-#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series HD [Alt]" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | Filmes e Séries",TNT Series HD [Alt]
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series HD [Alt]" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | TNT  Filmes e Séries",TNT Series HD [Alt]
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147718
-#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series SD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | Filmes e Séries",TNT Series SD
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series SD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | TNT  Filmes e Séries",TNT Series SD
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83639
 
-#EXTM3U url-tvg=" http://grade-de-Canais  Filmes e Series.xml "
- ############## Canais  Filmes e Series ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCanais  Filmes e Series" group-title="
+#EXTM3U url-tvg=" http://grade-de-title="Canais  Sony.xml "
+ ############## title="Canais  Sony ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldetitle="Canais  Sony" group-title="
 
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel FHD" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Filmes e Séries",Paramount Channel FHD
+#EXTM3U url-tvg=" http://grade-de-CANAL SONY.xml "
+ ############## CANAL SONY ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAL SONY" group-title="
+
+#EXTINF:-1 tvg-id="SONYCH" tvg-name="CANAL SONY - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4c0DbDNj44lqxRzj10B1RjPujPq1cezfr98hQPd7dhaz.png" group-title="Canais Sony",CANAL SONY - FHD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83527
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4c0DbDNj44lqxRzj10B1RjPujPq1cezfr98hQPd7dhaz.png" group-title="Canais Sony",CANAL SONY - FHD²
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83528
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4c0DbDNj44lqxRzj10B1RjPujPq1cezfr98hQPd7dhaz.png" group-title="Canais Sony",CANAL SONY - HD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83526
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4c0DbDNj44lqxRzj10B1RjPujPq1cezfr98hQPd7dhaz.png" group-title="Canais Sony",CANAL SONY - SD
+http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83525
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil FHD" tvg-logo="https://i.imgur.com/kdOh7HJ.png" group-title="Canais Sony",Canal Brasil FHD
+http://apkwuv.xyz:80/judeva/deva10ju/147365
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil FHD [Alt]" tvg-logo="https://i.imgur.com/kdOh7HJ.png" group-title="Canais Sony",Canal Brasil FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147454
+#EXTINF:-1 tvg-id="Canal Sony" tvg-name="Canal Sony HD" tvg-logo="https://i.imgur.com/PHIB4mg.png" group-title="Canais Sony",Canal Sony HD
+http://apkwuv.xyz:80/judeva/deva10ju/83191
+#EXTINF:-1 tvg-id="Canal Sony" tvg-name="Canal Sony HD [Alt]" tvg-logo="https://i.imgur.com/PHIB4mg.png" group-title="Canais Sony",Canal Sony HD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147681
+#EXTINF:-1 tvg-id="Canal Sony" tvg-name="Canal Sony SD" tvg-logo="https://i.imgur.com/PHIB4mg.png" group-title="Canais Sony",Canal Sony SD
+http://apkwuv.xyz:80/judeva/deva10ju/83534
+#EXTINF:-1 tvg-id="Canal Sony" tvg-name="Canal Sony FHD" tvg-logo="https://i.imgur.com/PHIB4mg.png" group-title="Canais Sony",Canal Sony FHD
+http://apkwuv.xyz:80/judeva/deva10ju/136801
+#EXTINF:-1 tvg-id="Canal Sony" tvg-name="Canal Sony FHD [Alt]" tvg-logo="https://i.imgur.com/PHIB4mg.png" group-title="Canais Sony",Canal Sony FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147680
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil HD" tvg-logo="https://i.imgur.com/kdOh7HJ.png" group-title="Canais Sony",Canal Brasil HD
+http://apkwuv.xyz:80/judeva/deva10ju/150167
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil HD [Alt]" tvg-logo="https://i.imgur.com/kdOh7HJ.png" group-title="Canais Sony",Canal Brasil HD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147455
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil SD" tvg-logo="https://i.imgur.com/kdOh7HJ.png" group-title="Canais Sony",Canal Brasil SD
+http://apkwuv.xyz:80/judeva/deva10ju/83532
+
+#EXTM3U url-tvg=" http://grade-de-Canais | Paramount Channel.xml "
+ ############## Canais | Paramount Channel ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais | Paramount Channel" group-title="
+
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel FHD" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Paramount Channel",Paramount Channel FHD
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/136802
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel FHD [Alt]" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Filmes e Séries",Paramount Channel FHD [Alt]
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel FHD [Alt]" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Paramount Channel",Paramount Channel FHD [Alt]
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147627
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel FHD [H265]" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Filmes e Séries",Paramount Channel FHD [H265]
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel FHD [H265]" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Paramount Channel",Paramount Channel FHD [H265]
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83360
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel HD" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Filmes e Séries",Paramount Channel HD
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel HD" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Paramount Channel",Paramount Channel HD
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83244
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel HD [Alt]" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Filmes e Séries",Paramount Channel HD [Alt]
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel HD [Alt]" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Paramount Channel",Paramount Channel HD [Alt]
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147628
-#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel SD" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Filmes e Séries",Paramount Channel SD
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount Channel SD" tvg-logo="https://i.imgur.com/d73UKKi.png" group-title="Canais | Paramount Channel",Paramount Channel SD
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83597
 
 #EXTM3U url-tvg=" http://grade-de-Canais SYFY.xml "
@@ -2492,6 +3015,71 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/12946
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/8014
 #EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4aopVhux68gZ65vlP2rmNpsQnLc9Ah0-FQYPPTx8jPyz.jpg" group-title="Canais SYFY",SYFY - SD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/53020
+
+#EXTM3U url-tvg=" http://grade-de-Canais | Cine Sky.xml "
+ ############## Canais | Cine Sky ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais | Cine Sky" group-title="
+
+#EXTINF:-1 tvg-id="CINESKY3" tvg-name="Cine Sky 01 [Gato de Botas 2: O Último Pedido]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="Canais | Cine Sky",Cine Sky 01 [Gato de Botas 2: O Último Pedido]
+http://apkwuv.xyz:80/judeva/deva10ju/83314
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 02 [Pantera Negra: Wakanda Para Sempre]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="Canais | Cine Sky",Cine Sky 02 [Pantera Negra: Wakanda Para Sempre]
+http://apkwuv.xyz:80/judeva/deva10ju/83315
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 03 [Alerta Máximo]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="Canais | Cine Sky",Cine Sky 03 [Alerta Máximo]
+http://apkwuv.xyz:80/judeva/deva10ju/83316
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 04 [Irmãos de Honra]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="Canais | Cine Sky",Cine Sky 04 [Irmãos de Honra]
+http://apkwuv.xyz:80/judeva/deva10ju/83317
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 05 [Fantasma e CIA]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="Canais | Cine Sky",Cine Sky 05 [Fantasma e CIA]
+http://apkwuv.xyz:80/judeva/deva10ju/83318
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 06 [M3GAN]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="Canais | Cine Sky",Cine Sky 06 [M3GAN]
+http://apkwuv.xyz:80/judeva/deva10ju/83877
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 07 [Nada de Novo no Front]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="Canais | Cine Sky",Cine Sky 07 [Nada de Novo no Front]
+http://apkwuv.xyz:80/judeva/deva10ju/84773
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 08 [Duro de Atuar]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="Canais | Cine Sky",Cine Sky 08 [Duro de Atuar]
+http://apkwuv.xyz:80/judeva/deva10ju/84885
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 09 [Emancipation]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="Canais | Cine Sky",Cine Sky 09 [Emancipation]
+http://apkwuv.xyz:80/judeva/deva10ju/86437
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 10 [O Pálido Olho Azul]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="Canais | Cine Sky",Cine Sky 10 [O Pálido Olho Azul]
+http://apkwuv.xyz:80/judeva/deva10ju/86438
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 11 [O Pior Vizinho do Mundo]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="Canais | Cine Sky",Cine Sky 11 [O Pior Vizinho do Mundo]
+http://apkwuv.xyz:80/judeva/deva10ju/86439
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 12 [Os Fabelmans]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="Canais | Cine Sky",Cine Sky 12 [Os Fabelmans]
+http://apkwuv.xyz:80/judeva/deva10ju/86440
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 13 [A Baleia] [Legendado]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="Canais | Cine Sky",Cine Sky 13 [A Baleia] [Legendado]
+http://apkwuv.xyz:80/judeva/deva10ju/86441
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 14 [Babilônia] [Legendado]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="Canais | Cine Sky",Cine Sky 14 [Babilônia] [Legendado]
+http://apkwuv.xyz:80/judeva/deva10ju/86442
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 15 [Batem à Porta] [Legendado]" tvg-logo="https://i.imgur.com/N0YfGEs.png" group-title="Canais | Cine Sky",Cine Sky 15 [Batem à Porta] [Legendado]
+http://apkwuv.xyz:80/judeva/deva10ju/86443
+
+#EXTM3U url-tvg=" http://grade-de-Canais | Cinecanal  Filmes e Séries.xml "
+ ############## Canais | Cinecanal  Filmes e Séries ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais | Cinecanal  Filmes e Séries" group-title="
+
+#EXTINF:-1 tvg-id="Star Life" tvg-name="Cinecanal FHD" tvg-logo="https://i.imgur.com/9FBDH2w.png" group-title="Canais | Cinecanal Filmes e Séries",Cinecanal FHD
+http://apkwuv.xyz:80/judeva/deva10ju/136794
+#EXTINF:-1 tvg-id="Star Life" tvg-name="Cinecanal FHD [Alt]" tvg-logo="https://i.imgur.com/9FBDH2w.png" group-title="Canais | Cinecanal  Filmes e Séries",Cinecanal FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147557
+#EXTINF:-1 tvg-id="Star Life" tvg-name="Cinecanal FHD [H265]" tvg-logo="https://i.imgur.com/9FBDH2w.png" group-title="Canais | Cinecanal Filmes e Séries",Cinecanal FHD [H265]
+http://apkwuv.xyz:80/judeva/deva10ju/163282
+#EXTINF:-1 tvg-id="Star Life" tvg-name="Cinecanal HD" tvg-logo="https://i.imgur.com/9FBDH2w.png" group-title="Canais | Cinecanal  Filmes e Séries",Cinecanal HD
+http://apkwuv.xyz:80/judeva/deva10ju/83213
+#EXTINF:-1 tvg-id="Star Life" tvg-name="Cinecanal HD [Alt]" tvg-logo="https://i.imgur.com/9FBDH2w.png" group-title="Canais | Cinecanal  Filmes e Séries",Cinecanal HD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147558
+#EXTINF:-1 tvg-id="Star Life" tvg-name="Cinecanal SD" tvg-logo="https://i.imgur.com/9FBDH2w.png" group-title="Canais | Cinecanal  Filmes e Séries",Cinecanal SD
+http://apkwuv.xyz:80/judeva/deva10ju/83559
+
+#EXTM3U url-tvg=" http://grade-de-Canais | 4K - H265.xml "
+ ############## Canais | 4K - H265 ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais | 4K - H265" group-title="
+
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS FHD [H265]" tvg-logo="https://i.imgur.com/PfnvEWK.png" group-title="Canais | 4K - H265",BIS FHD [H265]
+http://apkwuv.xyz:80/judeva/deva10ju/83337
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil FHD [H265]" tvg-logo="https://i.imgur.com/kdOh7HJ.png" group-title="Canais | 4K - H265",Canal Brasil FHD [H265]
+http://apkwuv.xyz:80/judeva/deva10ju/83373
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network 4K" tvg-logo="https://i.imgur.com/57RUfSL.png" group-title="Canais | 4K - H265",Cartoon Network 4K
+http://apkwuv.xyz:80/judeva/deva10ju/151044
+#EXTINF:-1 tvg-id="Canal Sony" tvg-name="Canal Sony FHD [H265]" tvg-logo="https://i.imgur.com/PHIB4mg.png" group-title="Canais | 4K - H265",Canal Sony FHD [H265]
+http://apkwuv.xyz:80/judeva/deva10ju/83374
 
 #EXTM3U url-tvg=" http://grade-de-Canais CINE UNION.xml "
  ############## Canais CINE UNION ############## ### 
@@ -2713,6 +3301,29 @@ http://pbrz.xyz:80/67531382/36606924/1343
 #EXTINF:-1 tvg-id="" tvg-name="FLOGRAPPLING JIU JITSU - HD" tvg-logo="https://images.tapology.com/logos/2715/profile/FloGrappling-logo.jpg" group-title="Canais ESPORTES JIU JITSU",JIU JITSU
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138777563
 
+#EXTM3U url-tvg=" http://grade-de-Canais | Notícias.xml "
+ ############## Canais | Notícias ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais | Notícias" group-title="
+
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil FHD" tvg-logo="https://i.imgur.com/8Jq3Q64.png" group-title="Canais | Notícias",CNN Brasil FHD
+http://apkwuv.xyz:80/judeva/deva10ju/83436
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil FHD [Alt]" tvg-logo="https://i.imgur.com/8Jq3Q64.png" group-title="Canais | Notícias",CNN Brasil FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147464
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil FHD [H265]" tvg-logo="https://i.imgur.com/8Jq3Q64.png" group-title="Canais | 4K - H265",CNN Brasil FHD [H265]
+http://apkwuv.xyz:80/judeva/deva10ju/164573
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil HD" tvg-logo="https://i.imgur.com/8Jq3Q64.png" group-title="Canais | Notícias",CNN Brasil HD
+http://apkwuv.xyz:80/judeva/deva10ju/83306
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil HD [Alt]" tvg-logo="https://i.imgur.com/8Jq3Q64.png" group-title="Canais | Notícias",CNN Brasil HD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147465
+#EXTINF:-1 tvg-id="CNN Brasil" tvg-name="CNN Brasil SD" tvg-logo="https://i.imgur.com/8Jq3Q64.png" group-title="Canais | Notícias",CNN Brasil SD
+http://apkwuv.xyz:80/judeva/deva10ju/83669
+#EXTINF:-1 tvg-id="CNN International" tvg-name="CNNi FHD [Alt]" tvg-logo="https://i.imgur.com/bOqfTHe.png" group-title="Canais | Notícias",CNNi FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147468
+#EXTINF:-1 tvg-id="CNN International" tvg-name="CNNi HD [Alt]" tvg-logo="https://i.imgur.com/bOqfTHe.png" group-title="Canais | Notícias",CNNi HD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147469
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN SD" tvg-logo="https://i.imgur.com/ouY9sEr.png" group-title="Canais | Notícias",CGTN SD
+http://apkwuv.xyz:80/judeva/deva10ju/84743
+
 #EXTM3U url-tvg=" http://grade-de-Canais | ESPN.xml "
  ############## Canais | ESPN ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais | ESPN" group-title="
@@ -2892,6 +3503,24 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766206
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766209
 #EXTINF:-1 tvg-id="" tvg-name="SPORT TV 6 SD" tvg-logo="http://uione.dadg.today:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWDUTZ2a5tPG2CGIwj8Pk8U1rVry32EiRLXOmOTnnIfE1u01sLMCO2GOJYoaG-MtAo.png" group-title="Canais SPORTS WORLD",SPORT TV 6 SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766208
+
+#EXTM3U url-tvg=" http://grade-de-Canais | BAND Sports.xml "
+ ############## Canais | BAND Sports ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais | BAND Sports" group-title="
+
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports FHD" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="Canais | BAND Sports",BAND Sports FHD
+http://apkwuv.xyz:80/judeva/deva10ju/83806
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports FHD [Alt]" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="Canais | BAND Sports",BAND Sports FHD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147446
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports FHD [H265]" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="Canais | BAND Sports",BAND Sports FHD [H265]
+http://apkwuv.xyz:80/judeva/deva10ju/83371
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports HD" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="Canais | BAND Sports",BAND Sports HD
+http://apkwuv.xyz:80/judeva/deva10ju/83189
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports HD [Alt]" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="Canais | BAND Sports",BAND Sports HD [Alt]
+http://apkwuv.xyz:80/judeva/deva10ju/147447
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports SD" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="Canais | BAND Sports",BAND Sports SD
+http://apkwuv.xyz:80/judeva/deva10ju/83529
+
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS  SPORTV.xml "
  ############## CANAIS  SPORTV ############## ### 
@@ -3755,6 +4384,12 @@ https://ia902705.us.archive.org/10/items/pup-star-3-turne-mundial-tv-fax/Pup%20S
 https://ia902707.us.archive.org/18/items/minusculos-tv-fax/Min%C3%BAsculos%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Killer Bean O Super Herói Killer Bean Forever"tvg-logo="https://i.ytimg.com/vi/fgNIH-0oKbU/maxresdefault.jpg"group-title="FILMES TV FAX filhos",Killer Bean O Super Herói Killer Bean Forever
 https://ia802707.us.archive.org/21/items/killer-bean-o-super-heroi-killer-bean-forever-tv-fax/Killer%20Bean%20O%20Super%20Her%C3%B3i%20Killer%20Bean%20Forever%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Pequenino"tvg-logo="https://br.web.img3.acsta.net/r_1280_720/medias/nmedia/18/87/20/24/19899484.jpg"group-title="FILMES TV FAX filhos",O Pequenino
+https://ia902709.us.archive.org/31/items/o-pequenino-tv-fax/O%20Pequenino%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Raya E O Último Dragão"tvg-logo="https://muralzinhodeideias.com.br/wp-content/uploads/2022/10/rayaultimodragao-divulgacao.jpg"group-title="FILMES TV FAX filhos",Raya E O Último Dragão
+https://ia902708.us.archive.org/26/items/raya-e-o-ultimo-dragao-tv-fax/Raya%20e%20o%20%C3%9Altimo%20Drag%C3%A3oTV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ruby Marinho Monstro Adolescente"tvg-logo="https://hitsite.com.br/wp-content/uploads/2023/06/1-Ruby-Marinho-.jpg"group-title="FILMES TV FAX filhos",Ruby Marinho Monstro Adolescente
+https://ia902704.us.archive.org/19/items/ruby-marinho-monstro-adolescente-tv-fax/Ruby%20Marinho%20-%20Monstro%20Adolescente%20TV%20FAX%20.mp4
 
 #EXTM3U url-tvg="http://grade-de-FILMES | TV FAX.xml"
 ############## FILMES | TV FAX #################
@@ -3773,14 +4408,16 @@ https://ia902707.us.archive.org/6/items/coragem-para-vencer-tv-fax/Coragem%20par
 https://ia902708.us.archive.org/27/items/dominados-pelo-odio-tv-fax/Dominados%20Pelo%20%C3%93dio%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Em Busca Da Justiça"tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGX0MDDC7/image?locale=pt-br&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg"group-title="FILMES | TV FAX",Em Busca Da Justiça
 https://ia802707.us.archive.org/29/items/em-busca-da-justica-tv-fax/Em%20Busca%20da%20Justi%C3%A7a%20TV%20FAX%20.mp4
-
+#EXTINF:-1 tvg-id="" tvg-name=",Os Cavaleiros Do Zodíaco Saint Seiya O Começo "tvg-logo="https://cdn.ome.lt/6j08deCPCX-VBEaN34vY73QNgaI=/1200x630/smart/extras/conteudos/mackenyu.png"group-title="FILMES | TV FAX",Os Cavaleiros Do Zodíaco Saint Seiya O Começo 
+https://ia902706.us.archive.org/1/items/os-cavaleiros-do-zodiaco-saint-seiya-o-comeco-tv-fax/Os%20Cavaleiros%20do%20Zod%C3%ADaco%20Saint%20Seiya%20O%20Come%C3%A7o%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Jackie Chan ( 2021)"tvg-logo="https://i.gifer.com/3Uuu.gif"group-title="FILMES | TV FAX",Jackie Chan ( 2021)
 https://ia902706.us.archive.org/8/items/jackie-chan-2021-tv-fax/Jackie%20Chan%20%28%202021%29%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",LANÇAMENTO 2022"tvg-logo="https://s2-vidadebicho.glbimg.com/vbE8s8YNYlw9I-RtQhAFmp688Rw=/0x0:371x566/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_fb623579cd474803aedbbbbae014af68/internal_photos/bs/2022/G/1/eVQTZkSdqAkmEirau3aA/2022-02-18-filme-dog-com-channing-tatum-estreia-nos-eua-e-no-reino-unido.jpeg"group-title="FILMES | TV FAX",LANÇAMENTO 2022
 https://ia802708.us.archive.org/34/items/aca-o-lanc-amento-2022-tv-fax/A%C3%87%C3%83O%20LAN%C3%87AMENTO%202022%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Jackie Chan"tvg-logo="https://media.tenor.com/mByOv8yZQh8AAAAC/jackie-chan-angry.gif"group-title="FILMES | TV FAX",Jackie Chan 
 https://ia802708.us.archive.org/27/items/jackie-chan-tv-fax/Jackie%20Chan%20TV%20FAX%20.mp4
-
+#EXTINF:-1 tvg-id="" tvg-name=",Homem Formiga 3"tvg-logo="https://p2.trrsf.com/image/fget/cf/1200/1600/middle/images.terra.com/2023/02/26/2043520497-ant-man-and-the-wasp-quantumania-textless-quad-poster-and-banner.jpg"group-title="FILMES | TV FAX",Homem Formiga 3
+https://ia902700.us.archive.org/18/items/homem-formiga-3-tv-fax/Homem-Formiga%203TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Jackie Chan SEMPRE"tvg-logo="https://i.makeagif.com/media/9-23-2015/bmagFx.gif"group-title="FILMES | TV FAX",Jackie Chan SEMPRE
 https://ia902705.us.archive.org/14/items/jackie-chan-sempre-tv-fax/Jackie%20Chan%20SEMPRE%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",JACKIE CHAN DRAGÕ ES PARA SEMPRE"tvg-logo="https://media.tenor.com/yHs4XQFlen4AAAAd/jackie-chan-martial-arts.gif"group-title="FILMES | TV FAX",JACKIE CHAN DRAGÕ ES PARA SEMPRE
@@ -4170,9 +4807,6 @@ https://play.prod.gcp.vix.services/estrada-47_pt/estrada-47_pt_1-1/hls_2500.m3u8
 https://ia802600.us.archive.org/11/items/milagre-azul-filmes-tv-fax-hd/Milagre%20AzulFilmes%20TV%20FAX%20HD.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Zona Verde"tvg-logo="https://assetsgn.nowonline.com.br/assets/p194534_v_v12_al.jpg"group-title="FILMES | TV FAX",Zona Verde
 https://ia902607.us.archive.org/14/items/zona-verde-filmes-tv-fax-hd/Zona%20Verde%20Filmes%20TV%20FAX%20HD.mp4
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="BRICHOS"tvg-logo="https://1.bp.blogspot.com/-NYyG2GbFzZY/YU4PXfCOp3I/AAAAAAABcX8/fYRwCnREPeAfHkRZup11ihbFBtXw7yEtwCLcBGAsYHQ/s460/Vida%2B-%2BSecreta%2B-%2Bdos%2B-%2BBichos%2B-%2Bem%2B-%2BGifsi%2B%25287%2529.gif"group-title="FILMES | TV FAX",BRICHOS
 https://vdn.libreflix.org/video/brichos2/brichos2.360.mp4
 #EXTINF:-1 tvg-id="" tvg-name=Alta Velocidade"tvg-logo="https://media.fstatic.com/asWdTE36MWEyheG_3EIHp6d5YZs=/322x478/smart/filters:format(webp)/media/movies/covers/2021/02/3415_-_29x41-.jpg"group-title="FILMES | TV FAX",Alta Velocidade
@@ -4387,7 +5021,8 @@ https://ia802701.us.archive.org/18/items/par-ou-impar-terence-hill-e-bud-spencer
 ############## FILME TV FAX B HISTORIA REAL ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX B HISTORIA REAL" group-title="
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Entrevista Com Deus"tvg-logo="https://i.ytimg.com/vi/zRor0Go2JEM/mqdefault.jpg"group-title="FILME TV FAX B HISTORIA REA",Entrevista Com Deus
+https://ia600509.us.archive.org/8/items/entrevista-com-deus-tv-fax/Entrevista%20com%20Deus%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Caminho Para A Eternidade"tvg-logo="https://ottvsimg.ottvs.com.br/cov/grf.150592/0150592_335.jpg"group-title="FILME TV FAX B HISTORIA REA",O Caminho Para A Eternidade
 https://ia902705.us.archive.org/11/items/o-caminho-para-a-eternidade-tv-fax/O%20Caminho%20Para%20a%20EternidadeTV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="SEPARADOS PELO DESTINO"tvg-logo="https://i.ytimg.com/vi/XgAmxjZPo4A/sddefault.jpg?v=61bdf8aa"group-title="FILME TV FAX B HISTORIA REAL",SEPARADOS PELO DESTINO
@@ -4437,6 +5072,8 @@ https://ia902706.us.archive.org/27/items/sem-evide-ncias-drama-baseado-em-fatos-
 ############## FILME TV FAX AUTISMO ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX AUTISMO" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="Milagre Na Cela 7"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/da613c490fabc8902686b1ddda8cf52797f64d4c9dc32cd80988ad8404353011._RI_TTW_.jpg"group-title="FILME TV FAX AUTISMO",Milagre Na Cela 7
+https://ia902702.us.archive.org/13/items/milagre-na-cela-7-tv-fax/Milagre%20na%20Cela%207%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Simples Como Amar 1999 Deficiente Intelectua"tvg-logo="https://ricardoshimosakai.com.br/wp-content/uploads/2014/10/Carla-Tate-Juliette-Lewis-e-Danny-McMann-Giovanni-Ribisi-ambos-com-defici%C3%AAncia-intelectual-vivem-uma-hist%C3%B3ria-de-amor.jpg"group-title="FILME TV FAX AUTISMO",Simples Como Amar 1999 Deficiente Intelectua
 https://ia802700.us.archive.org/4/items/simples-como-amar-1999-deficiente-intelectua-tv-fax-l/Simples%20como%20amar%201999%20%20deficiente%20intelectua%20TV%20FAX%20l.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Meu Nome É Rádio"tvg-logo="https://images.justwatch.com/poster/300493222/s718/meu-nome-e-radio.%7Bformat%7D"group-title="FILME TV FAX AUTISMO",Meu Nome É Rádio
@@ -4465,6 +5102,41 @@ https://ia802709.us.archive.org/6/items/uma-licao-de-amor-tv-fax/Uma%20Li%C3%A7%
 https://ia802701.us.archive.org/20/items/licao-de-vida-tv-fax/Li%C3%A7%C3%A3o%20de%20Vida%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Gilbert Grape Aprendiz De Sonhador"tvg-logo="https://culturardotblog.files.wordpress.com/2021/06/gilbert-grape.jpg?w=640"group-title="FILME TV FAX AUTISMO",Gilbert Grape Aprendiz De Sonhador
 https://ia902706.us.archive.org/20/items/gilbert-grape-aprendiz-de-sonhador-tv-fax/Gilbert%20Grape%20Aprendiz%20de%20Sonhador%20TV%20FAX%20.mp4
+
+#EXTM3U url-tvg="http://grade-de-FILME TV FAX HOMEM ARANHA MARVEL.xml"
+############## FILME TV FAX HOMEM ARANHA MARVEL ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX HOMEM ARANHA MARVEL" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM-ARANHA (2002) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2WIwz0qJpnVAiofTAhrmhbKxuvE.jpg" group-title="FILME TV FAX HOMEM ARANHA MARVEL",HOMEM ARANHA (2002) 4K
+http://dns.p2.wtf:80/movie/5678bam3aa/8w5xgpli6g/149045.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM-ARANHA - 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3cssvZGCaubdDMbtt20IDK3WXV2.jpg" group-title="FILME TV FAX HOMEM ARANHA MARVEL",HOMEM ARANHA - 2002
+http://dns.p2.wtf:80/movie/5678bam3aa/8w5xgpli6g/55055.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM-ARANHA 2 (2004) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y06FivvCfqapHB3iETOtbAqWdkD.jpg" group-FILME TV FAX HOMEM ARANHA", HOMEM ARANHA 2 (2004) 4K
+http://dns.p2.wtf:80/movie/5678bam3aa/8w5xgpli6g/149046.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM-ARANHA 2 - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/41CX8g39cqdA83fAkoZ1SM6d4oG.jpg" group-title="FILME TV FAX HOMEM ARANHA MARVEL",HOMEM ARANHA 2 - 2004
+http://dns.p2.wtf:80/movie/5678bam3aa/8w5xgpli6g/55054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM-ARANHA 3 (2007) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/63O5iixxXSmyOaBas7ek1tkeVra.jpg" group-title="FILME TV FAX HOMEM ARANHA MARVEL",HOMEM ARANHA 3 (2007) 4K
+http://dns.p2.wtf:80/movie/5678bam3aa/8w5xgpli6g/149047.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM-ARANHA 3 - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h7goptmUGulOnr2jM4wwc5ypHL.jpg" group-title="FILME TV FAX HOMEM ARANHA MARVEL",HOMEM ARANHA 3 - 2007
+http://dns.p2.wtf:80/movie/5678bam3aa/8w5xgpli6g/55053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM-ARANHA NO ARANHAVERSO (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ybQSBSrINtjWsJQ6Ih8sva8HlEZ.jpg" group-title="FILME TV FAX HOMEM ARANHA MARVEL",HOMEM ARANHA NO ARANHAVERSO (2018)
+http://dns.p2.wtf:80/movie/5678bam3aa/8w5xgpli6g/64333.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM-ARANHA NO ARANHAVERSO (2018) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tv1MHGKwRNKXzuJsNH9aZqU2djI.jpg" group-title="FILME TV FAX HOMEM ARANHA MARVEL",HOMEM ARANHA NO ARANHAVERSO (2018) 4K
+http://dns.p2.wtf:80/movie/5678bam3aa/8w5xgpli6g/149050.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM-ARANHA NO ARANHAVERSO - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejqquyk7r3GLXPir62rksUmPKj5.jpg" group-title="FILME TV FAX HOMEM ARANHA MARVEL",HOMEM ARANHA NO ARANHAVERSO - 2018
+http://dns.p2.wtf:80/movie/5678bam3aa/8w5xgpli6g/65583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM-ARANHA NO ARANHAVERSO - 2018" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejqquyk7r3GLXPir62rksUmPKj5.jpg" group-title="FILME TV FAX HOMEM ARANHA MARVEL",HOMEM ARANHA NO ARANHAVERSO - 2018
+http://dns.p2.wtf:80/movie/5678bam3aa/8w5xgpli6g/65583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM-ARANHA: DE VOLTA AO LAR (2017)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9Fgs1ewIZiBBTto1XDHeBN0D8ug.jpg" group-title="FILME TV FAX HOMEM ARANHA MARVEL",HOMEM ARANHA  DE VOLTA AO LAR (2017)
+http://dns.p2.wtf:80/movie/5678bam3aa/8w5xgpli6g/55052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM-ARANHA: LONGE DE CASA (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg" group-title="FILME TV FAX HOMEM ARANHA MARVEL",HOMEM ARANHA  LONGE DE CASA (2019)
+http://dns.p2.wtf:80/movie/5678bam3aa/8w5xgpli6g/69261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM-ARANHA: LONGE DE CASA (2019) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tX0o4AdHpidgniTWwfzK0dNTKrc.jpg" group-title="FILME TV FAX HOMEM ARANHA MARVEL",HOMEM ARANHA LONGE DE CASA (2019) 4K
+http://dns.p2.wtf:80/movie/5678bam3aa/8w5xgpli6g/70200.mkv
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM-ARANHA: SEM VOLTA PARA CASA (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg" group-title="FILME TV FAX HOMEM ARANHA MARVEL",HOMEM ARANHA  SEM VOLTA PARA CASA (2021)
+http://dns.p2.wtf:80/movie/5678bam3aa/8w5xgpli6g/142995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM-ARANHA: SEM VOLTA PARA CASA (2021) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg" group-title="FILME TV FAX HOMEM ARANHA MARVEL",HOMEM ARANHA SEM VOLTA PARA CASA (2021) 4K
+http://dns.p2.wtf:80/movie/5678bam3aa/8w5xgpli6g/142996.mkv
 
 #EXTM3U url-tvg="http://grade-de-FILMES TV FAX | AÇÃO CINEMA.xml"
 ############## FILMES TV FAX | AÇÃO CINEMA ################# 
@@ -6288,6 +6960,57 @@ https://play.prod.gcp.vix.services/red-dirt-rising_pt/red-dirt-rising_pt_1-1/hls
 #EXTINF:-1 tvg-id="" tvg-name="O Vigilante Mascarado"tvg-logo="https://i.ytimg.com/vi/p4aQLDKVC2Q/maxresdefault.jpg" group-title="FILMES | DRAMA CINEMA",O Vigilante Mascarado
 https://play.prod.gcp.vix.services/masked-saint_pt/masked-saint_pt_1-1/hls_2500.m3u8
 
+#EXTM3U url-tvg="http://grade-de-Filmes: Guerra.xml"
+############## Filmes: Guerra ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFilmes: Guerra" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Amazonas Lendárias (2011)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3nMepoigjyKoilWw6Q3Z5FOKKBl.jpg" group-title="Filmes: Guerra",Amazonas Lendárias (2011)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/202298.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AK-47: A Arma Que Mudou o Mundo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4djODIhP8TZtjkG6w2xZjOuLk6.jpg" group-title="Filmes: Guerra",AK-47: A Arma Que Mudou o Mundo (2020)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/154250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Última Resistência - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iSOmOm5PlJ3kEhkQJxtqMSeuWpQ.jpg" group-title="Filmes: Guerra",A Última Resistência - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/148688.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Um Passo da Eternidade (1953)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i6QXGhmrBskJav7KzGhwlqyx0t3.jpg" group-title="Filmes: Guerra",A Um Passo da Eternidade (1953)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/182434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Queda! As Últimas Horas de Hitler - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8woFd0ljnO2rmg46wdoFPcPmPu.jpg" group-title="Filmes: Guerra",A Queda! As Últimas Horas de Hitler - 2004
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/154844.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Longa Caminhada de Billy Lynn - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rGdBDL8l2ZMHqIUVlwTn7Exg6qJ.jpg" group-title="Filmes: Guerra",A Longa Caminhada de Billy Lynn - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lenda do Guerreiro do Fogo - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sAX4l6i8Z3r1Em3FNB3QlVDLdIo.jpg" group-title="Filmes: Guerra",A Lenda do Guerreiro do Fogo - 2007
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Guerra de Agosto - 2012" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2UIrdlq6eaydKui6otwT3jvvb.jpg" group-title="Filmes: Guerra",A Guerra de Agosto - 2012
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24820.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Guerra de Hart - 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hePkUbOc3d0uV6Nt576Hvs9m8kK.jpg" group-title="Filmes: Guerra",A Guerra de Hart - 2002
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24821.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Lista de Schindler - 1993" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGhhNzJYDsuLruNN5bJ2PvLcMiq.jpg" group-title="Filmes: Guerra",A Lista de Schindler - 1993
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Fera da Guerra - 1988" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4w9NT9bbc9gwDixZciFDFc5EPo3.jpg" group-title="Filmes: Guerra",A Fera da Guerra - 1988
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24763.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Conquista da Honra - 2006" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qk93n9lLFsb1dn3KEBLkuFIDGGm.jpg" group-title="Filmes: Guerra",A Conquista da Honra - 2006
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24662.mp4
+#EXTINF:-1 tvg-id="" tvg-name="100 Dias de Resistência (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naG6PCVZupvYaOf9kGgKd2MVZRZ.jpg" group-title="Filmes: Guerra",100 Dias de Resistência (2019)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/261627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="36 Horas de Guerra (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eRUrER9xFIiLp2aMIJjCTEOU3VX.jpg" group-title="Filmes: Guerra",36 Horas de Guerra (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/261626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1918 A Batalha de Kruty (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s9Rczpymx7cPnSMRdFDPMJYJcB2.jpg" group-title="Filmes: Guerra",1918 A Batalha de Kruty (2018)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/35959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="15 Minutos de Guerra - 2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iwXNed7a2TERq4D7AUY3wltGrqw.jpg" group-title="Filmes: Guerra",15 Minutos de Guerra - 2019
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="1917 (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KkyXE7Hd9MPOOkORxkMM6SUXAB.jpg" group-title="Filmes: Guerra",1917 (2019)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24466.mp4
+#EXTINF:-1 tvg-id="" tvg-name="13 Horas: Os Soldados Secretos de Benghazi - 2016" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/K4lEgO47Axbidt5MJo5KljpP3G.jpg" group-title="Filmes: Guerra",13 Horas: Os Soldados Secretos de Benghazi - 2016
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/155345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="300 - 2007" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lGv19gokQvgC7jgjWqapIachnxU.jpg" group-title="Filmes: Guerra",300 - 2007
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/152590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha Esquecida (2021)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWbI2goToe3p1rJR3aq5zXuhRn5.jpg" group-title="Filmes: Guerra",A Batalha Esquecida (2021)
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/182656.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha na Montanha do Tigre - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y4BKUU4daexpODw2m2TdXLiqp0o.jpg" group-title="Filmes: Guerra",A Batalha na Montanha do Tigre - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/175607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Estrada 47 - 2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9DfdAhXIzxgGEUnGiThqhqX7yGz.jpg" group-title="Filmes: Guerra",A Estrada 47 - 2014
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24729.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Estrada Eterna - 2017" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/csag6UMfxp0vjpYj5rhkzS8O8TO.jpg" group-title="Filmes: Guerra",A Estrada Eterna - 2017
+http://bgp.cdnr1.xyz:80/movie/rayanecliente66/982148523c/24730.mp4
+
 #EXTM3U url-tvg="http://grade-de-Filmes Star Wars.xml"
 ############## Filmes Star Wars ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFilmes Star Wars" group-title="
@@ -6881,6 +7604,980 @@ https://ia902707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma
 #EXTINF:-1 tvg-id="" tvg-name="Mulher-Hulk: DE QUEM E ESSA SERIE S01 E09" tvg-logo="https://media.tenor.com/8mAYzViLlLIAAAAC/she-hulk-throwing.gif" group-title="SÉRIES | Mulher Hulk",Mulher-Hulk: DE QUEM E ESSA SERIE S01 E09
 https://ia902707.us.archive.org/6/items/mulher-hulk-defensora-de-herois-1x-1-uma-quantidade-normal-de-raiva/Mulher-Hulk%20Defensora%20de%20Her%C3%B3is%201x9%20De%20Quem%20%C3%89%20Essa%20S%C3%A9rie.mp4
 
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Comédia.xml"
+############## SÉRIES | Comédia ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Comédia" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/yrKLLVz5SHOfdmYykuKBtj49H8U.jpg" group-title="SÉRIES | Comédia",Chaves S01 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/268853.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/yrKLLVz5SHOfdmYykuKBtj49H8U.jpg" group-title="SÉRIES | Comédia",Chaves S01 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/268854.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/5gvXF7OlN07MVy1GLnLrH2E3o4O.jpg" group-title="SÉRIES | Comédia",Chaves S01 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/268855.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/5gvXF7OlN07MVy1GLnLrH2E3o4O.jpg" group-title="SÉRIES | Comédia",Chaves S01 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/268856.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/5gvXF7OlN07MVy1GLnLrH2E3o4O.jpg" group-title="SÉRIES | Comédia",Chaves S01 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/268857.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/lBJBuxj8pTsIXwKzHmBwfE2Ax6M.jpg" group-title="SÉRIES | Comédia",Chaves S01 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/268858.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/lBJBuxj8pTsIXwKzHmBwfE2Ax6M.jpg" group-title="SÉRIES | Comédia",Chaves S01 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/268859.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/5miiEYvii7pSGMjahJ7u3IMoMix.jpg" group-title="SÉRIES | Comédia",Chaves S01 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/268860.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/5miiEYvii7pSGMjahJ7u3IMoMix.jpg" group-title="SÉRIES | Comédia",Chaves S01 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/268861.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/19OK9ykZS5bVeH0mu6dWS6TiWRX.jpg" group-title="SÉRIES | Comédia",Chaves S01 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/268862.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/19OK9ykZS5bVeH0mu6dWS6TiWRX.jpg" group-title="SÉRIES | Comédia",Chaves S01 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/268863.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300/8a2j688pDxubjhfahdOhXZt7iOf.jpg" group-title="SÉRIES | Comédia",Chaves S01 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/268864.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E13" tvg-logo="https://image.tmdb.org/t/p/w300/ce1YxWQKkRv5PP7OSDFfXqMjKcX.jpg" group-title="SÉRIES | Comédia",Chaves S01 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/268865.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E14" tvg-logo="https://image.tmdb.org/t/p/w300/ce1YxWQKkRv5PP7OSDFfXqMjKcX.jpg" group-title="SÉRIES | Comédia",Chaves S01 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/268866.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E15" tvg-logo="https://image.tmdb.org/t/p/w300/ce1YxWQKkRv5PP7OSDFfXqMjKcX.jpg" group-title="SÉRIES | Comédia",Chaves S01 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/268867.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E16" tvg-logo="https://image.tmdb.org/t/p/w300/yEtmoBwp3sVDCCFFFD9iHYoXJQX.jpg" group-title="SÉRIES | Comédia",Chaves S01 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/268868.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E17" tvg-logo="https://image.tmdb.org/t/p/w300/yEtmoBwp3sVDCCFFFD9iHYoXJQX.jpg" group-title="SÉRIES | Comédia",Chaves S01 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/268869.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E18" tvg-logo="https://image.tmdb.org/t/p/w300/vkrpoG4eXbATIYbQ3YM7CaUf2Ri.jpg" group-title="SÉRIES | Comédia",Chaves S01 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/268870.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E19" tvg-logo="https://image.tmdb.org/t/p/w300/vkrpoG4eXbATIYbQ3YM7CaUf2Ri.jpg" group-title="SÉRIES | Comédia",Chaves S01 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/268871.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E20" tvg-logo="https://image.tmdb.org/t/p/w300/eVvTADfec6TR21kA2rLHkmlMbW2.jpg" group-title="SÉRIES | Comédia",Chaves S01 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/268872.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E21" tvg-logo="https://image.tmdb.org/t/p/w300/eVvTADfec6TR21kA2rLHkmlMbW2.jpg" group-title="SÉRIES | Comédia",Chaves S01 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/268873.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E22" tvg-logo="https://image.tmdb.org/t/p/w300/s2jn9SEoI6R3gv9pxUTpfrroaHZ.jpg" group-title="SÉRIES | Comédia",Chaves S01 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/268874.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E23" tvg-logo="https://image.tmdb.org/t/p/w300/kQFQR3sXfhyOPciv8dsskHGjrO5.jpg" group-title="SÉRIES | Comédia",Chaves S01 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/268875.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E24" tvg-logo="https://image.tmdb.org/t/p/w300/2EEf9OhbdiLcBCdg3rWSBvbhWj9.jpg" group-title="SÉRIES | Comédia",Chaves S01 E24
+http://apkwuv.xyz:80/series/judeva/deva10ju/268876.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E25" tvg-logo="https://image.tmdb.org/t/p/w300/2EEf9OhbdiLcBCdg3rWSBvbhWj9.jpg" group-title="SÉRIES | Comédia",Chaves S01 E25
+http://apkwuv.xyz:80/series/judeva/deva10ju/268877.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E26" tvg-logo="https://image.tmdb.org/t/p/w300/nGSeYKeqQt7hMLUIRxQiY0UanEl.jpg" group-title="SÉRIES | Comédia",Chaves S01 E26
+http://apkwuv.xyz:80/series/judeva/deva10ju/268878.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E27" tvg-logo="https://image.tmdb.org/t/p/w300/edHvW81iEGpDZ5hlFum1Chv7Pka.jpg" group-title="SÉRIES | Comédia",Chaves S01 E27
+http://apkwuv.xyz:80/series/judeva/deva10ju/268879.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E28" tvg-logo="https://image.tmdb.org/t/p/w300/edHvW81iEGpDZ5hlFum1Chv7Pka.jpg" group-title="SÉRIES | Comédia",Chaves S01 E28
+http://apkwuv.xyz:80/series/judeva/deva10ju/268880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E29" tvg-logo="https://image.tmdb.org/t/p/w300/wrzGOtpL2iD7m7SpKsteRZvw4jW.jpg" group-title="SÉRIES | Comédia",Chaves S01 E29
+http://apkwuv.xyz:80/series/judeva/deva10ju/268881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E30" tvg-logo="https://image.tmdb.org/t/p/w300/aOP5nYDY4yPDnTyOQLruPjnR8Rp.jpg" group-title="SÉRIES | Comédia",Chaves S01 E30
+http://apkwuv.xyz:80/series/judeva/deva10ju/268882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E31" tvg-logo="https://image.tmdb.org/t/p/w300/mHlXD7Ztwh2hyMr37zRdIBRV3Kl.jpg" group-title="SÉRIES | Comédia",Chaves S01 E31
+http://apkwuv.xyz:80/series/judeva/deva10ju/268883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E32" tvg-logo="https://image.tmdb.org/t/p/w300/pq4P2QQgybkDTKWHwaPVNTfJAba.jpg" group-title="SÉRIES | Comédia",Chaves S01 E32
+http://apkwuv.xyz:80/series/judeva/deva10ju/268884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E33" tvg-logo="https://image.tmdb.org/t/p/w300/pq4P2QQgybkDTKWHwaPVNTfJAba.jpg" group-title="SÉRIES | Comédia",Chaves S01 E33
+http://apkwuv.xyz:80/series/judeva/deva10ju/268885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S01 E34" tvg-logo="https://image.tmdb.org/t/p/w300/9MMPUz0F9ZG4O20iLr1YT9xPNoD.jpg" group-title="SÉRIES | Comédia",Chaves S01 E34
+http://apkwuv.xyz:80/series/judeva/deva10ju/268886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/tymJvT8hO14SsYsWbn9hMjIyqNq.jpg" group-title="SÉRIES | Comédia",Chaves S02 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/268887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/uGrrjeEhQ20McJ1jmVepUsTTp9Q.jpg" group-title="SÉRIES | Comédia",Chaves S02 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/268888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/3Ayi851VbekWSw6tM3PfnWu92IP.jpg" group-title="SÉRIES | Comédia",Chaves S02 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/268889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/As38IvoBzYpEW4OYUfLO6FIzF4Z.jpg" group-title="SÉRIES | Comédia",Chaves S02 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/268890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/eSi7Zbnf5xdWt8yysUb19ISnBfX.jpg" group-title="SÉRIES | Comédia",Chaves S02 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/268891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/5PMWNBoJo6WIMZkQaahZvFKW0Qi.jpg" group-title="SÉRIES | Comédia",Chaves S02 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/268892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/5PMWNBoJo6WIMZkQaahZvFKW0Qi.jpg" group-title="SÉRIES | Comédia",Chaves S02 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/268893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/5PMWNBoJo6WIMZkQaahZvFKW0Qi.jpg" group-title="SÉRIES | Comédia",Chaves S02 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/268894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E09" tvg-logo="https://image.tmdb.org/t/p/w300/5PMWNBoJo6WIMZkQaahZvFKW0Qi.jpg" group-title="SÉRIES | Comédia",Chaves S02 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/268895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E10" tvg-logo="https://image.tmdb.org/t/p/w300/5PMWNBoJo6WIMZkQaahZvFKW0Qi.jpg" group-title="SÉRIES | Comédia",Chaves S02 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/268896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E11" tvg-logo="https://image.tmdb.org/t/p/w300/5PMWNBoJo6WIMZkQaahZvFKW0Qi.jpg" group-title="SÉRIES | Comédia",Chaves S02 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/268897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E12" tvg-logo="https://image.tmdb.org/t/p/w300/5PMWNBoJo6WIMZkQaahZvFKW0Qi.jpg" group-title="SÉRIES | Comédia",Chaves S02 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/268898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E13" tvg-logo="https://image.tmdb.org/t/p/w300/j4WSBnLGCmuATBzX4J0anaAkZVt.jpg" group-title="SÉRIES | Comédia",Chaves S02 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/268899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E14" tvg-logo="https://image.tmdb.org/t/p/w300/zlfC5P6LNaeYj5pohGRpIBh12WN.jpg" group-title="SÉRIES | Comédia",Chaves S02 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/268900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E15" tvg-logo="https://image.tmdb.org/t/p/w300/zlfC5P6LNaeYj5pohGRpIBh12WN.jpg" group-title="SÉRIES | Comédia",Chaves S02 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/268901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E16" tvg-logo="https://image.tmdb.org/t/p/w300/zlfC5P6LNaeYj5pohGRpIBh12WN.jpg" group-title="SÉRIES | Comédia",Chaves S02 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/268902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E17" tvg-logo="https://image.tmdb.org/t/p/w300/zlfC5P6LNaeYj5pohGRpIBh12WN.jpg" group-title="SÉRIES | Comédia",Chaves S02 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/268903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E18" tvg-logo="https://image.tmdb.org/t/p/w300/nHxnTICXklzeySaQmIagt8GQM5o.jpg" group-title="SÉRIES | Comédia",Chaves S02 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/268904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E19" tvg-logo="https://image.tmdb.org/t/p/w300/nHxnTICXklzeySaQmIagt8GQM5o.jpg" group-title="SÉRIES | Comédia",Chaves S02 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/268905.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E20" tvg-logo="https://image.tmdb.org/t/p/w300/nHxnTICXklzeySaQmIagt8GQM5o.jpg" group-title="SÉRIES | Comédia",Chaves S02 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/268906.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E21" tvg-logo="https://image.tmdb.org/t/p/w300/nHxnTICXklzeySaQmIagt8GQM5o.jpg" group-title="SÉRIES | Comédia",Chaves S02 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/268907.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E22" tvg-logo="https://image.tmdb.org/t/p/w300/nHxnTICXklzeySaQmIagt8GQM5o.jpg" group-title="SÉRIES | Comédia",Chaves S02 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/268908.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E23" tvg-logo="https://image.tmdb.org/t/p/w300/nHxnTICXklzeySaQmIagt8GQM5o.jpg" group-title="SÉRIES | Comédia",Chaves S02 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/268909.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E24" tvg-logo="https://image.tmdb.org/t/p/w300/nHxnTICXklzeySaQmIagt8GQM5o.jpg" group-title="SÉRIES | Comédia",Chaves S02 E24
+http://apkwuv.xyz:80/series/judeva/deva10ju/268910.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E25" tvg-logo="https://image.tmdb.org/t/p/w300/nHxnTICXklzeySaQmIagt8GQM5o.jpg" group-title="SÉRIES | Comédia",Chaves S02 E25
+http://apkwuv.xyz:80/series/judeva/deva10ju/268911.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E26" tvg-logo="https://image.tmdb.org/t/p/w300/nHxnTICXklzeySaQmIagt8GQM5o.jpg" group-title="SÉRIES | Comédia",Chaves S02 E26
+http://apkwuv.xyz:80/series/judeva/deva10ju/268912.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E27" tvg-logo="https://image.tmdb.org/t/p/w300/nHxnTICXklzeySaQmIagt8GQM5o.jpg" group-title="SÉRIES | Comédia",Chaves S02 E27
+http://apkwuv.xyz:80/series/judeva/deva10ju/268913.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E28" tvg-logo="https://image.tmdb.org/t/p/w300/nHxnTICXklzeySaQmIagt8GQM5o.jpg" group-title="SÉRIES | Comédia",Chaves S02 E28
+http://apkwuv.xyz:80/series/judeva/deva10ju/268914.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E29" tvg-logo="https://image.tmdb.org/t/p/w300/nHxnTICXklzeySaQmIagt8GQM5o.jpg" group-title="SÉRIES | Comédia",Chaves S02 E29
+http://apkwuv.xyz:80/series/judeva/deva10ju/268915.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E30" tvg-logo="https://image.tmdb.org/t/p/w300/nHxnTICXklzeySaQmIagt8GQM5o.jpg" group-title="SÉRIES | Comédia",Chaves S02 E30
+http://apkwuv.xyz:80/series/judeva/deva10ju/268916.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E31" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S02 E31
+http://apkwuv.xyz:80/series/judeva/deva10ju/268917.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E32" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S02 E32
+http://apkwuv.xyz:80/series/judeva/deva10ju/268918.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E33" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S02 E33
+http://apkwuv.xyz:80/series/judeva/deva10ju/268919.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E34" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S02 E34
+http://apkwuv.xyz:80/series/judeva/deva10ju/268920.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S02 E35" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S02 E35
+http://apkwuv.xyz:80/series/judeva/deva10ju/268921.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E01" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/268922.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E02" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/268923.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E03" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/268924.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E04" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/268925.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E05" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/268926.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E06" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/268927.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E07" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/268928.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E08" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/268929.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E09" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/268930.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E10" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/268931.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E11" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/268932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E12" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/268933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E13" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/268934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E14" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/268935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E15" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/268936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E16" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/268937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E17" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/268938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E18" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/268939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E19" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/268940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E20" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/268941.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E21" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/268942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E22" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/268943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E23" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/268944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E24" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E24
+http://apkwuv.xyz:80/series/judeva/deva10ju/268945.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E25" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E25
+http://apkwuv.xyz:80/series/judeva/deva10ju/268946.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E26" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E26
+http://apkwuv.xyz:80/series/judeva/deva10ju/268947.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E27" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E27
+http://apkwuv.xyz:80/series/judeva/deva10ju/268948.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E28" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E28
+http://apkwuv.xyz:80/series/judeva/deva10ju/268949.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E29" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E29
+http://apkwuv.xyz:80/series/judeva/deva10ju/268950.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E30" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E30
+http://apkwuv.xyz:80/series/judeva/deva10ju/268951.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E31" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E31
+http://apkwuv.xyz:80/series/judeva/deva10ju/268952.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E32" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E32
+http://apkwuv.xyz:80/series/judeva/deva10ju/268953.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S03 E33" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S03 E33
+http://apkwuv.xyz:80/series/judeva/deva10ju/268954.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S04 E01" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S04 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/268955.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S04 E02" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S04 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/268956.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S04 E03" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S04 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/268957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S04 E04" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S04 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/268958.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S04 E05" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S04 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/268959.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S04 E06" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S04 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/268960.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S04 E07" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S04 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/268961.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S04 E08" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S04 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/268962.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S04 E09" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S04 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/268963.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S04 E10" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S04 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/268964.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S04 E11" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S04 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/268965.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S04 E12" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S04 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/268966.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S04 E13" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S04 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/268967.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S04 E14" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S04 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/268968.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S04 E15" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S04 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/268969.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S04 E16" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S04 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/268970.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S04 E17" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S04 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/268971.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S04 E18" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S04 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/268972.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S04 E19" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S04 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/268973.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S04 E20" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S04 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/268974.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S04 E21" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S04 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/268975.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S04 E22" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S04 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/268976.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S04 E23" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S04 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/268977.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S04 E24" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S04 E24
+http://apkwuv.xyz:80/series/judeva/deva10ju/268978.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S04 E25" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S04 E25
+http://apkwuv.xyz:80/series/judeva/deva10ju/268979.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S04 E26" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S04 E26
+http://apkwuv.xyz:80/series/judeva/deva10ju/268980.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S04 E27" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S04 E27
+http://apkwuv.xyz:80/series/judeva/deva10ju/268981.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S04 E28" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S04 E28
+http://apkwuv.xyz:80/series/judeva/deva10ju/268982.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S04 E29" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S04 E29
+http://apkwuv.xyz:80/series/judeva/deva10ju/268983.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S04 E30" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S04 E30
+http://apkwuv.xyz:80/series/judeva/deva10ju/268984.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E01" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/268985.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E02" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/268986.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E03" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/268987.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E04" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/268988.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E05" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/268989.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E06" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/268990.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E07" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/268991.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E08" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/268992.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E09" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/268993.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E10" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/268994.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E11" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/268995.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E12" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/268996.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E13" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/268997.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E14" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/268998.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E15" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/268999.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E16" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/269000.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E17" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/269001.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E18" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/269002.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E19" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/269003.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E20" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/269004.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E21" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/269005.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E22" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/269006.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E23" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/269007.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E24" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E24
+http://apkwuv.xyz:80/series/judeva/deva10ju/269008.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E25" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E25
+http://apkwuv.xyz:80/series/judeva/deva10ju/269009.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E26" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E26
+http://apkwuv.xyz:80/series/judeva/deva10ju/269010.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E27" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E27
+http://apkwuv.xyz:80/series/judeva/deva10ju/269011.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E28" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E28
+http://apkwuv.xyz:80/series/judeva/deva10ju/269012.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E29" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E29
+http://apkwuv.xyz:80/series/judeva/deva10ju/269013.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E30" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E30
+http://apkwuv.xyz:80/series/judeva/deva10ju/269014.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E31" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E31
+http://apkwuv.xyz:80/series/judeva/deva10ju/269015.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E32" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E32
+http://apkwuv.xyz:80/series/judeva/deva10ju/269016.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E33" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E33
+http://apkwuv.xyz:80/series/judeva/deva10ju/269017.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E34" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E34
+http://apkwuv.xyz:80/series/judeva/deva10ju/269018.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E35" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E35
+http://apkwuv.xyz:80/series/judeva/deva10ju/269019.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E36" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E36
+http://apkwuv.xyz:80/series/judeva/deva10ju/269020.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E37" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E37
+http://apkwuv.xyz:80/series/judeva/deva10ju/269021.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E38" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E38
+http://apkwuv.xyz:80/series/judeva/deva10ju/269022.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E39" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E39
+http://apkwuv.xyz:80/series/judeva/deva10ju/269023.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E40" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E40
+http://apkwuv.xyz:80/series/judeva/deva10ju/269024.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E41" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E41
+http://apkwuv.xyz:80/series/judeva/deva10ju/269025.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S05 E42" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S05 E42
+http://apkwuv.xyz:80/series/judeva/deva10ju/269026.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E01" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S06 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/269027.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E02" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S06 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/269028.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E03" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S06 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/269029.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E04" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S06 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/269030.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E05" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S06 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/269031.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E06" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S06 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/269032.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E07" tvg-logo="https://image.tmdb.org/t/p/w300/iWfe4Rfw0y2D7lW8Crr1jnjb0Vr.jpg" group-title="SÉRIES | Comédia",Chaves S06 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/269033.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/269034.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/269035.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/269036.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/269037.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/269038.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/269039.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/269040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/269041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/269042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/269043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/269044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/269045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/269046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/269047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/269048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/269049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E24
+http://apkwuv.xyz:80/series/judeva/deva10ju/269050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E25
+http://apkwuv.xyz:80/series/judeva/deva10ju/269051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E26
+http://apkwuv.xyz:80/series/judeva/deva10ju/269052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E27
+http://apkwuv.xyz:80/series/judeva/deva10ju/269053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E28
+http://apkwuv.xyz:80/series/judeva/deva10ju/269054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E29
+http://apkwuv.xyz:80/series/judeva/deva10ju/269055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E30
+http://apkwuv.xyz:80/series/judeva/deva10ju/269056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E31
+http://apkwuv.xyz:80/series/judeva/deva10ju/269057.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E32
+http://apkwuv.xyz:80/series/judeva/deva10ju/269058.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E33
+http://apkwuv.xyz:80/series/judeva/deva10ju/269059.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E34
+http://apkwuv.xyz:80/series/judeva/deva10ju/269060.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E35
+http://apkwuv.xyz:80/series/judeva/deva10ju/269061.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E36
+http://apkwuv.xyz:80/series/judeva/deva10ju/269062.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E37
+http://apkwuv.xyz:80/series/judeva/deva10ju/269063.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E38
+http://apkwuv.xyz:80/series/judeva/deva10ju/269064.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S06 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S06 E39
+http://apkwuv.xyz:80/series/judeva/deva10ju/269065.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/269066.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/269067.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/269068.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/269069.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/269070.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/269071.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/269072.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/269073.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/269074.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/269075.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/269076.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/269077.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/269078.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/269079.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/269080.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/269081.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/269082.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/269083.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/269084.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/269085.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/269086.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/269087.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/269088.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E24
+http://apkwuv.xyz:80/series/judeva/deva10ju/269089.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E25
+http://apkwuv.xyz:80/series/judeva/deva10ju/269090.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E26
+http://apkwuv.xyz:80/series/judeva/deva10ju/269091.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E27
+http://apkwuv.xyz:80/series/judeva/deva10ju/269092.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E28
+http://apkwuv.xyz:80/series/judeva/deva10ju/269093.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E29
+http://apkwuv.xyz:80/series/judeva/deva10ju/269094.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E30
+http://apkwuv.xyz:80/series/judeva/deva10ju/269095.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E31
+http://apkwuv.xyz:80/series/judeva/deva10ju/269096.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E32
+http://apkwuv.xyz:80/series/judeva/deva10ju/269097.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E33" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E33
+http://apkwuv.xyz:80/series/judeva/deva10ju/269098.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E34" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E34
+http://apkwuv.xyz:80/series/judeva/deva10ju/269099.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E35" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E35
+http://apkwuv.xyz:80/series/judeva/deva10ju/269100.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E36
+http://apkwuv.xyz:80/series/judeva/deva10ju/269101.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E37" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E37
+http://apkwuv.xyz:80/series/judeva/deva10ju/269102.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E38" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E38
+http://apkwuv.xyz:80/series/judeva/deva10ju/269103.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E39" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E39
+http://apkwuv.xyz:80/series/judeva/deva10ju/269104.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E40" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E40
+http://apkwuv.xyz:80/series/judeva/deva10ju/269105.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E41" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E41
+http://apkwuv.xyz:80/series/judeva/deva10ju/269106.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E42" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E42
+http://apkwuv.xyz:80/series/judeva/deva10ju/269107.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E43" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E43
+http://apkwuv.xyz:80/series/judeva/deva10ju/269108.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E44" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E44
+http://apkwuv.xyz:80/series/judeva/deva10ju/269109.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E45" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E45
+http://apkwuv.xyz:80/series/judeva/deva10ju/269110.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E46" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E46
+http://apkwuv.xyz:80/series/judeva/deva10ju/269111.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E47" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E47
+http://apkwuv.xyz:80/series/judeva/deva10ju/269112.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E48" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E48
+http://apkwuv.xyz:80/series/judeva/deva10ju/269113.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chaves S07 E49" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8D8rR5UgZlhLZ5k3cnMNTtYA8Wn.jpg" group-title="SÉRIES | Comédia",Chaves S07 E49
+http://apkwuv.xyz:80/series/judeva/deva10ju/269114.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Animes.xml"
+############## SÉRIES | Animes ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Animes" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/aGKZirZsUhyhnLG4nNwHGvNcuZ0.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S01 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/54316.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/An7cmBwndUCkLrtDEFUb9AH1IM1.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S01 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/54317.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/u6S0A3rWqJnYy3yIfa9Ku6ojdT8.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S01 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/54318.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/524wMSgTQYI12nLfEVprLh1LhUG.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S01 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/54319.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/4TyGt6BsvFJM6JcQ8Q8Xpar2P5t.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S01 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/54320.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/pom3t5OcbaqpOc88W1OOAZmxD2Q.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S01 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/54321.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/dWTdxp5PSj3xWZyY631C22gDGus.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S01 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/54322.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/ur0LXfk9hIwmedBkg7MmxvcS87t.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S01 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/54323.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/2KRDqL0QJmf14U8Z4Ad6rKavmt.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S01 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/54324.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/xkruJON9BZ2g15LWHyICp1X4o2T.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S01 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/54325.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/3H0QFqV4OI4CBu3H3ETlNZ3msee.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S01 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/54326.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300/2gJKIqshW9J1geY8zjK7iasQIKD.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S01 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/54327.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S01 E13" tvg-logo="https://image.tmdb.org/t/p/w300/hJkcZCTPQ582HOaJcXffNch2IfT.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S01 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/54328.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S01 E14" tvg-logo="https://image.tmdb.org/t/p/w300/pllWSA7MdhLRk4ltvXVBZQWEAZW.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S01 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/54329.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S01 E15" tvg-logo="https://image.tmdb.org/t/p/w300/wnhKYdQSvzA70eLPRRy1B2rI4XR.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S01 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/54330.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S01 E16" tvg-logo="https://image.tmdb.org/t/p/w300/zZ0KPqgdUJk0QM74NTVyuEhTWld.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S01 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/54331.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S01 E17" tvg-logo="https://image.tmdb.org/t/p/w300/6Lo44pNhQTVOnCK6NqLs7a1rPZR.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S01 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/54332.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S01 E18" tvg-logo="https://image.tmdb.org/t/p/w300/fYEwBi1k6NJihvGZK6FsLSQxp3c.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S01 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/54333.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S01 E19" tvg-logo="https://image.tmdb.org/t/p/w300/2jNhyg4PDIdslD2c7ko8cXdRIB8.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S01 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/54334.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S01 E20" tvg-logo="https://image.tmdb.org/t/p/w300/gMTGsTB4FswEwhNKVklF238DXrI.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S01 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/54335.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S01 E21" tvg-logo="https://image.tmdb.org/t/p/w300/5QhNCyrzLmUgOZi9Uw7NrJFslbO.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S01 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/54336.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S01 E22" tvg-logo="https://image.tmdb.org/t/p/w300/yl7G1oml4LMbaAoaHCIAOMtXy8P.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S01 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/54337.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S01 E23" tvg-logo="https://image.tmdb.org/t/p/w300/5BkP2BQKN164lCdQx6B2nouLh8d.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S01 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/54338.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S01 E24" tvg-logo="https://image.tmdb.org/t/p/w300/oFI5SNIjH4npsThiBFdcMqAWv7s.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S01 E24
+http://apkwuv.xyz:80/series/judeva/deva10ju/54339.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S01 E25" tvg-logo="https://image.tmdb.org/t/p/w300/ikJ0uZtbMKvGaVADjaRZ6PU1oCe.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S01 E25
+http://apkwuv.xyz:80/series/judeva/deva10ju/54340.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S02 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/54341.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S02 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/54342.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S02 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/54343.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S02 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/54344.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S02 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/54345.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S02 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/54346.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S02 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/54347.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S02 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/54348.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S02 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/54349.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S02 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/54350.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S02 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/54351.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S02 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/54352.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S02 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/54353.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S02 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/54354.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S02 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/54355.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S02 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/54356.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S02 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/54357.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S02 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/54358.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S02 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/54359.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S02 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/54360.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S02 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/54361.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S02 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/54362.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S02 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S02 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/54363.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S02 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S02 E24
+http://apkwuv.xyz:80/series/judeva/deva10ju/54364.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S02 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S02 E25
+http://apkwuv.xyz:80/series/judeva/deva10ju/54365.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S02 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S02 E26
+http://apkwuv.xyz:80/series/judeva/deva10ju/54366.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S02 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S02 E27
+http://apkwuv.xyz:80/series/judeva/deva10ju/54367.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S03 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/54368.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S03 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/54369.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S03 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/54370.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S03 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/54371.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S03 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/54372.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S03 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/54373.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S03 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/54374.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S03 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/54375.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S03 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/54376.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S03 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/54377.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S03 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/54378.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S03 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/54379.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S03 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/54380.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S03 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/54381.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S03 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/54382.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S03 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/54383.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S03 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S03 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/54384.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S03 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S03 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/54385.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S03 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S03 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/54386.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S03 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S03 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/54387.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S03 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S03 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/54388.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S03 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S03 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/54389.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S03 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S03 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/54390.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S03 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S03 E24
+http://apkwuv.xyz:80/series/judeva/deva10ju/54391.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S03 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S03 E25
+http://apkwuv.xyz:80/series/judeva/deva10ju/54392.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S03 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S03 E26
+http://apkwuv.xyz:80/series/judeva/deva10ju/54393.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S04 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/54415.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S04 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/54416.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S04 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/54417.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S04 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/54418.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S04 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/54419.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S04 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/54394.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S04 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/54395.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S04 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/54396.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S04 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/54397.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S04 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/54398.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S04 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/54399.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S04 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/54400.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S04 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/54401.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S04 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/54402.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S04 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/54403.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S04 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/54404.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S04 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/54405.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S04 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/54406.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S04 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S04 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/54407.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S04 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S04 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/54408.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S04 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S04 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/54409.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S04 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S04 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/54410.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S04 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S04 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/54411.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S04 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S04 E24
+http://apkwuv.xyz:80/series/judeva/deva10ju/54412.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S04 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S04 E25
+http://apkwuv.xyz:80/series/judeva/deva10ju/54413.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S04 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S04 E26
+http://apkwuv.xyz:80/series/judeva/deva10ju/54414.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S05 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/54420.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S05 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/54421.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S05 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/54422.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S05 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/54423.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S05 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/54424.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S05 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/54425.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S05 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/54426.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S05 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/54427.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S05 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/54428.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S05 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/54429.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S05 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/54430.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S05 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/54431.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S05 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S05 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/54432.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S05 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S05 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/54433.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S05 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S05 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/54434.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S05 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S05 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/54435.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S05 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S05 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/54436.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S05 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S05 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/54437.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S05 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S05 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/54438.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S05 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S05 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/54439.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S05 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S05 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/54440.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S05 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S05 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/54441.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S05 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S05 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/54442.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S05 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S05 E24
+http://apkwuv.xyz:80/series/judeva/deva10ju/54443.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S06 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/54444.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S06 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S06 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/54445.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S06 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/54446.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S06 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S06 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/54447.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S06 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S06 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/54448.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S06 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S06 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/54449.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S06 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S06 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/54450.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S06 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S06 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/54451.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S06 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S06 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/54452.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S06 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S06 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/54453.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S06 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S06 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/54454.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S06 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S06 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/54455.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S06 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S06 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/54456.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S06 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S06 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/54457.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S06 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S06 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/54458.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S06 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S06 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/54459.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S06 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S06 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/54460.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S06 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S06 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/54461.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S06 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S06 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/54462.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S06 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S06 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/54463.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S06 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S06 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/54464.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S06 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S06 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/54465.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S06 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S06 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/54466.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S06 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S06 E24
+http://apkwuv.xyz:80/series/judeva/deva10ju/54467.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S06 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S06 E25
+http://apkwuv.xyz:80/series/judeva/deva10ju/54468.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S07 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S07 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/54469.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S07 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S07 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/54470.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S07 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S07 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/54471.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S07 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S07 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/54472.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S07 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S07 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/54473.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S07 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S07 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/54474.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S07 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S07 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/54475.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S07 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S07 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/54476.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S07 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S07 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/54477.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S07 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S07 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/54478.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S07 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S07 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/54479.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S07 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S07 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/54480.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S07 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S07 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/54481.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S07 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S07 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/54482.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S07 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S07 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/54483.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S07 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S07 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/54484.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S07 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S07 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/54485.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S07 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S07 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/54486.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S07 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S07 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/54487.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S07 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S07 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/54488.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S07 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S07 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/54489.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S07 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S07 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/54490.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S07 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S07 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/54491.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S07 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S07 E24
+http://apkwuv.xyz:80/series/judeva/deva10ju/54492.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S07 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S07 E25
+http://apkwuv.xyz:80/series/judeva/deva10ju/54493.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S08 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S08 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/54494.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S08 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S08 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/54495.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S08 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S08 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/54496.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S08 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S08 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/54497.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S08 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S08 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/54498.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S08 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S08 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/54499.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S08 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S08 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/54500.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S08 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S08 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/54501.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S08 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S08 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/54502.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S08 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S08 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/54503.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S08 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S08 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/54504.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S08 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S08 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/54505.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S08 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S08 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/54506.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S08 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S08 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/54507.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S08 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S08 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/54508.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S08 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S08 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/54509.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S08 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S08 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/54510.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S08 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S08 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/54511.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S08 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S08 E19
+http://apkwuv.xyz:80/series/judeva/deva10ju/54512.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S08 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S08 E20
+http://apkwuv.xyz:80/series/judeva/deva10ju/54513.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S08 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S08 E21
+http://apkwuv.xyz:80/series/judeva/deva10ju/54514.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S08 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S08 E22
+http://apkwuv.xyz:80/series/judeva/deva10ju/54515.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S08 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S08 E23
+http://apkwuv.xyz:80/series/judeva/deva10ju/54516.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S08 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S08 E24
+http://apkwuv.xyz:80/series/judeva/deva10ju/54517.mkv
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S09 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S09 E01
+http://apkwuv.xyz:80/series/judeva/deva10ju/277040.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S09 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S09 E02
+http://apkwuv.xyz:80/series/judeva/deva10ju/277041.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S09 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S09 E03
+http://apkwuv.xyz:80/series/judeva/deva10ju/277042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S09 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S09 E04
+http://apkwuv.xyz:80/series/judeva/deva10ju/277043.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S09 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S09 E05
+http://apkwuv.xyz:80/series/judeva/deva10ju/277044.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S09 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S09 E06
+http://apkwuv.xyz:80/series/judeva/deva10ju/277045.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S09 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S09 E07
+http://apkwuv.xyz:80/series/judeva/deva10ju/277046.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S09 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S09 E08
+http://apkwuv.xyz:80/series/judeva/deva10ju/277047.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S09 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S09 E09
+http://apkwuv.xyz:80/series/judeva/deva10ju/277048.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S09 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S09 E10
+http://apkwuv.xyz:80/series/judeva/deva10ju/277049.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S09 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S09 E11
+http://apkwuv.xyz:80/series/judeva/deva10ju/277050.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S09 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S09 E12
+http://apkwuv.xyz:80/series/judeva/deva10ju/277051.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S09 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S09 E13
+http://apkwuv.xyz:80/series/judeva/deva10ju/277052.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S09 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S09 E14
+http://apkwuv.xyz:80/series/judeva/deva10ju/277053.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S09 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S09 E15
+http://apkwuv.xyz:80/series/judeva/deva10ju/277054.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S09 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S09 E16
+http://apkwuv.xyz:80/series/judeva/deva10ju/277055.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S09 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S09 E17
+http://apkwuv.xyz:80/series/judeva/deva10ju/277056.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Naruto Uzumaki S09 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rgHWkZVyvxMBOSYgj585pIx6qAn.jpg" group-title="SÉRIES | Animes",Naruto Uzumaki S09 E18
+http://apkwuv.xyz:80/series/judeva/deva10ju/277057.mp4
+
 #EXTM3U url-tvg="http://grade-de-24 Horas | Desenhos.xml"
 ############## 24 Horas | Desenhos ################# 
 #EXTINF:-1 tvg-id=" iddocanalde24 Horas | Desenhos" group-title="
@@ -6980,6 +8677,14 @@ http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/87696
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/89551
 #EXTINF:-1 tvg-id="" tvg-name="Maze Runner - Trilogia" tvg-logo="https://i.imgur.com/kpgLT2u.png" group-title="24 Horas | Premium",Maze Runner - Trilogia
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/123180
+#EXTINF:-1 tvg-id="" tvg-name="Jogos Mortais 01" tvg-logo="https://i.imgur.com/H5JYqRh.png" group-title="24 Horas | Premium",Jogos Mortais 01
+http://bgp.cdnr1.xyz:80/luciana38940jk/pantoja8201as/123177
+#EXTINF:-1 tvg-id="" tvg-name="Jogos Mortais 02" tvg-logo="https://i.imgur.com/H5JYqRh.png" group-title="24 Horas | Premium",Jogos Mortais 02
+http://bgp.cdnr1.xyz:80/luciana38940jk/pantoja8201as/123178
+#EXTINF:-1 tvg-id="" tvg-name="Jogos Vorazes - Quadrilogia" tvg-logo="https://i.imgur.com/Wp5FDZV.png" group-title="24 Horas | Premium",Jogos Vorazes - Quadrilogia
+http://bgp.cdnr1.xyz:80/luciana38940jk/pantoja8201as/123179
+#EXTINF:-1 tvg-id="" tvg-name="John Wick - Trilogia" tvg-logo="https://i.imgur.com/5PGuphP.png" group-title="24 Horas | Premium",John Wick - Trilogia
+http://bgp.cdnr1.xyz:80/luciana38940jk/pantoja8201as/133418
 
 #EXTM3U url-tvg="http://grade-de-SÉRIES  TURMA DA MÔNICA.xml"
 ############## SÉRIES  TURMA DA MÔNICA ################# 
@@ -7959,6 +9664,11 @@ http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775557.mp4
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775558.mp4
 #EXTINF:-1 tvg-name="A Casa do Mickey Mouse S01E36" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5dn22tjx8n2JMH5KePRn9jfUNa6.jpg" group-title="SÉRIES | DISNEY+",A Casa do Mickey Mouse S01E36
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138775559.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | DISNEY+.xml"
+############## SÉRIES | DISNEY+ ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | DISNEY+" group-title="
+
 #EXTINF:-1 tvg-name="Pronto-Socorro Animal S01E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iDjzRRlq5n4ncih8IAlLRuVDV2M.jpg" group-title="SÉRIES | DISNEY+",Pronto-Socorro Animal S01E02
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782074.mp4
 #EXTINF:-1 tvg-name="Pronto-Socorro Animal S01E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/XY9WsigDep5fvFt0PSn0PpZNQl.jpg" group-title="SÉRIES | DISNEY+",Pronto-Socorro Animal S01E03
@@ -7985,6 +9695,278 @@ http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782084.mp4
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782085.mp4
 #EXTINF:-1 tvg-name="Pronto-Socorro Animal S02E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g4DpiOBnWTnI7LOfpzupYGavReN.jpg" group-title="SÉRIES | DISNEY+",Pronto-Socorro Animal S02E08
 http://uione.dadg.today:80/series/Rickbsb/D7G8h0978HT/138782086.mp4
+
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | Drama.xml"
+############## SÉRIES | Drama ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Drama" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Chips S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/kxMzWu1sfvFlpTTtdopVnn1Lwaa.jpg" group-title="SÉRIES | Drama",Chips S01 E01
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274404.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/cql5296JNOlyAEESOJB2JDdlJ4Q.jpg" group-title="SÉRIES | Drama",Chips S01 E02
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274405.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300/iR4QBGiptgbuQWJddgroHose1y.jpg" group-title="SÉRIES | Drama",Chips S01 E03
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274406.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300/g8l6NJbauWGupAgj08cB98SOVuy.jpg" group-title="SÉRIES | Drama",Chips S01 E04
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274407.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300/3c37ZfmqxTzCw5J3KAyYkxp8QE7.jpg" group-title="SÉRIES | Drama",Chips S01 E05
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274408.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/5LYNlamw0qEJptLfJtTpwQIrFP9.jpg" group-title="SÉRIES | Drama",Chips S01 E06
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274409.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/5WZMBVqWNxfwrpTZ16rDOMcgCj6.jpg" group-title="SÉRIES | Drama",Chips S01 E07
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274410.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300/fqoRrzmTlV6lXhKdfUwRP7VMHzI.jpg" group-title="SÉRIES | Drama",Chips S01 E08
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274411.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300/vRLrcqzHr67v6mZ9XYzmv4WmUVs.jpg" group-title="SÉRIES | Drama",Chips S01 E09
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274412.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300/6Yp5CcFNTByXvPD5WyZPem4HCJ.jpg" group-title="SÉRIES | Drama",Chips S01 E10
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274413.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300/2VTPo86cblezZfX9BsmT8sOawtR.jpg" group-title="SÉRIES | Drama",Chips S01 E11
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274414.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300/q8lMy17DjfKQ9jQMaXdjFkD86SP.jpg" group-title="SÉRIES | Drama",Chips S01 E12
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274415.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E01" tvg-logo="https://image.tmdb.org/t/p/w300/jsvcfYxDw5lUV3V5vygHVc9Pnws.jpg" group-title="SÉRIES | Drama",Chips S02 E01
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274416.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E02" tvg-logo="https://image.tmdb.org/t/p/w300/90BulgMWyQeIUnLfKM9gOP7YANL.jpg" group-title="SÉRIES | Drama",Chips S02 E02
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274417.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E03" tvg-logo="https://image.tmdb.org/t/p/w300/m8oaFDDrppgl7T9KjC89L7vvxSq.jpg" group-title="SÉRIES | Drama",Chips S02 E03
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274418.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E04" tvg-logo="https://image.tmdb.org/t/p/w300/xsSHWJwGqloryOOUkW2qjJdbjLS.jpg" group-title="SÉRIES | Drama",Chips S02 E04
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274419.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E05" tvg-logo="https://image.tmdb.org/t/p/w300/n5mxMbYu8QJ2jpONJtSfVuV2HFe.jpg" group-title="SÉRIES | Drama",Chips S02 E05
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274420.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E06" tvg-logo="https://image.tmdb.org/t/p/w300/pP5CFOykBqZ9fZzDCm3EibqG7Nx.jpg" group-title="SÉRIES | Drama",Chips S02 E06
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274421.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E07" tvg-logo="https://image.tmdb.org/t/p/w300/xKuiTI1Pfg9QH4RXq4GG19xBKIm.jpg" group-title="SÉRIES | Drama",Chips S02 E07
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274422.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E08" tvg-logo="https://image.tmdb.org/t/p/w300/c5aaSSxKRTXFUDNPueOhPTNN7zJ.jpg" group-title="SÉRIES | Drama",Chips S02 E08
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274423.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E09" tvg-logo="https://image.tmdb.org/t/p/w300/zwKOmQD6Gb7YfJ7LUDkhE1X1j04.jpg" group-title="SÉRIES | Drama",Chips S02 E09
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274424.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E10" tvg-logo="https://image.tmdb.org/t/p/w300/c3Nj8ydXTQnRxb71lIjjD8ge50K.jpg" group-title="SÉRIES | Drama",Chips S02 E10
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274425.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E11" tvg-logo="https://image.tmdb.org/t/p/w300/aXhbMPmgEt8GaE0syWCtqSkCu7F.jpg" group-title="SÉRIES | Drama",Chips S02 E11
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274426.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E12" tvg-logo="https://image.tmdb.org/t/p/w300/8tcnlVr2VVNZWZvYPi3zwZUqglO.jpg" group-title="SÉRIES | Drama",Chips S02 E12
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274427.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E13" tvg-logo="https://image.tmdb.org/t/p/w300/relkhEe5JWFLH4hK5g2pWKRktdI.jpg" group-title="SÉRIES | Drama",Chips S02 E13
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274428.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E14" tvg-logo="https://image.tmdb.org/t/p/w300/d0BwuRq08Rg5pmCMeXpCQ2r2mPl.jpg" group-title="SÉRIES | Drama",Chips S02 E14
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274429.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E15" tvg-logo="https://image.tmdb.org/t/p/w300/dnePxsAK5g03mMqzUawIA7T20PL.jpg" group-title="SÉRIES | Drama",Chips S02 E15
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274430.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E16" tvg-logo="https://image.tmdb.org/t/p/w300/z56hb0u9sCRuMZzVp0pkt5cm2tA.jpg" group-title="SÉRIES | Drama",Chips S02 E16
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274431.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E17" tvg-logo="https://image.tmdb.org/t/p/w300/iagKIR51d8X2Ud0ZR7hgkw5bLui.jpg" group-title="SÉRIES | Drama",Chips S02 E17
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274432.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E18" tvg-logo="https://image.tmdb.org/t/p/w300/4F4bmAkQ3CVeb3X5ynWLgOQxBWX.jpg" group-title="SÉRIES | Drama",Chips S02 E18
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E19" tvg-logo="https://image.tmdb.org/t/p/w300/eUAtxRTwmyugVjKiyIH4lVVFCuI.jpg" group-title="SÉRIES | Drama",Chips S02 E19
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E20" tvg-logo="https://image.tmdb.org/t/p/w300/7KuSO7VhGCZWs18AYsg1hU6DRoR.jpg" group-title="SÉRIES | Drama",Chips S02 E20
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E21" tvg-logo="https://image.tmdb.org/t/p/w300/w8fGIIdxofPkV5lo3hcHgzHpMck.jpg" group-title="SÉRIES | Drama",Chips S02 E21
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274436.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E22" tvg-logo="https://image.tmdb.org/t/p/w300/okTmGcQdmP1y0R5vLZyPWcAjBjQ.jpg" group-title="SÉRIES | Drama",Chips S02 E22
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274437.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E23" tvg-logo="https://image.tmdb.org/t/p/w300/colLSIGjkpc3HfU9dZ65TKK6k0p.jpg" group-title="SÉRIES | Drama",Chips S02 E23
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274438.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/obrPwSPS0q9zK5e7xwlVGlAmWSg.jpg" group-title="SÉRIES | Drama",Chips S02 E24
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274439.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/obrPwSPS0q9zK5e7xwlVGlAmWSg.jpg" group-title="SÉRIES | Drama",Chips S02 E25
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274440.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/obrPwSPS0q9zK5e7xwlVGlAmWSg.jpg" group-title="SÉRIES | Drama",Chips S02 E26
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274441.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E27" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/obrPwSPS0q9zK5e7xwlVGlAmWSg.jpg" group-title="SÉRIES | Drama",Chips S02 E27
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274442.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E28" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/obrPwSPS0q9zK5e7xwlVGlAmWSg.jpg" group-title="SÉRIES | Drama",Chips S02 E28
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274443.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E29" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/obrPwSPS0q9zK5e7xwlVGlAmWSg.jpg" group-title="SÉRIES | Drama",Chips S02 E29
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274444.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E30" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/obrPwSPS0q9zK5e7xwlVGlAmWSg.jpg" group-title="SÉRIES | Drama",Chips S02 E30
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274445.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E31" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/obrPwSPS0q9zK5e7xwlVGlAmWSg.jpg" group-title="SÉRIES | Drama",Chips S02 E31
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274446.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chips S02 E32" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/obrPwSPS0q9zK5e7xwlVGlAmWSg.jpg" group-title="SÉRIES | Drama",Chips S02 E32
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/274447.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | HBOMAX.xml"
+############## SÉRIES | HBOMAX ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | HBOMAX" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAxk2FjQ3DZ92DfA5LTtJzmvfPp.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S01 E01
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276224.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o0QjwytYY2evMiCCBTCq9b5DwCx.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S01 E02
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276225.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndSf4OiiegNworvKihIHMPfCU37.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S01 E03
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276226.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j3zGyqBbe8oyOTrGnoEfNBwtPsD.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S01 E04
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276227.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wdfZYhOA9lbesbQiBUhNxz0PXch.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S01 E05
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276228.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tyMkNINhe9oqYRggHZDYPSnQG6C.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S01 E06
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276229.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9gF12T97ZT7x6kgVqR5VheSUJQW.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S02 E01
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276230.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cQ3PYkQuRA2GOma4CMYf0uaBnSf.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S02 E02
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276231.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1a0PhQqbO8imodKIErROO2ybCt3.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S02 E03
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276232.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/exMlQ8bFv46XJKSYEoaFJiIIkNE.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S02 E04
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276233.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x72jsDvbPP0OBNaBybqll95gzHy.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S02 E05
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276234.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jvf1HJ40C2l9ffN09uHpFjPIebR.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S02 E06
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276235.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGjZfrUe4A3T55JAxhZyxymhyGM.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S02 E07
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276236.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/WkDksNuhAQB2P1OlKJYaokBSIo.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S03 E01
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276237.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmSLyTnLAef1OinakocBznqp1z2.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S03 E02
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276238.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUdoDp9ArfWOPwcDgrv4hQNhPjR.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S03 E03
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276239.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k9j6vN4qHEvimLTh0wbeH2BgNi1.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S03 E04
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276240.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p5rgsT9Jq6hLn4TL3EtSgCiA438.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S03 E05
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276241.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/axZfRwkkEvI6U92mYNr4kVVSWUl.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S03 E06
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276242.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nkAuK36tgzSRO4HWCyTLyIkVZi2.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S03 E07
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276243.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3VpguYNCqC8DBZEVmpBLksVgpy2.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S04 E01
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276244.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1W7sMZuCzxZgtIaET1s0xUGOnP0.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S04 E02
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276245.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qxH33vH0CGT0koRgcoL4SiGAbfz.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S04 E03
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276246.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPpI7p3Fg1bi2qUw6TXtAwXZ8qL.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S04 E04
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276247.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9fg0gI7oioSQoVUTND0camU4VZx.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S04 E05
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276248.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ziHSjdkH56N0LKRWweWbH51ojl9.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S04 E06
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276249.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjHG4pwmzJRH4P2u7ssnSVHIgB1.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S05 E01
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276250.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h5iSh07LItFVKKO0TfXFOrqqAMD.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S05 E02
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276251.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/enwFUOUOSFG1EVYfPN16SSATpUM.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S05 E03
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276252.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ykwPJDLbVQJKKYEwUfkQ89m4k8R.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S05 E04
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276253.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ioMoWVstnCn8hv40cMIUffvR4e1.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S05 E05
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276254.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5mz8aLOyfwb8pkq4Y04uIfJ3z9N.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S05 E06
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276255.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGjZfrUe4A3T55JAxhZyxymhyGM.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S05 E07
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276256.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S06 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hH1evqdjdeQKmeR8ztYJwVCXri6.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S06 E01
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276257.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S06 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/txtRfDsic1oSauooreznRXQgBHD.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S06 E02
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276258.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S06 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A69Fy5XlCZYuOqHIRXBdQ7HDYNg.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S06 E03
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276259.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S06 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l167BzDAuBLXBh4I5eNNDR8G4N6.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S06 E04
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276260.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S06 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AKSp5RTffXeUqxT8f6aF4uMgmn.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S06 E05
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276261.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Madagascar: Pequenos Selvagens S06 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kCO1EKHiqYfqJ08x7fJmR369BlL.jpg" group-title=" SÉRIES | HBOMAX",Madagascar: Pequenos Selvagens S06 E06
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276262.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | NETFLIX.xml"
+############## SÉRIES | NETFLIX ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | NETFLIX" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E01
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276880.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E02
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276881.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E03
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276882.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E04
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276883.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E05
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276884.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E06
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276885.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E07
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276886.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E08
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276887.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E09
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276888.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E10
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276889.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E11
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276890.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E12
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276891.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E13
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276892.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E14
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276893.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E15
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276894.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E16
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276895.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E17
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276896.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E18
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276897.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E19
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276898.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E20
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276899.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E21
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276900.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E22
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276901.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E23" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E23
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276902.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E24" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E24
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276903.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E25" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E25
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276904.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Homem de Ferro: Série Animada S01 E26" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fS14XDeYvdhNVHgRInbsOIrk2S8.jpg" group-title=" SÉRIES | Netflix",Homem de Ferro: Série Animada S01 E26
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/276905.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | NETFLIX.xml"
+############## SÉRIES | NETFLIX ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | NETFLIX" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Os Pacientes do Dr. García S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mabnTMb29jiFIbOyxuIHkmvqkLe.jpg" group-title=" SÉRIES | Netflix",Os Pacientes do Dr. García S01 E01
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/287932.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Pacientes do Dr. García S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0KFhV4dNclCC6ePw4zTufpAkpH.jpg" group-title=" SÉRIES | Netflix",Os Pacientes do Dr. García S01 E02
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/287933.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Pacientes do Dr. García S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4kmYdcS7RggAzBE48ZMTEzAMcxi.jpg" group-title=" SÉRIES | Netflix",Os Pacientes do Dr. García S01 E03
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/287934.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Pacientes do Dr. García S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i8mTsGiwmRAhrjjix7R1VdDBnWP.jpg" group-title=" SÉRIES | Netflix",Os Pacientes do Dr. García S01 E04
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/287935.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Pacientes do Dr. García S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wJrBtQUmElBmIePWBzUb1b0kHAt.jpg" group-title=" SÉRIES | Netflix",Os Pacientes do Dr. García S01 E05
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/287936.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Pacientes do Dr. García S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/97RNZiTUEPgjv9JRc3DH9FUMdNr.jpg" group-title=" SÉRIES | Netflix",Os Pacientes do Dr. García S01 E06
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/287937.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Pacientes do Dr. García S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iLH8jfxZKz3OGmtpKQe5QyvDeRt.jpg" group-title=" SÉRIES | Netflix",Os Pacientes do Dr. García S01 E07
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/287938.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Pacientes do Dr. García S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xG58khbiG5gC42IbLshvhF0LXa1.jpg" group-title=" SÉRIES | Netflix",Os Pacientes do Dr. García S01 E08
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/287939.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Pacientes do Dr. García S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yQYEuFdpPH0ZnMGH3zkEDoECg1V.jpg" group-title=" SÉRIES | Netflix",Os Pacientes do Dr. García S01 E09
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/287940.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Os Pacientes do Dr. García S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UwGjjTZev46VKsqxUlyX5LEoij.jpg" group-title=" SÉRIES | Netflix",Os Pacientes do Dr. García S01 E10
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/287941.mp4
+
+#EXTM3U url-tvg="http://grade-de-SÉRIES | NETFLIX.xml"
+############## SÉRIES | NETFLIX ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | NETFLIX" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Enfermeira S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1MxlyDi6fQ4aqWx6Xh6jN8buKB.jpg" group-title=" SÉRIES | Netflix",Enfermeira S01 E01
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/287942.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Enfermeira S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ctDjm1Hi3c1XqYzXOgXdHkZwxyd.jpg" group-title=" SÉRIES | Netflix",Enfermeira S01 E02
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/287943.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Enfermeira S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qOUPTZ7dvnGMRo2dNsA2DWtRH6e.jpg" group-title=" SÉRIES | Netflix",Enfermeira S01 E03
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/287944.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Enfermeira S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m8S7Ugnv79bcpq3yC5ZqDZLo2WT.jpg" group-title=" SÉRIES | Netflix",Enfermeira S01 E04
+http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/287945.mp4
 
 #EXTM3U url-tvg="http://grade-de-SÉRIES | NETFLIX.xml"
 ############## SÉRIES | NETFLIX ################# 
