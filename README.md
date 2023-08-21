@@ -96,6 +96,152 @@ https://ia802708.us.archive.org/31/items/michael-jackson-TV-FAX/michael%20jackso
 #EXTINF:-1 tvg-id="" tvg-name="Michael Jackson"tvg-logo="https://i.gifer.com/5Pm7.gif" group-title="TV FAX Michael Jackson",Michael Jackson
 https://ia802708.us.archive.org/31/items/michael-jackson-TV-FAX/%E2%99%ABMichael%20Jackson%20You%20are%20not%20alone%20%28History%20Tour%20Munich%201997%29%E2%99%AB%20_%20%40GRIXEN.mp4
 
+#EXTM3U url-tvg=" http://grade-de-TV FAX | katy perry.xml "
+ ############## TV FAX | katy perry ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeTV FAX | katy perry" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="katy perry BERLIN"tvg-logo="https://thumbs.gfycat.com/DistortedMasculineBurro-max-1mb.gif" group-title="TV FAX | katy perry",katy perry BERLIN
+https://ia902903.us.archive.org/11/items/taylor_swift-20/Berlin.mp3
+#EXTINF:-1 tvg-id="" tvg-name="katy perry DON T KILL THE ANIMALS"tvg-logo="https://thumbs.gfycat.com/DistortedMasculineBurro-max-1mb.gif" group-title="TV FAX | katy perryt",DON T KILL THE ANIMALS
+https://ia902903.us.archive.org/11/items/taylor_swift-20/don%27t%20kill%20the%20animals.mp3
+#EXTINF:-1 tvg-id="" tvg-name="katy perry FLOWER POWER"tvg-logo="https://thumbs.gfycat.com/WhimsicalAdventurousCapybara-size_restricted.gif" group-title="TV FAX | katy perry",FLOWER POWER
+https://ia802903.us.archive.org/11/items/taylor_swift-20/flower%20power.mp3
+#EXTINF:-1 tvg-id="" tvg-name="katy perry LOVE AND SEX"tvg-logo="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2U4aHZidW0zM3NtcmhjdWxlYzA3Z21ic3V1bjFlMDdyMWdkcTQ5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0FhCl9Caa3o9rYvm/giphy.gif" group-title="TV FAX | katy perry",LOVE AND SEX
+https://ia802903.us.archive.org/11/items/taylor_swift-20/love%20and%20sex.mp3
+#EXTINF:-1 tvg-id="" tvg-name="katy perry MY WORLD"tvg-logo="https://i.gifer.com/PtcD.gif" group-title="TV FAX | katy perry",MY WORLD
+https://ia802903.us.archive.org/11/items/taylor_swift-20/my%20world.mp3
+#EXTINF:-1 tvg-id="" tvg-name="katy perry PEACE"tvg-logo="https://stories.cnnbrasil.com.br/wp-content/uploads/sites/9/2021/04/giphy-58.gif" group-title="TV FAX | katy perry",PEACE
+https://ia902903.us.archive.org/11/items/taylor_swift-20/peace.mp3
+#EXTINF:-1 tvg-id="" tvg-name="katy perry RULER OF MY HEART"tvg-logo="https://www.contentlab.co.nz/wp-content/uploads/2017/05/giphy.gif" group-title="TV FAX | katy perry",RULER OF MY HEART
+https://ia802903.us.archive.org/11/items/taylor_swift-20/ruler%20of%20my%20heart.mp3
+#EXTINF:-1 tvg-id="" tvg-name="katy perry SO BAD"tvg-logo="https://media.tenor.com/MJOIOR7sndkAAAAC/taylor-swift-hi.gif" group-title="TV FAX | katy perry",SO BAD
+https://ia802903.us.archive.org/11/items/taylor_swift-20/so%20bad.mp3
+#EXTINF:-1 tvg-id="" tvg-name="katy perry STREET"tvg-logo="https://i.gifer.com/Yow8.gif" group-title="TV FAX | katy perry,STREET
+https://ia802903.us.archive.org/11/items/taylor_swift-20/street.mp3
+#EXTINF:-1 tvg-id="" tvg-name="katy perry Love Story Live"tvg-logo="https://thumbs.gfycat.com/AcademicHomelyFinch-size_restricted.gif" group-title="TV FAX | Katy Perry",katy perry Love Story Live
+https://ia601207.us.archive.org/9/items/Taylor_Swift_Love_Story__Live___/Taylor%20Swift_Love%20Story%20%28Live%29%20%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Katy Perry- Firework"tvg-logo="https://media.tenor.com/_dyKLSVEslYAAAAC/firework-fireworks.gif" group-title="TV FAX | Katy Perry",Katy Perry- Firework
+https://ia803402.us.archive.org/3/items/katy-perry-firework-/y2mate.com%20-%20Katy%20Perry%20-%20Firework%20%28Official%20Music%20Video%29_v144P.ia.mp4
+
+
+#EXTM3U url-tvg=" http://grade-de-Canais TV FAX | TV FAX.xml "
+ ############## Canais TV FAX | TV FAX ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais TV FAX | TV FAX" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="Halsey  Without Me Live From The Victoria s Secret"tvg-logo="https://64.media.tumblr.com/fec329bba51da634e36f440c5c1b9e67/tumblr_pj6yv6Ob961wzagvio6_540.gif" group-title="Canais TV FAX | TV FAX",Halsey  Without Me Live From The Victoria s Secret 
+https://ia904604.us.archive.org/0/items/halsey-without-me-live-from-the-victorias-secret-2018-fashion-show-360p/y2mate.com%20-%20Halsey%20%20Without%20Me%20Live%20From%20The%20Victorias%20Secret%202018%20Fashion%20Show_360p.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Cacaman - NastyCrap"tvg-logo="https://i.makeagif.com/media/12-04-2015/qCAxzX.gif" group-title="Canais TV FAX | TV FAX",The Cacaman - NastyCrap
+https://ia801701.us.archive.org/14/items/The_Cacaman_NastyCrap_Official_Video/808056064569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Busta Rhymes "King Tut Behind the Scenes OFFICIAL feat. Reek Da Villian and J Doe EXPLICIT"tvg-logo="https://i.ytimg.com/vi/tVK0EE7QpNI/maxresdefault.jpgf" group-title="Canais TV FAX | TV FAX",Busta Rhymes King Tut Behind the Scenes OFFICIAL feat Reek Da Villian and J Doe EXPLICIT
+https://ia804703.us.archive.org/2/items/youtube-tVK0EE7QpNI/tVK0EE7QpNI.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Busta Rhymes "King Tut ft Reek da Villian  J Doe"tvg-logo="https://i.ytimg.com/vi/lL0UG8vwBZE/maxresdefault.jpg" group-title="Canais TV FAX | TV FAX",Busta Rhymes King Tut ft Reek da Villian  J Doe
+https://ia904707.us.archive.org/30/items/youtube-lL0UG8vwBZE/lL0UG8vwBZE.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Busta Rhymes Movie Music Video Behind The Scenes"tvg-logo="https://i.ytimg.com/vi/lL0UG8vwBZE/maxresdefault.jpg" group-title="Canais TV FAX | TV FAX",Busta Rhymes Movie Music Video Behind The Scenes
+https://ia801405.us.archive.org/32/items/youtube-M9--MK9ED84/M9--MK9ED84.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BROTHERS ON THE 4TH FLOR MIRROR OF LOVE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTduy48O0NEE_AKv5Wvlz0o866OMHGQ8xDvI-ZSG3ct49rEGo-M5w6_qd_eAOllZOryhw&usqp=CAU" group-title="Canais TV FAX | TV FAX",BROTHERS ON THE 4TH FLOR MIRROR OF LOVE
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/2%20Brothers%20On%20The%204th%20Floor%20-%20Fairytales.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BROTHERS ON THE 4TH FLOR MIRROR OF LOVE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTduy48O0NEE_AKv5Wvlz0o866OMHGQ8xDvI-ZSG3ct49rEGo-M5w6_qd_eAOllZOryhw&usqp=CAU" group-title="Canais TV FAX | TV FAX",BROTHERS ON THE 4TH FLOR MIRROR OF LOVE
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/2%20Brothers%20On%20The%204th%20Floor%20-%20Mirror%20of%20Love.mp4
+#EXTINF:-1 tvg-id="" tvg-name="4 STRINGS TURN LT AROUND"tvg-logo="https://m.media-amazon.com/images/I/51MQS0EGS1L._UF1000,1000_QL80_.jpg" group-title="Canais TV FAX | TV FAX",4 STRINGS TURN LT AROUND 
+https://ia903400.us.archive.org/14/items/hardcore.-techno.-clips/4%20Strings%20-%20Turn%20It%20Around%20%28Sandler%20Vocal%20Mix%20Edit%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALARMA"tvg-logo="https://media0.giphy.com/media/EVLbK3D3OQbFEffEXb/200w.gif?cid=790b7611wwgw1j7479ddeir508cz54naxbqep41b65d3h4if&ep=v1_gifs_search&rid=200w.gif&ct=g" group-title="Canais TV FAX | TV FAX",ALARMA
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/666%20-%20Alarma.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BOMBA"tvg-logo="https://media.tenor.com/JZJ8O5PcjbMAAAAC/bomba-happy.gif" group-title="Canais TV FAX | TV FAX",BOMBA
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/666%20-%20Bomba.mp4
+#EXTINF:-1 tvg-id="" tvg-name="PARADOX"tvg-logo="https://media.tenor.com/TLFubrSKkbgAAAAC/paradoxrealms-paradoxrealm.gif" group-title="Canais TV FAX | TV FAX",PARADOX
+https://ia903400.us.archive.org/14/items/hardcore.-techno.-clips/666%20-%20Paradoxx.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AD BROWN FEAT HANNAH RAY READY AND WAITING"tvg-logo="https://i1.sndcdn.com/artworks-000103216713-3xdrgd-t240x240.jpg" group-title="Canais TV FAX | TV FAX",AD BROWN FEAT HANNAH RAY READY AND WAITING
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/Ad%20Brown%20feat.%20Hannah%20Ray%20-%20Ready%20And%20Waiting.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AGNELLI E NELSON EMBRACE"tvg-logo="https://i.ytimg.com/vi/VIJoyGLaZ98/maxresdefault.jpg" group-title="Canais TV FAX | TV FAX",AGNELLI E NELSON EMBRACE
+https://ia903400.us.archive.org/14/items/hardcore.-techno.-clips/Agnelli%20%26%20Nelson%20-%20Embrace.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALENA TURN AT AROUND"tvg-logo="https://i.ytimg.com/vi/8eSZ8jx4uZo/maxresdefault.jpg" group-title="Canais TV FAX | TV FAX",ALENA TURN AT AROUND
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/Alena%20-%20Turn%20It%20Around.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALEX GAUDINO FEAT KELLY ROWLAND WHAT A FEELING"tvg-logo="https://i.ytimg.com/vi/D3skLy7fngs/hqdefault.jpg" group-title="Canais TV FAX | TV FAX",ALEX GAUDINO FEAT KELLY ROWLAND WHAT A FEELING
+https://ia903400.us.archive.org/14/items/hardcore.-techno.-clips/Alex%20Gaudino%20feat.%20Kelly%20Rowland%20-%20What%20A%20Feeling.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALICE DEEJAY BACK IN MY LIFE"tvg-logo="https://thumbs.gfycat.com/ArcticLawfulDotterel-max-1mb.gif" group-title="Canais TV FAX | TV FAX",ALICE DEEJAY BACK IN MY LIFE
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/Alice%20Deejay%20-%20Back%20In%20My%20Life.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALICE DEEJAY BETTER OFF ALONE"tvg-logo="https://i.makeagif.com/media/5-05-2022/07Bs6c.gif" group-title="Canais TV FAX | TV FAX",ALICE DEEJAY BETTER OFF ALONE
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/Alice%20Deejay%20-%20Better%20Off%20Alone.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALPHAVILLE BIG IN JAPAN"tvg-logo="https://media.tenor.com/CXyig9gl7TIAAAAd/big-in-japan-alphaville.gif" group-title="Canais TV FAX | TV FAX",ALPHAVILLE BIG IN JAPAN
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/Alphaville%20-%20Big%20In%20Japan.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALPHAVILLE FOREVER YOUNG DANCE REMIX"tvg-logo="https://thumbs.gfycat.com/AllWideeyedCrab-size_restricted.gif" group-title="Canais TV FAX | TV FAX",ALPHAVILLE FOREVER YOUNG DANCE REMIX
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/Alphaville%20-%20Forever%20Young%20%28Dance%20Remix%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="ALPHAVILLE FOREVER YOUNG"tvg-logo="https://media.tenor.com/cOM6R4rmuqQAAAAd/forever-young-alphaville.gif" group-title="Canais TV FAX | TV FAX",ALPHAVILLE FOREVER YOUNG
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/Alphaville%20-%20Forever%20Young.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AQUA BACK TO THE 80S"tvg-logo="https://media.tenor.com/fw5KMvtzxcUAAAAM/rock-of-ages-hairspray.gif" group-title="Canais TV FAX | TV FAX",AQUA BACK TO THE 80S
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/Aqua%20-%20Back%20To%20The%2080s.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AQUA DOCTOR JONES"tvg-logo="https://i.makeagif.com/media/8-07-2016/th9uj5.gif" group-title="Canais TV FAX | TV FAX",AQUA DOCTOR JONES
+https://ia903400.us.archive.org/14/items/hardcore.-techno.-clips/Aqua%20-%20Doctor%20Jones%20%28Molella%20%26%20Phil%20Jay%20Mix%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AQUAGEN HAR TO SAY IM SOEEY REMIX"tvg-logo="https://thumbs.gfycat.com/JovialSerpentineHairstreak-size_restricted.gif" group-title="Canais TV FAX | TV FAX",AQUAGEN HAR TO SAY IM SOEEY REMIX
+https://ia903400.us.archive.org/14/items/hardcore.-techno.-clips/Aquagen%20-%20Hard%20To%20Say%20I%27m%20Sorry.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AQUAGEN LHR SEID SO LEISE"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMAaPTL8fGxJrAl0BIyO4fwk9llmh6uezOJdRU13vFdUJxrfbz5T0uLTSwp0zNaCZJXow&usqp=CAU" group-title="Canais TV FAX | TV FAX",AQUAGEN LHR SEID SO LEISE
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/Aquagen%20-%20Ihr%20Seid%20So%20Leise%21.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AYUMI HAMASAKI M "tvg-logo="https://64.media.tumblr.com/a24e42007606b674f7c3f0ed4d0bb43c/681d53618d46e7cc-0a/s500x750/8397cb7b0f7b9abffd7ed7f963bdaab88db2002c.gif" group-title="Canais TV FAX | TV FAX", AYUMI HAMASAKI M 
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/Ayumi%20Hamasaki%20-%20M%20%28Above%20%26%20Beyond%20Mix%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="AYUMI HAMASAKI GAME"tvg-logo="https://64.media.tumblr.com/a4c487cc75b3754962964c17e1b0c888/330239d306ee788b-4a/s500x750/7b7e49a23b1708c868610001fd604e635e9fa51c.gif" group-title="Canais TV FAX | TV FAX",AYUMI HAMASAKI GAME
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/Ayumi%20Hamasaki%20-%20Real%20Me%20%28Megara%20vs.%20Dj%20Lee%20Remix%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BARACUDA I LENAVE THE WORLD TODAY"tvg-logo="https://i.discogs.com/IdeZ_TPbcj8R93TjikP5kvUrL2jGqK81lxa0snwiDII/rs:fit/g:sm/q:90/h:468/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NTg5/MS0xMjc0NDgxNzkz/LmpwZWc.jpeg" group-title="Canais TV FAX | TV FAX",BARACUDA I LENAVE THE WORLD TODAY
+https://ia903400.us.archive.org/14/items/hardcore.-techno.-clips/Baracuda%20-%20I%20Leave%20The%20World%20Today.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BASSHUNTER WALK ON WATER"tvg-logo="https://i.ytimg.com/vi/vCyJx1oGGfc/hqdefault.jpg" group-title="Canais TV FAX | TV FAX",BASSHUNTER WALK ON WATER
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/Basshunter%20-%20Walk%20On%20Water.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BEATFREAKZ SOMEBODY S WATCHING ME"tvg-logo="https://m.media-amazon.com/images/I/61e+zNMUqdL._UF1000,1000_QL80_.jpg" group-title="Canais TV FAX | TV FAX",BEATFREAKZ SOMEBODY S WATCHING M
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/Beatfreakz%20-%20Somebody%27s%20Watching%20Me.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BENNY BENSSI  ABLE TO LOVE"tvg-logo="https://cdns-images.dzcdn.net/images/cover/4da5f4b063df914425c8bed79544e57a/500x500.jpg" group-title="Canais TV FAX | TV FAX",BENNY BENSSI  ABLE TO LOVE
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/Benny%20Benassi%20-%20Able%20To%20Love.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BERLIN TAKE MY BREATH AWAY"tvg-logo="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3BhOHRqZnUwazF3eHZ0N2FiczF6OXZkaDU2Nmk5ODAydGkxdWt2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/N2tNmBBL6M6pq/giphy.gif" group-title="Canais TV FAX | TV FAX",BERLIN TAKE MY BREATH AWAY
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/Berlin%20-%20Take%20My%20Breath%20Away.mp4
+
+#EXTM3U url-tvg=" http://grade-de-Canais TV FAX | CLUBBERS.xml "
+ ############## Canais TV FAX | CLUBBERS ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais TV FAX | CLUBBERS" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="CLUBBERS CHILDREN"tvg-logo="https://i.scdn.co/image/ab67616d0000b27332258bda65f6a2f0ec0bc484" group-title="Canais TV FAX | CLUBBERS",CLUBBERS CHILDREN
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/4%20Clubbers%20-%20Children.mp4
+
+#EXTINF:-1 tvg-id="" tvg-name="CLUBBERS SOMEDAY"tvg-logo="https://i.discogs.com/wr6mq6PPoTYiFTDq5Qzrhh7iGENc5vyKZuukCGiLt-w/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwNzgz/MS0xMzg1NTU0OTQw/LTQzOTguanBlZw.jpeg" group-title="Canais TV FAX | CLUBBERS",SOMEDAY
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/4%20Clubbers%20-%20Someday.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CLUBBERS DIVING"tvg-logo="https://i.scdn.co/image/ab67616d0000b27332258bda65f6a2f0ec0bc484" group-title="Canais TV FAX | CLUBBERS",DIVING
+https://ia903400.us.archive.org/14/items/hardcore.-techno.-clips/4%20Strings%20-%20Diving.mp4
+#EXTINF:-1 tvg-id="" tvg-name="CLUBBERS TAKE ME AWAY 2009"tvg-logo="https://m.media-amazon.com/images/I/51LjXiOACsL._UF894,1000_QL80_.jpg" group-title="Canais TV FAX | CLUBBERS",TAKE ME AWAY 2009
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/4%20Strings%20-%20Take%20Me%20Away%202009.mp4
+
+
+#EXTM3U url-tvg=" http://grade-de-Canais TV FAX | UNLIMITED.xml "
+ ############## Canais TV FAX | UNLIMITED ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCanais TV FAX | UNLIMITED" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="UNLIMITED DO WATS GOOD FOR ME"tvg-logo="https://i.discogs.com/CUW-ckQ2k-5yXhbPWKoYx6_7j2wDrRWsdRj8fldmF3c/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwMTIy/MC0xNTE5OTMxMTQy/LTUxNjIuanBlZw.jpeg" group-title="Canais TV FAX | UNLIMITED",UNLIMITED DO WATS GOOD FOR ME
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/2%20Unlimited%20-%20Do%20What%27s%20Good%20For%20Me.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UNLIMITED FACES"tvg-logo="https://i.ytimg.com/vi/V_paoF0lZEE/maxresdefault.jpg" group-title="Canais TV FAX | UNLIMITED",UNLIMITED FACES
+https://ia903400.us.archive.org/14/items/hardcore.-techno.-clips/2%20Unlimited%20-%20Faces.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UNLIMITED FACES GET READY FOR THIS"tvg-logo="https://media.tenor.com/1GFUg2yi_CgAAAAM/unlimited-music.gif" group-title="Canais TV FAX | UNLIMITED",UNLIMITED FACES GET READY FOR THIS
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/2%20Unlimited%20-%20Get%20Ready%20For%20This.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UNLIMITED HERE L GO"tvg-logo="https://media.tenor.com/RsplZXnWjcMAAAAM/steve-harvey.gif" group-title="Canais TV FAX | UNLIMITED",UNLIMITED HERE L GO
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/2%20Unlimited%20-%20Here%20I%20Go.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UNLIMITED JUMP FOR JOY"tvg-logo="https://media.tenor.com/SBbCQtrX_BAAAAAC/happy-jumping-for-joy.gif" group-title="Canais TV FAX | UNLIMITED",UNLIMITED JUMP FOR JOY
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/2%20Unlimited%20-%20Jump%20For%20Joy.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UNLIMITED LET THE BEAT CONTROL YOUR BODY"tvg-logo="https://media.tenor.com/Xt6AvZY-cZIAAAAM/nolimit-2unlimited.gif" group-title="Canais TV FAX | UNLIMITED",UNLIMITED LET THE BEAT CONTROL YOUR BODY
+https://ia903400.us.archive.org/14/items/hardcore.-techno.-clips/2%20Unlimited%20-%20Let%20The%20Beat%20Control%20Your%20Body.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UNLIMITED MAXIMUM OVERDRIVE"tvg-logo="https://media.tenor.com/41gktbmr_k4AAAAC/2unlimited-maximum-overdrive.gif" group-title="Canais TV FAX | UNLIMITED",UNLIMITED MAXIMUM OVERDRIVE
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/2%20Unlimited%20-%20Maximum%20Overdrive.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UNLIMITED NO LIMIT"tvg-logo="https://media.tenor.com/l5Or4IpNcAAAAAAC/2unlimited-no-limit.gif" group-title="Canais TV FAX | UNLIMITED",UNLIMITED NO LIMIT
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/2%20Unlimited%20-%20No%20Limit.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UNLIMITED NO ONE"tvg-logo="https://media.tenor.com/Xt6AvZY-cZIAAAAd/nolimit-2unlimited.gif" group-title="Canais TV FAX | UNLIMITED",UNLIMITED NO ONE
+https://ia903400.us.archive.org/14/items/hardcore.-techno.-clips/2%20Unlimited%20-%20No%20One.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UNLIMITED NOTHING LIKE THE RAIN"tvg-logo="https://i.ytimg.com/vi/gZO2Vt2cFrc/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AHUBoAC4AOKAgwIABABGE0gJyh_MA8=&rs=AOn4CLC3ZzwlWkuAy5OUlCEd4Ei25u3IVA" group-title="Canais TV FAX | UNLIMITED",UNLIMITED NOTHING LIKE THE RAIN
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/2%20Unlimited%20-%20Nothing%20Like%20The%20Rain.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UNLIMITED SPRED YOUR LOVE"tvg-logo="https://i1.sndcdn.com/artworks-000012698396-e3wrd2-t500x500.jpg" group-title="Canais TV FAX | UNLIMITED",UNLIMITED SPRED YOUR LOVE
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/2%20Unlimited%20-%20Spread%20Your%20Love.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UNLIMITED THE MAGIC FRIEND"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/The_magic_friend.jpg/220px-The_magic_friend.jpg" group-title="Canais TV FAX | UNLIMITED",UNLIMITED THE MAGIC FRIEND
+https://ia903400.us.archive.org/14/items/hardcore.-techno.-clips/2%20Unlimited%20-%20The%20Magic%20Friend.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UNLIMITED THE REAL THING"tvg-logo="https://i.makeagif.com/media/6-15-2016/Qk9ejA.gif" group-title="Canais TV FAX | UNLIMITED",UNLIMITED THE REAL THING
+https://ia903400.us.archive.org/14/items/hardcore.-techno.-clips/2%20Unlimited%20-%20The%20Real%20Thing.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UNLIMITED TRIBAL DANCE"tvg-logo="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWh0bGRwZjhsMHBlNXBid2hrNTlhb3B6eDhlenQzbXUyZjI0ZmViOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ov9jGUaSkjXfcBziw/giphy.gif" group-title="Canais TV FAX | UNLIMITED",UNLIMITED TRIBAL DANCE
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/2%20Unlimited%20-%20Tribal%20Dance.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UNLIMITED TWILIGHT ZONE"tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/2_Unlimited_-_twilightzone.gif" group-title="Canais TV FAX | UNLIMITED",UNLIMITED TWILIGHT ZONE
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/2%20Unlimited%20-%20Twilight%20Zone.mp4
+#EXTINF:-1 tvg-id="" tvg-name="UNLIMITED WORKAHOLIC"tvg-logo="https://media.tenor.com/AV3LxGR9n-EAAAAd/workaholic-2unlimited.gif" group-title="Canais TV FAX | UNLIMITED",UNLIMITED WORKAHOLIC
+https://ia803400.us.archive.org/14/items/hardcore.-techno.-clips/2%20Unlimited%20-%20Workaholic.mp4
 
 #EXTM3U url-tvg=" http://grade-de-Canais | Abertos.xml "
  ############## Canais | Abertos ############## ### 
@@ -3970,6 +4116,10 @@ https://ia902704.us.archive.org/19/items/ruby-marinho-monstro-adolescente-tv-fax
 ############## FILMES | TV FAX #################
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES | TV FAX" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name=",Escritores Da Liberdade"tvg-logo="https://i.pinimg.com/originals/f3/ff/3d/f3ff3dda3cc887fbafb752d705973484.gif"group-title="FILMES | TV FAX",Escritores Da Liberdade
+https://ia600506.us.archive.org/35/items/escritores-da-liberdade-tv-fax/Escritores%20da%20Liberdade%20TV%20FAX%20.mp4?cnt=0
+#EXTINF:-1 tvg-id="" tvg-name=",A Missy Errada"tvg-logo="https://media.tenor.com/1iDIzvfnP4cAAAAM/hoping-no-im-not.gif"group-title="FILMES | TV FAX",A Missy Errada
+https://ia902905.us.archive.org/12/items/a-missy-errada-tv-fax/A%20Missy%20Errada%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Flamin Hot O Sabor que Mudou a História TV FAX"tvg-logo="https://www.arrobanerd.com.br/wp-content/uploads/2023/06/flaminhot-star-plus-critica.jpg"group-title="FILMES | TV FAX",Flamin Hot O Sabor que Mudou a História TV FAX
 https://ia800509.us.archive.org/23/items/flamin-hot-o-sabor-que-mudou-a-historia-tv-fax/Flamin%20Hot%20O%20Sabor%20que%20Mudou%20a%20Hist%C3%B3ria%20TV%20FAX.mp4?cnt=0
 #EXTINF:-1 tvg-id="" tvg-name=",JACKIE CHAN ESPIÃ O POR ACIDENTE 2019"tvg-logo="https://http2.mlstatic.com/D_NQ_NP_781084-MLB46950635784_082021-W.jpg"group-title="FILMES | TV FAX",JACKIE CHAN ESPIÃ O POR ACIDENTE 2019
@@ -4299,8 +4449,6 @@ https://ia802705.us.archive.org/27/items/a-garota-no-trem-tv-fax/A%20Garota%20no
 https://ia802704.us.archive.org/15/items/a-baleia-filmes-tv-fax-hd/A%20BaleiaFilmes%20TV%20FAX%20%20HD.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",365 Dias Finais"tvg-logo="https://engenhariadocinema.com.br/wp-content/uploads/2022/08/365-Dias-Finais-Poster.jpg"group-title="FILMES | TV FAX",365 Dias Finais
 https://ia902603.us.archive.org/9/items/365-dias-finais-filmes-tv-fax-hd/365%20Dias%20Finais%20Filmes%20TV%20FAX%20HD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="365 Dias Finais"tvg-logo="https://image.tmdb.org/t/p/w185/2pxKwxMbd5l3BxK5fBgVCWYweH2.jpg"group-title="FILMES | TV FAX",365 Dias Finais
-https://seig.tv/19/1/2cefa494408f76c96717622e95dd57cf/720p/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name=",Destruição Final O Último Refúgio"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ0lz-NRK_wz4qb57xG5kI1ePmyqhZxgDfWtiobIi0ofuk0o8BywrH-X1xrnbAxboFJiY&usqp=CAU"group-title="FILMES | TV FAX",Destruição Final O Último Refúgio 
 https://ia902604.us.archive.org/35/items/destruicao-final-o-ultimo-refugio-tv-fax/Destrui%C3%A7%C3%A3o%20Final%20O%20%C3%9Altimo%20Ref%C3%BAgio%20%20TV%20FAX%20%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Cabras Da Peste"tvg-logo="https://i.ytimg.com/vi/jxTC0ZUE6XQ/maxresdefault.jpg"group-title="FILMES | TV FAX",Cabras Da Peste
@@ -4359,32 +4507,12 @@ https://ia802701.us.archive.org/7/items/adeus-filmes-tv-fax-hd/Adeus%20Filmes%20
 https://ia802701.us.archive.org/20/items/arma-secreta-filmes-tv-fax-hd/Arma%20Secreta%20%20Filmes%20TV%20FAX%20HD.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ava"tvg-logo="https://leiturafilmica.com.br/wp-content/uploads/2020/12/ava-poster-1.jpg"group-title="FILMES | TV FAX",Ava
 https://ia802701.us.archive.org/18/items/ava-filmes-tv-fax-hd/Ava%20%20Filmes%20TV%20FAX%20HD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="estrada-47"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9d/Estrada47.jpg/250px-Estrada47.jpg"group-title="FILMES | TV FAX",estrada-47
-https://play.prod.gcp.vix.services/estrada-47_pt/estrada-47_pt_1-1/hls_2500.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Milagre Azul"tvg-logo="https://i.ytimg.com/vi/Pc6tZGP3PIY/maxresdefault.jpg"group-title="FILMES | TV FAX",Milagre Azul
 https://ia802600.us.archive.org/11/items/milagre-azul-filmes-tv-fax-hd/Milagre%20AzulFilmes%20TV%20FAX%20HD.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Zona Verde"tvg-logo="https://assetsgn.nowonline.com.br/assets/p194534_v_v12_al.jpg"group-title="FILMES | TV FAX",Zona Verde
 https://ia902607.us.archive.org/14/items/zona-verde-filmes-tv-fax-hd/Zona%20Verde%20Filmes%20TV%20FAX%20HD.mp4
 #EXTINF:-1 tvg-id="" tvg-name="BRICHOS"tvg-logo="https://1.bp.blogspot.com/-NYyG2GbFzZY/YU4PXfCOp3I/AAAAAAABcX8/fYRwCnREPeAfHkRZup11ihbFBtXw7yEtwCLcBGAsYHQ/s460/Vida%2B-%2BSecreta%2B-%2Bdos%2B-%2BBichos%2B-%2Bem%2B-%2BGifsi%2B%25287%2529.gif"group-title="FILMES | TV FAX",BRICHOS
 https://vdn.libreflix.org/video/brichos2/brichos2.360.mp4
-#EXTINF:-1 tvg-id="" tvg-name=Alta Velocidade"tvg-logo="https://media.fstatic.com/asWdTE36MWEyheG_3EIHp6d5YZs=/322x478/smart/filters:format(webp)/media/movies/covers/2021/02/3415_-_29x41-.jpg"group-title="FILMES | TV FAX",Alta Velocidade
-https://play.prod.gcp.vix.services/driven_pt/driven_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Semente do mal"tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/appurushido_pt/appurushido_pt_200x300.jpg"group-title="FILMES | TV FAX",Semente do mal
-https://play.prod.gcp.vix.services/appurushido_pt/appurushido_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Unidade de Combate"tvg-logo="https://images.justwatch.com/poster/8820475/s592/684-unidade-de-combate"group-title="FILMES | TV FAX",Unidade de Combate
-https://play.prod.gcp.vix.services/silmido_pt/silmido_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Verônica"tvg-logo="https://ottvsimg.ottvs.com.br/cov/eur.023665/0023665_335.jpg"group-title="FILMES | TV FAX",Verônica
-https://play.prod.gcp.vix.services/veronica_pt/veronica_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Além da Fronteira"tvg-logo="https://br.web.img2.acsta.net/pictures/210/417/21041708_20130919131255498.jpg"group-title="FILMES | TV FAX",Além da Fronteira
-https://play.prod.gcp.vix.services/out-in-the-dark_en/out-in-the-dark_en_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sem Retorno"tvg-logo="https://1.bp.blogspot.com/-sPX6Vl1yQ9g/VrH08SqcqfI/AAAAAAAAS-A/ZAxyRsSNaSs/s1600/Sem%2BRetorno%2B01.jpg"group-title="FILMES | TV FAX",Sem Retorno
-https://play.prod.gcp.vix.services/point-no-return_pt/point-no-return_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Alma de Guerreiro"tvg-logo="https://i.ytimg.com/vi/MjaoceszRjM/maxresdefault.jpg"group-title="FILMES | TV FAX",Alma de Guerreiro
-https://play.prod.gcp.vix.services/viking-blood_pt/viking-blood_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Natureza Selvagem"tvg-logo="https://www.atoupeira.com.br/wp-content/uploads/2021/05/Natureza-Selvagem_port.jpg"group-title="FILMES | TV FAX",Natureza Selvagem
-https://play.prod.gcp.vix.services/werewolf_pt/werewolf_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Solo - A Ilha do Medo"tvg-logo="https://br.web.img2.acsta.net/pictures/16/01/27/19/55/235266.jpg"group-title="FILMES | TV FAX",Solo - A Ilha do Medo
-https://play.prod.gcp.vix.services/solo_en/solo_en_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Gato de Botas 2: O Último Pedido" tvg-logo="https://i.imgur.com/N0YfGEs.png"group-title="FILMES | TV FAX",Gato de Botas 2: O Último Pedido
 http://apkwuv.xyz:80/cristina2021/graniptv2005/83314
 #EXTINF:-1 tvg-id="" tvg-name="O Menino Cego Órfão De Pai E Mãe Nelinho De Deus Faça Alguma Coisa Vídeo Oficial. DM MÚSICA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRccoLYcVcoEyQ1n132A_B9DYT9lX57mrFFHjX_NG5zJt9jSSKByqsXWrHKwrpCgGG_xrs&usqp=CAU"group-title="FILMES | TV FAX",O Menino Cego Órfão De Pai E Mãe Nelinho De Deus Faça Alguma Coisa Vídeo Oficial. DM MÚSICA
@@ -4409,106 +4537,6 @@ http://esrv.cc/movie/MarcoOj9Nq/Rj5tr/97167.mp4
 http://esrv.cc/movie/MarcoOj9Nq/Rj5tr/97178.mp4
 #EXTINF:-1 tvg-id="" tvg-name="so mais uma face"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuuzTv2kQ-wTb1AkIxsUeHeDiaiDZmDNmfg-nDHVgui7yG70ygcFpnKffL6iCj5Kheh9w&usqp=CAU"group-title="FILMES | TV FAX",so mais uma face
 http://esrv.cc/movie/MarcoOj9Nq/Rj5tr/95334.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Último Resgate"tvg-logo="https://i.ytimg.com/vi/7BEwWgmfJgA/maxresdefault.jpg"group-title="FILMES | TV FAX",O Último Resgate
-https://play.prod.gcp.vix.services/we-go-dawn_pt/we-go-dawn_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="As Apimentadas  Entrar para Ganhar"tvg-logo="https://image.tmdb.org/t/p/w185/64BU3QqQEBtt5mJf1FjrCLBzzf5.jpg"group-title="FILMES | TV FAX",As Apimentadas  Entrar para Ganhar
-https://seig.tv/19/1/f1fc04624212bae12f6375292862baaa/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Busca de Groot"tvg-logo="https://image.tmdb.org/t/p/w185/oV3mUWylNaRsBkbul7BGilaxE9k.jpg"group-title="FILMES | TV FAX",A Busca de Groot
-https://seig.tv/16/1/007ddb883fd95bca3a9fb3d332d77894/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Marmaduke"tvg-logo="https://image.tmdb.org/t/p/w185/cyNivzjzniErFkzq45ZEWOKQMgY.jpg"group-title="FILMES | TV FAX",Marmaduke
-https://seig.tv/18/1/7d9ab2332e9579b52438c4a5e0f67edf/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Os Caras Malvados"tvg-logo="https://image.tmdb.org/t/p/w185/syKg3OmdtSYmkA7nNdtPUYdSFGL.jpg"group-title="FILMES | TV FAX",Os Caras Malvados
-https://seig.tv/16/1/f9c010ad89c1a410e8ad36f70aab5d63/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Projeto Adam"tvg-logo="https://image.tmdb.org/t/p/w185/11MJy6lkt7yTEIowEPIkaK4B7lM.jpg"group-title="FILMES | TV FAX",O Projeto Adam
-https://seig.tv/16/1/fadfb9b8eb05c5cae5c14323604042e0/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Yaksha Operação Implacável"tvg-logo="https://image.tmdb.org/t/p/w185/zL8KPd8Rw6KXgdcgytMbzNNrHmc.jpg"group-title="FILMES | TV FAX",Yaksha Operação Implacável
-https://seig.tv/11/1/bcf086cab69f796f5b6f22f39169f15e/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Snoopy Apresenta Sao as Pequenas Coisas Charlie Brown"tvg-logo="https://image.tmdb.org/t/p/w185/q5gVKsYkWmz1pklu4JBmac1wr2.jpg"group-title="FILMES | TV FAX",Snoopy Apresenta Sao as Pequenas Coisas Charlie Brown
-https://seig.tv/12/1/d82cd5cd24bb27c39d5aac4afb5601c0/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ambulancia Um Dia de Crime"tvg-logo="https://image.tmdb.org/t/p/w185/k62v5oVhQ0e1sJWJ9nFpiTfcNoD.jpg"group-title="FILMES | TV FAX",Ambulancia Um Dia de Crime
-https://seig.tv/17/1/2ce15b3cc176cd70b154feda05f5946b/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sonic 2 O Filme"tvg-logo="https://www.themoviedb.org/t/p/original/8E7mIpEpSATxX5JEuw55GYx9hfk.jpg"group-title="FILMES | TV FAX",Sonic 2 O Filme
-https://seig.tv/14/1/8e279f070861d52941202684414fa9fb/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Acontecimento"tvg-logo="https://image.tmdb.org/t/p/w185/p4SEXbaIbQl9adB0qGlnEzLMahq.jpg"group-title="FILMES | TV FAX",O Acontecimento
-https://seig.tv/17/1/2c0b1a651818e984c14bc698eb4548a9/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Verdadeira História do Roubo do Século"tvg-logo="https://image.tmdb.org/t/p/w185/xrYVZ5b0p0BKg6vZ3scU4iyOwC3.jpg"group-title="FILMES | TV FAX",A Verdadeira História do Roubo do Século
-https://seig.tv/11/1/46382acfe475e803d9577240bfa5c7e3/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Top Gun Maverick"tvg-logo="https://image.tmdb.org/t/p/w185/62HCnUTziyWcpDaBO2i1DX17ljH.jpg"group-title="FILMES | TV FAX",Top Gun Maverick
-https://seig.tv/16/1/5881c5b2687ff5d6f72ccf032c56e4eb/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="De Férias da Família"tvg-logo="https://image.tmdb.org/t/p/w185/mGPFbEmWdaDVxO5V64xYwv6v8j.jpg"group-title="FILMES | TV FAX",De Férias da Família
-https://seig.tv/14/1/9ffddca7cf55eb04b8efaca2d0ad40a3/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thor Amor e Trovão"tvg-logo="https://image.tmdb.org/t/p/w185/cOkx3uu5FVgC902Q6Y3MxLpBWbX.jpg"group-title="FILMES | TV FAX",Thor Amor e Trovão
-https://seig.tv/11/1/3c967dd01776986fe3bcd8bb2a33df8e/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Obi Wan Kenobi O Retorno do Jedi"tvg-logo="https://image.tmdb.org/t/p/w185/gIFwT8iabcTrcufg8LwuX6aMf5m.jpg"group-title="FILMES | TV FAX",Obi Wan Kenobi O Retorno do Jedi
-https://seig.tv/12/1/0385133e62b3bbecc4eb5ffbf15cdfdb/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Secreto"tvg-logo="https://image.tmdb.org/t/p/w185/pCl8JaMDkibswcNuEFLoDVNmO4k.jpg"group-title="FILMES | TV FAX",Esquadrão Secreto
-https://seig.tv/15/1/77ff5947544db7954df7f181011d521c/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Abracadabra 2"tvg-logo="https://image.tmdb.org/t/p/w185/8G7EaPTocE0ok3YNxo972woo9EP.jpg"group-title="FILMES | TV FAX",Abracadabra 2
-https://seig.tv/11/1/c763927396999a43dde7bdd4a1958625/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rainbow"tvg-logo="https://image.tmdb.org/t/p/w185/pFg29SbNbXkcuSgbnwnTz4wie4x.jpg"group-title="FILMES | TV FAX",Rainbow
-https://seig.tv/15/1/40464eae2d403b931cc3f69fa7f9259d/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Curtas dos Minions Volume 1"tvg-logo="https://image.tmdb.org/t/p/w185/wCQBzTOigP5eCyBAjQGlWYNo5DR.jpg"group-title="FILMES | TV FAX",Curtas dos Minions Volume 1
-https://seig.tv/18/1/a231c43b7c1f103f11bec6051aaa653b/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Conspiração Explosiva"tvg-logo="https://www.themoviedb.org/t/p/original/tuqYUmGpJTyu7pJzwz7pBpWfWR0.jpg"group-title="FILMES | TV FAX",Conspiração Explosiva
-https://seig.tv/16/1/7862aad70e4542d4a5d1a51e3dfecf55/360p/360p7.png
-#EXTINF:-1 tvg-id="" tvg-name="Pokémon As Crônicas de Arceus"tvg-logo="https://image.tmdb.org/t/p/w185/r9AxrlhBgmFfipnYZ3UNUpsM8JZ.jpg"group-title="FILMES | TV FAX",Pokémon As Crônicas de Arceus
-https://seig.tv/17/1/3a7d36af40744937e48772558e7475d8/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Panama"tvg-logo="https://image.tmdb.org/t/p/w185/82I3tDsGDTMy7lHar84Gz0jUuyW.jpg"group-title="FILMES | TV FAX",Panama
-https://seig.tv/16/1/2e03ae21069b08a9c336cddbf316d113/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Terra dos Sonhos"tvg-logo="https://image.tmdb.org/t/p/w185/pKul2I03FI6QYxHnhMOkQ72EDPE.jpg"group-title="FILMES | TV FAX",Terra dos Sonhos
-https://seig.tv/17/1/02e3c3408d1499e1177816875c426cc9/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hawa"tvg-logo="https://image.tmdb.org/t/p/w185/p6DhbsX1EuSJMtuOGsENkIOx1tt.jpg"group-title="FILMES | TV FAX",Hawa
-https://seig.tv/16/1/8cde8c817449d0e2c94ff175df11292f/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Meu Nome é Vingança"tvg-logo="https://image.tmdb.org/t/p/w185/tlZGDi8anF7Fcs5HGVaTEMnv1hp.jpg"group-title="FILMES | TV FAX",Meu Nome é Vingança
-https://seig.tv/14/1/f02c36fb002cb2e93e40e5dc5a0f7014/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Desencantada"tvg-logo="https://image.tmdb.org/t/p/w185/8tuvxhScKT6qs8Js7ghLCLG5gxD.jpg"group-title="FILMES | TV FAX",Desencantada
-https://seig.tv/17/1/69c088bac41ab9553ea5ed62e897b1d4/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Menino a Toupeira a Raposa e o Cavalo"tvg-logo="https://image.tmdb.org/t/p/w185/765XUik0cbyWHITgE22FhpA8elG.jpg"group-title="FILMES | TV FAX",O Menino a Toupeira a Raposa e o Cavalo
-https://seig.tv/15/1/b425911631fca6bc4bdf77c4d0587f40/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Mundo Estranho"tvg-logo="https://image.tmdb.org/t/p/w185/4KXsKY8j87jr1oX2uwO1tMbl4Px.jpg"group-title="FILMES | TV FAX",Mundo Estranho
-https://seig.tv/18/1/fc3c407880b162d4a8e1563703936d12/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Fabuloso Maurício"tvg-logo="https://image.tmdb.org/t/p/w185/qcCZnuFQv6faxbXUb9pa8Le5ujB.jpg"group-title="FILMES | TV FAX",O Fabuloso Maurício
-https://seig.tv/19/1/cee9263b22e97d95812f07f1a0b9bc08/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Detetive Knight Independência"tvg-logo="https://image.tmdb.org/t/p/w185/wfFE22EpiBOtN4qpTpxRDTXNodb.jpg"group-title="FILMES | TV FAX",Detetive Knight Independência
-https://seig.tv/19/1/80fac7c5f909b33fa2b907b74ffc69fb/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Som do Caos"tvg-logo="https://image.tmdb.org/t/p/w185/yka6u5dbx1vWoMrNIHHutluaepp.jpg"group-title="FILMES | TV FAX",O Som do Caos
-https://seig.tv/19/1/6f30f3c43a3409b7ccfc1ab962f0f649/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Já Era Hora"tvg-logo="https://image.tmdb.org/t/p/w185/a8Sg7wHxquACYe4IIKyH0rORMp9.jpg"group-title="FILMES | TV FAX",Já Era Hora
-https://seig.tv/19/1/538be4e19755fd846839eda0b58fa5dd/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Rei das Sombras"tvg-logo="https://image.tmdb.org/t/p/w185/o0UxfLtPJ7rN1lKyBMFwbw5ngNU.jpg"group-title="FILMES | TV FAX",O Rei das Sombras
-https://seig.tv/19/1/1d7a006af80911ce7f655937e22e8a64/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Padre Johnny"tvg-logo="https://image.tmdb.org/t/p/w185/zbzkNNViy1dH2jCLMok2DmHX8e9.jpg"group-title="FILMES | TV FAX",Padre Johnny
-https://seig.tv/19/1/c6cca2cb396cd3b1e9477ac90c473f2a/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Desapega"tvg-logo="https://image.tmdb.org/t/p/w185/b0aRBdFnIi1MZbsW7QTZvRHcpo3.jpg"group-title="FILMES | TV FAX",Desapega
-https://seig.tv/19/1/e983c14cfdeef3c6a5a7575ff5efcd6d/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="As Múmias e o Anel Perdido"tvg-logo="https://image.tmdb.org/t/p/w185/w5uM8SZKWN9CwpFvzTnEZSkO8Ow.jpg"group-title="FILMES | TV FAX",As Múmias e o Anel Perdido
-https://seig.tv/19/1/cfee4175fe97870cc75f77cbf827be53/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Meu Amigo Lutcha"tvg-logo="https://image.tmdb.org/t/p/w185/9CbBbgftaC2fQYwHYMfrSXkKML0.jpg"group-title="FILMES | TV FAX",Meu Amigo Lutcha
-https://seig.tv/19/1/47b56a8ebd0ecc5e1ffebf2889206501/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TicTac A Maternidade do Mal"tvg-logo="https://image.tmdb.org/t/p/w185/dpKHaXmAeiVaV1FQVIWStyg0Cws.jpg"group-title="FILMES | TV FAX",TicTac A Maternidade do Mal
-https://seig.tv/19/1/2da30667f9dfee2c8dc5d78be0afb053/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Infiesto"tvg-logo="https://image.tmdb.org/t/p/w185/dmO2U0ckWkE6T5hyYY3rUtSH9X4.jpg"group-title="FILMES | TV FAX",Infiesto
-https://seig.tv/19/1/f54405aa348cee5b40125e989bf8f9f6/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fanfic"tvg-logo="https://image.tmdb.org/t/p/w185/6qgkVtpVabAzjQaJTgx3Vmqnmyj.jpg"group-title="FILMES | TV FAX",Fanfic
-https://seig.tv/19/1/1eede5057cbc4f8259e95cfc49b395c3/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Abril Despedaçado"tvg-logo="https://image.tmdb.org/t/p/w185/9GVEX1VC4iEh5t5T7YNDU9P8zKQ.jpg"group-title="FILMES | TV FAX",Abril Despedaçado 
-https://seig.tv/19/1/8af63f3f1acd16a92310f8b42a9ed54c/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Ao Lado de Cristo"tvg-logo="https://br.web.img2.acsta.net/pictures/21/12/27/18/31/3723018.jpg"group-title="group-title="FILMES | TV FAX",Ao Lado de Cristo
-https://play.prod.gcp.vix.services/penitent-thief_pt/penitent-thief_pt_1-1/play_v1_hls_1080p.m3u8   
-#EXTINF:-1 tvg-id="" tvg-name="Balas em Fúria"tvg-logo="https://ottvsimg.ottvs.com.br/ban/gmt.272391/looke_1010_670.jpg?2117268655"group-title="FILMES | TV FAX",Balas em Fúria
-https://play.prod.gcp.vix.services/let-bullets-fly_pt/let-bullets-fly_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Correndo Contra o Vento"tvg-logo="https://i.ytimg.com/vi/T1oH1y_J3pg/maxresdefault.jpg"group-title="FILMES | TV FAX",Correndo Contra o Vento
-https://play.prod.gcp.vix.services/running-against-wind_pt/running-against-wind_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A Última Jornada"tvg-logo="https://leiturafilmica.com.br/wp-content/uploads/2020/11/a-ultima-jornada-poster.jpg"group-title="FILMES | TV FAX",A Última Jornada
-https://play.prod.gcp.vix.services/last-boy_pt/last-boy_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Outra Vida"tvg-logo="https://i.pinimg.com/736x/dd/fb/02/ddfb0255eaad5ceb4279de0dbb1bd569.jpg"group-title="group-title="FILMES | TV FAX",Outra Vida
-https://play.prod.gcp.vix.services/other-life_pt/other-life_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fim dos Tempos"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d3696d59afc1b8a949d663f68d41d68f9753cd1734d541454902a4a98395fe9e._RI_TTW_.jpg"group-title="FILMES | TV FAX",Fim dos Tempos
-https://play.prod.gcp.vix.services/the-end-time_en/the-end-time_en_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Zumbido" tvg-logo="https://img.ev01.to/xxrz/250x400/183/26/b5/26b5df3a2777ff48f73d243b3aff7fd1/26b5df3a2777ff48f73d243b3aff7fd1.jpg"group-title="FILMES | TV FAX",Zumbido
-https://eno.dokicloud.one/_v10/9eb6cd864e29f824f065a00cb16e1122a6d336223fa70d13e573bdb65e08ea6f33efdd176988a48aea1f2097b4a9653c2babbd8a268d77aeb521b524196ca12d734348192c391be42ab32b6a19d3c7b721fb72db33a33196bcbf0b3c333dfcc158bebdf39b663a973601e35cbcc0c7043c748892af9e3b5d68e7fe902031a997/1080/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Raquel 1 1" tvg-logo="https://img.ev01.to/xxrz/250x400/183/cc/19/cc195d12d1ebc7576601946949aaab8f/cc195d12d1ebc7576601946949aaab8f.jpg"group-title="FILMES | TV FAX",Raquel 1 1
-https://eerht.artdesigncdn.net/_v10/262004f4cae559d6839d2d05962b855489c09417f3f16372c5c534dc6adc75faf9e5b4275b1b7d75b80c8a817167422582b8586a0a8c70b50a9bed38ac0dde6586fb6c745917dda442e8c8dcf7c5181d5752b8c91253fd9861c5caeb6f897e40310f9393c9ebd378c1e3aae95f152b1f4c0aaf9fe3cb169ef926219c11e6b6d7/1080/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="A caminho de casa"tvg-logo="https://m.media-amazon.com/images/I/71PwC9SS2rL._AC_UF1000,1000_QL80_.jpg"group-title="FILMES | TV FAX",A caminho de casa
 http://esrv.cc/movie/MarcoOj9Nq/Rj5tr/97164.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Um Dia Difícil"tvg-logo="https://media.fstatic.com/wZdioIog12_CzEqD0pVnI6k_eEQ=/322x478/smart/filters:format(webp)/media/movies/covers/2022/02/FF1510E5-8475-48EE-87CC-F4691DCC73B4.jpeg"group-title="FILMES | TV FAX",Um Dia Difícil
@@ -4529,154 +4557,281 @@ https://ia802702.us.archive.org/30/items/raquel-11-tv-fax/Raquel%2011%20TV%20FAX
 https://ia902708.us.archive.org/13/items/poderes-extraordinarios-tv-fax/Poderes%20Extraordin%C3%A1rios%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Um Marido Fiel"tvg-logo="https://i.ytimg.com/vi/2iKDpCT66RI/hqdefault.jpg"group-title="FILMES | TV FAX",Um Marido Fiel
 https://ia802702.us.archive.org/0/items/um-marido-fiel-tv-fax/Um%20Marido%20Fiel%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Último Suspeito"tvg-logo="https://http2.mlstatic.com/D_NQ_NP_711797-MLU70394913192_072023-O.webp"group-title="FILMES | TV FAX",O Último Suspeito 
-https://play.prod.gcp.vix.services/city-by-the-sea_pt/city-by-the-sea_pt_1-1/play_v1_hls_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="O Mestre Guerreiro"tvg-logo="https://i.ytimg.com/vi/CDi1H1k84jU/maxresdefault.jpg"group-title="FILMES | TV FAX",O Mestre Guerreiro
-https://play.prod.gcp.vix.services/pendekar-tongkat-emas_pt/pendekar-tongkat-emas_pt_1-1/play_v1_hls_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Fim Da Estrada"tvg-logo="https://i0.wp.com/cinestera.com.br/wp-content/uploads/2022/09/Fim-da-Estrada-Netflix-final.jpeg?fit=665%2C374&ssl=1"group-title="FILMES | TV FAX",Fim Da Estrada
 https://ia902704.us.archive.org/1/items/fim-da-estrada-tv-fax/Fim%20da%20Estrada%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Vingança Pelo Passado"tvg-logo="https://31.media.tumblr.com/tumblr_m9l4y2mqeO1rn2vtqo1_500.gif"group-title="FILMES | TV FAX",Vingança Pelo Passado
 https://ia802309.us.archive.org/2/items/assistir-vinganca-pelo-passado-tv-fax/Assistir%20Vingan%C3%A7a%20Pelo%20Passado%20TV%20FAX%20.mp4
 
-#EXTM3U url-tvg="http://grade-de-FILME INDIANO TV FAX.xml"
-############## FILME INDIANO TV FAX ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILME INDIANO TV FAX" group-title="
+#EXTM3U url-tvg="http://grade-de-FILME TV FAX |  ONLINE.xml"
+############## FILME TV FAX |  ONLINE ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX |  ONLINE" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name=",Bullet Raja Detonando Na India 2015 INDIANO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvKG55-n1z4OslJHSRM5ioD3kfpq5XvAXccBk2ww1_uWXI1vWaN_37Sh8994HX95HiwR8&usqp=CAU"group-title="FILME INDIANO TV FAX",Bullet Raja Detonando Na India 2015 INDIANO
+#EXTINF:-1 tvg-id="" tvg-name="O Último Suspeito"tvg-logo="https://http2.mlstatic.com/D_NQ_NP_711797-MLU70394913192_072023-O.webp"group-title="FILME TV FAX |  ONLINE",O Último Suspeito 
+https://play.prod.gcp.vix.services/city-by-the-sea_pt/city-by-the-sea_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Mestre Guerreiro"tvg-logo="https://i.ytimg.com/vi/CDi1H1k84jU/maxresdefault.jpg"group-title="FILME TV FAX |  ONLINE",O Mestre Guerreiro
+https://play.prod.gcp.vix.services/pendekar-tongkat-emas_pt/pendekar-tongkat-emas_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Último Resgate"tvg-logo="https://i.ytimg.com/vi/7BEwWgmfJgA/maxresdefault.jpg"group-title="FILME TV FAX |  ONLINE",O Último Resgate
+https://play.prod.gcp.vix.services/we-go-dawn_pt/we-go-dawn_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="As Apimentadas  Entrar para Ganhar"tvg-logo="https://image.tmdb.org/t/p/w185/64BU3QqQEBtt5mJf1FjrCLBzzf5.jpg"group-title="FILME TV FAX |  ONLINE",As Apimentadas  Entrar para Ganhar
+https://seig.tv/19/1/f1fc04624212bae12f6375292862baaa/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Busca de Groot"tvg-logo="https://image.tmdb.org/t/p/w185/oV3mUWylNaRsBkbul7BGilaxE9k.jpg"group-title="FILME TV FAX |  ONLINE",A Busca de Groot
+https://seig.tv/16/1/007ddb883fd95bca3a9fb3d332d77894/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Marmaduke"tvg-logo="https://image.tmdb.org/t/p/w185/cyNivzjzniErFkzq45ZEWOKQMgY.jpg"group-title="FILME TV FAX |  ONLINE",Marmaduke
+https://seig.tv/18/1/7d9ab2332e9579b52438c4a5e0f67edf/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Os Caras Malvados"tvg-logo="https://image.tmdb.org/t/p/w185/syKg3OmdtSYmkA7nNdtPUYdSFGL.jpg"group-title="FILME TV FAX |  ONLINE",Os Caras Malvados
+https://seig.tv/16/1/f9c010ad89c1a410e8ad36f70aab5d63/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Projeto Adam"tvg-logo="https://image.tmdb.org/t/p/w185/11MJy6lkt7yTEIowEPIkaK4B7lM.jpg"group-title="FILME TV FAX |  ONLINE",O Projeto Adam
+https://seig.tv/16/1/fadfb9b8eb05c5cae5c14323604042e0/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Yaksha Operação Implacável"tvg-logo="https://image.tmdb.org/t/p/w185/zL8KPd8Rw6KXgdcgytMbzNNrHmc.jpg"group-title="FILME TV FAX |  ONLINE",Yaksha Operação Implacável
+https://seig.tv/11/1/bcf086cab69f796f5b6f22f39169f15e/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Snoopy Apresenta Sao as Pequenas Coisas Charlie Brown"tvg-logo="https://image.tmdb.org/t/p/w185/q5gVKsYkWmz1pklu4JBmac1wr2.jpg"group-title="FILME TV FAX |  ONLINE",Snoopy Apresenta Sao as Pequenas Coisas Charlie Brown
+https://seig.tv/12/1/d82cd5cd24bb27c39d5aac4afb5601c0/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ambulancia Um Dia de Crime"tvg-logo="https://image.tmdb.org/t/p/w185/k62v5oVhQ0e1sJWJ9nFpiTfcNoD.jpg"group-title="FILME TV FAX |  ONLINE",Ambulancia Um Dia de Crime
+https://seig.tv/17/1/2ce15b3cc176cd70b154feda05f5946b/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sonic 2 O Filme"tvg-logo="https://www.themoviedb.org/t/p/original/8E7mIpEpSATxX5JEuw55GYx9hfk.jpg"group-title="FILME TV FAX |  ONLINE",Sonic 2 O Filme
+https://seig.tv/14/1/8e279f070861d52941202684414fa9fb/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Acontecimento"tvg-logo="https://image.tmdb.org/t/p/w185/p4SEXbaIbQl9adB0qGlnEzLMahq.jpg"group-title="FILME TV FAX |  ONLINE",O Acontecimento
+https://seig.tv/17/1/2c0b1a651818e984c14bc698eb4548a9/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Verdadeira História do Roubo do Século"tvg-logo="https://image.tmdb.org/t/p/w185/xrYVZ5b0p0BKg6vZ3scU4iyOwC3.jpg"group-title="FILME TV FAX |  ONLINE",A Verdadeira História do Roubo do Século
+https://seig.tv/11/1/46382acfe475e803d9577240bfa5c7e3/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Top Gun Maverick"tvg-logo="https://image.tmdb.org/t/p/w185/62HCnUTziyWcpDaBO2i1DX17ljH.jpg"group-title="FILME TV FAX |  ONLINE",Top Gun Maverick
+https://seig.tv/16/1/5881c5b2687ff5d6f72ccf032c56e4eb/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="De Férias da Família"tvg-logo="https://image.tmdb.org/t/p/w185/mGPFbEmWdaDVxO5V64xYwv6v8j.jpg"group-title="FILME TV FAX |  ONLINE",De Férias da Família
+https://seig.tv/14/1/9ffddca7cf55eb04b8efaca2d0ad40a3/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Thor Amor e Trovão"tvg-logo="https://image.tmdb.org/t/p/w185/cOkx3uu5FVgC902Q6Y3MxLpBWbX.jpg"group-title="FILME TV FAX |  ONLINE",Thor Amor e Trovão
+https://seig.tv/11/1/3c967dd01776986fe3bcd8bb2a33df8e/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Obi Wan Kenobi O Retorno do Jedi"tvg-logo="https://image.tmdb.org/t/p/w185/gIFwT8iabcTrcufg8LwuX6aMf5m.jpg"group-title="FILME TV FAX |  ONLINE",Obi Wan Kenobi O Retorno do Jedi
+https://seig.tv/12/1/0385133e62b3bbecc4eb5ffbf15cdfdb/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Esquadrão Secreto"tvg-logo="https://image.tmdb.org/t/p/w185/pCl8JaMDkibswcNuEFLoDVNmO4k.jpg"group-title="FILME TV FAX |  ONLINE",Esquadrão Secreto
+https://seig.tv/15/1/77ff5947544db7954df7f181011d521c/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Abracadabra 2"tvg-logo="https://image.tmdb.org/t/p/w185/8G7EaPTocE0ok3YNxo972woo9EP.jpg"group-title="FILME TV FAX |  ONLINE",Abracadabra 2
+https://seig.tv/11/1/c763927396999a43dde7bdd4a1958625/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rainbow"tvg-logo="https://image.tmdb.org/t/p/w185/pFg29SbNbXkcuSgbnwnTz4wie4x.jpg"group-title="FILME TV FAX |  ONLINE",Rainbow
+https://seig.tv/15/1/40464eae2d403b931cc3f69fa7f9259d/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Curtas dos Minions Volume 1"tvg-logo="https://image.tmdb.org/t/p/w185/wCQBzTOigP5eCyBAjQGlWYNo5DR.jpg"group-title="FILME TV FAX |  ONLINE",Curtas dos Minions Volume 1
+https://seig.tv/18/1/a231c43b7c1f103f11bec6051aaa653b/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Conspiração Explosiva"tvg-logo="https://www.themoviedb.org/t/p/original/tuqYUmGpJTyu7pJzwz7pBpWfWR0.jpg"group-title="FILME TV FAX |  ONLINE",Conspiração Explosiva
+https://seig.tv/16/1/7862aad70e4542d4a5d1a51e3dfecf55/360p/360p7.png
+#EXTINF:-1 tvg-id="" tvg-name="Pokémon As Crônicas de Arceus"tvg-logo="https://image.tmdb.org/t/p/w185/r9AxrlhBgmFfipnYZ3UNUpsM8JZ.jpg"group-title="FILME TV FAX |  ONLINE",Pokémon As Crônicas de Arceus
+https://seig.tv/17/1/3a7d36af40744937e48772558e7475d8/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Panama"tvg-logo="https://image.tmdb.org/t/p/w185/82I3tDsGDTMy7lHar84Gz0jUuyW.jpg"group-title="FILME TV FAX |  ONLINE",Panama
+https://seig.tv/16/1/2e03ae21069b08a9c336cddbf316d113/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Terra dos Sonhos"tvg-logo="https://image.tmdb.org/t/p/w185/pKul2I03FI6QYxHnhMOkQ72EDPE.jpg"group-title="FILME TV FAX |  ONLINE",Terra dos Sonhos
+https://seig.tv/17/1/02e3c3408d1499e1177816875c426cc9/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hawa"tvg-logo="https://image.tmdb.org/t/p/w185/p6DhbsX1EuSJMtuOGsENkIOx1tt.jpg"group-title="FILME TV FAX |  ONLINE",Hawa
+https://seig.tv/16/1/8cde8c817449d0e2c94ff175df11292f/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Meu Nome é Vingança"tvg-logo="https://image.tmdb.org/t/p/w185/tlZGDi8anF7Fcs5HGVaTEMnv1hp.jpg"group-title="FILME TV FAX |  ONLINE",Meu Nome é Vingança
+https://seig.tv/14/1/f02c36fb002cb2e93e40e5dc5a0f7014/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desencantada"tvg-logo="https://image.tmdb.org/t/p/w185/8tuvxhScKT6qs8Js7ghLCLG5gxD.jpg"group-title="FILME TV FAX |  ONLINE",Desencantada
+https://seig.tv/17/1/69c088bac41ab9553ea5ed62e897b1d4/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Menino a Toupeira a Raposa e o Cavalo"tvg-logo="https://image.tmdb.org/t/p/w185/765XUik0cbyWHITgE22FhpA8elG.jpg"group-title="FILME TV FAX |  ONLINE",O Menino a Toupeira a Raposa e o Cavalo
+https://seig.tv/15/1/b425911631fca6bc4bdf77c4d0587f40/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mundo Estranho"tvg-logo="https://image.tmdb.org/t/p/w185/4KXsKY8j87jr1oX2uwO1tMbl4Px.jpg"group-title="FILME TV FAX |  ONLINE",Mundo Estranho
+https://seig.tv/18/1/fc3c407880b162d4a8e1563703936d12/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Fabuloso Maurício"tvg-logo="https://image.tmdb.org/t/p/w185/qcCZnuFQv6faxbXUb9pa8Le5ujB.jpg"group-title="FILME TV FAX |  ONLINE",O Fabuloso Maurício
+https://seig.tv/19/1/cee9263b22e97d95812f07f1a0b9bc08/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Detetive Knight Independência"tvg-logo="https://image.tmdb.org/t/p/w185/wfFE22EpiBOtN4qpTpxRDTXNodb.jpg"group-title="FILME TV FAX |  ONLINE",Detetive Knight Independência
+https://seig.tv/19/1/80fac7c5f909b33fa2b907b74ffc69fb/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Som do Caos"tvg-logo="https://image.tmdb.org/t/p/w185/yka6u5dbx1vWoMrNIHHutluaepp.jpg"group-title="FILME TV FAX |  ONLINE",O Som do Caos
+https://seig.tv/19/1/6f30f3c43a3409b7ccfc1ab962f0f649/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Já Era Hora"tvg-logo="https://image.tmdb.org/t/p/w185/a8Sg7wHxquACYe4IIKyH0rORMp9.jpg"group-title="FILME TV FAX |  ONLINE",Já Era Hora
+https://seig.tv/19/1/538be4e19755fd846839eda0b58fa5dd/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Rei das Sombras"tvg-logo="https://image.tmdb.org/t/p/w185/o0UxfLtPJ7rN1lKyBMFwbw5ngNU.jpg"group-title="FILME TV FAX |  ONLINE",O Rei das Sombras
+https://seig.tv/19/1/1d7a006af80911ce7f655937e22e8a64/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Padre Johnny"tvg-logo="https://image.tmdb.org/t/p/w185/zbzkNNViy1dH2jCLMok2DmHX8e9.jpg"group-title="FILME TV FAX |  ONLINE",Padre Johnny
+https://seig.tv/19/1/c6cca2cb396cd3b1e9477ac90c473f2a/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desapega"tvg-logo="https://image.tmdb.org/t/p/w185/b0aRBdFnIi1MZbsW7QTZvRHcpo3.jpg"group-title="FILME TV FAX |  ONLINE",Desapega
+https://seig.tv/19/1/e983c14cfdeef3c6a5a7575ff5efcd6d/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="As Múmias e o Anel Perdido"tvg-logo="https://image.tmdb.org/t/p/w185/w5uM8SZKWN9CwpFvzTnEZSkO8Ow.jpg"group-title="FILME TV FAX |  ONLINE",As Múmias e o Anel Perdido
+https://seig.tv/19/1/cfee4175fe97870cc75f77cbf827be53/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Meu Amigo Lutcha"tvg-logo="https://image.tmdb.org/t/p/w185/9CbBbgftaC2fQYwHYMfrSXkKML0.jpg"group-title="FILME TV FAX |  ONLINE",Meu Amigo Lutcha
+https://seig.tv/19/1/47b56a8ebd0ecc5e1ffebf2889206501/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TicTac A Maternidade do Mal"tvg-logo="https://image.tmdb.org/t/p/w185/dpKHaXmAeiVaV1FQVIWStyg0Cws.jpg"group-title="FILME TV FAX |  ONLINE",TicTac A Maternidade do Mal
+https://seig.tv/19/1/2da30667f9dfee2c8dc5d78be0afb053/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Infiesto"tvg-logo="https://image.tmdb.org/t/p/w185/dmO2U0ckWkE6T5hyYY3rUtSH9X4.jpg"group-title="FILME TV FAX |  ONLINE",Infiesto
+https://seig.tv/19/1/f54405aa348cee5b40125e989bf8f9f6/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fanfic"tvg-logo="https://image.tmdb.org/t/p/w185/6qgkVtpVabAzjQaJTgx3Vmqnmyj.jpg"group-title="FILME TV FAX |  ONLINE",Fanfic
+https://seig.tv/19/1/1eede5057cbc4f8259e95cfc49b395c3/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Abril Despedaçado"tvg-logo="https://image.tmdb.org/t/p/w185/9GVEX1VC4iEh5t5T7YNDU9P8zKQ.jpg"group-title="FILME TV FAX |  ONLINE",Abril Despedaçado 
+https://seig.tv/19/1/8af63f3f1acd16a92310f8b42a9ed54c/720p/720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ao Lado de Cristo"tvg-logo="https://br.web.img2.acsta.net/pictures/21/12/27/18/31/3723018.jpg"group-title="group-title="FILME TV FAX |  ONLINE",Ao Lado de Cristo
+https://play.prod.gcp.vix.services/penitent-thief_pt/penitent-thief_pt_1-1/play_v1_hls_1080p.m3u8   
+#EXTINF:-1 tvg-id="" tvg-name="Balas em Fúria"tvg-logo="https://ottvsimg.ottvs.com.br/ban/gmt.272391/looke_1010_670.jpg?2117268655"group-title="FILME TV FAX |  ONLINE",Balas em Fúria
+https://play.prod.gcp.vix.services/let-bullets-fly_pt/let-bullets-fly_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Correndo Contra o Vento"tvg-logo="https://i.ytimg.com/vi/T1oH1y_J3pg/maxresdefault.jpg"group-title="FILME TV FAX |  ONLINE",Correndo Contra o Vento
+https://play.prod.gcp.vix.services/running-against-wind_pt/running-against-wind_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A Última Jornada"tvg-logo="https://leiturafilmica.com.br/wp-content/uploads/2020/11/a-ultima-jornada-poster.jpg"group-title="FILME TV FAX |  ONLINE",A Última Jornada
+https://play.prod.gcp.vix.services/last-boy_pt/last-boy_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Outra Vida"tvg-logo="https://i.pinimg.com/736x/dd/fb/02/ddfb0255eaad5ceb4279de0dbb1bd569.jpg"group-title="group-title="FILME TV FAX |  ONLINE",Outra Vida
+https://play.prod.gcp.vix.services/other-life_pt/other-life_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fim dos Tempos"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d3696d59afc1b8a949d663f68d41d68f9753cd1734d541454902a4a98395fe9e._RI_TTW_.jpg"group-title="FILME TV FAX |  ONLINE",Fim dos Tempos
+https://play.prod.gcp.vix.services/the-end-time_en/the-end-time_en_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zumbido" tvg-logo="https://img.ev01.to/xxrz/250x400/183/26/b5/26b5df3a2777ff48f73d243b3aff7fd1/26b5df3a2777ff48f73d243b3aff7fd1.jpg"group-title="FILME TV FAX |  ONLINE",Zumbido
+https://eno.dokicloud.one/_v10/9eb6cd864e29f824f065a00cb16e1122a6d336223fa70d13e573bdb65e08ea6f33efdd176988a48aea1f2097b4a9653c2babbd8a268d77aeb521b524196ca12d734348192c391be42ab32b6a19d3c7b721fb72db33a33196bcbf0b3c333dfcc158bebdf39b663a973601e35cbcc0c7043c748892af9e3b5d68e7fe902031a997/1080/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Raquel 1 1" tvg-logo="https://img.ev01.to/xxrz/250x400/183/cc/19/cc195d12d1ebc7576601946949aaab8f/cc195d12d1ebc7576601946949aaab8f.jpg"group-title="FILME TV FAX |  ONLINE",Raquel 1 1
+https://eerht.artdesigncdn.net/_v10/262004f4cae559d6839d2d05962b855489c09417f3f16372c5c534dc6adc75faf9e5b4275b1b7d75b80c8a817167422582b8586a0a8c70b50a9bed38ac0dde6586fb6c745917dda442e8c8dcf7c5181d5752b8c91253fd9861c5caeb6f897e40310f9393c9ebd378c1e3aae95f152b1f4c0aaf9fe3cb169ef926219c11e6b6d7/1080/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=Alta Velocidade"tvg-logo="https://media.fstatic.com/asWdTE36MWEyheG_3EIHp6d5YZs=/322x478/smart/filters:format(webp)/media/movies/covers/2021/02/3415_-_29x41-.jpg"group-title="FILME TV FAX |  ONLINE",Alta Velocidade
+https://play.prod.gcp.vix.services/driven_pt/driven_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Semente do mal"tvg-logo="https://imgs3.pongalo.com/cdn-cgi/image/q=90,fit=crop,w=85,format=auto/appurushido_pt/appurushido_pt_200x300.jpg"group-title="FILME TV FAX |  ONLINE",Semente do mal
+https://play.prod.gcp.vix.services/appurushido_pt/appurushido_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Unidade de Combate"tvg-logo="https://images.justwatch.com/poster/8820475/s592/684-unidade-de-combate"group-title="FILME TV FAX |  ONLINE",Unidade de Combate
+https://play.prod.gcp.vix.services/silmido_pt/silmido_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Verônica"tvg-logo="https://ottvsimg.ottvs.com.br/cov/eur.023665/0023665_335.jpg"group-title="FILME TV FAX |  ONLINE",Verônica
+https://play.prod.gcp.vix.services/veronica_pt/veronica_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Além da Fronteira"tvg-logo="https://br.web.img2.acsta.net/pictures/210/417/21041708_20130919131255498.jpg"group-title="FILME TV FAX |  ONLINE",Além da Fronteira
+https://play.prod.gcp.vix.services/out-in-the-dark_en/out-in-the-dark_en_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sem Retorno"tvg-logo="https://1.bp.blogspot.com/-sPX6Vl1yQ9g/VrH08SqcqfI/AAAAAAAAS-A/ZAxyRsSNaSs/s1600/Sem%2BRetorno%2B01.jpg"group-title="FILME TV FAX |  ONLINE",Sem Retorno
+https://play.prod.gcp.vix.services/point-no-return_pt/point-no-return_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Alma de Guerreiro"tvg-logo="https://i.ytimg.com/vi/MjaoceszRjM/maxresdefault.jpg"group-title="FILME TV FAX |  ONLINE",Alma de Guerreiro
+https://play.prod.gcp.vix.services/viking-blood_pt/viking-blood_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Natureza Selvagem"tvg-logo="https://www.atoupeira.com.br/wp-content/uploads/2021/05/Natureza-Selvagem_port.jpg"group-title="FILME TV FAX |  ONLINE",Natureza Selvagem
+https://play.prod.gcp.vix.services/werewolf_pt/werewolf_pt_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Solo - A Ilha do Medo"tvg-logo="https://br.web.img2.acsta.net/pictures/16/01/27/19/55/235266.jpg"group-title="FILME TV FAX |  ONLINE",Solo - A Ilha do Medo
+https://play.prod.gcp.vix.services/solo_en/solo_en_1-1/play_v1_hls_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="estrada-47"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/9/9d/Estrada47.jpg/250px-Estrada47.jpg"group-title="FILME TV FAX |  ONLINE",estrada-47
+https://play.prod.gcp.vix.services/estrada-47_pt/estrada-47_pt_1-1/hls_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="365 Dias Finais"tvg-logo="https://image.tmdb.org/t/p/w185/2pxKwxMbd5l3BxK5fBgVCWYweH2.jpg"group-title="FILME TV FAX |  ONLINE",365 Dias Finais
+https://seig.tv/19/1/2cefa494408f76c96717622e95dd57cf/720p/720p.m3u8
+
+#EXTM3U url-tvg="http://grade-de-FILME TV FAX |  INDIANO.xml"
+############## FILME TV FAX |  INDIANO  ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX |  INDIANO" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name=",Bullet Raja Detonando Na India 2015 INDIANO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvKG55-n1z4OslJHSRM5ioD3kfpq5XvAXccBk2ww1_uWXI1vWaN_37Sh8994HX95HiwR8&usqp=CAU"group-title="FILME TV FAX |  INDIANO",Bullet Raja Detonando Na India 2015 INDIANO
 https://ia802704.us.archive.org/4/items/bullet-raja-detonando-na-india-2015-indiano-tv-fax/Bullet%20Raja%20Detonando%20na%20India%202015%20INDIANO%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",Bahubali INDIANO"tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2018/07/27102052/baahubali-1.jpg"group-title="FILME INDIANO TV FAX",Bahubali INDIANO
+#EXTINF:-1 tvg-id="" tvg-name=",Bahubali INDIANO"tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2018/07/27102052/baahubali-1.jpg"group-title="FILME TV FAX |  INDIANO",Bahubali INDIANO
 https://ia902701.us.archive.org/35/items/baahubali-indiano-tv-fax/Baahubali%20%20INDIANO%20TV%20FAX%20.mp4
 
-#EXTM3U url-tvg="http://grade-de-FILME ANTIGOS TV FAX.xml"
-############## FILME ANTIGOS TV FAX ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILME ANTIGOS TV FAX" group-title="
+#EXTM3U url-tvg="http://grade-de-FILME TV FAX | ANTIGOS.xml"
+############## FILME TV FAX | ANTIGOS ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX | ANTIGOS" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name=",A Lei Do Bravo"tvg-logo="https://i.ytimg.com/vi/Ytx8ASzh1nE/mqdefault.jpg"group-title="FILME ANTIGOS TV FAX",A Lei Do Bravo
+#EXTINF:-1 tvg-id="" tvg-name=",A Lei Do Bravo"tvg-logo="https://i.ytimg.com/vi/Ytx8ASzh1nE/mqdefault.jpg"group-title="FILME TV FAX | ANTIGOS",A Lei Do Bravo
 https://ia902708.us.archive.org/20/items/a-lei-do-bravo-tv-fax/A%20Lei%20do%20Bravo%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",Tempo De Massacre ANTIGOS"tvg-logo="https://i.ytimg.com/vi/SLIVUwPJjN0/mqdefault.jpg"group-title="FILME ANTIGOS TV FAX",Tempo De Massacre ANTIGOS
+#EXTINF:-1 tvg-id="" tvg-name=",Tempo De Massacre ANTIGOS"tvg-logo="https://i.ytimg.com/vi/SLIVUwPJjN0/mqdefault.jpg"group-title="FILME TV FAX | ANTIGOS",Tempo De Massacre ANTIGOS
 https://ia802708.us.archive.org/27/items/tempo-de-massacre-antigos-tv-fax/Tempo%20de%20Massacre%20ANTIGOS%20TV%20FAX%20.mp4
 
-#EXTM3U url-tvg="http://grade-de-FILME TV FAX Terence Hill E Bud Spencer.xml"
-############## FILME TV FAX Terence Hill E Bud Spencer ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX Terence Hill E Bud Spencer" group-title="
+#EXTM3U url-tvg="http://grade-de-FILME TV FAX |  Terence Hill E Bud Spencer.xml"
+############## FILME TV FAX |  Terence Hill E Bud Spencer ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX |  Terence Hill E Bud Spencer" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Dá Lhe Duro Trinity Terence Hill E Bud Spencer"tvg-logo="https://i.ytimg.com/vi/_0Vclm_dF9A/maxresdefault.jpg"group-title="FILME TV FAX Terence Hill E Bud Spencer",Dá Lhe Duro Trinity Terence Hill E Bud Spencer
+#EXTINF:-1 tvg-id="" tvg-name="Dá Lhe Duro Trinity Terence Hill E Bud Spencer"tvg-logo="https://i.ytimg.com/vi/_0Vclm_dF9A/maxresdefault.jpg"group-title="FILME TV FAX |  Terence Hill E Bud Spencer",Dá Lhe Duro Trinity Terence Hill E Bud Spencer
 https://ia902705.us.archive.org/21/items/da-lhe-duro-trinity-terence-hill-e-bud-spencer-tv-fax/D%C3%A1-lhe%20Duro%20Trinity%20Terence%20Hill%20e%20Bud%20Spencer%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",Eu Você Ele E Os Outros Bud Spencer ETerence Hill"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNeiwxDzhDyNa6L-nKC5yl-qM_MBhaE6mPJQ&usqp=CAU"group-title="FILME TV FAX Terence Hill E Bud Spencer",Eu Você Ele E Os Outros Bud Spencer ETerence Hill
+#EXTINF:-1 tvg-id="" tvg-name=",Eu Você Ele E Os Outros Bud Spencer ETerence Hill"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNeiwxDzhDyNa6L-nKC5yl-qM_MBhaE6mPJQ&usqp=CAU"group-title="FILME TV FAX |  Terence Hill E Bud Spencer",Eu Você Ele E Os Outros Bud Spencer ETerence Hill
 https://ia902700.us.archive.org/18/items/eu-voce-ele-e-os-outros-bud-spencer-eterence-hill-tv-fax/Eu%20Voc%C3%AA%20Ele%20e%20os%20Outros%20%20Bud%20Spencer%20ETerence%20Hill%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Trinity É O Meu Nome Terence Hill E Bud Spencer"tvg-logo="https://19f75e2c48dd328909426559a48e7d88.oldflix.com.br/images/cover/59aebc8f65c5e9116842cb9b.jpg"group-title="FILME TV FAX Terence Hill E Bud Spencer",Trinity É O Meu Nome Terence Hill E Bud Spencer
+#EXTINF:-1 tvg-id="" tvg-name="Trinity É O Meu Nome Terence Hill E Bud Spencer"tvg-logo="https://19f75e2c48dd328909426559a48e7d88.oldflix.com.br/images/cover/59aebc8f65c5e9116842cb9b.jpg"group-title="FILME TV FAX |  Terence Hill E Bud Spencer",Trinity É O Meu Nome Terence Hill E Bud Spencer
 https://ia902705.us.archive.org/15/items/trinity-e-o-meu-nome-terence-hill-e-bud-spencer-tv-fax/Trinity%20%C3%A9%20o%20Meu%20Nome%20%20Terence%20Hill%20E%20%20Bud%20Spencer%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dois LOUCOS COM SORTE"tvg-logo="https://i.ytimg.com/vi/-WuZRiU5RXQ/mqdefault.jpg"group-title="FILME TV FAX Terence Hill E Bud Spencer",Dois LOUCOS COM SORTE
+#EXTINF:-1 tvg-id="" tvg-name="Dois LOUCOS COM SORTE"tvg-logo="https://i.ytimg.com/vi/-WuZRiU5RXQ/mqdefault.jpg"group-title="FILME TV FAX |  Terence Hill E Bud Spencer",Dois LOUCOS COM SORTE
 https://ia802709.us.archive.org/28/items/dois-contra-o-oeste-antigos-tv-fax/Dois%20Contra%20o%20Oeste%20ANTIGOS%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Dois Tiras Fora De Ordem Terence Hill E Bud Spencer"tvg-logo="https://images.justwatch.com/poster/263442838/s592/dois-tiras-fora-de-ordemgroup-title="FILME TV FAX Terence Hill E Bud Spencer",Dois Tiras Fora De Ordem Terence Hill E Bud Spencer
+#EXTINF:-1 tvg-id="" tvg-name="Dois Tiras Fora De Ordem Terence Hill E Bud Spencer"tvg-logo="https://images.justwatch.com/poster/263442838/s592/dois-tiras-fora-de-ordemgroup-title="FILME TV FAX |  Terence Hill E Bud Spencer",Dois Tiras Fora De Ordem Terence Hill E Bud Spencer
 https://ia902707.us.archive.org/22/items/dois-tiras-fora-de-ordem-terence-hill-e-bud-spencer-tv-fax/Dois%20Tiras%20Fora%20de%20Ordem%20Terence%20Hill%20E%20%20Bud%20Spencer%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Banana Joe Terence Hill E Bud SpencerBanana Joe Terence Hill E Bud Spencer"tvg-logo="https://i.ytimg.com/vi/z9wuJvUAIB0/mqdefault.jpg"group-title="FILME TV FAX Terence Hill E Bud Spencer",Banana Joe Terence Hill E Bud Spencer
+#EXTINF:-1 tvg-id="" tvg-name="Banana Joe Terence Hill E Bud SpencerBanana Joe Terence Hill E Bud Spencer"tvg-logo="https://i.ytimg.com/vi/z9wuJvUAIB0/mqdefault.jpg"group-title="FILME TV FAX |  Terence Hill E Bud Spencer",Banana Joe Terence Hill E Bud Spencer
 https://ia902700.us.archive.org/0/items/banana-joe-terence-hill-e-bud-spencer-tv-fax/Banana%20Joe%20Terence%20Hill%20E%20%20Bud%20Spencer%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Par Ou Ímpar"tvg-logo="https://i.ytimg.com/vi/gvihYUXqGsw/mqdefault.jpg"group-title="FILME TV FAX Terence Hill E Bud Spencer",Par Ou Ímpar
+#EXTINF:-1 tvg-id="" tvg-name="Par Ou Ímpar"tvg-logo="https://i.ytimg.com/vi/gvihYUXqGsw/mqdefault.jpg"group-title="FILME TV FAX |  Terence Hill E Bud Spencer",Par Ou Ímpar
 https://ia802701.us.archive.org/18/items/par-ou-impar-terence-hill-e-bud-spencer-tv-fax/Par%20ou%20%C3%8Dmpar%20-%20Terence%20Hill%20e%20Bud%20Spencer%20TV%20FAX%20.mp4
 
-#EXTM3U url-tvg="http://grade-de-FILME TV FAX B HISTORIA REAL.xml"
-############## FILME TV FAX B HISTORIA REAL ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX B HISTORIA REAL" group-title="
+#EXTM3U url-tvg="http://grade-de-FILME TV FAX |  B HISTORIA REAL.xml"
+############## FILME TV FAX |  B HISTORIA REAL ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX |  B HISTORIA REAL" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Graça e Perdão"tvg-logo="https://www.justwatch.com/images/backdrop/93287667/s640/graca-e-perdao"group-title="FILME TV FAX B HISTORIA REAL",Graça e Perdão
+#EXTINF:-1 tvg-id="" tvg-name="Graça e Perdão"tvg-logo="https://www.justwatch.com/images/backdrop/93287667/s640/graca-e-perdao"group-title="FILME TV FAX |  B HISTORIA REAL",Graça e Perdão
 https://seig.tv/19/1/31d59c5c4f8b1aa97706d0f40a8dbc49/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Entrevista Com Deus"tvg-logo="https://imgsapp2.uai.com.br/app/noticia_133890394703/2018/11/15/237357/20181114180453945442o.jpg"group-title="FILME TV FAX B HISTORIA REAL",Entrevista Com Deus
+#EXTINF:-1 tvg-id="" tvg-name="Entrevista Com Deus"tvg-logo="https://imgsapp2.uai.com.br/app/noticia_133890394703/2018/11/15/237357/20181114180453945442o.jpg"group-title="FILME TV FAX |  B HISTORIA REAL",Entrevista Com Deus
 https://ia600509.us.archive.org/8/items/entrevista-com-deus-tv-fax/Entrevista%20com%20Deus%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Caminho Para A Eternidade"tvg-logo="https://i.ytimg.com/vi/OaZ_TrtISb8/maxresdefault.jpg"group-title="FILME TV FAX B HISTORIA REAL",O Caminho Para A Eternidade
+#EXTINF:-1 tvg-id="" tvg-name="O Caminho Para A Eternidade"tvg-logo="https://i.ytimg.com/vi/OaZ_TrtISb8/maxresdefault.jpg"group-title="FILME TV FAX |  B HISTORIA REAL",O Caminho Para A Eternidade
 https://ia902705.us.archive.org/11/items/o-caminho-para-a-eternidade-tv-fax/O%20Caminho%20Para%20a%20EternidadeTV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SEPARADOS PELO DESTINO"tvg-logo="https://i.ytimg.com/vi/XgAmxjZPo4A/sddefault.jpg?v=61bdf8aa"group-title="FILME TV FAX B HISTORIA REAL",SEPARADOS PELO DESTINO
+#EXTINF:-1 tvg-id="" tvg-name="SEPARADOS PELO DESTINO"tvg-logo="https://i.ytimg.com/vi/XgAmxjZPo4A/sddefault.jpg?v=61bdf8aa"group-title="FILME TV FAX |  B HISTORIA REAL",SEPARADOS PELO DESTINO
 https://ia902709.us.archive.org/5/items/separados-pelo-destino-b-tv-fax/SEPARADOS%20PELO%20DESTINO%20B%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Povo Do Reino Dos Céus Somente Pessoas Honestas Podem Entrar No Reino Dos Céus Gospel"tvg-logo="https://i.ytimg.com/vi/kB11KRbj_BU/maxresdefault.jpg"group-title="FILME TV FAX B HISTORIA REAL",O Povo Do Reino Dos Céus Somente Pessoas Honestas Podem Entrar No Reino Dos Céus Gospel
+#EXTINF:-1 tvg-id="" tvg-name="O Povo Do Reino Dos Céus Somente Pessoas Honestas Podem Entrar No Reino Dos Céus Gospel"tvg-logo="https://i.ytimg.com/vi/kB11KRbj_BU/maxresdefault.jpg"group-title="FILME TV FAX |  B HISTORIA REAL",O Povo Do Reino Dos Céus Somente Pessoas Honestas Podem Entrar No Reino Dos Céus Gospel
 https://ia802702.us.archive.org/27/items/o-povo-do-reino-dos-ceus-somente-pessoas-honestas-podem-entrar-no-reino-dos-ceus-gospel-tv-fax/O%20povo%20do%20reino%20dos%20c%C3%A9us%20Somente%20pessoas%20honestas%20podem%20entrar%20no%20reino%20dos%20c%C3%A9us%20%20gospel%20TV%20FAX%20.mp4?cnt=0
-#EXTINF:-1 tvg-id="" tvg-name="A Batalha De Um Pai"tvg-logo="https://i.ytimg.com/vi/WlVnj6RxN98/hqdefault.jpg"group-title="FILME TV FAX B HISTORIA REAL",A Batalha De Um Pai 
+#EXTINF:-1 tvg-id="" tvg-name="A Batalha De Um Pai"tvg-logo="https://i.ytimg.com/vi/WlVnj6RxN98/hqdefault.jpg"group-title="FILME TV FAX |  B HISTORIA REAL",A Batalha De Um Pai 
 https://ia902708.us.archive.org/31/items/a-batalha-de-um-pai-b-tv-fax/A%20Batalha%20de%20um%20Pai%20B%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="RENASCIDOS NOVO CORAÇÃO"tvg-logo="https://i.ytimg.com/vi/25PfhGua2N0/maxresdefault.jpg"group-title="FILME TV FAX B HISTORIA REAL",RENASCIDOS NOVO CORAÇÃO
+#EXTINF:-1 tvg-id="" tvg-name="RENASCIDOS NOVO CORAÇÃO"tvg-logo="https://i.ytimg.com/vi/25PfhGua2N0/maxresdefault.jpg"group-title="FILME TV FAX |  B HISTORIA REAL",RENASCIDOS NOVO CORAÇÃO
 https://ia902700.us.archive.org/13/items/renascidos-novo-coraca-o-tv-fax/RENASCIDOS%20%20NOVO%20CORA%C3%87%C3%83O%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Promessas De Guerra"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGc65WB2CPN9IkwpTk_1HnKSVQiDH8rEuzX2r-Usj_oEJnVXoxJIoxFtQiqeeq0HE49Mg&usqp=CAU"group-title="FILME TV FAX B HISTORIA REAL",Promessas De Guerra
+#EXTINF:-1 tvg-id="" tvg-name="Promessas De Guerra"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGc65WB2CPN9IkwpTk_1HnKSVQiDH8rEuzX2r-Usj_oEJnVXoxJIoxFtQiqeeq0HE49Mg&usqp=CAU"group-title="FILME TV FAX |  B HISTORIA REAL",Promessas De Guerra
 https://ia902704.us.archive.org/10/items/promessas-de-guerra-tv-fax/Promessas%20de%20Guerra%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Que Haja Luz"tvg-logo="https://media.fstatic.com/33Uo_y3MofacJEy7PsULPScmNcs=/322x478/smart/filters:format(webp)/media/movies/covers/2019/03/p14122451_v_v8_ac.jpg"group-title="FILME TV FAX B HISTORIA REAL",Que Haja Luz 
+#EXTINF:-1 tvg-id="" tvg-name="Que Haja Luz"tvg-logo="https://media.fstatic.com/33Uo_y3MofacJEy7PsULPScmNcs=/322x478/smart/filters:format(webp)/media/movies/covers/2019/03/p14122451_v_v8_ac.jpg"group-title="FILME TV FAX |  B HISTORIA REAL",Que Haja Luz 
 https://ia902704.us.archive.org/1/items/que-haja-luz-tv-fax/Que%20Haja%20Luz%20%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Querido John"tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/87/32/42/20028691.jpg"group-title="FILME TV FAX B HISTORIA REAL",Querido John
+#EXTINF:-1 tvg-id="" tvg-name="Querido John"tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/87/32/42/20028691.jpg"group-title="FILME TV FAX |  B HISTORIA REAL",Querido John
 https://ia802700.us.archive.org/22/items/querido-john-tv-fax/Querido%20John%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Corajosos"tvg-logo="https://images.justwatch.com/poster/252856886/s718/corajosos.%7Bformat%7D"group-title="FILME TV FAX B HISTORIA REAL",Corajosos
+#EXTINF:-1 tvg-id="" tvg-name="Corajosos"tvg-logo="https://images.justwatch.com/poster/252856886/s718/corajosos.%7Bformat%7D"group-title="FILME TV FAX |  B HISTORIA REAL",Corajosos
 https://ia902705.us.archive.org/32/items/corajosos-filmes-tv-fax-hd/Corajosos%20Filmes%20TV%20FAX%20HD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Anjo Da Minha Vida"tvg-logo="https://ottvsimg.ottvs.com.br/cov/gmt.194393/0194393_335.jpg"group-title="FILME TV FAX B HISTORIA REAL",Anjo Da Minha Vida
+#EXTINF:-1 tvg-id="" tvg-name="Anjo Da Minha Vida"tvg-logo="https://ottvsimg.ottvs.com.br/cov/gmt.194393/0194393_335.jpg"group-title="FILME TV FAX |  B HISTORIA REAL",Anjo Da Minha Vida
 https://ia902705.us.archive.org/0/items/anjo-da-minha-vida-filmes-tv-fax-hd/Anjo%20da%20Minha%20Vida%20Filmes%20TV%20FAX%20HD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="À Espera de Um Milagre"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtCkbjUvOprnKy4Nq22zBr3K7Xot2UPsugDw&usqp=CAU"group-title="FILME TV FAX B HISTORIA REAL",À Espera de Um Milagre
+#EXTINF:-1 tvg-id="" tvg-name="À Espera de Um Milagre"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtCkbjUvOprnKy4Nq22zBr3K7Xot2UPsugDw&usqp=CAU"group-title="FILME TV FAX |  B HISTORIA REAL",À Espera de Um Milagre
 https://ia903409.us.archive.org/14/items/a-espera-de-um-milagre-1999-720p-dublado/%C3%80%20Espera%20de%20um%20Milagre%20%281999%29%20720p%20dublado.ia.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Queda"tvg-logo="https://br.web.img2.acsta.net/pictures/22/10/04/19/16/5487644.jpg"group-title="FILME TV FAX B HISTORIA REAL",A Queda
+#EXTINF:-1 tvg-id="" tvg-name="A Queda"tvg-logo="https://br.web.img2.acsta.net/pictures/22/10/04/19/16/5487644.jpg"group-title="FILME TV FAX |  B HISTORIA REAL",A Queda
 https://ia902602.us.archive.org/26/items/a-queda_202306/A%20Queda.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Queda"tvg-logo="https://image.tmdb.org/t/p/w185/53AC95HTGvFYA8ZRkGgeYo7lBRo.jpg"group-title="FILME TV FAX B HISTORIA REAL",A Queda
+#EXTINF:-1 tvg-id="" tvg-name="A Queda"tvg-logo="https://image.tmdb.org/t/p/w185/53AC95HTGvFYA8ZRkGgeYo7lBRo.jpg"group-title="FILME TV FAX |  B HISTORIA REAL",A Queda
 https://seig.tv/19/1/97c990a6b53b1f8612174350de91946a/720p/720p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Um Ato De Liberdade"tvg-logo="https://fotos-g.imagemfilmes.com.br/103853/103853_001.jpg"group-title="FILME TV FAX B HISTORIA REAL",Um Ato De Liberdade
+#EXTINF:-1 tvg-id="" tvg-name="Um Ato De Liberdade"tvg-logo="https://fotos-g.imagemfilmes.com.br/103853/103853_001.jpg"group-title="FILME TV FAX |  B HISTORIA REAL",Um Ato De Liberdade
 https://ia802702.us.archive.org/34/items/um-ato-de-liberdade-filmes-tv-fax-hd/Um%20Ato%20de%20Liberdade%20%20Filmes%20TV%20FAX%20HD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O FAZENDEIRO E DEUS"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/9da37bfb54bf62e94c1133ec4711b725ac86f0db5a02a1dd539f2cacea3918a7._UY500_UX667_RI_TTW_.jpg"group-title="FILME TV FAX B HISTORIA REAL",O FAZENDEIRO E DEUS
+#EXTINF:-1 tvg-id="" tvg-name="O FAZENDEIRO E DEUS"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/9da37bfb54bf62e94c1133ec4711b725ac86f0db5a02a1dd539f2cacea3918a7._UY500_UX667_RI_TTW_.jpg"group-title="FILME TV FAX |  B HISTORIA REAL",O FAZENDEIRO E DEUS
 http://tntmais.com:80/movie/123456789/123456789/9968.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O FILHO DE DEUS"tvg-logo="https://play-lh.googleusercontent.com/QklhhABKTziSChaYpYDHU3Y1GPxyUatrjNhkk4U408M1HCldLs1HJbl_6zJZ_ErH0zYU"group-title="FILME TV FAX B HISTORIA REAL",O FILHO DE DEUS
+#EXTINF:-1 tvg-id="" tvg-name="O FILHO DE DEUS"tvg-logo="https://play-lh.googleusercontent.com/QklhhABKTziSChaYpYDHU3Y1GPxyUatrjNhkk4U408M1HCldLs1HJbl_6zJZ_ErH0zYU"group-title="FILME TV FAX |  B HISTORIA REAL",O FILHO DE DEUS
 http://tntmais.com:80/movie/123456789/123456789/9969.mp4
-#EXTINF:-1 tvg-id="" tvg-name="o segredo do lago"tvg-logo="https://i.ytimg.com/vi/joW45FpcRcA/hqdefault.jpg"group-title="FILME TV FAX B HISTORIA REAL",o segredo do lago
+#EXTINF:-1 tvg-id="" tvg-name="o segredo do lago"tvg-logo="https://i.ytimg.com/vi/joW45FpcRcA/hqdefault.jpg"group-title="FILME TV FAX |  B HISTORIA REAL",o segredo do lago
 https://ia802702.us.archive.org/14/items/filme-gospel-drama-biografia-familia-historia-dublado-lancamento-2019-360-tv-fax/Filme%20Gospel%20Drama%20Biografia%20Fam%C3%ADlia%20Historia%20Dublado%20Lancamento%202019%20360%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Razao Para Vencer"tvg-logo="https://cdn.mitvstatic.com/programs/br_uma-raz-o-para-vencer-2018_p_m.jpg"group-title="FILME TV FAX B HISTORIA REAL",Uma Razao Para Vencer
+#EXTINF:-1 tvg-id="" tvg-name="Uma Razao Para Vencer"tvg-logo="https://cdn.mitvstatic.com/programs/br_uma-raz-o-para-vencer-2018_p_m.jpg"group-title="FILME TV FAX |  B HISTORIA REAL",Uma Razao Para Vencer
 https://ia902705.us.archive.org/28/items/uma-razao-para-vencer-tv-fax/Uma%20Raza%CC%83o%20Para%20Vencer%20%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="EU SO POSSO IMAGINAR"tvg-logo="https://i.ytimg.com/vi/0JXpVnWAcV0/maxresdefault.jpg"group-title="FILME TV FAX B HISTORIA REAL",EU SO POSSO IMAGINAR 
+#EXTINF:-1 tvg-id="" tvg-name="EU SO POSSO IMAGINAR"tvg-logo="https://i.ytimg.com/vi/0JXpVnWAcV0/maxresdefault.jpg"group-title="FILME TV FAX |  B HISTORIA REAL",EU SO POSSO IMAGINAR 
 https://ia802708.us.archive.org/9/items/eu-so-posso-imaginar-tv-fax/EU%20S%C3%93%20POSSO%20IMAGINAR%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="E Seu Nome E Jonas"tvg-logo="https://i.ytimg.com/vi/mBPSkOfFjnE/maxresdefault.jpg"group-title="FILME TV FAX B HISTORIA REAL",E Seu Nome E Jonas
+#EXTINF:-1 tvg-id="" tvg-name="E Seu Nome E Jonas"tvg-logo="https://i.ytimg.com/vi/mBPSkOfFjnE/maxresdefault.jpg"group-title="FILME TV FAX |  B HISTORIA REAL",E Seu Nome E Jonas
 https://ia902705.us.archive.org/8/items/e-seu-nome-e-jonas-tv-fax/E%20Seu%20Nome%20%C3%A9%20Jonas%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Com Deus No Caminho "tvg-logo="https://www.rbsdirect.com.br/filestore/5/6/2/8/9/5/4_4ea9b31f77486f4/4598265_43a4d63371018be.jpg?w=700"group-title="FILME TV FAX B HISTORIA REAL",Com Deus No Caminho 
+#EXTINF:-1 tvg-id="" tvg-name="Com Deus No Caminho "tvg-logo="https://www.rbsdirect.com.br/filestore/5/6/2/8/9/5/4_4ea9b31f77486f4/4598265_43a4d63371018be.jpg?w=700"group-title="FILME TV FAX |  B HISTORIA REAL",Com Deus No Caminho 
 https://ia902702.us.archive.org/29/items/com-deus-no-caminho-tv-fax/Com%20Deus%20no%20Caminho%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SEM EVIDÊ NCIAS Drama Baseado Em Fatos Reais"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWZgAAaT1sVbKtU5-TyM612EPeMUP_V6tl0toA9UElZuuXjh9dRL-e_-uAVqFGVgQQctA&usqp=CAU"group-title="FILME TV FAX B HISTORIA REAL",SEM EVIDÊ NCIAS Drama Baseado Em Fatos Reais
+#EXTINF:-1 tvg-id="" tvg-name="SEM EVIDÊ NCIAS Drama Baseado Em Fatos Reais"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWZgAAaT1sVbKtU5-TyM612EPeMUP_V6tl0toA9UElZuuXjh9dRL-e_-uAVqFGVgQQctA&usqp=CAU"group-title="FILME TV FAX |  B HISTORIA REAL",SEM EVIDÊ NCIAS Drama Baseado Em Fatos Reais
 https://ia902706.us.archive.org/27/items/sem-evide-ncias-drama-baseado-em-fatos-reais-tv-fax/SEM%20EVID%C3%8ANCIAS%20Drama%20Baseado%20em%20fatos%20reais%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Paulo Apostolo De Cristo"tvg-logo="https://m.media-amazon.com/images/I/61CUYw3LANL._AC_UF894,1000_QL80_.jpg"group-title="FILME TV FAX B HISTORIA REAL",Paulo Apostolo De Cristo
+#EXTINF:-1 tvg-id="" tvg-name="Paulo Apostolo De Cristo"tvg-logo="https://m.media-amazon.com/images/I/61CUYw3LANL._AC_UF894,1000_QL80_.jpg"group-title="FILME TV FAX |  B HISTORIA REAL",Paulo Apostolo De Cristo
 https://ia802707.us.archive.org/34/items/paulo-apostolo-de-cristo-tv-fax/Paulo%20Apostolo%20de%20Cristo%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",O Poder Do Perdão "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Jm5Gone2bLL3NSl7D8PRQvpcRuBpKcCNn8wLs7cfFP-WHmfCZuMx2_dkz1HtWrT3orc&usqp=CAU"group-title="FILME TV FAX B HISTORIA REAL",O Poder Do Perdão 
+#EXTINF:-1 tvg-id="" tvg-name=",O Poder Do Perdão "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1Jm5Gone2bLL3NSl7D8PRQvpcRuBpKcCNn8wLs7cfFP-WHmfCZuMx2_dkz1HtWrT3orc&usqp=CAU"group-title="FILME TV FAX |  B HISTORIA REAL",O Poder Do Perdão 
 https://ia802705.us.archive.org/30/items/o-poder-do-perdao-tv-fax/O%20Poder%20do%20Perd%C3%A3o%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",O Perdoado"tvg-logo="https://d3ugyf2ht6aenh.cloudfront.net/stores/001/083/509/products/o-perdoado1-9b715002cd2dab451916712163200093-640-0.webp"group-title="FILME TV FAX B HISTORIA REAL",O Perdoado
+#EXTINF:-1 tvg-id="" tvg-name=",O Perdoado"tvg-logo="https://d3ugyf2ht6aenh.cloudfront.net/stores/001/083/509/products/o-perdoado1-9b715002cd2dab451916712163200093-640-0.webp"group-title="FILME TV FAX |  B HISTORIA REAL",O Perdoado
 https://ia902709.us.archive.org/10/items/o-perdoado-tv-fax/O%20Perdoado%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",O Milagre De Marcelino Pão E Vinho"tvg-logo="https://d3ugyf2ht6aenh.cloudfront.net/stores/842/420/products/dvd-marcelino-po-e-vinho-1954-ladislao-vajda-d_nq_np_7230-mlb5187097210_102013-f1-e612c15bedfef4abe715435173768030-640-0.jpg"group-title="FILME TV FAX B HISTORIA REAL",O Milagre De Marcelino Pão E Vinho
+#EXTINF:-1 tvg-id="" tvg-name=",O Milagre De Marcelino Pão E Vinho"tvg-logo="https://d3ugyf2ht6aenh.cloudfront.net/stores/842/420/products/dvd-marcelino-po-e-vinho-1954-ladislao-vajda-d_nq_np_7230-mlb5187097210_102013-f1-e612c15bedfef4abe715435173768030-640-0.jpg"group-title="FILME TV FAX |  B HISTORIA REAL",O Milagre De Marcelino Pão E Vinho
 https://ia902702.us.archive.org/25/items/o-milagre-de-marcelino-pao-e-vinho-tv-fax/O%20Milagre%20de%20Marcelino%20P%C3%A3o%20e%20Vinho%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",Crescimento Um Comovente Testemunho De Fé"tvg-logo="https://i.ytimg.com/vi/YI_a-s0DIN4/hqdefault.jpg?v=63c47837"group-title="FILME TV FAX B HISTORIA REAL",Crescimento Um Comovente Testemunho De Fé
+#EXTINF:-1 tvg-id="" tvg-name=",Crescimento Um Comovente Testemunho De Fé"tvg-logo="https://i.ytimg.com/vi/YI_a-s0DIN4/hqdefault.jpg?v=63c47837"group-title="FILME TV FAX |  B HISTORIA REAL",Crescimento Um Comovente Testemunho De Fé
 https://ia902700.us.archive.org/22/items/crescimento-um-comovente-testemunho-de-fe-tv-fax/Crescimento%20Um%20comovente%20testemunho%20de%20f%C3%A9%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",O Caminho Para A Eternidade "tvg-logo="https://i4.ytimg.com/vi/wrxoaEel9Sc/default.jpg"group-title="FILME TV FAX B HISTORIA REAL",O Caminho Para A Eternidade 
+#EXTINF:-1 tvg-id="" tvg-name=",O Caminho Para A Eternidade "tvg-logo="https://i4.ytimg.com/vi/wrxoaEel9Sc/default.jpg"group-title="FILME TV FAX |  B HISTORIA REAL",O Caminho Para A Eternidade 
 https://ia802705.us.archive.org/11/items/o-caminho-para-a-eternidade-tv-fax/O%20Caminho%20Para%20a%20EternidadeTV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",Uma Questão De Fé "tvg-logo="https://blog.univervideo.com/wp-content/uploads/2020/05/thumb-uma-questao-de-fe-2.jpg"group-title="FILME TV FAX B HISTORIA REAL",Uma Questão De Fé 
+#EXTINF:-1 tvg-id="" tvg-name=",Uma Questão De Fé "tvg-logo="https://blog.univervideo.com/wp-content/uploads/2020/05/thumb-uma-questao-de-fe-2.jpg"group-title="FILME TV FAX |  B HISTORIA REAL",Uma Questão De Fé 
 https://ia802709.us.archive.org/23/items/uma-questao-de-fe-dublado-tv-fax/Uma%20Quest%C3%A3o%20de%20F%C3%A9%20Dublado%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",Uma Lição De Amor"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/13c961daf214d266054023cb2d5fbc8c4a17b19bd98c4c7a62820084850f2515._RI_TTW_.jpg"group-title="FILMES | TV FAX",Uma Lição De Amor
+#EXTINF:-1 tvg-id="" tvg-name=",Uma Lição De Amor"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/13c961daf214d266054023cb2d5fbc8c4a17b19bd98c4c7a62820084850f2515._RI_TTW_.jpg"group-title="FILME TV FAX |  B HISTORIA REAL",Uma Lição De Amor
 https://ia802709.us.archive.org/6/items/uma-licao-de-amor-tv-fax/Uma%20Li%C3%A7%C3%A3o%20de%20Amor%20TV%20FAX%20.mp4
 
-#EXTM3U url-tvg="http://grade-de-FILME TV FAX AUTISMO.xml"
-############## FILME TV FAX AUTISMO ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX AUTISMO" group-title="
+#EXTM3U url-tvg="http://grade-de-FILME TV FAX | AUTISMO.xml"
+############## FILME TV FAX | AUTISMO ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX | AUTISMO" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Milagre Na Cela 7"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/da613c490fabc8902686b1ddda8cf52797f64d4c9dc32cd80988ad8404353011._RI_TTW_.jpg"group-title="FILME TV FAX AUTISMO",Milagre Na Cela 7
+#EXTINF:-1 tvg-id="" tvg-name="Milagre Na Cela 7"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/da613c490fabc8902686b1ddda8cf52797f64d4c9dc32cd80988ad8404353011._RI_TTW_.jpg"group-title="FILME TV FAX |  AUTISMO",Milagre Na Cela 7
 https://ia902702.us.archive.org/13/items/milagre-na-cela-7-tv-fax/Milagre%20na%20Cela%207%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Simples Como Amar 1999 Deficiente Intelectua"tvg-logo="https://ricardoshimosakai.com.br/wp-content/uploads/2014/10/Carla-Tate-Juliette-Lewis-e-Danny-McMann-Giovanni-Ribisi-ambos-com-defici%C3%AAncia-intelectual-vivem-uma-hist%C3%B3ria-de-amor.jpg"group-title="FILME TV FAX AUTISMO",Simples Como Amar 1999 Deficiente Intelectua
+#EXTINF:-1 tvg-id="" tvg-name="Simples Como Amar 1999 Deficiente Intelectua"tvg-logo="https://ricardoshimosakai.com.br/wp-content/uploads/2014/10/Carla-Tate-Juliette-Lewis-e-Danny-McMann-Giovanni-Ribisi-ambos-com-defici%C3%AAncia-intelectual-vivem-uma-hist%C3%B3ria-de-amor.jpg"group-title="FILME TV FAX |  AUTISMO",Simples Como Amar 1999 Deficiente Intelectua
 https://ia802700.us.archive.org/4/items/simples-como-amar-1999-deficiente-intelectua-tv-fax-l/Simples%20como%20amar%201999%20%20deficiente%20intelectua%20TV%20FAX%20l.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Meu Nome É Rádio"tvg-logo="https://images.justwatch.com/poster/300493222/s718/meu-nome-e-radio.%7Bformat%7D"group-title="FILME TV FAX AUTISMO",Meu Nome É Rádio
+#EXTINF:-1 tvg-id="" tvg-name="Meu Nome É Rádio"tvg-logo="https://images.justwatch.com/poster/300493222/s718/meu-nome-e-radio.%7Bformat%7D"group-title="FILME TV FAX |  AUTISMO",Meu Nome É Rádio
 https://ia902602.us.archive.org/33/items/meu-nome-e-radio-filmes-tv-fax-hd/Meu%20Nome%20%C3%A9%20Radio%20Filmes%20TV%20FAX%20HD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Meios Irmãos"tvg-logo="https://br.web.img3.acsta.net/pictures/20/10/09/09/13/3599797.jpg"group-title="FILME TV FAX AUTISMO",Meios Irmãos
+#EXTINF:-1 tvg-id="" tvg-name="Meios Irmãos"tvg-logo="https://br.web.img3.acsta.net/pictures/20/10/09/09/13/3599797.jpg"group-title="FILME TV FAX |  AUTISMO",Meios Irmãos
 https://ia802706.us.archive.org/8/items/meios-irmaos-filmes-tv-fax-hd/Meios-irm%C3%A3os%20Filmes%20TV%20FAX%20HD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Milagre De Tyson AUTISMO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlXAsHuXN9q5Hwdl6BAkDf-rxh5tA5U5Qqc-o3LSOq7SRR4SS4tGDjfv_UGvBboYmmsJw&usqp=CAU"group-title="FILME TV FAX AUTISMO",O Milagre De Tyson AUTISMO
+#EXTINF:-1 tvg-id="" tvg-name="O Milagre De Tyson AUTISMO"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlXAsHuXN9q5Hwdl6BAkDf-rxh5tA5U5Qqc-o3LSOq7SRR4SS4tGDjfv_UGvBboYmmsJw&usqp=CAU"group-title="FILME TV FAX |  AUTISMO",O Milagre De Tyson AUTISMO
 https://ia802704.us.archive.org/1/items/o-milagre-de-tyson-autismo-tv-fax/O%20Milagre%20de%20Tyson%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Farol Das Orcas"tvg-logo="https://conteudo.imguol.com.br/blogs/238/files/2020/02/roberto-bubas-film.jpg"group-title="FILME TV FAX AUTISMO",Farol Das Orcas
+#EXTINF:-1 tvg-id="" tvg-name="Farol Das Orcas"tvg-logo="https://conteudo.imguol.com.br/blogs/238/files/2020/02/roberto-bubas-film.jpg"group-title="FILME TV FAX |  AUTISMO",Farol Das Orcas
 https://ia802702.us.archive.org/3/items/assistir-autismo-farol-das-orcas-online-gratis-mega-filmes-hd/Assistir%20AUTISMO%20Farol%20das%20Orcas%20Online%20Gr%C3%A1tis%20-%20Mega%20Filmes%20HD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="O Menino e o Mundo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbmPvBEMaSTMzJBCTQkl9XcPLNf9vHcFvcLQ&usqp=CAU"group-title="FILME TV FAX AUTISMO",O Menino e o Mundo
+#EXTINF:-1 tvg-id="" tvg-name="O Menino e o Mundo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbmPvBEMaSTMzJBCTQkl9XcPLNf9vHcFvcLQ&usqp=CAU"group-title="FILME TV FAX |  AUTISMO",O Menino e o Mundo
 https://ia802702.us.archive.org/3/items/assistir-autismo-farol-das-orcas-online-gratis-mega-filmes-hd/Assistir%20O%20Menino%20e%20o%20Mundo%20Online%20Gr%C3%A1tis%20-%20Filme%20em%20HD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sentimentos que Curam"tvg-logo="https://br.web.img3.acsta.net/pictures/15/04/16/20/32/027144.jpg"group-title="FILME TV FAX AUTISMO",Sentimentos que Curam
+#EXTINF:-1 tvg-id="" tvg-name="Sentimentos que Curam"tvg-logo="https://br.web.img3.acsta.net/pictures/15/04/16/20/32/027144.jpg"group-title="FILME TV FAX |  AUTISMO",Sentimentos que Curam
 https://ia802702.us.archive.org/3/items/assistir-autismo-farol-das-orcas-online-gratis-mega-filmes-hd/Assistir%20Sentimentos%20que%20Curam%20Online%20Gr%C3%A1tis%20-%20Filme%20em%20HD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="tao forte e tao perto"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQel4VnELTrUGuIAcQr0isZCXbLds_tZRsI9REJ2YPwd4YbrfiaDBsuwJjg_wdPoAn_hrg&usqp=CAU"group-title="FILME TV FAX AUTISMO",tao forte e tao perto
+#EXTINF:-1 tvg-id="" tvg-name="tao forte e tao perto"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQel4VnELTrUGuIAcQr0isZCXbLds_tZRsI9REJ2YPwd4YbrfiaDBsuwJjg_wdPoAn_hrg&usqp=CAU"group-title="FILME TV FAX |  AUTISMO",tao forte e tao perto
 https://ia902702.us.archive.org/3/items/assistir-autismo-farol-das-orcas-online-gratis-mega-filmes-hd/Assistir%20T%C3%A3o%20Forte%20e%20T%C3%A3o%20Perto%20Online%20Gr%C3%A1tis%20-%20Filme%20em%20HD.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gêmeos com Autismo e sua Mãe - Uma Viagem Inesperada I Maria Claudia Brito"tvg-logo="https://i.ytimg.com/vi/33Fv3_0s0rE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD_f1mLOR_sJcWbxFdVkLRkG6-WUw"group-title="FILME TV FAX AUTISMO",Gêmeos com Autismo e sua Mãe - Uma Viagem Inesperada I Maria Claudia Brito
+#EXTINF:-1 tvg-id="" tvg-name="Gêmeos com Autismo e sua Mãe - Uma Viagem Inesperada I Maria Claudia Brito"tvg-logo="https://i.ytimg.com/vi/33Fv3_0s0rE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD_f1mLOR_sJcWbxFdVkLRkG6-WUw"group-title="FILME TV FAX |  AUTISMO",Gêmeos com Autismo e sua Mãe - Uma Viagem Inesperada I Maria Claudia Brito
 https://ia802702.us.archive.org/3/items/assistir-autismo-farol-das-orcas-online-gratis-mega-filmes-hd/FILME%20DE%20AUTISMO%20-%20G%C3%AAmeos%20com%20Autismo%20e%20sua%20M%C3%A3e%20-%20Uma%20Viagem%20Inesperada%20I%20Maria%20Claudia%20Brito.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Meu filho meu mundo "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPARoz0bM0br1TyUXT7r_DOx9vFokVaLKq90t7bBTLhMRiICL8IGvfaohqa1ETOAdmPRU&usqp=CAU"group-title="FILME TV FAX AUTISMO",Meu filho meu mundo 
+#EXTINF:-1 tvg-id="" tvg-name="Meu filho meu mundo "tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPARoz0bM0br1TyUXT7r_DOx9vFokVaLKq90t7bBTLhMRiICL8IGvfaohqa1ETOAdmPRU&usqp=CAU"group-title="FILME TV FAX |  AUTISMO",Meu filho meu mundo 
 https://ia902702.us.archive.org/3/items/assistir-autismo-farol-das-orcas-online-gratis-mega-filmes-hd/videoplayback%281%29.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Molly Experimentando A Vida"tvg-logo="https://i.ytimg.com/vi/SnTZee4cp90/maxresdefault.jpg"group-title="FILME TV FAX AUTISMO",Molly Experimentando A Vida
+#EXTINF:-1 tvg-id="" tvg-name="Molly Experimentando A Vida"tvg-logo="https://i.ytimg.com/vi/SnTZee4cp90/maxresdefault.jpg"group-title="FILME TV FAX |  AUTISMO",Molly Experimentando A Vida
 https://ia802701.us.archive.org/2/items/molly-experimentando-a-vida-1999-drama-autista-tv-fax/Molly%20-Experimentando%20a%20Vida%20%281999%29%20-%20Drama%20Autista%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Uma Lição De Amor"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/13c961daf214d266054023cb2d5fbc8c4a17b19bd98c4c7a62820084850f2515._RI_TTW_.jpg"group-title="FILME TV FAX AUTISMO",Uma Lição De Amor
+#EXTINF:-1 tvg-id="" tvg-name="Uma Lição De Amor"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/13c961daf214d266054023cb2d5fbc8c4a17b19bd98c4c7a62820084850f2515._RI_TTW_.jpg"group-title="FILME TV FAX |  AUTISMO",Uma Lição De Amor
 https://ia802709.us.archive.org/6/items/uma-licao-de-amor-tv-fax/Uma%20Li%C3%A7%C3%A3o%20de%20Amor%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Lição De Vida"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="FILME TV FAX AUTISMO",Lição De Vida
+#EXTINF:-1 tvg-id="" tvg-name="Lição De Vida"tvg-logo="https://i.ytimg.com/vi/0eqGTUJcECg/mqdefault.jpg?v=63092c5d"group-title="FILME TV FAX |  AUTISMO",Lição De Vida
 https://ia802701.us.archive.org/20/items/licao-de-vida-tv-fax/Li%C3%A7%C3%A3o%20de%20Vida%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gilbert Grape Aprendiz De Sonhador"tvg-logo="https://culturardotblog.files.wordpress.com/2021/06/gilbert-grape.jpg?w=640"group-title="FILME TV FAX AUTISMO",Gilbert Grape Aprendiz De Sonhador
+#EXTINF:-1 tvg-id="" tvg-name="Gilbert Grape Aprendiz De Sonhador"tvg-logo="https://culturardotblog.files.wordpress.com/2021/06/gilbert-grape.jpg?w=640"group-title="FILME TV FAX |  AUTISMO",Gilbert Grape Aprendiz De Sonhador
 https://ia902706.us.archive.org/20/items/gilbert-grape-aprendiz-de-sonhador-tv-fax/Gilbert%20Grape%20Aprendiz%20de%20Sonhador%20TV%20FAX%20.mp4
 
 #EXTM3U url-tvg="http://grade-de-FILME TV FAX HOMEM ARANHA MARVEL.xml"
@@ -13705,155 +13860,6 @@ http://apkwuv.xyz:80/series/judeva/deva10ju/304253.mp4
 #EXTINF:-1 tvg-id="" tvg-name="NCIS: Investigação Naval S20 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gjH15TjIDPEWqiVQFdqauZtBHG0.jpg" group-title="SÉRIES | Ação",NCIS: Investigação Naval S20 E09
 http://apkwuv.xyz:80/series/judeva/deva10ju/304254.mp4
 
-#EXTM3U url-tvg="http://grade-de-SÉRIES | Ação.xml"
-############## SÉRIES | Ação ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Ação" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/acjlUGrxPbEUihAWNNH0Befsilw.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S01 E01
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245206.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jIsYGAT7u2E2y9smNXKM9LLZ4hW.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S01 E02
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245207.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8KRKFkD2QEZRgHPEFwch9pQsol4.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S01 E03
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245208.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sS7uxPgDamx9yxTsn0s7oNGlyyl.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S01 E04
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245209.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qNAy0r7cleL6tjw0aODu6PKJOhD.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S01 E05
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245210.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epPHinLnrkQFMVHk5zdtX12YkeE.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S01 E06
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245211.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbIHqjh3BHwfomEAdiNyHFlWVCb.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S01 E07
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245212.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGWYDSEm6BA6V2d8VQbsiT42mt7.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S01 E08
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245213.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S01 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fUon8JMCEkVSK6brOzpn0NpQBgA.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S01 E09
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245214.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/62bNAHsf6YR63xAeHFAXzufwS9m.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S01 E10
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245215.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S01 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eLIp0OMhAMsszmnwrz0ubcEJGQb.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S01 E11
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245216.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S01 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oVeKjVUBxCTN66yt6MOxToosHs8.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S01 E12
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245217.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S01 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i3RjM3jIIzAcKdz9Y7sFWlQ1vVT.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S01 E13
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245218.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S01 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OyPrY6CxTm9Y44b26V3jVB44IQ.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S01 E14
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245219.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S01 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ddtlmNYInkty2TUnDlE5kQH6CGm.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S01 E15
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245220.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S01 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/44nLRD4YNkyNyTpHGrXiHyPHIsP.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S01 E16
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245221.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S01 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u65xLMuzsU9XOGxLgurri0RpXgv.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S01 E17
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245222.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S01 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9k8NQZA5XGFG9VXSxsZQWZjdVdP.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S01 E18
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245223.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjYhDi4bwv9hHWTvuS9SOKjNi5C.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S02 E01
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245224.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7ozxg0XS6qF0jkFlFTcDaDpzkMC.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S02 E02
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245225.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbbYKIfs7TKMn0WUK6rr30oDpQF.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S02 E03
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245226.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bGHFy0zpvjaqeOCf469Q3mom76O.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S02 E04
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245227.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yP7hhEBVwVIFAaYTUzteHO2g2Ol.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S02 E05
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245228.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3dJrBnru4BZLAgoDrIjJruo31cz.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S02 E06
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245229.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ujccRunxAhVhxavVpbuiHVgYHng.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S02 E07
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245230.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMWqR7M2jHUmUFDSZKEl6qEPbE.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S02 E08
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245231.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1vJ3TNy4Lj7plNhfID6a0jLJsK.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S02 E09
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245232.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/titJk6ZF7RbrAsYdMgWhiA1THha.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S02 E10
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245233.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PqnnDaK0FhBXKLNhsuu6mNBx2Q.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S02 E11
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245234.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k1nIkAHweiX3ssXOo8ivAOp0ZqH.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S02 E12
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245235.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ad3OpXv1NU8eg47lCjkWxg2pLg2.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S02 E13
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245236.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/920F8eKtc6kVD2djD6xXzyaX487.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S02 E14
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245237.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UlgqYow67YDbb5cZ8vamRaDuFw.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S02 E15
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245238.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3gYrkeaIrro0qWvQmV2fmmb7k33.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S02 E16
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245239.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1KIv8rGfATBpTY2tpK4Lt4a5Rpk.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S02 E17
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245240.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fl7vNFrYbuIDoO4D3zZj65XTste.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S02 E18
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245241.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/suQCbJoXshCp1q3OapkjmoBOjLB.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S02 E19
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245242.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rM5AAukEGXFlSZGcOLu03kTAQeT.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S02 E20
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245243.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/msx7w785lis0n48VKA9EKTl99tY.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S02 E21
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245244.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5TLjMV9X3uPm9ayF0MH6fyWH6pj.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S02 E22
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245245.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/91GNNetmIV9BFiKo44rZnGtEJiY.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S03 E01
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245246.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vELQWJ3YUoVkUsx8AhEXpMEPawy.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S03 E02
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245247.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zYqRHH2vOzrNPmUuAnO0gxWTVk2.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S03 E03
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245248.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iiagYg20lWwDV4UYop3QtQVp7bP.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S03 E04
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245249.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qiBLyIDTBPGGfEdBboBuDp8nB9b.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S03 E05
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245250.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kzG0xVWreOfUPv5VOvBnLlCo2AO.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S03 E06
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245251.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d3NDDS5eyqPma7CJHqnnVdGADYa.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S03 E07
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245252.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mhm2FqwP18R8ZaDUBXj3fvgTscs.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S03 E08
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245253.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rehFKVUQKKVhpq9R0yw1X59JrQ8.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S03 E09
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245254.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tiBntL2wZTxs90TbgaHPcyApbj0.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S03 E10
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245255.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m3swIU2DkXv0Yv331jD3BmZqJsH.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S03 E11
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245256.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tbMlKivDUNepU8MfRo7lUetoDFX.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S03 E12
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245257.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1x0ba3zpjGYMit8vhHh4yiXeq2.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S03 E13
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245258.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yfqDXrm6sc8KGL6EaMs9DdK7kkG.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S03 E14
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245259.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Máquina Mortífera S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xXbUa483zGv6lBIuEuPJRuJ00gc.jpg" group-title="SÉRIES | Ação",Máquina Mortífera S03 E15
-http://bgp.cdnr1.xyz:80/series/rayanecliente66/982148523c/245260.mp4
-
-#EXTM3U url-tvg="http://grade-de-SÉRIES | Aventura.xml"
-############## SÉRIES | Aventura ################# 
-#EXTINF:-1 tvg-id=" iddocanaldeSÉRIES | Aventura" group-title="
-
-#EXTINF:-1 tvg-id="" tvg-name="Viagem ao Centro da Terra S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yHe5cxwbmB52D76whIFZo9z9ml7.jpg" group-title="SÉRIES | Aventura",Viagem ao Centro da Terra S01 E01
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285243.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Viagem ao Centro da Terra S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Gtp2xpmIYV7VTL5ZRScKlaNLrP.jpg" group-title="SÉRIES | Aventura",Viagem ao Centro da Terra S01 E02
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285244.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Viagem ao Centro da Terra S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfcH7Z7lkU1OApyAh0FSMKAFFPS.jpg" group-title="SÉRIES | Aventura",Viagem ao Centro da Terra S01 E03
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285245.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Viagem ao Centro da Terra S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6NzH6IKzIaKFa17kAFTNwyyQmBC.jpg" group-title="SÉRIES | Aventura",Viagem ao Centro da Terra S01 E04
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285246.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Viagem ao Centro da Terra S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nPdlJMxfRG8Y5bymArmjqmbC5Vl.jpg" group-title="SÉRIES | Aventura",Viagem ao Centro da Terra S01 E05
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285247.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Viagem ao Centro da Terra S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/reO9yna7sPMO7d4kvK9kdsargk1.jpg" group-title="SÉRIES | Aventura",Viagem ao Centro da Terra S01 E06
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285248.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Viagem ao Centro da Terra S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ozmEY2pNl8ndrRPH3Elg5BY4sEs.jpg" group-title="SÉRIES | Aventura",Viagem ao Centro da Terra S01 E07
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285249.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Viagem ao Centro da Terra S01 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qlKQUl69PuI6QckrKLBKUR6f8Bh.jpg" group-title="SÉRIES | Aventura",Viagem ao Centro da Terra S01 E08
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/285250.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gotham Knights: A Série S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qoqZmiDR3rgxvNzYf7sA6jvILdO.jpg" group-title="SÉRIES | Aventura",Gotham Knights: A Série S01 E01
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287431.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gotham Knights: A Série S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zlcAbxHDMI3rn8P152uXxr839Tc.jpg" group-title="SÉRIES | Aventura",Gotham Knights: A Série S01 E02
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287432.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gotham Knights: A Série S01 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8hgVFxw5TuiVXYI08og7XQ7odlP.jpg" group-title="SÉRIES | Aventura",Gotham Knights: A Série S01 E03
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287433.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gotham Knights: A Série S01 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/edJCvTkvn4iPsgbY6uEXoOFlIJK.jpg" group-title="SÉRIES | Aventura",Gotham Knights: A Série S01 E04
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287434.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gotham Knights: A Série S01 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAMFOw9JnZ2OfN6Krf9BvpNkrzD.jpg" group-title="SÉRIES | Aventura",Gotham Knights: A Série S01 E05
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/287435.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gotham Knights: A Série S01 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rbQQhdjNDFn1nYFZUgXkVLvVXqn.jpg" group-title="SÉRIES | Aventura",Gotham Knights: A Série S01 E06
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289125.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Gotham Knights: A Série S01 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yyLe8ZB48HkFD0M1JiRIH5Nr3J6.jpg" group-title="SÉRIES | Aventura",Gotham Knights: A Série S01 E07
-http://apkwuv.xyz:80/series/cristina2021/graniptv2005/289126.mp4
 
 #EXTM3U url-tvg="http://grade-de-SÉRIES | Drama.xml"
 ############## SÉRIES | Drama ################# 
@@ -14692,6 +14698,8 @@ https://ia802603.us.archive.org/11/items/tim-moore-yes-traducao/Tim%20Moore%20-%
 ############## FAX | CLIPS AO VIVO  ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFAX | CLIPS AO VIVO" group-title="
 
+#EXTINF:-1 tvg-name="Taylor Swift -Love Story" tvg-logo="https://i.makeagif.com/media/9-14-2017/Bw4pCo.gif" group-title="FAX | CLIPS AO VIVO",Taylor Swift -Love Story
+https://ia803406.us.archive.org/12/items/taylor-swift-love-story-/y2mate.com%20-%20Taylor%20Swift%20%20Love%20Story_480p.ia.mp4
 #EXTINF:-1 tvg-name="tv camocim" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4Pt5E3sJLRHK6r1oJWtgF-SDoDdFSoCp37VaEJgSx0MghVW2gJNAz9DTnHES5871kFiM&usqp=CAU" group-title="FAX | CLIPS AO VIVO",tv camocim
 https://5c483b9d1019c.streamlock.net/8172/8172/chunklist_w177496967.m3u8
 #EXTINF:-1 tvg-name="kpoptv" tvg-logo="https://thumbs.gfycat.com/IdealDifficultDolphin-max-1mb.gif" group-title="FAX | CLIPS AO VIVO",kpoptv
@@ -15495,3 +15503,20 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/162550
 http://apkwuv.xyz:80/cristina2021/graniptv2005/152601
 #EXTINF:-1 tvg-id="" tvg-name="Bons Tempos FM" tvg-logo="https://img.radios.com.br/radio/lg/radio37027_1516218896.jpg" group-title="RITMOS",Bons Tempos FM
 http://apkwuv.xyz:80/cristina2021/graniptv2005/152602
+
+#EXTM3U url-tvg="http://grade-de-RITMOS.xml"
+############## TV FAX ASSASINATO ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeRITMOS" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="TV FAX ASSASINATO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxLRkapUBq2sTnZdRMrneyUZBFg3pLXG8lvw&usqp=CAU" group-title="TV FAX ASSASINATO", TV FAX ASSASINATO
+https://ia801604.us.archive.org/3/items/speicherbasebest/vspeichermassacre%20%281%29.ia.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TV FAX ASSASINATO 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxLRkapUBq2sTnZdRMrneyUZBFg3pLXG8lvw&usqp=CAU" group-title="TV FAX ASSASINATO", TV FAX ASSASINATO 1
+https://ia601604.us.archive.org/3/items/speicherbasebest/vspeichermassacre%20%283%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TV FAX ASSASINATO 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxLRkapUBq2sTnZdRMrneyUZBFg3pLXG8lvw&usqp=CAU" group-title="TV FAX ASSASINATO", TV FAX ASSASINATO 2
+https://ia801604.us.archive.org/3/items/speicherbasebest/zSpeicher%20Tikrit%282%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TV FAX ASSASINATO 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxLRkapUBq2sTnZdRMrneyUZBFg3pLXG8lvw&usqp=CAU" group-title="TV FAX ASSASINATO", TV FAX ASSASINATO 3
+https://ia801604.us.archive.org/3/items/speicherbasebest/zSpeicher%20Tikrit%282%29.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TV FAX ASSASINATO 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxLRkapUBq2sTnZdRMrneyUZBFg3pLXG8lvw&usqp=CAU" group-title="TV FAX ASSASINATO", TV FAX ASSASINATO 4
+https://ia601604.us.archive.org/3/items/speicherbasebest/speicherbasebest.mp4
+#EXTINF:-1 tvg-id="" tvg-name="TV FAX ASSASINATO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxLRkapUBq2sTnZdRMrneyUZBFg3pLXG8lvw&usqp=CAU" group-title="TV FAX ASSASINATO", TV FAX ASSASINATO
+https://ia601604.us.archive.org/3/items/speicherbasebest/zspeicher02.mp4
