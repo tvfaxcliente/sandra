@@ -116,9 +116,9 @@ https://ia902903.us.archive.org/11/items/taylor_swift-20/peace.mp3
 https://ia802903.us.archive.org/11/items/taylor_swift-20/ruler%20of%20my%20heart.mp3
 #EXTINF:-1 tvg-id="" tvg-name="katy perry SO BAD"tvg-logo="https://media.tenor.com/MJOIOR7sndkAAAAC/taylor-swift-hi.gif" group-title="TV FAX | katy perry",SO BAD
 https://ia802903.us.archive.org/11/items/taylor_swift-20/so%20bad.mp3
-#EXTINF:-1 tvg-id="" tvg-name="katy perry STREET"tvg-logo="https://i.gifer.com/Yow8.gif" group-title="TV FAX | katy perry,STREET
+#EXTINF:-1 tvg-id="" tvg-name="katy perry STREET"tvg-logo="https://i.gifer.com/Yow8.gif" group-title="TV FAX | katy perry",STREET
 https://ia802903.us.archive.org/11/items/taylor_swift-20/street.mp3
-#EXTINF:-1 tvg-id="" tvg-name="katy perry Love Story Live"tvg-logo="https://thumbs.gfycat.com/AcademicHomelyFinch-size_restricted.gif" group-title="TV FAX | Katy Perry",katy perry Love Story Live
+#EXTINF:-1 tvg-id="" tvg-name="Love Story Live"tvg-logo="https://media.tenor.com/_dyKLSVEslYAAAAC/firework-fireworks.gif" group-title="TV FAX | Katy Perry",Love Story Live
 https://ia601207.us.archive.org/9/items/Taylor_Swift_Love_Story__Live___/Taylor%20Swift_Love%20Story%20%28Live%29%20%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Katy Perry- Firework"tvg-logo="https://media.tenor.com/_dyKLSVEslYAAAAC/firework-fireworks.gif" group-title="TV FAX | Katy Perry",Katy Perry- Firework
 https://ia803402.us.archive.org/3/items/katy-perry-firework-/y2mate.com%20-%20Katy%20Perry%20-%20Firework%20%28Official%20Music%20Video%29_v144P.ia.mp4
@@ -3379,29 +3379,29 @@ http://apkwuv.xyz:80/cristina2021/graniptv2005/83561
  ############## Canais FOX SPORTS 2 ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais FOX SPORTS 2" group-title="
 
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - 4K" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais FOX SPORTS 2",FOX SPORTS 2 - 4K
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 4K" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais FOX SPORTS 2",FOX SPORTS 2 4K
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/72584
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais FOX SPORTS 2",FOX SPORTS 2 - FHD
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais FOX SPORTS 2",FOX SPORTS 2 FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82759
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais FOX SPORTS 2",FOX SPORTS 2 - HD
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais FOX SPORTS 2",FOX SPORTS 2 HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82757
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais FOX SPORTS 2",FOX SPORTS 2 - HD²
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais FOX SPORTS 2",FOX SPORTS 2 HD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82758
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais FOX SPORTS 2",FOX SPORTS 2 - SD
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais FOX SPORTS 2",FOX SPORTS 2 SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82755
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais FOX SPORTS 2",FOX SPORTS 2 - SD²
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg" group-title="Canais FOX SPORTS 2",FOX SPORTS 2 SD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82756
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg"Canais FOX SPORTS 2",FOX SPORTS 2 - SD
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg"Canais FOX SPORTS 2",FOX SPORTS 2 SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82755
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - 4K" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg"Canais FOX SPORTS 2",FOX SPORTS 2 - 4K
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 4K" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg"Canais FOX SPORTS 2",FOX SPORTS 2 4K
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/72584
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg"Canais FOX SPORTS 2",FOX SPORTS 2 - FHD
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg"Canais FOX SPORTS 2",FOX SPORTS 2 FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82759
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg"Canais FOX SPORTS 2",FOX SPORTS 2 - HD
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg"Canais FOX SPORTS 2",FOX SPORTS 2 HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82757
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg"Canais FOX SPORTS 2",FOX SPORTS 2 - HD²
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 HD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg"Canais FOX SPORTS 2",FOX SPORTS 2 HD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82758
-#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 - SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg"Canais FOX SPORTS 2",FOX SPORTS 2 - SD²
+#EXTINF:-1 tvg-id="Foxsports2.br" tvg-name="FOX SPORTS 2 SD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4Z5nQhTFTXKdaEM5O3dkT94sFaNIXKRMEPrSDQ21wb4V.jpg"Canais FOX SPORTS 2",FOX SPORTS 2 SD²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82756
 #EXTINF:-1 tvg-id="FOX Sports 2" tvg-name="FOX Sports 2 4K" tvg-logo="https://i.imgur.com/exxvTL3.png" group-title="Canais FOX SPORTS 2",FOX Sports 2 4K
 http://apkwuv.xyz:80/cristina2021/graniptv2005/151046
@@ -4810,6 +4810,8 @@ https://ia802709.us.archive.org/6/items/uma-licao-de-amor-tv-fax/Uma%20Li%C3%A7%
 ############## FILME TV FAX | AUTISMO ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX | AUTISMO" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="Onde Nasce A Esperança TV FAX"tvg-logo="https://i.ytimg.com/vi/owvVjt2vJkk/sddefault.jpg"group-title="FILME TV FAX |  AUTISMO",Onde Nasce A Esperança TV FAX
+https://ia600506.us.archive.org/12/items/onde-nasce-a-esperanca-tv-fax/Onde%20Nasce%20a%20Esperan%C3%A7a%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Milagre Na Cela 7"tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/da613c490fabc8902686b1ddda8cf52797f64d4c9dc32cd80988ad8404353011._RI_TTW_.jpg"group-title="FILME TV FAX |  AUTISMO",Milagre Na Cela 7
 https://ia902702.us.archive.org/13/items/milagre-na-cela-7-tv-fax/Milagre%20na%20Cela%207%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Simples Como Amar 1999 Deficiente Intelectua"tvg-logo="https://ricardoshimosakai.com.br/wp-content/uploads/2014/10/Carla-Tate-Juliette-Lewis-e-Danny-McMann-Giovanni-Ribisi-ambos-com-defici%C3%AAncia-intelectual-vivem-uma-hist%C3%B3ria-de-amor.jpg"group-title="FILME TV FAX |  AUTISMO",Simples Como Amar 1999 Deficiente Intelectua
@@ -4849,7 +4851,7 @@ https://ia902706.us.archive.org/20/items/gilbert-grape-aprendiz-de-sonhador-tv-f
 http://dns.p2.wtf:80/movie/5678bam3aa/8w5xgpli6g/149045.mkv
 #EXTINF:-1 tvg-id="" tvg-name="HOMEM-ARANHA - 2002" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3cssvZGCaubdDMbtt20IDK3WXV2.jpg" group-title="FILME TV FAX HOMEM ARANHA MARVEL",HOMEM ARANHA - 2002
 http://dns.p2.wtf:80/movie/5678bam3aa/8w5xgpli6g/55055.mkv
-#EXTINF:-1 tvg-id="" tvg-name="HOMEM-ARANHA 2 (2004) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y06FivvCfqapHB3iETOtbAqWdkD.jpg" group-FILME TV FAX HOMEM ARANHA", HOMEM ARANHA 2 (2004) 4K
+#EXTINF:-1 tvg-id="" tvg-name="HOMEM-ARANHA 2 (2004) 4K" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y06FivvCfqapHB3iETOtbAqWdkD.jpg" group-FILME TV FAX HOMEM ARANHA",HOMEM ARANHA 2 (2004) 4K
 http://dns.p2.wtf:80/movie/5678bam3aa/8w5xgpli6g/149046.mkv
 #EXTINF:-1 tvg-id="" tvg-name="HOMEM-ARANHA 2 - 2004" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/41CX8g39cqdA83fAkoZ1SM6d4oG.jpg" group-title="FILME TV FAX HOMEM ARANHA MARVEL",HOMEM ARANHA 2 - 2004
 http://dns.p2.wtf:80/movie/5678bam3aa/8w5xgpli6g/55054.mp4
