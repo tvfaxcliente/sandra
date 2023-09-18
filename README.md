@@ -1661,7 +1661,7 @@ https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
 
 
 #EXTM3U url-tvg=" http://grade-de-Canais | Band.xml "
- ##############Canais | Band ############## ### 
+ ############## Canais | Band ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais | Band" group-title="
 
 #EXTINF:-1 tvg-id="" tvg-name="BAND HD"tvg-logo="https://media.tenor.com/vjIyGx-PSQkAAAAd/band-fora-do-ar-tv.gif" group-title="Canais | Band",BAND HD
@@ -1692,6 +1692,506 @@ http://axr.life:80/968367/462903/1263154
 http://axr.life:80/968367/462903/1263153
 #EXTINF:-1 tvg-id="band.br" tvg-name="Band SP SD" tvg-logo="https://imagizer.imageshack.com/v2/150x100q90/922/CkUKdz.png" group-title="Canais | Band",Band SP SD
 http://axr.life:80/968367/462903/1263152
+
+#EXTM3U url-tvg=" http://grade-de-CANAIS: tv fax Dublado.xml "
+ ############## CANAIS: tv fax Dublado ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS: tv fax Dublado" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name="TVNBN"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtROIi9M71RyrlLTZNKVO2l15M4EFz05m5d8MXzlz-9IbPsUjM6x0-R-PIbD3MjC5kKw&usqp=CAU" group-title="CANAIS: tv fax Dublado",TVNBN
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVR Sul"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhlwKf6ZGcb1jvP__grkmxaZObsLVTDOESNCaLpAw_E8clqmGZycZ3c87qQHHGpz7Yljw&usqp=CAU" group-title="CANAIS: tv fax Dublado",TVR Sul
+https://5a57bda70564a.streamlock.net/tvrsul/tvrsul.sdp/chunklist_w1819188520.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SNT TV"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjKBaEwmfNBtI771BR_t_eDNobVc5msvxJS_MkCDfZBlT0JCfJ89dR8zPHJqNMxRKukNc&usqp=CAU" group-title="CANAIS: tv fax Dublado",SNT TV
+https://stmv5.samcast.com.br/abmael1233/abmael1233/chunklist_w1634485530.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVitapê"tvg-logo="https://tvitape.com.br/images/galeria/27032019/o_1d6vmal3d1mi71lcau52urbdd313.png" group-title="CANAIS: tv fax Dublado",TVitapê
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Caravelas TV"tvg-logo="https://i.ytimg.com/vi/LHBXdwl_Ppg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGBMgUih_MA8=&rs=AOn4CLA89wrlH6dcJN2yYJ2px6a2iVNplg" group-title="CANAIS: tv fax Dublado",Caravelas TV
+https://video01.logicahost.com.br/dantetvbrasil/dantetvbrasil/chunklist_w1024524641.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Aracati"tvg-logo="https://logicahost.com.br/aracati.png" group-title="CANAIS: tv fax Dublado",TV Aracati
+https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w2082699244.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Metropolitana Rio"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJCg1birsI10JoKMqj2g2KRgXlmNn1Z5VQtNcR48s8KliilfNQEa37QVol7F1uQ1aH8rI&usqp=CAU" group-title="CANAIS: tv fax Dublado",TV Metropolitana Rio
+https://stmv1.srvstm.com/luis5346/luis5346/chunklist_w1525460172.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Ti Vejo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUhy6pxCHp3DrSrHcUebgvfl0a8O1lpmBCF9GQ1kfRzuXLxASCTpY-qKmZVT9o7aN9Hj8&usqp=CAU" group-title="CANAIS: tv fax Dublado",TV Ti Vejo
+https://stmv1.srvif.com/ddacostenaro/ddacostenaro/chunklist_w266346225.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/4bebeaca8f8c5b57834422428a9dc3ab.png" group-title="CANAIS: tv fax Dublado",Gloobinho HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35962
+#EXTINF:-1 tvg-id="" tvg-name="Band Sports HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/b92ca3bd619bfa5d2eed95d39938653d.png" group-title="CANAIS: tv fax Dublado",Band Sports HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35965
+#EXTINF:-1 tvg-id="" tvg-name="E HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/d2442bc0c9b9bb59f0e4b3e9ce60447a.png" group-title="CANAIS: tv fax Dublado",E HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35969
+#EXTINF:-1 tvg-id="" tvg-name="Viva HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/5a3f61473d7a74dd439b3c132ec666fe.png" group-title="CANAIS: tv fax Dublado",Viva HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35974
+#EXTINF:-1 tvg-id="" tvg-name="Canal Brasil HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/417652494f8f2da086df3293f779e5e9.png" group-title="CANAIS: tv fax Dublado",Canal Brasil HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35975
+#EXTINF:-1 tvg-id="" tvg-name="Combate HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/758d8b1cbf0b6cee37110825fead0f77.png" group-title="CANAIS: tv fax Dublado",Combate HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35976
+#EXTINF:-1 tvg-id="" tvg-name="Premiere Clubes HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/383826fafd73f0beb4722d2eaa78a764.png" group-title="CANAIS: tv fax Dublado",Premiere Clubes HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35978
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/1feb86e286b1d5e0a6d7f65803b9b8d3.png" group-title="CANAIS: tv fax Dublado",Premiere 2 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35979
+#EXTINF:-1 tvg-id="" tvg-name="HBO HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/02533372af53048a55cf973c53c4ce87.png" group-title="CANAIS: tv fax Dublado",HBO HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35980
+#EXTINF:-1 tvg-id="" tvg-name="HBO2 HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/10a8c26b1a68f70a0dc5d4bead2581b9.png" group-title="CANAIS: tv fax Dublado",HBO2 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35981
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c83d02fd8ea1316a722a3956803e66df.png" group-title="CANAIS: tv fax Dublado",HBO Signature HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35985
+#EXTINF:-1 tvg-id="" tvg-name="Rede Vida HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/9a401d110cb4a75a26e392d0827f488d.png" group-title="CANAIS: tv fax Dublado",Rede Vida HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35987
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/97efb0e08da8605008458091e616fe8e.png" group-title="CANAIS: tv fax Dublado",Premiere 6 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35988
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/97efb0e08da8605008458091e616fe8e.png" group-title="CANAIS: tv fax Dublado",Premiere 7 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35989
+#EXTINF:-1 tvg-id="" tvg-name="RedeTV! HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/1dea9cbac95969cb9591fa9131f330f2.png" group-title="CANAIS: tv fax Dublado",RedeTV! HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35992
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Premium HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/2e31ce17a394e94e2089fcf435e0c142.png" group-title="CANAIS: tv fax Dublado",Telecine Premium HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35995
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Touch HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/132fed2c428e1178f53d456fbabeb044.png" group-title="CANAIS: tv fax Dublado",Telecine Touch HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35996
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Pipoca HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/78cf91f49d0c208befeabf8ed37de67b.png" group-title="CANAIS: tv fax Dublado",Telecine Pipoca HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35997
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Brasil HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="CANAIS: tv fax Dublado",ESPN Brasil HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36002
+#EXTINF:-1 tvg-id="" tvg-name="ESPN HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="CANAIS: tv fax Dublado",ESPN HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36003
+#EXTINF:-1 tvg-id="" tvg-name="TNT HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/c4912158d8c6eaeb95023d760f97a571.png" group-title="CANAIS: tv fax Dublado",TNT HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36004
+#EXTINF:-1 tvg-id="" tvg-name="TV Brasil HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/b07b65f9ed3daa2bf5e075a7add9cd4b.png" group-title="CANAIS: tv fax Dublado",TV Brasil HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36006
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Action HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/75793f999c2b92fd99177083cde18017.png" group-title="CANAIS: tv fax Dublado",Telecine Action HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36008
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Fun HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/2a70d332d9b49953b6a48827ecd9a254.png" group-title="CANAIS: tv fax Dublado",Telecine Fun HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36011
+#EXTINF:-1 tvg-id="" tvg-name="Telecine Cult HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/de3c92795ffb194dc750c4e48f45105c.png" group-title="CANAIS: tv fax Dublado",Telecine Cult HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36012
+#EXTINF:-1 tvg-id="" tvg-name="Sabor & Arte HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/7e12a5049b43c312c6eb2ddb77bb8b60.png" group-title="CANAIS: tv fax Dublado",Sabor & Arte HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36015
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/ca03558ddf31e54c4aba5eb9b57bb8e9.png" group-title="CANAIS: tv fax Dublado",Animal Planet HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36016
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/cb1176292c3ca6570b89563685cb615b.png" group-title="CANAIS: tv fax Dublado",Nickelodeon HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36017
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr. HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/fba83a34295313f8e941a761cf1a7b08.png" group-title="CANAIS: tv fax Dublado",Nick Jr. HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36018
+#EXTINF:-1 tvg-id="" tvg-name="France 24 HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/f9cc8256e6477f0676176834c5f240e8.png" group-title="CANAIS: tv fax Dublado",France 24 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36021
+#EXTINF:-1 tvg-id="" tvg-name="Playboy TV HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/c8f99104b8c860e6102f20cda178d7bf.png" group-title="CANAIS: tv fax Dublado",Playboy TV HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36022
+#EXTINF:-1 tvg-id="" tvg-name="SporTV2 HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/b6a098a9f9c56632a1c1f742a9cd3ef3.png" group-title="CANAIS: tv fax Dublado",SporTV2 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36024
+#EXTINF:-1 tvg-id="" tvg-name="SporTV HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/39ba71210c63301ed9b037b9d22e77d7.png" group-title="CANAIS: tv fax Dublado",SporTV HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36025
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/262efbffb389a0141fdce14a46ed5dee.png" group-title="CANAIS: tv fax Dublado",Premiere 3 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36026
+#EXTINF:-1 tvg-id="" tvg-name="GNT HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/ca05ac628d55893f1d4701d8e714d005.png" group-title="CANAIS: tv fax Dublado",GNT HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36027
+#EXTINF:-1 tvg-id="" tvg-name="Multishow HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/c3cae8cf39fded16f88764488ba294b7.png" group-title="CANAIS: tv fax Dublado",Multishow HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36028
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/d33006f15f9ba7dffe6c76a806fe12af.png" group-title="CANAIS: tv fax Dublado",Premiere 4 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36029
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/d093ae46c1e8032d0c9f1006f76462ef.png" group-title="CANAIS: tv fax Dublado",Fashion TV HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36030
+#EXTINF:-1 tvg-id="" tvg-name="Travel Box Brazil HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/a618f8243037f235385da9aae4604b24.png" group-title="CANAIS: tv fax Dublado",Travel Box Brazil HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36031
+#EXTINF:-1 tvg-id="" tvg-name="History 2 HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/e099ce7bfa771c0d40c5c9f53ada5d6f.png" group-title="CANAIS: tv fax Dublado",History 2 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36032
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/0de2ec803fc3459380222fcd29bfbad8.png" group-title="CANAIS: tv fax Dublado",MTV LIVE HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36033
+#EXTINF:-1 tvg-id="" tvg-name="A&E HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f53cb2e04640ca256232eba89d1fafba.png" group-title="CANAIS: tv fax Dublado",A&E HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36034
+#EXTINF:-1 tvg-id="" tvg-name="TV Novo Tempo HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/8072432e404a757e1177e26bb1a94e30.png" group-title="CANAIS: tv fax Dublado",TV Novo Tempo HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36035
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 1 HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/4d0ec9644ed328af0eb2fa9cac57090e.png" group-title="CANAIS: tv fax Dublado",Paramount+ 1 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36036
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+  2 HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/4d0ec9644ed328af0eb2fa9cac57090e.png" group-title="CANAIS: tv fax Dublado",Paramount+  2 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36037
+#EXTINF:-1 tvg-id="" tvg-name="History HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/e54d2b4f42397dbed309964bd18be83e.png" group-title="CANAIS: tv fax Dublado",History HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36038
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/8ccc2d29c951e873a8815ca2d3d56413.png" group-title="CANAIS: tv fax Dublado",Warner Channel HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36039
+#EXTINF:-1 tvg-id="" tvg-name="Canal Sony HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/33561003f44d374c719506bef4faeba4.png" group-title="CANAIS: tv fax Dublado",Canal Sony HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36040
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/470b190de1ef11c136ccfacdec1b6017.png" group-title="CANAIS: tv fax Dublado",AXN HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36041
+#EXTINF:-1 tvg-id="" tvg-name="TLC HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/017a544acb713ac3b4c46402c94a07fc.png" group-title="CANAIS: tv fax Dublado",TLC HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36042
+#EXTINF:-1 tvg-id="" tvg-name="Curta! HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/fef0dc422fd45b4edfbecae53ba82dba.png" group-title="CANAIS: tv fax Dublado",Curta! HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36043
+#EXTINF:-1 tvg-id="" tvg-name="DOG TV HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/d53bd0d081cbc0f983eaaedfc33c56fa.png" group-title="CANAIS: tv fax Dublado",DOG TV HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36044
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/b58e0897f88cebded4072b5c8be3f1f4.png" group-title="CANAIS: tv fax Dublado",Discovery Channel HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36045
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2cf562aad06214bf223ba170d269204f.png" group-title="CANAIS: tv fax Dublado",Discovery Kids HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36046
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/dd02529659d42a9a11bee759de133674.png" group-title="CANAIS: tv fax Dublado",Boomerang HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36047
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/14ef5933cbf024e33f5637ae104dab8c.png" group-title="CANAIS: tv fax Dublado",Music Box Brazil HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36049
+#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brazil HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/53446fe3fb68ce17b77fce49d446e58b.png" group-title="CANAIS: tv fax Dublado",Prime Box Brazil HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36050
+#EXTINF:-1 tvg-id="" tvg-name="Canal do Boi HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/bb86221e207517718edec13749ba359c.png" group-title="CANAIS: tv fax Dublado",Canal do Boi HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36051
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/7d667f77e341da004989b608f708f80c.png" group-title="CANAIS: tv fax Dublado",ESPN Extra HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36052
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/ef3cb160026aa53be9dc13e3f1844e25.png" group-title="CANAIS: tv fax Dublado",Discovery Theater HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36053
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/87a2b2aaf8ce3c9196ccddfaa99356bc.png" group-title="CANAIS: tv fax Dublado",Discovery World HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36054
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/d9066e40250e8074fe093c583591857b.png" group-title="CANAIS: tv fax Dublado",Cartoon Network HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36055
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/36279a53f6cb6ece709205e6ba8793fa.png" group-title="CANAIS: tv fax Dublado",TBS HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36056
+#EXTINF:-1 tvg-id="" tvg-name="ID HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/74dd868583b6f3eec92afef9e90545f4.png" group-title="CANAIS: tv fax Dublado",ID HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36057
+#EXTINF:-1 tvg-id="" tvg-name="TNT Séries HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/4eee60c6f14eb1c18aaa2a02ba91991a.png" group-title="CANAIS: tv fax Dublado",TNT Séries HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36058
+#EXTINF:-1 tvg-id="" tvg-name="Space HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef537f5e1b335fb801b835682d8adade.png" group-title="CANAIS: tv fax Dublado",Space HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36059
+#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida" tvg-logo="http://xcui.10initiatived.uk:8880/images/9eca61cc8e31867eac5334ddc1e01df7.png" group-title="CANAIS: tv fax Dublado",TV Aparecida
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36060
+#EXTINF:-1 tvg-id="" tvg-name="Futura HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/bdbe99705bb633cdaefc5c61e79e3f18.png" group-title="CANAIS: tv fax Dublado",Futura HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36061
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/26e104754d63adb5a0f6ce026be7182b.png" group-title="CANAIS: tv fax Dublado",HGTV HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36062
+#EXTINF:-1 tvg-id="" tvg-name="Woohoo HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/955e3f03f388459aa512a0a2e18a2859.png" group-title="CANAIS: tv fax Dublado",Woohoo HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36063
+#EXTINF:-1 tvg-id="" tvg-name="Band News HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/ecde17229a3d07369de3b9bb5ba43bc6.png" group-title="CANAIS: tv fax Dublado",Band News HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36064
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/6860c35d5f46884944f224c1b0370ad2.png" group-title="CANAIS: tv fax Dublado",Discovery Science HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36065
+#EXTINF:-1 tvg-id="" tvg-name="Zoomoo HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/6860c35d5f46884944f224c1b0370ad2.png" group-title="CANAIS: tv fax Dublado",Zoomoo HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36066
+#EXTINF:-1 tvg-id="" tvg-name="Eurochannel HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/22fb241ece4880909d189a52bebd3956.png" group-title="CANAIS: tv fax Dublado",Eurochannel HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36067
+#EXTINF:-1 tvg-id="" tvg-name="Film e Arts HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/b13c021f99e57567c3a82f620dbea058.png" group-title="CANAIS: tv fax Dublado",Film e Arts HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36068
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 3 FHD" tvg-logo="http://xcui.10initiatived.uk:8880/images/4d0ec9644ed328af0eb2fa9cac57090e.png" group-title="CANAIS: tv fax Dublado",Paramount+ 3 FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36069
+#EXTINF:-1 tvg-id="" tvg-name="Globo HD RJ" tvg-logo="http://xcui.10initiatived.uk:8880/images/55ce67774e3a89c37a27335084c10a0b.png" group-title="CANAIS: tv fax Dublado",Globo HD RJ
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36070
+#EXTINF:-1 tvg-id="" tvg-name="TV Verdes Mares HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/3f909f8eae0ba6ac50ab57fb617bcca0.png" group-title="CANAIS: tv fax Dublado",TV Verdes Mares HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36072
+#EXTINF:-1 tvg-id="" tvg-name="TV Bahia HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/b9c6b816c73921086ded1f823176a9bf.png" group-title="CANAIS: tv fax Dublado",TV Bahia HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36073
+#EXTINF:-1 tvg-id="" tvg-name="Globo HD Minas" tvg-logo="http://xcui.10initiatived.uk:8880/images/5df5409b8179c45c0cc98fe9a67f1a70.png" group-title="CANAIS: tv fax Dublado",Globo HD Minas
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36074
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/4ff6b7a124e0e98887c306edf7b72c5a.png" group-title="CANAIS: tv fax Dublado",Globo Nordeste HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36075
+#EXTINF:-1 tvg-id="" tvg-name="TV Liberal HD Belém" tvg-logo="http://xcui.10initiatived.uk:8880/images/594f5a8f7b80f7015351d0f933957093.png" group-title="CANAIS: tv fax Dublado",TV Liberal HD Belém
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36076
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV HD Porto Alegre" tvg-logo="http://xcui.10initiatived.uk:8880/images/5aef4b0b062bf71b91478debdabec031.png" group-title="CANAIS: tv fax Dublado",RBS TV HD Porto Alegre
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36077
+#EXTINF:-1 tvg-id="Example" tvg-name="TV Tem HD Bauru" tvg-logo="http://xcui.10initiatived.uk:8880/images/b191f1f142aeb6d128b23702dfeade35.png" group-title="CANAIS: tv fax Dublado",TV Tem HD Bauru
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36079
+#EXTINF:-1 tvg-id="" tvg-name="EPTV HD Campinas" tvg-logo="http://xcui.10initiatived.uk:8880/images/f45c5d2b5a5483c44f3a890c17827c4d.png" group-title="CANAIS: tv fax Dublado",EPTV HD Campinas
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36080
+#EXTINF:-1 tvg-id="" tvg-name="Globo Brasília HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/fd15097318c5974d84e3077889effd1f.png" group-title="CANAIS: tv fax Dublado",Globo Brasília HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36081
+#EXTINF:-1 tvg-id="" tvg-name="Rede TV HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/1dea9cbac95969cb9591fa9131f330f2.png" group-title="CANAIS: tv fax Dublado",Rede TV HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36082
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Network HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/4d0ec9644ed328af0eb2fa9cac57090e.png" group-title="CANAIS: tv fax Dublado",Paramount Network HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36083
+#EXTINF:-1 tvg-id="" tvg-name="RPC TV Curitiba HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/0f50ea97d17d93715352ee21bdad2a58.png" group-title="CANAIS: tv fax Dublado",RPC TV Curitiba HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36086
+#EXTINF:-1 tvg-id="" tvg-name="TV Rá Tim Bum HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/6b23cc130c19e0aff5d554ae1c616769.png" group-title="CANAIS: tv fax Dublado",TV Rá Tim Bum HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36087
+#EXTINF:-1 tvg-id="" tvg-name="Star+ 2 HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/c85b8a04f06ffa680ed4d64295c36005.png" group-title="CANAIS: tv fax Dublado",Star+ 2 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36088
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/7a25fa0eb158ef4684e67222597beb97.png" group-title="CANAIS: tv fax Dublado",RECORDTV HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36089
+#EXTINF:-1 tvg-id="" tvg-name="Star+ 1 HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/c85b8a04f06ffa680ed4d64295c36005.png" group-title="CANAIS: tv fax Dublado",Star+ 1 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36090
+#EXTINF:-1 tvg-id="" tvg-name="MTV 00's HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/ba472bf14c09293e3832837761889fcf.png" group-title="CANAIS: tv fax Dublado",MTV 00's HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/36091
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3 FHD" tvg-logo="http://xcui.10initiatived.uk:8880/images/471f0a5a1d54f4f3bf6165182be57980.png" group-title="CANAIS: tv fax Dublado",ESPN 3 FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/38228
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 01 4K" tvg-logo="http://xcui.10initiatived.uk:8880/images/4575a2e375c04ec95507a407cdc5f66a.png" group-title="CANAIS: tv fax Dublado",Cine Sky 01 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35472
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 02 4K" tvg-logo="http://xcui.10initiatived.uk:8880/images/4575a2e375c04ec95507a407cdc5f66a.png" group-title="CANAIS: tv fax Dublado",Cine Sky 02 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35473
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 03 4K" tvg-logo="http://xcui.10initiatived.uk:8880/images/4575a2e375c04ec95507a407cdc5f66a.png" group-title="CANAIS: tv fax Dublado",Cine Sky 03 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35474
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 04 4K" tvg-logo="http://xcui.10initiatived.uk:8880/images/4575a2e375c04ec95507a407cdc5f66a.png" group-title="CANAIS: tv fax Dublado",Cine Sky 04 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35475
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 05 4K" tvg-logo="http://xcui.10initiatived.uk:8880/images/4575a2e375c04ec95507a407cdc5f66a.png" group-title="CANAIS: tv fax Dublado",Cine Sky 05 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35476
+#EXTINF:-1 tvg-id="" tvg-name="Cine Sky 09 4K" tvg-logo="http://xcui.10initiatived.uk:8880/images/4575a2e375c04ec95507a407cdc5f66a.png" group-title="CANAIS: tv fax Dublado",Cine Sky 09 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35480
+#EXTINF:-1 tvg-id="" tvg-name="A PEQUENA SEREIA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/1b224e130823455abb643cf883670136.png" group-title="CANAIS: tv fax Dublado",A PEQUENA SEREIA
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31638
+#EXTINF:-1 tvg-id="" tvg-name="A PEQUENA SEREIA" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e3cd80584c24e0d13b92c3aefe23cc9e.png" group-title="CANAIS: tv fax Dublado",A PEQUENA SEREIA
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31639
+#EXTINF:-1 tvg-id="" tvg-name="CHAVES" tvg-logo="http://xcui.vitvabc.xyz:8880/images/11fa22bd9c5aa4a0e7f769edb69122d4.png" group-title="CANAIS: tv fax Dublado",CHAVES
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31676
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON GOSPEL" tvg-logo="http://xcui.10initiatived.uk:8880/images/d9066e40250e8074fe093c583591857b.png" group-title="CANAIS: tv fax Dublado",CARTOON GOSPEL
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31713
+#EXTINF:-1 tvg-id="Arte 1 HD [Alter]" tvg-name="Arte 1 FULLHD" tvg-logo="http://xcui.10initiatived.uk:8880/images/6ab084e84aa418d433868844b78a81ae.png" group-title="CANAIS: tv fax Dublado",Arte 1 FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31595
+#EXTINF:-1 tvg-id="BIS HD" tvg-name="BIS FHD" tvg-logo="http://xcui.10initiatived.uk:8880/images/e08c405ca9f536c1ec154376fb40041a.png" group-title="CANAIS: tv fax Dublado",BIS FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31596
+#EXTINF:-1 tvg-id="BIS HD" tvg-name="BIS HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/e08c405ca9f536c1ec154376fb40041a.png" group-title="CANAIS: tv fax Dublado",BIS HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31597
+#EXTINF:-1 tvg-id="Example" tvg-name="CHEF TV FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/6f34b5afe74309dc18660fdcf5a397cf.png" group-title="CANAIS: tv fax Dublado",CHEF TV FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31598
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL FHD" tvg-logo="http://xcui.10initiatived.uk:8880/images/cf0f5b0e3bc0b877363ab75614cd683a.png" group-title="CANAIS: tv fax Dublado",COMEDY CENTRAL FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31599
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/cf0f5b0e3bc0b877363ab75614cd683a.png" group-title="CANAIS: tv fax Dublado",COMEDY CENTRAL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31600
+#EXTINF:-1 tvg-id="Example" tvg-name="CURTA! FULLHD" tvg-logo="http://xcui.10initiatived.uk:8880/images/fef0dc422fd45b4edfbecae53ba82dba.png" group-title="CANAIS: tv fax Dublado",CURTA! FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31601
+#EXTINF:-1 tvg-id="Curta HD [Alter]" tvg-name="CURTA HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/fef0dc422fd45b4edfbecae53ba82dba.png" group-title="CANAIS: tv fax Dublado",CURTA HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31602
+#EXTINF:-1 tvg-id="E! Entertainment Television HD" tvg-name="E FHD" tvg-logo="http://xcui.10initiatived.uk:8880/images/d2442bc0c9b9bb59f0e4b3e9ce60447a.png" group-title="CANAIS: tv fax Dublado",E FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31604
+#EXTINF:-1 tvg-id="E! Entertainment Television HD" tvg-name="E HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/d2442bc0c9b9bb59f0e4b3e9ce60447a.png" group-title="CANAIS: tv fax Dublado",E HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31605
+#EXTINF:-1 tvg-id="Food Network HD" tvg-name="FOOD NETWORK FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/fa572ae2d5f87eef4ce0f5acc63c38d1.png" group-title="CANAIS: tv fax Dublado",FOOD NETWORK FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31606
+#EXTINF:-1 tvg-id="Example" tvg-name="GNT FULLHD" tvg-logo="http://xcui.10initiatived.uk:8880/images/ca05ac628d55893f1d4701d8e714d005.png" group-title="CANAIS: tv fax Dublado",GNT FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31608
+#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/ca05ac628d55893f1d4701d8e714d005.png" group-title="CANAIS: tv fax Dublado",GNT HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31609
+#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="LIFETIME FULLHD" tvg-logo="http://xcui.10initiatived.uk:8880/images/6837f6113ef531484a6da65e166e8452.png" group-title="CANAIS: tv fax Dublado",LIFETIME FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31611
+#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="LIFETIME HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/6837f6113ef531484a6da65e166e8452.png" group-title="CANAIS: tv fax Dublado",LIFETIME HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31612
+#EXTINF:-1 tvg-id="Mais Globosat HD" tvg-name="MAIS GLOBOSAT" tvg-logo="http://xcui.10initiatived.uk:8880/images/55ce67774e3a89c37a27335084c10a0b.png" group-title="CANAIS: tv fax Dublado",MAIS GLOBOSAT
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31613
+#EXTINF:-1 tvg-id="MTV HD" tvg-name="MTV HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0de2ec803fc3459380222fcd29bfbad8.png" group-title="CANAIS: tv fax Dublado",MTV HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31616
+#EXTINF:-1 tvg-id="Multishow HD" tvg-name="MULTISHOW FULLHD" tvg-logo="http://xcui.10initiatived.uk:8880/images/c3cae8cf39fded16f88764488ba294b7.png" group-title="CANAIS: tv fax Dublado",MULTISHOW FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31617
+#EXTINF:-1 tvg-id="Example" tvg-name="MUSIC BOX BRASIL FULLHD" tvg-logo="http://xcui.10initiatived.uk:8880/images/14ef5933cbf024e33f5637ae104dab8c.png" group-title="CANAIS: tv fax Dublado",MUSIC BOX BRASIL FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31619
+#EXTINF:-1 tvg-id="Example" tvg-name="PRIME BOX BRASIL FULL HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/53446fe3fb68ce17b77fce49d446e58b.png" group-title="CANAIS: tv fax Dublado",PRIME BOX BRASIL FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31621
+#EXTINF:-1 tvg-id="" tvg-name="SHOPTIME HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/a3218a7f960d9aa93bfcef3eeeeec8e8.png" group-title="CANAIS: tv fax Dublado",SHOPTIME HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31622
+#EXTINF:-1 tvg-id="Star Life HD" tvg-name="Star+ 3 HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/c85b8a04f06ffa680ed4d64295c36005.png" group-title="CANAIS: tv fax Dublado",Star+ 3 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31623
+#EXTINF:-1 tvg-id="Example" tvg-name="MTV 00's SD" tvg-logo="http://xcui.10initiatived.uk:8880/images/ba472bf14c09293e3832837761889fcf.png" group-title="CANAIS: tv fax Dublado",MTV 00's SD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31628
+#EXTINF:-1 tvg-id="Example" tvg-name="MTV 00's HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/ba472bf14c09293e3832837761889fcf.png" group-title="CANAIS: tv fax Dublado",MTV 00's HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31629
+#EXTINF:-1 tvg-id="Example" tvg-name="VIVA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a3f61473d7a74dd439b3c132ec666fe.png" group-title="CANAIS: tv fax Dublado",VIVA FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31630
+#EXTINF:-1 tvg-id="Viva HD" tvg-name="VIVA HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a3f61473d7a74dd439b3c132ec666fe.png" group-title="CANAIS: tv fax Dublado",VIVA HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31631
+#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRASIL HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/14ef5933cbf024e33f5637ae104dab8c.png" group-title="CANAIS: tv fax Dublado",MUSIC BOX BRASIL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/33738
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:ANIMAL PLANET HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:ANIMAL PLANET HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/183344
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:AXN HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:AXN HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/183346
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:BAND HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:BAND HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/183347
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:BAND NEWS HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:BAND NEWS HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/183348
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:BAND SPORTS HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:BAND SPORTS HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/183349
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:BOOMERANG HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:BOOMERANG HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/183351
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:COMBATE HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:COMBATE HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/183356
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:DISCOVERY CH. HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:DISCOVERY CH. HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/183359
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:DISCOVERY CIVILIZATION HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:DISCOVERY CIVILIZATION HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/183360
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:DISCOVERY H&H HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:DISCOVERY H&H HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/183361
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:DISCOVERY KIDS HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:DISCOVERY KIDS HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/183363
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:DISCOVERY SCIENCE HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:DISCOVERY SCIENCE HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/183364
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:DISCOVERY THEATHER HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:DISCOVERY THEATHER HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/183365
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:DISCOVERY TURBO HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:DISCOVERY TURBO HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/183366
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:DISNEY CHANNEL HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:DISNEY CHANNEL HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/183368
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:E! HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:E! HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/183371
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:ESPN 2 HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:ESPN 2 HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/183372
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:ESPN BRASIL HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:ESPN BRASIL HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/183373
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:ESPN HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:ESPN HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/183375
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:FOX SPORTS HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:FOX SPORTS HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/183382
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:FX HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:FX HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/183384
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:GLOBO NEWS HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:GLOBO NEWS HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/183385
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:HBO 2 HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:HBO 2 HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/183390
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:HBO FAMILY HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:HBO FAMILY HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/183391
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:HBO HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:HBO HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/183392
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:HISTORY 2 HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:HISTORY 2 HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/183395
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:HISTORY HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:HISTORY HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/183396
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:LIFETIME HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:LIFETIME HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/183397
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:MEGAPIX HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:MEGAPIX HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/183402
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:MULTISHOW HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:MULTISHOW HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/183404
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:OFF HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:OFF HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/183410
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:PARAMOUNT HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:PARAMOUNT HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/183411
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:PREMIERE 4 HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:PREMIERE 4 HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/183415
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:PREMIERE 5 HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:PREMIERE 5 HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/183416
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:PREMIERE 6 HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:PREMIERE 6 HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/183417
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:PREMIERE CLUBE HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:PREMIERE CLUBE HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/183420
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:PRIME BOX BRASIL HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:PRIME BOX BRASIL HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/183421
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:RECORD HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:RECORD HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/183422
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:RECORD NEWS HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:RECORD NEWS HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/183423
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:SONY HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:SONY HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/183428
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:SPORTV 2 HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:SPORTV 2 HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/183430
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:SPORTV 3 HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:SPORTV 3 HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/183431
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:SPORTV HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:SPORTV HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/183432
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:Star Channel HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:Star Channel HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/183377
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:Star Life HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:Star Life HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/183378
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:SYFY HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:SYFY HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/183434
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TBS HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:TBS HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/183435
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TELECINE ACTION HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:TELECINE ACTION HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/183437
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TELECINE CULT HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:TELECINE CULT HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/183438
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TELECINE FUN HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:TELECINE FUN HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/183439
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TELECINE PIPOCA HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:TELECINE PIPOCA HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/183440
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TELECINE PREMIUM HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:TELECINE PREMIUM HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/183441
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TELECINE TOUCH HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:TELECINE TOUCH HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/183442
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TLC HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:TLC HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/183443
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TNT HD" tvg-logo="" group-title="CANAIS: tv fax Dublado,VIP_BR:TNT HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/183444
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TNT SERIES HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:TNT SERIES HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/183445
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:TOONCAST HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:TOONCAST HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/183446
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:UNIVERSAL CHANNEL HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:UNIVERSAL CHANNEL HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/183452
+#EXTINF:-1 tvg-id="" tvg-name="VIP_BR:VIVA HD" tvg-logo="" group-title="CANAIS: tv fax Dublado",VIP_BR:VIVA HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/183454
+#EXTINF:-1 tvg-id="" tvg-name="AXN  HD" tvg-logo="http://pluspng.com/img-png/axn-logo-png-axn-hd-png-820.png" group-title="CANAIS: tv fax Dublado",  AXN  HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/190005
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET  HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e8/Animal_Planet_HD_2007.png/revision/latest?cb=20091126085356" group-title="CANAIS: tv fax Dublado", ANIMAL PLANET  HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/190003
+#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/BandSports.png" group-title="CANAIS: tv fax Dublado", BAND SPORTS  HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/190008
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK  HD" tvg-logo="http://images6.fanpop.com/image/photos/41000000/Cartoon-Network-2010-Inverted-logos-41098505-946-563.png" group-title="CANAIS: tv fax Dublado", CARTOON NETWORK  HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/190012
+#EXTINF:-1 tvg-id="" tvg-name="CARTOONITO HD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/15081ebe-a86a-4d6b-9fc9-23d9d799b1a1/demzey3-44424c39-77ff-4ddb-bf67-752f90836c3e.png/v1/fill/w_1280,h_357,strp/cartoonito_logo__my_version__by_jared33_demzey3-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzU3IiwicGF0aCI6IlwvZlwvMTUwODFlYmUtYTg2YS00ZDZiLTlmYzktMjNkOWQ3OTliMWExXC9kZW16ZXkzLTQ0NDI0YzM5LTc3ZmYtNGRkYi1iZjY3LTc1MmY5MDgzNmMzZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.3_ID-Tk2dh2CXL-_3jyv1vl7kIKE0oqVCVyonccLaV4" group-title="CANAIS: tv fax Dublado", CARTOONITO HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/190010
+#EXTINF:-1 tvg-id="" tvg-name="COMBATE  HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/combate.png" group-title="CANAIS: tv fax Dublado", COMBATE  HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/190014
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL  HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d8/Discovery_Channel_HD_2007.png/revision/latest?cb=20091126085643" group-title="CANAIS: tv fax Dublado", DISCOVERY CHANNEL  HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/190018
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME   HEALTH HD" tvg-logo="http://pluspng.com/img-png/history-hd-png-file-discovery-home-health-hd-png-475.png" group-title="CANAIS: tv fax Dublado", DISCOVERY HOME   HEALTH HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/190020
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS  HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6f/DiscoveryKidsHD.png/revision/latest/scale-to-width-down/220?cb=20160402184954" group-title="CANAIS: tv fax Dublado", DISCOVERY KIDS  HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/190021
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE  HD" tvg-logo="http://castlempire.site:8080/images/2effd26a04114e6a5aec3b60d6a7ba35.png" group-title="CANAIS: tv fax Dublado", DISCOVERY SCIENCE  HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/190022
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1280px-2015_Discovery_theater_HD_logo.svg.png" group-title="CANAIS: tv fax Dublado", DISCOVERY THEATER  HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/190023
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="CANAIS: tv fax Dublado", DISCOVERY TURBO  HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/190025
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL  HD" tvg-logo="http://pluspng.com/img-png/disney-hd-png-disney-channel-de-hd-png-800.png" group-title="CANAIS: tv fax Dublado", DISNEY CHANNEL  HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/190027
+#EXTINF:-1 tvg-id="" tvg-name="E  HD" tvg-logo="https://jorgesalvador.files.wordpress.com/2012/04/e21hdlogo.png" group-title="CANAIS: tv fax Dublado", E   HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/190030
+#EXTINF:-1 tvg-id="" tvg-name="ESPN  HD" tvg-logo="http://2.bp.blogspot.com/-IYW_NDPkbYA/UKkjSqi0huI/AAAAAAAAFCI/ncvtZSroGoo/s1600/Logo+ESPN+HD.png" group-title="CANAIS: tv fax Dublado", ESPN  HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/190031
+#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL HD" tvg-logo="http://4.bp.blogspot.com/-9G_gkVqYYTs/UGbuPPR2mTI/AAAAAAAAAUQ/_q0J1jMJwcw/s1600/ESPN+HD.png" group-title="CANAIS: tv fax Dublado", ESPN BRASIL HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/190032
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1200px-FOX_Sports_logo.svg.png" group-title="CANAIS: tv fax Dublado", FOX SPORTS  HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/190039
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD" tvg-logo="https://unity-img.tbxapis.com/v0/images/9d29a3723e9925c375478e2c88cac95f/content/5ba09cd28d9f4c702b01f5d0/431135d3999eafcb6cd0c8018a4b59b39fb182f5/img.png?_v=0.3.6" group-title="CANAIS: tv fax Dublado", FOX SPORTS 2 HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/190040
+#EXTINF:-1 tvg-id="" tvg-name="FX  HD" tvg-logo="https://www.pngkit.com/png/full/302-3027387_fx-hd-fx-hd-logo-png.png" group-title="CANAIS: tv fax Dublado", FX  HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/190000
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA  HD" tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/5/5b/Logo_gshd.png/revision/latest?cb=20190209221002" group-title="CANAIS: tv fax Dublado", GLOBO BRASILIA  HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/189999
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO EPTV SAO CARLOS  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/6/67/EPTV.png" group-title="CANAIS: tv fax Dublado", GLOBO EPTV SAO CARLOS  HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/189979
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP  HD" tvg-logo="http://neoturbohd.com.br/logo/globosp.png" group-title="CANAIS: tv fax Dublado", GLOBO SP  HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/189977
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB  HD" tvg-logo="http://g.glbimg.com/og/gs/gsat3/static_files/imagens/gloob/logo-topo-2x.png" group-title="CANAIS: tv fax Dublado", GLOOB  HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/189976
+#EXTINF:-1 tvg-id="" tvg-name="H2  HD" tvg-logo="https://www.nicepng.com/png/detail/177-1779538_h2more2history-h2-hd.png" group-title="CANAIS: tv fax Dublado", H2  HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/189990
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2  HD" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/LOGO-HBO-2-NUEVO1.jpg" group-title="CANAIS: tv fax Dublado", HBO 2  HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/189975
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY CHANNEL  HD" tvg-logo="https://img.pngio.com/filehistory-channel-logopng-history-png-500_452.png" group-title="CANAIS: tv fax Dublado", HISTORY CHANNEL  HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/189988
+#EXTINF:-1 tvg-id="" tvg-name="MEGAPIX  HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/Megapix_fundoclaro_midiaimpressa.png" group-title="CANAIS: tv fax Dublado", MEGAPIX  HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/189972
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC  HD" tvg-logo="https://logos-download.com/wp-content/uploads/2016/07/National_Geographic_logo.png" group-title="CANAIS: tv fax Dublado", NATIONAL GEOGRAPHIC  HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/189970
+#EXTINF:-1 tvg-id="" tvg-name="OFF  HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-1NcSOQ4FqaZEEnJx0DB814TC7bRVTxrPiaunrEzN4ZB0Vf1B&s" group-title="CANAIS: tv fax Dublado", OFF  HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/189984
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL   HD" tvg-logo="http://ocdn.eu/images/program-tv/NzQ7MDA_/5f5a2bc8fe1dbba5e2dac3384ca25cf4.png" group-title="CANAIS: tv fax Dublado", PARAMOUNT CHANNEL   HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/189983
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 1 HD" tvg-logo="http://castlempire.site:8080/images/48e6895bffc4573a1e10c5ca051d3516.png" group-title="CANAIS: tv fax Dublado", PREMIERE 1 HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/189982
+#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Premiere_FC_logo.png/798px-Premiere_FC_logo.png" group-title="CANAIS: tv fax Dublado", PREMIERE 4 HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/189980
+#EXTINF:-1 tvg-id="" tvg-name="RECORD  HD" tvg-logo="" group-title="CANAIS: tv fax Dublado", RECORD  HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/189965
+#EXTINF:-1 tvg-id="" tvg-name="SONY  HD" tvg-logo="" group-title="CANAIS: tv fax Dublado", SONY  HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/189956
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 1 HD" tvg-logo="" group-title="CANAIS: tv fax Dublado", SPORTV 1 HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/189954
+#EXTINF:-1 tvg-id="" tvg-name="STAR LIFE  HD" tvg-logo="https://i.imgur.com/KZUOgsj.png" group-title="CANAIS: tv fax Dublado", STAR LIFE  HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/190037
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL  HD" tvg-logo="" group-title="CANAIS: tv fax Dublado", STUDIO UNIVERSAL  HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/189951
+#EXTINF:-1 tvg-id="" tvg-name="SYFY  HD" tvg-logo="" group-title="CANAIS: tv fax Dublado", SYFY  HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/189950
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE ACTION  HD" tvg-logo="" group-title="CANAIS: tv fax Dublado", TELECINE ACTION  HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/189947
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE CULT  HD" tvg-logo="" group-title="CANAIS: tv fax Dublado", TELECINE CULT  HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/189946
+#EXTINF:-1 tvg-id="" tvg-name="TELECINE PREMIUM  HD" tvg-logo="" group-title="CANAIS: tv fax Dublado", TELECINE PREMIUM  HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/189944
+#EXTINF:-1 tvg-id="" tvg-name="TNT  HD" tvg-logo="" group-title="CANAIS: tv fax Dublado", TNT  HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/189941
+#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES  HD" tvg-logo="" group-title="CANAIS: tv fax Dublado", TNT SERIES  HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/189940
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast  HD" tvg-logo="http://castlempire.site:8080/images/842bb72b9cc9ef8c86459a5101fb8673.png" group-title="CANAIS: tv fax Dublado", Tooncast  HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/189938
+#EXTINF:-1 tvg-id="" tvg-name="VIVA  HD" tvg-logo="" group-title="CANAIS: tv fax Dublado", VIVA  HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/189942
+#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL  HD" tvg-logo="" group-title="CANAIS: tv fax Dublado", WARNER CHANNEL  HD
+http://castlempire.site:8080/UserTest2Brasil_00h/F82gA72YLEFn/189937
+#EXTINF:-1 tvg-id="" tvg-name="WOOHOO  HD" tvg-logo="" group-title="CANAIS: tv fax Dublado", WOOHOO  HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/189936
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO INTERNACIONAL HD" tvg-logo="" group-title="CANAIS: tv fax Dublado", GLOBO INTERNACIONAL HD
+http://castlempire.site:8080/UserTest1Brasil_00h/6KneMfnELkrN/271312
+
 
 #EXTM3U url-tvg=" http://grade-de-Canais  JOVEM PAN NEWS.xml "
  ############## Canais  JOVEM PAN NEWS ############## ### 
@@ -2012,8 +2512,6 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83558
 #EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO Xtreme - SD" tvg-logo="https://tinyurl.com/u9hboe" group-title="CANAIS HBO Xtreme",HBO Xtreme - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83557
 
-
-
 #EXTM3U url-tvg=" http://grade-de-CANAIS | TELECINE.xml "
  ############## CANAIS | TELECINE ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS | TELECINE" group-title="
@@ -2152,6 +2650,13 @@ http://grtsvk.life:80/661282206/318344838/87949
  ############## CANAIS Studio Universal ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS Studio Universal" group-title="
 
+#EXTINF:-1 tvg-id="Example" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d67d49568c51151403ab2aa0aa43801d.png" group-title="CANAIS Studio Universal",STUDIO UNIVERSAL FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31291
+#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/d67d49568c51151403ab2aa0aa43801d.png" group-title="CANAIS Studio Universal",STUDIO UNIVERSAL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31292
+#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5c8d2af36dbec982c74da70a4378e8c4.png" group-title="CANAIS Studio Universal",UNIVERSAL TV HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31304
+
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS Studio Universal",STUDIO UNIVERSAL - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83585
 #EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4W7Vglb-zKco9WxFxtVwGYjy7uMh5DiDjAUxbP1qGUTU.jpg" group-title="CANAIS Studio Universal",STUDIO UNIVERSAL - FHD²
@@ -2218,6 +2723,10 @@ http://84.17.44.179:14635/
  ############## CANAIS | SPACE ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS | SPACE" group-title="
 
+#EXTINF:-1 tvg-id="Space HD" tvg-name="SPACE H.265" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef537f5e1b335fb801b835682d8adade.png" group-title="CANAIS | SPACE",SPACE H.265
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31282
+#EXTINF:-1 tvg-id="" tvg-name="SPACE HD*" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef537f5e1b335fb801b835682d8adade.png" group-title="CANAIS | SPACE",SPACE HD*
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31284
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - FHD" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/22/e0/b7/22e0b782-17ac-5be7-a3ec-6e97dfc95837/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="CANAIS | SPACE",SPACE - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83580
 #EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE - FHD²" tvg-logo="https://play-lh.googleusercontent.com/ZXjpB_IUBlKIaWY22gkA-E8IR_x3Tb1kZFohKSbNSeSd5YSrND9w-8kIgqWkrSjKrH0" group-title="CANAIS | SPACE",SPACE - FHD²
@@ -2277,6 +2786,9 @@ http://piglo.re:80/14957348417/2839302i178101/54424
  ############## CANAIS WARNER CHANNE ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS WARNER CHANNE" group-title="
 
+#EXTINF:-1 tvg-id="Example" tvg-name="WARNER CHANNEL FULLHD" tvg-logo="http://xcui.10initiatived.uk:8880/images/8ccc2d29c951e873a8815ca2d3d56413.png" group-title="CANAIS WARNER CHANNE",WARNER CHANNEL FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31305
+
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V_f2-etSZbuoBV7QRzMYahEOBUesuY2hEvesbqjKqbh.jpg" group-title="CANAIS WARNER CHANNE",WARNER CHANNEL - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83603
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL - FHD H265" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V_f2-etSZbuoBV7QRzMYahEOBUesuY2hEvesbqjKqbh.jpg" group-title="CANAIS WARNER CHANNE",WARNER CHANNEL - FHD H265
@@ -2288,9 +2800,21 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83602
 #EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER CHANNEL - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V_f2-etSZbuoBV7QRzMYahEOBUesuY2hEvesbqjKqbh.jpg" group-title="CANAIS WARNER CHANNE",WARNER CHANNEL - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83600
 
+#EXTM3U url-tvg=" http://grade-de-CANAIS PARAMOUNT CHANNE.xml "
+ ############## CANAIS PARAMOUNT CHANNE ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS PARAMOUNT CHANNE" group-title="
+
+#EXTINF:-1 tvg-id="Example" tvg-name="PARAMOUNT CHANNEL H.265" tvg-logo="http://xcui.10initiatived.uk:8880/images/4d0ec9644ed328af0eb2fa9cac57090e.png" group-title="CANAIS PARAMOUNT CHANNEL",PARAMOUNT CHANNEL H.265
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31280
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/4d0ec9644ed328af0eb2fa9cac57090e.png" group-title="CANAIS PARAMOUNT CHANNE",PARAMOUNT CHANNEL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31281
+
 #EXTM3U url-tvg=" http://grade-de-Canais  STAR +.xml "
  ############## Canais  STAR + ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais  STAR +" group-title="
+
+#EXTINF:-1 tvg-id="Example" tvg-name="Star+ 4 HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/c85b8a04f06ffa680ed4d64295c36005.png" group-title="Canais STAR +",Star+ 4 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31286
 
 #EXTINF:-1 tvg-id="" tvg-name="STAR + 1 HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4fxHDqEFC0es11QFSax-noBkNfmfHPm1RK26FpnX6JtW.png" group-title="Canais STAR +",STAR + 1 HD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/136762
@@ -2307,6 +2831,8 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766179
  ############## Canais Star Channel ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais Star Channel" group-title="
 
+#EXTINF:-1 tvg-id="Example" tvg-name="STAR CHANNEL FULLHD" tvg-logo="http://xcui.10initiatived.uk:8880/images/c85b8a04f06ffa680ed4d64295c36005.png" group-title="Canais Star Channel",STAR CHANNEL FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31285
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4bQXjY-ieITmA6Klq9QepR5n9AwkYFWhUIh_FcLAHgSN.png" group-title="Canais Star Channel",Star Channel - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83539
 #EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel - FHD²" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4bQXjY-ieITmA6Klq9QepR5n9AwkYFWhUIh_FcLAHgSN.png" group-title="Canais Star Channel",Star Channel - FHD²
@@ -2322,6 +2848,9 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83537
  ############## CANAIS  A&E ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS  A&E" group-title="
 
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f53cb2e04640ca256232eba89d1fafba.png" group-title="CANAIS  A&E",A&E FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31268
+
 http://cdn.contentgftp.xyz:80/play/rZKi30JGNxLi9q_GGWRoQt2_Un-_dbksVEDrwb48q61dURKazwyTEpYEmDtZNsU8
 #EXTINF:-1 xui-id="1619" tvg-id="a.e.br" tvg-name="A&E FHD" tvg-logo="http://cdn.contentgftp.xyz:80/images/RwiHaUOvpxxT69YjE46Chgigan8SBzuaARfxU9HS3qg6jr8EpjJ5FK897I46GdnoOepVzRNgxIuB4IrSd0YjBg.jpg" group-title="CANAIS  A&E",A&E FHD
 http://cdn.contentgftp.xyz:80/play/rZKi30JGNxLi9q_GGWRoQgRKSQLeWWzqz-7EiFzCLcYTPmHDQdW32vkv_gNLiUqW
@@ -2331,7 +2860,6 @@ http://cdn.contentgftp.xyz:80/play/rZKi30JGNxLi9q_GGWRoQt2_Un-_dbksVEDrwb48q611C
 http://cdn.contentgftp.xyz:80/play/rZKi30JGNxLi9q_GGWRoQgRKSQLeWWzqz-7EiFzCLcacMGEdfefckgaCn3y0Lm4P
 #EXTINF:-1 xui-id="1360" tvg-id="a.e.br" tvg-name="A&E SD" tvg-logo="http://cdn.contentgftp.xyz:80/images/RwiHaUOvpxxT69YjE46Chgigan8SBzuaARfxU9HS3qg6jr8EpjJ5FK897I46GdnoOepVzRNgxIuB4IrSd0YjBg.jpg" group-title="CANAIS  A&E",A&E SD
 http://cdn.contentgftp.xyz:80/play/rZKi30JGNxLi9q_GGWRoQgRKSQLeWWzqz-7EiFzCLca0822CQzb6_M-B7Z4_WPuA
-
 #EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS  A&E",A&E
 http://199.127.60.83:16002/
 #EXTINF:-1 tvg-id="" tvg-name="A&E"tvg-logo="https://i.gifer.com/Wr1a.gif" group-title="CANAIS  A&E",A&E
@@ -2361,6 +2889,8 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83511
  ############## CANAIS  AXN ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS  AXN" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/470b190de1ef11c136ccfacdec1b6017.png" group-title="CANAIS  AXN",AXN HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31271
 #EXTINF:-1 tvg-id="" tvg-name="AXN HD"tvg-logo="https://i.imgur.com/O7V0E1b.png" group-title="CANAIS  AXN",AXN HD 
 http://45.58.126.146:14299/axn
 #EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4dYCLLFHHl8anT07PUQswmK8-U0GFncXMIqDt0YMpYyx.png" group-title="CANAIS  AXN",AXN - FHD
@@ -2378,6 +2908,10 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83521
  ############## CANAIS AMC ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS AMC" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3654b34017508a963ccce2426e91e4cd.png" group-title="CANAIS AMC",AMC HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31269
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD²" tvg-logo="http://xcui.vitvabc.xyz:8880/images/3654b34017508a963ccce2426e91e4cd.png" group-title="CANAIS AMC",AMC HD²
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/33731
 #EXTINF:-1 xui-id="1620" tvg-id="amc.br" tvg-name="AMC FHD" tvg-logo="http://cdn.contentgftp.xyz:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUekN9HN4C6j_obxMnhxPpDPtPayKtgO6whgBY7NieXLmR_sRvWloIqaFpPZfj1gCo.png" group-title="CANAIS AMC",AMC FHD
 http://cdn.contentgftp.xyz:80/play/rZKi30JGNxLi9q_GGWRoQgRKSQLeWWzqz-7EiFzCLcYEofZx91lecwCY0SRFdCRb
 #EXTINF:-1 xui-id="339231" tvg-id="amc.br" tvg-name="AMC FHD H265" tvg-logo="http://cdn.contentgftp.xyz:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUekN9HN4C6j_obxMnhxPpDPtPayKtgO6whgBY7NieXLmR_sRvWloIqaFpPZfj1gCo.png" group-title="CANAIS AMC",AMC FHD H265
@@ -2386,7 +2920,6 @@ http://cdn.contentgftp.xyz:80/play/rZKi30JGNxLi9q_GGWRoQt2_Un-_dbksVEDrwb48q62yU
 http://cdn.contentgftp.xyz:80/play/rZKi30JGNxLi9q_GGWRoQgRKSQLeWWzqz-7EiFzCLcYyhwjlsFxdG19DEf0n0Sjd
 #EXTINF:-1 xui-id="1361" tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="http://cdn.contentgftp.xyz:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUekN9HN4C6j_obxMnhxPpDPtPayKtgO6whgBY7NieXLmR_sRvWloIqaFpPZfj1gCo.png" group-title="CANAIS AMC",AMC SD
 http://cdn.contentgftp.xyz:80/play/rZKi30JGNxLi9q_GGWRoQgRKSQLeWWzqz-7EiFzCLcY5eY_40uEzVy6KuP0SbbYT
-
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAIS AMC",AMC - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83519
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC - HD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4V-Urrg7qwbcsNVqznFI_8_0oMGklTJyveT7vLg3v4G3.png" group-title="CANAIS AMC",AMC - HD
@@ -2443,7 +2976,6 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83534
 #EXTINF:-1 tvg-id="Fx.br" tvg-name="FX - SD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4RHtC9BJ0-RnXOgLY-5yKNc.png" group-title="Canais FX",FX - SD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83533
 
-
 #EXTM3U url-tvg=" http://grade-de-CANAIS | TNT.xml "
  ############## CANAIS | TNT ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS | TNT" group-title="
@@ -2483,6 +3015,12 @@ http://45.58.126.146:14341
  ############## Canais | TNT  Filmes e Séries ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCanais | TNT  Filmes e Séries" group-title="
 
+#EXTINF:-1 tvg-id="Example" tvg-name="TNT FHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c4912158d8c6eaeb95023d760f97a571.png" group-title="Canais | TNT  Filmes e Séries",TNT FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31299
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c4912158d8c6eaeb95023d760f97a571.png" group-title="Canais | TNT  Filmes e Séries",TNT HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31300
+#EXTINF:-1 tvg-id="Example" tvg-name="TNT SERIES FHD" tvg-logo="http://xcui.10initiatived.uk:8880/images/4eee60c6f14eb1c18aaa2a02ba91991a.png" group-title="Canais | TNT  Filmes e Séries",TNT SERIES FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31301
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT 4K" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  Filmes e Séries",TNT 4K
 http://apkwuv.xyz:80/cristina2021/graniptv2005/151053
 #EXTINF:-1 tvg-id="TNT" tvg-name="TNT FHD [H265]" tvg-logo="https://i.imgur.com/3VZ5Ej0.png" group-title="Canais | TNT  Filmes e Séries",TNT FHD [H265]
@@ -2508,13 +3046,27 @@ http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/147718
 #EXTINF:-1 tvg-id="TNT Series SD" tvg-name="TNT Series SD" tvg-logo="https://i.imgur.com/kokoucq.png" group-title="Canais | TNT  Filmes e Séries",TNT Series SD
 http://bgp.cdnr1.xyz:80/Ludovico991387230/ghoe78drs/83639
 
-#EXTM3U url-tvg=" http://grade-de-title="Canais  Sony.xml "
- ############## title="Canais  Sony ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldetitle="Canais  Sony" group-title="
+#EXTM3U url-tvg=" http://grade-de-CANAIS MEGAPIX.xml "
+ ############## CANAIS MEGAPIX ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS MEGAPIX" group-title="
 
-#EXTM3U url-tvg=" http://grade-de-CANAL SONY.xml "
- ############## CANAL SONY ############## ### 
-#EXTINF:-1 tvg-id=" iddocanaldeCANAL SONY" group-title="
+#EXTINF:-1 tvg-id="Example" tvg-name="MEGAPIX FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2207378837d00a6c521ef03245443607.png" group-title="CANAIS MEGAPIX",MEGAPIX FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31278
+#EXTINF:-1 tvg-id="Example" tvg-name="MEGAPIX FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2207378837d00a6c521ef03245443607.png" group-title="CANAIS MEGAPIX",MEGAPIX FULLHD
+http://vivo.10initiatived.uk:8880/287994003365/287994003365/31278
+
+#EXTM3U url-tvg=" http://grade-de-title="CANAIS CINEMAX.xml "
+ ############## CANAIS CINEMAX ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldetitle="CANAIS CINEMAX" group-title="
+
+#EXTINF:-1 tvg-id="Example" tvg-name="CINEMAX FULLHD" tvg-logo="http://xcui.10initiatived.uk:8880/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="CANAIS CINEMAX",CINEMAX FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31274
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/9b483584a8f77ed3094a2b82b11d35e2.png" group-title="CANAIS CINEMAX",CINEMAX HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31275
+
+#EXTM3U url-tvg=" http://grade-de-title="Canais  Sony.xml "
+ ############## Canais  Sony ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldetitle="Canais  Sony" group-title="
 
 #EXTINF:-1 tvg-id="SONYCH" tvg-name="CANAL SONY - FHD" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4c0DbDNj44lqxRzj10B1RjPujPq1cezfr98hQPd7dhaz.png" group-title="Canais Sony",CANAL SONY - FHD
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/83527
@@ -2590,6 +3142,71 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766193
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766197
 #EXTINF:-1 tvg-id="" tvg-name="CINE SKY 9" tvg-logo="http://uione.dadg.today:80/images/dsAt8cMDBjbP3mVNdeYR4TkwQFjE-E0QiPwtMOnEdn50dExeCKbUmnJXhnlji4Jz.png" group-title="Canais CINE UNION",CINE SKY 9
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138766198
+
+#EXTM3U url-tvg=" http://grade-de-CANAIS: ESPORTES ESPECIAIS.xml "
+ ############## CANAIS: ESPORTES ESPECIAIS ############## ### 
+#EXTINF:-1 tvg-id=" iddocanaldeCANAIS: ESPORTES ESPECIAIS" group-title="
+
+#EXTINF:-1 tvg-id="Band Sports HD" tvg-name="BAND SPORTS FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b92ca3bd619bfa5d2eed95d39938653d.png" group-title="CANAIS: ESPORTES ESPECIAIS",BAND SPORTS FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31133
+#EXTINF:-1 tvg-id="Band Sports HD" tvg-name="BAND SPORTS HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b92ca3bd619bfa5d2eed95d39938653d.png" group-title="CANAIS: ESPORTES ESPECIAIS",BAND SPORTS HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31134
+#EXTINF:-1 tvg-id="Band Sports HD" tvg-name="BAND SPORTS HD*" tvg-logo="http://xcui.vitvabc.xyz:8880/images/b92ca3bd619bfa5d2eed95d39938653d.png" group-title="CANAIS: ESPORTES ESPECIAIS",BAND SPORTS HD*
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31135
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/758d8b1cbf0b6cee37110825fead0f77.png" group-title="CANAIS: ESPORTES ESPECIAIS",COMBATE HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31137
+#EXTINF:-1 tvg-id="Combate FHD" tvg-name="COMBATE HD*" tvg-logo="http://xcui.vitvabc.xyz:8880/images/758d8b1cbf0b6cee37110825fead0f77.png" group-title="CANAIS: ESPORTES ESPECIAIS",COMBATE HD*
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31138
+#EXTINF:-1 tvg-id="ESPN 2 FHD H.265" tvg-name="ESPN 2 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/c26dccc766e82ad1f3ebcb7e40cbb82f.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN 2 FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31139
+#EXTINF:-1 tvg-id="ESPN 2 FHD H.265" tvg-name="ESPN 2 HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/c26dccc766e82ad1f3ebcb7e40cbb82f.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN 2 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31140
+#EXTINF:-1 tvg-id="ESPN 2 FHD H.265" tvg-name="ESPN 2 HD+" tvg-logo="http://xcui.10initiatived.uk:8880/images/c26dccc766e82ad1f3ebcb7e40cbb82f.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN 2 HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31141
+#EXTINF:-1 tvg-id="Example" tvg-name="ESPN 3" tvg-logo="http://xcui.10initiatived.uk:8880/images/96e8f1dba8c6dfcf1379418173569f03.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN 3
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31142
+#EXTINF:-1 tvg-id="ESPN Extra FHD" tvg-name="ESPN EXTRA FULLHD" tvg-logo="http://xcui.10initiatived.uk:8880/images/7d667f77e341da004989b608f708f80c.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN EXTRA FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31145
+#EXTINF:-1 tvg-id="Example" tvg-name="ESPN EXTRA HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/7d667f77e341da004989b608f708f80c.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN EXTRA HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31146
+#EXTINF:-1 tvg-id="ESPN Extra HD" tvg-name="ESPN EXTRA HD+" tvg-logo="http://xcui.10initiatived.uk:8880/images/7d667f77e341da004989b608f708f80c.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN EXTRA HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31147
+#EXTINF:-1 tvg-id="Example" tvg-name="ESPN 4 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bfb9a69c9813f26eae33eb06029fa0ad.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN 4 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31148
+#EXTINF:-1 tvg-id="ESPN FHD" tvg-name="ESPN HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31149
+#EXTINF:-1 tvg-id="Example" tvg-name="ESPN HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN HD+
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31150
+#EXTINF:-1 tvg-id="Fish TV HD [Alter]" tvg-name="FISH TV FULLHD" tvg-logo="http://xcui.10initiatived.uk:8880/images/1f6db2c851e6e99a28afca1015bb0ea7.png" group-title="CANAIS: ESPORTES ESPECIAIS",FISH TV FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31151
+#EXTINF:-1 tvg-id="FOX Sports 2 HD" tvg-name="FOX SPORTS 2 FHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="CANAIS: ESPORTES ESPECIAIS",FOX SPORTS 2 FHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31153
+#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/0d5e8cc590d7d27052d14c315bff72a8.png" group-title="CANAIS: ESPORTES ESPECIAIS",FOX SPORTS 2 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31154
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/d6b69bfd030854f24a3bab732f4241ea.png" group-title="CANAIS: ESPORTES ESPECIAIS",OFF HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31160
+#EXTINF:-1 tvg-id="Example" tvg-name="SPORTV 2 HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/b6a098a9f9c56632a1c1f742a9cd3ef3.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORTV 2 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31163
+#EXTINF:-1 tvg-id="Example" tvg-name="SPORTV 3 HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/a458f0cd0e35383bfeecfa09512559b9.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORTV 3 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31166
+#EXTINF:-1 tvg-id="Example" tvg-name="SPORTV FULLHD" tvg-logo="http://xcui.10initiatived.uk:8880/images/39ba71210c63301ed9b037b9d22e77d7.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORTV FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31168
+#EXTINF:-1 tvg-id="Example" tvg-name="SPORTV HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/39ba71210c63301ed9b037b9d22e77d7.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORTV HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31169
+#EXTINF:-1 tvg-id="Example" tvg-name="SPORTV HD*" tvg-logo="http://xcui.vitvabc.xyz:8880/images/39ba71210c63301ed9b037b9d22e77d7.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORTV HD*
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31170
+#EXTINF:-1 tvg-id="Woohoo HD" tvg-name="WOOHOO FULLHD" tvg-logo="http://xcui.10initiatived.uk:8880/images/955e3f03f388459aa512a0a2e18a2859.png" group-title="CANAIS: ESPORTES ESPECIAIS",WOOHOO FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31171
+#EXTINF:-1 tvg-id="Woohoo HD" tvg-name="WOOHOO HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/955e3f03f388459aa512a0a2e18a2859.png" group-title="CANAIS: ESPORTES ESPECIAIS",WOOHOO HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31172
+#EXTINF:-1 tvg-id="" tvg-name="Paramount+ 4 HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/4d0ec9644ed328af0eb2fa9cac57090e.png" group-title="CANAIS: ESPORTES ESPECIAIS",Paramount+ 4 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31191
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2" tvg-logo="http://xcui.10initiatived.uk:8880/images/c4912158d8c6eaeb95023d760f97a571.png" group-title="CANAIS: ESPORTES ESPECIAIS",TNT SPORTS 2
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31223
+#EXTINF:-1 tvg-id="" tvg-name="SPORT TV 2" tvg-logo="http://xcui.10initiatived.uk:8880/images/7ade2812006281f7197d06aaebbc6d47.png" group-title="CANAIS: ESPORTES ESPECIAIS",SPORT TV 2
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31253
+#EXTINF:-1 tvg-id="Example" tvg-name="ESPN 4 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bfb9a69c9813f26eae33eb06029fa0ad.png" group-title="CANAIS: ESPORTES ESPECIAIS",ESPN 4 HD
+http://vivo.10initiatived.uk:8880/287994003365/287994003365/31148
 
 #EXTM3U url-tvg=" http://grade-de-Canais  Documentarios.xml "
  ############## Canais  Documentarios ############## ### 
@@ -2777,7 +3394,6 @@ http://pbrz.xyz:80/67531382/36606924/1343
 
 #EXTINF:-1 tvg-id="" tvg-name="FLOGRAPPLING JIU JITSU - HD" tvg-logo="https://images.tapology.com/logos/2715/profile/FloGrappling-logo.jpg" group-title="Canais ESPORTES JIU JITSU",JIU JITSU
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/138777563
-
 
 #EXTM3U url-tvg=" http://grade-de-Canais | ESPN.xml "
  ############## Canais | ESPN ############## ### 
@@ -2976,7 +3592,6 @@ http://apkwuv.xyz:80/judeva/deva10ju/147447
 #EXTINF:-1 tvg-id="Band Sports" tvg-name="BAND Sports SD" tvg-logo="https://i.imgur.com/wOb26fp.png" group-title="Canais | BAND Sports",BAND Sports SD
 http://apkwuv.xyz:80/judeva/deva10ju/83529
 
-
 #EXTM3U url-tvg=" http://grade-de-CANAIS  SPORTV.xml "
  ############## CANAIS  SPORTV ############## ### 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS SPORTV" group-title="
@@ -3021,6 +3636,14 @@ http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82745
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/82746
 #EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD - h265²" tvg-logo="https://tinyurl.com/u9sptv" group-title="CANAIS SPORTV",SPORTV FHD - h265²
 http://uione.dadg.today:80/Rickbsb/D7G8h0978HT/12815
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 1 4K" tvg-logo="http://xcui.10initiatived.uk:8880/images/39ba71210c63301ed9b037b9d22e77d7.png" group-title="CANAIS SPORTV",SPORTV 1 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/38529
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2 4K" tvg-logo="http://xcui.10initiatived.uk:8880/images/b6a098a9f9c56632a1c1f742a9cd3ef3.png" group-title="CANAIS SPORTV",SPORTV 2 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/38530
+#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3 4K" tvg-logo="http://xcui.10initiatived.uk:8880/images/a458f0cd0e35383bfeecfa09512559b9.png" group-title="CANAIS SPORTV",SPORTV 3 4K
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/38531
+#EXTINF:-1 tvg-id="" tvg-name="SporTV3 HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/a458f0cd0e35383bfeecfa09512559b9.png" group-title="CANAIS SPORTV",SporTV3 HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/35973
 
 #EXTM3U url-tvg=" http://grade-de-CANAIS | ESPORTES.xml "
  ############## CANAIS | ESPORTES ############## ### 
@@ -3358,6 +3981,20 @@ http://7go.xyz:8080/zogbi11/982451290/116623
 ############## CANAIS  INFANTIL ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeCANAIS  INFANTIL" group-title="
 
+#EXTINF:-1 tvg-id="Cartoon Network FHD" tvg-name="CARTOON NETWORK FULLHD" tvg-logo="http://xcui.10initiatived.uk:8880/images/d9066e40250e8074fe093c583591857b.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31479
+#EXTINF:-1 tvg-id="Cartoon Network FHD H.265" tvg-name="CARTOON NETWORK HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/d9066e40250e8074fe093c583591857b.png" group-title="CANAIS | INFANTIL",CARTOON NETWORK HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31480
+#EXTINF:-1 tvg-id="Discovery Kids FHD" tvg-name="DISCOVERY KIDS FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2cf562aad06214bf223ba170d269204f.png" group-title="CANAIS | INFANTIL",DISCOVERY KIDS FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31481
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/2cf562aad06214bf223ba170d269204f.png" group-title="CANAIS | INFANTIL",DISCOVERY KIDS HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31482
+#EXTINF:-1 tvg-id="Discovery Channel FHD" tvg-name="DISNEY CHANNEL FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5890afe33506668111ab3b9c90cb65c9.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL FULLHD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31483
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5890afe33506668111ab3b9c90cb65c9.png" group-title="CANAIS | INFANTIL",DISNEY CHANNEL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/31484
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO FULL HD" tvg-logo="http://xcui.10initiatived.uk:8880/images/4bebeaca8f8c5b57834422428a9dc3ab.png" group-title="CANAIS | INFANTIL",GLOOBINHO FULL HD
+http://xcui.vitvabc.xyz:8880/DQ-NOVO500/ziqDdRRQ6c/33739
 #EXTINF:-1 tvg-id="Disney Channel FHD" tvg-name="Disney Channel FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="CANAIS | INFANTIL",Disney Channel FHD
 http://piglo.re:80/14957348417/2839302i178101/54499
 #EXTINF:-1 tvg-id="Disney Channel FHD" tvg-name="Disney Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="CANAIS | INFANTIL",Disney Channel HD
