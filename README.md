@@ -1574,6 +1574,8 @@ https://ia800505.us.archive.org/12/items/r.-i.-p.-d.-2-rise-of-the-damned-tv-fax
 ############## FILMES TV FAX filhos  #################
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES TV FAX filhos" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="Pequenos Espiões Apocalipse"tvg-logo="https://s2-techtudo.glbimg.com/rcoHZZxQjTCOixvQnMEtlUHOcLY=/0x0:1383x900/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2023/E/w/xgB9UTT7Gz0t9f1iUYdA/mv5bzgu1otbmytctzge3oc00owezltg2ndgtyju2zdi3owu0mmnlxkeyxkfqcgdeqxvynzawmju2mty-.-v1-.jpg"group-title="FILMES TV FAX filhos",Pequenos Espiões Apocalipse
+https://ia800507.us.archive.org/15/items/pequenos-espioes-apocalipse-tv-fax/Pequenos%20Espi%C3%B5es%20Apocalipse%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Valente"tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/BC65973A818FEF2BC0850FD2414AC9210ECA8099E62782BCBC636EDB6627C382/scale?width=506&aspectRatio=2.00&format=jpeg"group-title="FILMES TV FAX filhos",Valente
 https://ia902506.us.archive.org/18/items/valente-tv-fax/Valente%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sonic 2"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b0/Sonic_the_Hedgehog_2_Poster.jpg"group-title="FILMES TV FAX filhos",Sonic 2
@@ -1590,6 +1592,8 @@ https://ia802704.us.archive.org/26/items/barbie-super-princesa-tv-fax/Barbie%20S
 https://ia802707.us.archive.org/15/items/uma-sereia-em-paris-filmes-tv-fax-hd/Uma%20Sereia%20em%20Paris%20Filmes%20TV%20FAX%20HD.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Um Conto De Sereia"tvg-logo="https://i.pinimg.com/originals/ea/31/79/ea3179cd1adf6118be1ad022aa2faffc.gif"group-title="FILMES TV FAX filhos",Um Conto De Sereia
 https://ia802709.us.archive.org/23/items/um-conto-de-sereia-tv-fax/Um%20Conto%20de%20Sereia%20%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia (2023)"tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2017/09/pequena-sereia-indo-embora.gif"group-title="FILMES TV FAX filhos",A Pequena Sereia (2023)
+https://ia801609.us.archive.org/6/items/a-pequena-sereia-tv-fax/A%20Pequena%20Sereia%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia (2023)"tvg-logo="https://capricho.abril.com.br/wp-content/uploads/2017/09/pequena-sereia-indo-embora.gif"group-title="FILMES TV FAX filhos",A Pequena Sereia (2023)
 https://ia902706.us.archive.org/34/items/a-pequena-sereia-2023-the-little-mermaid-tv-fax/A%20Pequena%20Sereia%202023%20-%20The%20Little%20Mermaid%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cinderela E O Príncipe Secreto "tvg-logo="https://2.bp.blogspot.com/-ylvOY-24-i0/U9b9rvNzPQI/AAAAAAAAKEM/rWzHbXkJ_DA/s1600/Cinderela+7.gif"group-title="FILMES TV FAX filhos",Cinderela E O Príncipe Secreto
@@ -1871,31 +1875,29 @@ https://ia902709.us.archive.org/31/items/o-pequenino-tv-fax/O%20Pequenino%20TV%2
 https://ia902708.us.archive.org/26/items/raya-e-o-ultimo-dragao-tv-fax/Raya%20e%20o%20%C3%9Altimo%20Drag%C3%A3oTV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Ruby Marinho Monstro Adolescente"tvg-logo="https://hitsite.com.br/wp-content/uploads/2023/06/1-Ruby-Marinho-.jpg"group-title="FILMES TV FAX filhos",Ruby Marinho Monstro Adolescente
 https://ia902704.us.archive.org/19/items/ruby-marinho-monstro-adolescente-tv-fax/Ruby%20Marinho%20-%20Monstro%20Adolescente%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Rei Leão"tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/9AAED309BF9197B5A212AC1FBCF377D707FCE3F99886AB5001EE6BA9FFD7A84C/scale?width=1200&aspectRatio=1.78&format=jpeg"group-title="FILMES TV FAX filhos",O Rei Leão
+https://ia601603.us.archive.org/16/items/o-rei-leao-tv-fax/O%20Rei%20Le%C3%A3o%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Scooby Doo E Krypto O Supercão"tvg-logo="https://irs.www.warnerbros.com.br/keyart-jpeg/movies/media/browser/SD_AND_KRYPTO_TOO_V_DD_KA_TT_2000x3000_300dpi_EN%20(1).jpg"group-title="FILMES TV FAX filhos",Scooby Doo E Krypto O Supercão
+https://ia600506.us.archive.org/1/items/scooby-doo-e-krypto-o-supercao-tv-fax/Scooby-Doo%20e%20Krypto%20-%20O%20Superc%C3%A3oTV%20FAX.mp4
 
 #EXTM3U url-tvg="http://grade-de-FILMES | TV FAX.xml"
 ############## FILMES | TV FAX #################
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES | TV FAX" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name=",O Canto Do Cisne"tvg-logo="https://www.apple.com/br/tv-pr/shows-and-films/s/swan-song/images/show-home-graphic-header/4x1/ATV_O_Canto_do_Cisne_key_art_graphic_header_4_1_show_home.jpg.og.jpg?1636741903959"group-title="FILMES | TV FAX",O Canto Do Cisne
+https://ia902505.us.archive.org/2/items/o-canto-do-cisne-tv-fax/O%20Canto%20do%20Cisne%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Bem Vindo À Selva "tvg-logo="https://s2.glbimg.com/YTEUbzLlq09YMtWy6WTQ5XvO5KQ=/e.glbimg.com/og/ed/f/original/2017/06/29/jumanji.jpg"group-title="FILMES | TV FAX",Bem Vindo À Selva 
 https://ia801409.us.archive.org/18/items/bem-vindo-a-selva-tv-fax/Bem-vindo%20%C3%A0%20SelvaTV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Acusado"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJCYIEWpCBS3Ou50ifKwUB5Yzog8O3LmeMShDSoam6PvTiEgQqTUG7OeqdU7Wk5KxKJvk&usqp=CAU"group-title="FILMES | TV FAX",Acusado
 https://ia800505.us.archive.org/25/items/acusado-tv-fax/Acusado%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",Agente Stone"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyOTjQ-t5H5gXzPnxXSuRAou6dAQ9BCZbPfX-7BS0_BjyfCuUJTOfx4InhRz1EufQplRw&usqp=CAU"group-title="FILMES | TV FAX",Agente Stone
-https://ia600506.us.archive.org/27/items/agente-stone-tv-fax/Agente%20Stone%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Além Da Vida"tvg-logo="https://i.ytimg.com/vi/xIaQnFF-nBs/maxresdefault.jpg"group-title="FILMES | TV FAX",Além Da Vida
 https://ia800501.us.archive.org/27/items/alem-da-vida-tv-fax/Al%C3%A9m%20da%20Vida%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",42 A História De Uma Lenda"tvg-logo="https://cinepop.com.br/wp-content/uploads/2020/09/42-chadwick-boseman.jpg"group-title="FILMES | TV FAX",42 A História De Uma Lenda
 https://ia800507.us.archive.org/24/items/42-a-historia-de-uma-lenda-tv-fax/42%20A%20Hist%C3%B3ria%20de%20uma%20Lenda%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",Besouro Azul"tvg-logo="https://uploads.jovemnerd.com.br/wp-content/uploads/2023/08/besouro_azul_tudo_sobre__848h80m-1210x544.jpg"group-title="FILMES | TV FAX",Besouro Azul
-https://ia600501.us.archive.org/12/items/besouro-azul-tv-fax/Besouro%20Azul%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",O Tanque"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRETAWYCA1Tx3IbLI8RDJwEJYqjtdgq8okRBA&usqp=CAU"group-title="FILMES | TV FAX",O Tanque
 https://ia800501.us.archive.org/14/items/o-tanque-tv-fax/O%20Tanque%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Operação Arma Secreta"tvg-logo="https://i.ytimg.com/vi/UmHsrVfogQI/maxresdefault.jpg"group-title="FILMES | TV FAX",Operação Arma Secreta
 https://ia800501.us.archive.org/32/items/operacao-arma-secreta-tv-fax/Opera%C3%A7%C3%A3o%20Arma%20Secreta%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",Um Dia E Meio"tvg-logo="https://i.ytimg.com/vi/EN9z_r47vZ0/maxresdefault.jpg"group-title="FILMES | TV FAX",Um Dia E Meio
-https://ia600505.us.archive.org/31/items/um-dia-e-meio-tv-fax/Um%20dia%20e%20Meio%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",Warezcdn"tvg-logo="https://i.ytimg.com/vi/WSGbrmemHcg/maxresdefault.jpg"group-title="FILMES | TV FAX",Warezcdn
-https://ia600509.us.archive.org/29/items/warezcdn-tv-fax/Warezcdn%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Gran Turismo De Jogador A Corredor"tvg-logo="https://www.kinoplex.com.br/filmes/images/cartaz/262x388/gran-turismo-de-jogador-a-corredor.jpg"group-title="FILMES | TV FAX",Gran Turismo De Jogador A Corredor
 https://ia800509.us.archive.org/15/items/gran-turismo-de-jogador-a-corredor-tv-fax/Gran%20Turismo%20%20De%20Jogador%20a%20Corredor%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Tango E Cash Os Vingadores"tvg-logo="https://i.ytimg.com/vi/gysGaEEjZzM/sddefault.jpg?v=62a79ea1"group-title="FILMES | TV FAX",Tango E Cash Os Vingadores
@@ -1948,8 +1950,6 @@ https://ia902706.us.archive.org/8/items/jackie-chan-2021-tv-fax/Jackie%20Chan%20
 https://ia802708.us.archive.org/34/items/aca-o-lanc-amento-2022-tv-fax/A%C3%87%C3%83O%20LAN%C3%87AMENTO%202022%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Jackie Chan"tvg-logo="https://media.tenor.com/mByOv8yZQh8AAAAC/jackie-chan-angry.gif"group-title="FILMES | TV FAX",Jackie Chan 
 https://ia802708.us.archive.org/27/items/jackie-chan-tv-fax/Jackie%20Chan%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",Homem Formiga 3"tvg-logo="https://p2.trrsf.com/image/fget/cf/1200/1600/middle/images.terra.com/2023/02/26/2043520497-ant-man-and-the-wasp-quantumania-textless-quad-poster-and-banner.jpg"group-title="FILMES | TV FAX",Homem Formiga 3
-https://ia902700.us.archive.org/18/items/homem-formiga-3-tv-fax/Homem-Formiga%203TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Jackie Chan SEMPRE"tvg-logo="https://i.makeagif.com/media/9-23-2015/bmagFx.gif"group-title="FILMES | TV FAX",Jackie Chan SEMPRE
 https://ia902705.us.archive.org/14/items/jackie-chan-sempre-tv-fax/Jackie%20Chan%20SEMPRE%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",JACKIE CHAN DRAGÕ ES PARA SEMPRE"tvg-logo="https://media.tenor.com/yHs4XQFlen4AAAAd/jackie-chan-martial-arts.gif"group-title="FILMES | TV FAX",JACKIE CHAN DRAGÕ ES PARA SEMPRE
@@ -1982,12 +1982,8 @@ https://ia902705.us.archive.org/27/items/quando-tudo-da-errado-tv-fax/Quando%20T
 https://ia902700.us.archive.org/26/items/regressao-tv-fax/Regress%C3%A3o%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Um Burro Muito Esperto ( 2013) Kevin Sorbo Kristy Swanson "tvg-logo="https://i.ytimg.com/vi/nppB5fT-G1c/maxresdefault.jpg"group-title="FILMES | TV FAX",Um Burro Muito Esperto ( 2013) Kevin Sorbo Kristy Swanson 
 https://ia902707.us.archive.org/27/items/um-burro-muito-esperto-2013-kevin-sorbo-kristy-swanson-tv-fax/Um%20Burro%20Muito%20Esperto%20%282013%29%20%20Kevin%20Sorbo%20%20Kristy%20Swanson%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",FORCA DO DRAGA O LANÇAMENTO 2023"tvg-logo="https://i.ytimg.com/vi/zUxhCp3J_Pg/sddefault.jpg"group-title="FILMES | TV FAX",FORCA DO DRAGA O LANÇAMENTO 2023
-https://ia802703.us.archive.org/3/items/forc-a-do-draga-o-lanc-amento-2023-tv-fax/FORC%CC%A7A%20DO%20DRAGA%CC%83O%20%20LAN%C3%87AMENTO%202023%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Flores De Papel"tvg-logo="https://i.ytimg.com/vi/eKxMTzlhnVw/mqdefault.jpg?v=648c4096"group-title="FILMES | TV FAX",Flores De Papel
 https://ia902701.us.archive.org/28/items/flores-de-papel-tv-fax/Flores%20de%20papel%20%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",O QUEBRA GELO LANCAMENTO 2023"tvg-logo="https://i.ytimg.com/vi/DnBu8JMkOvY/maxresdefault.jpg"group-title="FILMES | TV FAX",O QUEBRA GELO LANCAMENTO 2023
-https://ia902709.us.archive.org/6/items/o-quebra-gelo-lanc-amento-2023-tv-fax/O%20QUEBRA-GELO%20%20LAN%C3%87AMENTO%202023%20%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",guarda costa tailandes 2"tvg-logo="https://i.ytimg.com/vi/jpzv4K6bgeA/hqdefault.jpg"group-title="FILMES | TV FAX",guarda costa tailandes 2
 https://ia902304.us.archive.org/25/items/o-guarda-costas-2-2007-1080p-rmz-leonardo-nunes/O%20Guarda-Costas%202--%202007--%201080p-RMZ-Leonardo%20Nunes.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Pantera Negra"tvg-logo="https://gifs.eco.br/wp-content/uploads/2022/05/gifs-do-filme-pantera-negra-8.gif"group-title="FILMES | TV FAX",Pantera Negra
@@ -2030,10 +2026,6 @@ https://ia801404.us.archive.org/13/items/duas-pecadoras-e-uma-mula-tv-fax/Duas%2
 https://ia801408.us.archive.org/33/items/as-nadadoras-tv-fax/As%20Nadadoras%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Bravura De Molly TV FAX"tvg-logo="https://i.ytimg.com/vi/GnbpTmf5-H4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCC-iXGvh5sAWIMq4j-ofOoJsIFRQ"group-title="FILMES | TV FAX",A Bravura De Molly TV FAX
 https://ia801507.us.archive.org/5/items/a-bravura-de-molly-tv-fax/A%20Bravura%20de%20Molly%20TV%20FAX.mp4
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Quanto Vale"tvg-logo="https://cxisto.files.wordpress.com/2022/02/quantovale.jpg"group-title="FILMES | TV FAX",Quanto Vale
 https://ia902700.us.archive.org/8/items/quanto-vale-tv-fax/Quanto%20Vale%20%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Se Deus Vier Que Venha Armado"tvg-logo="https://infonet.com.br/wp-infonet/img/Cinema/grande-Deus-vier.jpg"group-title="FILMES | TV FAX",Se Deus Vier Que Venha Armado
@@ -2141,8 +2133,6 @@ https://ia902709.us.archive.org/6/items/fortaleza-o-olhar-do-sniper-tv-fax/Forta
 https://ia902708.us.archive.org/16/items/free-solo-tv-fax/Free%20Solo%20%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Filha De Deus"tvg-logo="https://i.ytimg.com/vi/DALrDfYQqps/maxresdefault.jpg"group-title="FILMES | TV FAX",Filha De Deus
 https://ia902701.us.archive.org/13/items/filha-de-deus-tv-fax/Filha%20de%20Deus%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",Fim Da Estrada"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVGZsCS8ZjHi18QCNldTJ5NBlcM0lFfFBcszWu84naFBuFZ1Lf6_IgxyuO1VDv9s0x5qk&usqp=CAU"group-title="FILMES | TV FAX",Fim Da Estrada
-https://ia902704.us.archive.org/1/items/fim-da-estrada-tv-fax/Fim%20da%20Estrada%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Está Tudo Bem"tvg-logo="https://m.media-amazon.com/images/I/91hsf8CupEL._AC_UF1000,1000_QL80_.jpg"group-title="FILMES | TV FAX",Está Tudo Bem
 https://ia802706.us.archive.org/34/items/esta-tudo-bem-tv-fax/Est%C3%A1%20Tudo%20Bem%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Esperando Por Você"tvg-logo="https://m.media-amazon.com/images/I/71bwjFdV9uL._AC_UF1000,1000_QL80_.jpg"group-title="FILMES | TV FAX",Esperando Por Você
@@ -2203,10 +2193,11 @@ https://ia802604.us.archive.org/28/items/a-oracao-nao-falha-tv-fax/A%20Ora%C3%A7
 https://ia902702.us.archive.org/31/items/a-mulher-milagrosa-tv-fax/A%20Mulher%20Milagrosa%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",A Garota No Trem"tvg-logo="https://cinepop.com.br/wp-content/uploads/2016/10/garotanotrem_3.jpg"group-title="FILMES | TV FAX",A Garota No Trem
 https://ia802705.us.archive.org/27/items/a-garota-no-trem-tv-fax/A%20Garota%20no%20Trem%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",A Baleia"tvg-logo="https://d1x4bjge7r9nas.cloudfront.net/wp-content/uploads/2023/02/27184301/HUY-3.jpg"group-title="FILMES | TV FAX",A Baleia
-https://ia802704.us.archive.org/15/items/a-baleia-filmes-tv-fax-hd/A%20BaleiaFilmes%20TV%20FAX%20%20HD.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",365 Dias Finais"tvg-logo="https://engenhariadocinema.com.br/wp-content/uploads/2022/08/365-Dias-Finais-Poster.jpg"group-title="FILMES | TV FAX",365 Dias Finais
 https://ia902603.us.archive.org/9/items/365-dias-finais-filmes-tv-fax-hd/365%20Dias%20Finais%20Filmes%20TV%20FAX%20HD.mp4
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name=",Destruição Final O Último Refúgio"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ0lz-NRK_wz4qb57xG5kI1ePmyqhZxgDfWtiobIi0ofuk0o8BywrH-X1xrnbAxboFJiY&usqp=CAU"group-title="FILMES | TV FAX",Destruição Final O Último Refúgio 
 https://ia902604.us.archive.org/35/items/destruicao-final-o-ultimo-refugio-tv-fax/Destrui%C3%A7%C3%A3o%20Final%20O%20%C3%9Altimo%20Ref%C3%BAgio%20%20TV%20FAX%20%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Cabras Da Peste"tvg-logo="https://i.ytimg.com/vi/jxTC0ZUE6XQ/maxresdefault.jpg"group-title="FILMES | TV FAX",Cabras Da Peste
@@ -2283,13 +2274,102 @@ https://ia902708.us.archive.org/13/items/poderes-extraordinarios-tv-fax/Poderes%
 https://ia802702.us.archive.org/0/items/um-marido-fiel-tv-fax/Um%20Marido%20Fiel%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Paraísos Artificiais"tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/7f/Cartaz-do-filme-paraisos-artificiais-1330441808336_300x420.jpg"group-title="FILMES | TV FAX",Paraísos Artificiais
 https://ia800508.us.archive.org/2/items/paraisos-artificiais-tv-fax-overflix/Para%C3%ADsos%20Artificiais%20TV%20FAX%20Overflix.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Família Perfeita"tvg-logo="https://br.web.img2.acsta.net/pictures/22/09/06/20/32/5228260.png"group-title="FILMES | TV FAX",A Família Perfeita
+https://ia600503.us.archive.org/9/items/a-familia-perfeita-tv-fax/A%20Fam%C3%ADlia%20Perfeita%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Farol"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7kkoXCscfIOWTmhlsPwuMH6hc4Y7onXZWgBHspsYi31mDa5cgYK4Dwnawlx2G2HDhC70&usqp=CAU"group-title="FILMES | TV FAX",O Farol
+https://ia600501.us.archive.org/6/items/o-farol-tv-fax/O%20Farol%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Django Livre"tvg-logo="https://assetsgn.nowonline.com.br/assets/p9287010_v_v12_bf.jpg"group-title="FILMES | TV FAX",Django Livre
+https://ia800501.us.archive.org/35/items/django-livre-tv-fax/Django%20Livre%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Granizo"tvg-logo="https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABVIFjQbAarxHblY3JLF56FtG-wlLLzogch2xs3ELt6-3ilsETO340v1gaJwYQ92F6dNmQfOg4QRUqzeGUjuZ_44GTxjVxsIQV4Gz.jpg?r=87c"group-title="FILMES | TV FAX",Granizo
+https://ia800509.us.archive.org/15/items/granizo-tv-fax/Granizo%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Regresso"tvg-logo="https://br.web.img3.acsta.net/pictures/15/12/17/18/20/090910.jpg"group-title="FILMES | TV FAX",O Regresso
+https://ia600504.us.archive.org/24/items/o-regresso-tv-fax/O%20Regresso%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Agente Infiltrada"tvg-logo="https://cinepop.com.br/wp-content/uploads/2020/10/poster-14.jpg"group-title="FILMES | TV FAX",Agente Infiltrada
+https://ia600503.us.archive.org/20/items/agente-infiltrada-tv-fax/Agente%20Infiltrada%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luta Por Vingança"tvg-logo="https://i.ytimg.com/vi/7HE3abbzt9g/mqdefault.jpg"group-title="FILMES | TV FAX",Luta Por Vingança
+https://ia804606.us.archive.org/33/items/luta-por-vinganca-tv-fax_202310/Luta%20por%20Vingan%C3%A7a%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Obrigada Por Tudo"tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/91/61/45/20154950.jpg"group-title="FILMES | TV FAX",Obrigada Por Tudo
+https://ia600507.us.archive.org/24/items/obrigada-por-tudo-tv-fax/Obrigada%20Por%20Tudo%20TV%20FAX.mp4
+
+#EXTM3U url-tvg="http://grade-de-FILMES | TV FAX 2023.xml"
+############## FILMES | TV FAX 2023 #################
+#EXTINF:-1 tvg-id=" iddocanaldeFILMES | TV FAX 2023" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name=",A Lista Da Vingança"tvg-logo="https://i.ytimg.com/vi/xuU9Zbhp44g/maxresdefault.jpg"group-title="FILMES | TV FAX 2023",A Lista Da Vingança
+https://ia800500.us.archive.org/14/items/a-lista-da-vinganca-tv-fax/A%20Lista%20da%20Vingan%C3%A7aTV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Bailarina"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwwlTbjTDrGteDToApJfNLmB7zedA0jhIjxYVt9GSSMT6d0612LO5du-qP5zMcsK1P1OU&usqp=CAU"group-title="FILMES | TV FAX 2023",A Bailarina
+https://ia600505.us.archive.org/15/items/a-bailarina-tv-fax/A%20Bailarina%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",A Fera"tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/87/34/98/20028740.jpg"group-title="FILMES | TV FAX 2023",A Fera
+https://ia600502.us.archive.org/6/items/a-fera-tv-fax/A%20Fera%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",A ULTIMA CAÇADORA"tvg-logo="https://i.ytimg.com/vi/t5jTZaocJKE/maxresdefault.jpg"group-title="FILMES | TV FAX 2023",A ULTIMA CAÇADORA
+https://ia902705.us.archive.org/34/items/a-u-ltima-cac-adora-tv-fax/A%20%C3%9ALTIMA%20CA%C3%87ADORA%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Destinos À Deriva"tvg-logo="https://images.justwatch.com/poster/308520448/s592/destinos-a-deriva"group-title="FILMES | TV FAX 2023",Destinos À Deriva
+https://ia600506.us.archive.org/18/items/destinos-a-deriva-tv-fax/Destinos%20%C3%A0%20Deriva%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",A Mãe"tvg-logo="https://minhaseriefavorita.b-cdn.net/wp-content/uploads/2023/05/a-mae-fatos-reais.jpg"group-title="FILMES | TV FAX 2023",A Mãe
+https://ia902703.us.archive.org/34/items/a-mae-tv-fax/A%20M%C3%A3e%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Queda"tvg-logo="https://br.web.img2.acsta.net/pictures/22/10/04/19/16/5487644.jpg"group-title="FILMES | TV FAX 2023",A Queda
+https://ia600503.us.archive.org/34/items/a-queda-dublado-tv-fax/A%20Queda%20DUBLADO%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Queda"tvg-logo="https://img.ibxk.com.br/2023/03/21/21143212442039.jpg?ims=328x"group-title="FILMES | TV FAX 2023",A Queda
+https://ia600503.us.archive.org/34/items/a-queda-dublado-tv-fax/A%20Queda%20DUBLADO%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Watch Terminator 7"tvg-logo="https://i.ytimg.com/vi/7ZO62-JR8Wo/maxresdefault.jpg"group-title="FILMES | TV FAX 2023",Watch Terminator 7 
+https://ia600506.us.archive.org/29/items/watch-terminator-7-tv-fax/Watch%20terminator%207%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Street Flow 2"tvg-logo="https://br.web.img3.acsta.net/pictures/23/09/26/16/29/0564451.png"group-title="FILMES | TV FAX 2023",Street Flow 2
+https://ia600501.us.archive.org/20/items/street-flow-2-tv-fax/Street%20Flow%202%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",A Baleia"tvg-logo="https://d1x4bjge7r9nas.cloudfront.net/wp-content/uploads/2023/02/27184301/HUY-3.jpg"group-title="FILMES | TV FAX 2023",A Baleia
+https://ia802704.us.archive.org/15/items/a-baleia-filmes-tv-fax-hd/A%20BaleiaFilmes%20TV%20FAX%20%20HD.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Fim Da Estrada"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVGZsCS8ZjHi18QCNldTJ5NBlcM0lFfFBcszWu84naFBuFZ1Lf6_IgxyuO1VDv9s0x5qk&usqp=CAU"group-title="FILMES | TV FAX 2023",Fim Da Estrada
+https://ia902704.us.archive.org/1/items/fim-da-estrada-tv-fax/Fim%20da%20Estrada%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Fim Da Estrada"tvg-logo="https://aodisseia.b-cdn.net/wp-content/uploads/2022/09/fim-da-estrada-filme-netflix-01.jpg"group-title="FILMES | TV FAX 2023",Fim Da Estrada
+https://ia902607.us.archive.org/11/items/fim-da-estrada-tv-fax_20231009/Fim%20da%20Estrada%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",O QUEBRA GELO LANCAMENTO 2023"tvg-logo="https://i.ytimg.com/vi/DnBu8JMkOvY/maxresdefault.jpg"group-title="FILMES | TV FAX 2023",O QUEBRA GELO LANCAMENTO 2023
+https://ia902709.us.archive.org/6/items/o-quebra-gelo-lanc-amento-2023-tv-fax/O%20QUEBRA-GELO%20%20LAN%C3%87AMENTO%202023%20%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",FORCA DO DRAGA O LANÇAMENTO 2023"tvg-logo="https://i.ytimg.com/vi/zUxhCp3J_Pg/sddefault.jpg"group-title="FILMES | TV FAX 2023",FORCA DO DRAGA O LANÇAMENTO 2023
+https://ia802703.us.archive.org/3/items/forc-a-do-draga-o-lanc-amento-2023-tv-fax/FORC%CC%A7A%20DO%20DRAGA%CC%83O%20%20LAN%C3%87AMENTO%202023%20TV%20FAX%20.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Homem Formiga 3"tvg-logo="https://p2.trrsf.com/image/fget/cf/1200/1600/middle/images.terra.com/2023/02/26/2043520497-ant-man-and-the-wasp-quantumania-textless-quad-poster-and-banner.jpg"group-title="FILMES | TV FAX 2023",Homem Formiga 3
+https://ia902700.us.archive.org/18/items/homem-formiga-3-tv-fax/Homem-Formiga%203TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Besouro Azul"tvg-logo="https://uploads.jovemnerd.com.br/wp-content/uploads/2023/08/besouro_azul_tudo_sobre__848h80m-1210x544.jpg"group-title="FILMES | TV FAX 2023",Besouro Azul
+https://ia600501.us.archive.org/12/items/besouro-azul-tv-fax/Besouro%20Azul%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Um Dia E Meio"tvg-logo="https://i.ytimg.com/vi/EN9z_r47vZ0/maxresdefault.jpg"group-title="FILMES | TV FAX 2023",Um Dia E Meio
+https://ia600505.us.archive.org/31/items/um-dia-e-meio-tv-fax/Um%20dia%20e%20Meio%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Warezcdn"tvg-logo="https://i.ytimg.com/vi/WSGbrmemHcg/maxresdefault.jpg"group-title="FILMES | TV FAX 2023",Warezcdn
+https://ia600509.us.archive.org/29/items/warezcdn-tv-fax/Warezcdn%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Agente Stone"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyOTjQ-t5H5gXzPnxXSuRAou6dAQ9BCZbPfX-7BS0_BjyfCuUJTOfx4InhRz1EufQplRw&usqp=CAU"group-title="FILMES | TV FAX 2023",Agente Stone
+https://ia600506.us.archive.org/27/items/agente-stone-tv-fax/Agente%20Stone%20TV%20FAX.mp4
 
 #EXTM3U url-tvg="http://grade-de-FILMES AÇAO | TV FAX.xml"
 ############## FILMES AÇAO | TV FAX #################
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES AÇAO | TV FAX" group-title="
 
-#EXTINF:-1 tvg-id="" tvg-name="Watch Terminator 7"tvg-logo="https://i.ytimg.com/vi/7ZO62-JR8Wo/maxresdefault.jpg"group-title="FILMES AÇAO | TV FAX",Watch Terminator 7 
-https://ia600506.us.archive.org/29/items/watch-terminator-7-tv-fax/Watch%20terminator%207%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Decisões Extremas"tvg-logo="https://play-lh.googleusercontent.com/0338VcvGF_ajyvXjgJwZAqAZ9xel5uS8I12TbiXzxiVV1-TYpfSnseAgRQ4vC7yBywwfuQ"group-title="FILMES AÇAO | TV FAX",Decisões Extremas
+https://ia600501.us.archive.org/9/items/decisoes-extremas-tv-fax/Decis%C3%B5es%20Extremas%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Grande Herói"tvg-logo="https://br.web.img3.acsta.net/pictures/14/01/21/16/06/145888.jpg"group-title="FILMES AÇAO | TV FAX",O Grande Herói
+https://ia902505.us.archive.org/19/items/o-grande-heroi-tv-fax/O%20Grande%20Her%C3%B3i%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Diabo Que Você Conhece"tvg-logo="https://play-lh.googleusercontent.com/-fA0J9GvpTyuqM5RUM9pBSRwhRhT2vhtcsOwo82mioqzLPhfD-_vIi25XzMmlCoGF6YdFJIf6Rr_djkzzfc"group-title="FILMES AÇAO | TV FAX",O Diabo Que Você Conhece
+https://ia600504.us.archive.org/15/items/o-diabo-que-voce-conhece-tv-fax/O%20Diabo%20que%20Voc%C3%AA%20Conhece%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Voo"tvg-logo="https://vejasp.abril.com.br/wp-content/uploads/2016/12/cartaz_oscar_30cm.jpeg?quality=70&strip=info&w=540&h=453&crop=1"group-title="FILMES AÇAO | TV FAX",O Voo
+https://ia800507.us.archive.org/1/items/o-voo-tv-fax/O%20Voo%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Acordo"tvg-logo="https://br.web.img2.acsta.net/medias/nmedia/18/94/83/73/20438015.jpg"group-title="FILMES AÇAO | TV FAX",O Acordo
+https://ia600507.us.archive.org/3/items/o-acordo-tv-fax/O%20Acordo%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rápida Vingança"tvg-logo="https://capas-m.imagemfilmes.com.br/103386_000_m.jpg"group-title="FILMES AÇAO | TV FAX",Rápida Vingança
+https://ia601603.us.archive.org/21/items/rapida-vinganca-tv-fax/R%C3%A1pida%20Vingan%C3%A7a%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Imperdoável"tvg-logo="https://i0.wp.com/assets.b9.com.br/wp-content/uploads/2021/12/UNFORGIVABLE_Main_Vertical_27x40_RGB_EN-GB.jpg?fit=1500%2C2222&ssl=1"group-title="FILMES AÇAO | TV FAX",Imperdoável
+https://ia800506.us.archive.org/26/items/imperdoavel-tv-fax/Imperdo%C3%A1vel%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Mogli Entre Dois Mundos"tvg-logo="https://occ-0-3933-999.1.nflxso.net/dnm/api/v6/6gmvu2hxdfnQ55LZZjyzYR4kzGk/AAAABcVoI5y52LhMIwO58EKb0Ljfev3wXEN78I1sn1IFVVJjoAMwVjsk9ghoXX2xYEmZyjwg213RgW7Uci7EfJsxpV0JwC2WGkVwFCOx91L5w8XBnagUcq2hmH89n8gRV9ST8-eeCA.jpg?r=483"group-title="FILMES AÇAO | TV FAX",Mogli Entre Dois Mundos
+https://ia800502.us.archive.org/12/items/mogli-entre-dois-mundos-tv-fax/Mogli%20Entre%20Dois%20Mundos%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blade Runner 2049"tvg-logo="https://images-na.ssl-images-amazon.com/images/M/MV5BNzA1Njg4NzYxOV5BMl5BanBnXkFtZTgwODk5NjU3MzI@._V1_.jpg"group-title="FILMES AÇAO | TV FAX",Blade Runner 2049
+https://ia800502.us.archive.org/24/items/blade-runner-2049-tv-fax/Blade%20Runner%202049TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Com As Próprias Mãos"tvg-logo="https://br.web.img3.acsta.net/pictures/15/01/27/16/07/394328.jpg"group-title="FILMES AÇAO | TV FAX",Com As Próprias Mãos
+https://ia800504.us.archive.org/10/items/com-as-proprias-maos-tv-fax_202310/Com%20as%20Pr%C3%B3prias%20M%C3%A3os%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dia De Treinamento"tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/96/28/44/20457347.jpg"group-title="FILMES AÇAO | TV FAX",Dia De Treinamento
+https://ia802500.us.archive.org/10/items/dia-de-treinamento-tv-fax/Dia%20de%20Treinamento%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Creed Nascido Para Lutar"tvg-logo="https://s2-valor.glbimg.com/s70B4P9jgGtqUIlVIJ9jwyUIdU4=/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/8/N/CD950aT6uhX1VDxPugpw/foto20cul-201-dvd2-d30.jpg"group-title="FILMES AÇAO | TV FAX",Creed Nascido Para Lutar
+https://ia904609.us.archive.org/7/items/creed-nascido-para-lutar-tv-fax/Creed%20Nascido%20para%20Lutar%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Creed II"tvg-logo="https://br.web.img3.acsta.net/pictures/18/11/01/23/39/0758382.jpg"group-title="FILMES AÇAO | TV FAX",Creed II
+https://ia800506.us.archive.org/26/items/creed-ii-tv-fax/Creed%20II%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ataque Dos Cães"tvg-logo="https://vertentesdocinema.com/wp-content/uploads/2021/12/ptieuafydbc22uq0p7umt1wbyax.jpg"group-title="FILMES AÇAO | TV FAX",Ataque Dos Cães
+https://ia800500.us.archive.org/7/items/ataque-dos-caes-tv-fax/Ataque%20dos%20C%C3%A3es%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Caça"tvg-logo="https://i.ytimg.com/vi/gwxYwb7NbDI/maxresdefault.jpg"group-title="FILMES AÇAO | TV FAX",A Caça
+https://ia600506.us.archive.org/3/items/a-caca-tv-fax/A%20Ca%C3%A7a%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Stillwater Em Busca Da Verdade"tvg-logo="https://br.web.img3.acsta.net/pictures/21/05/11/16/08/3721519.jpg"group-title="FILMES AÇAO | TV FAX",Stillwater Em Busca Da Verdade
 https://ia600507.us.archive.org/29/items/stillwater-em-busca-da-verdade-tv-fax/Stillwater%20Em%20Busca%20da%20Verdade%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="O Pacto"tvg-logo="https://leiturafilmica.com.br/wp-content/uploads/2023/06/o-pacto-poster.jpg"group-title="FILMES AÇAO | TV FAX",O Pacto
@@ -2300,16 +2380,8 @@ https://ia804703.us.archive.org/13/items/legitimo-rei-tv-fax/Leg%C3%ADtimo%20Rei
 https://ia902607.us.archive.org/34/items/a-fuga-de-akilla-tv-fax/A%20Fuga%20de%20Akilla%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fuga Da Meia Noite"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4-_OkDBcSsN1EZqhicv_tFCA6DsucEi7kREhcUGnN6kTIaJC8PdKxWRCNOB8MALfWWuI&usqp=CAU"group-title="FILMES AÇAO | TV FAX",Fuga Da Meia Noite
 https://ia600504.us.archive.org/8/items/fuga-da-meia-noite-tv-fax/Fuga%20da%20Meia-NoiteTV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Fim Da Estrada"tvg-logo="https://aodisseia.b-cdn.net/wp-content/uploads/2022/09/fim-da-estrada-filme-netflix-01.jpg"group-title="FILMES AÇAO | TV FAX",Fim Da Estrada
-https://ia902607.us.archive.org/11/items/fim-da-estrada-tv-fax_20231009/Fim%20da%20Estrada%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="PRISAO 77"tvg-logo="https://i0.wp.com/otageek.com.br/wp-content/uploads/2023/08/image-30.png?resize=1024%2C320&ssl=1"group-title="FILMES AÇAO | TV FAX",PRISAO 77
 https://ia600501.us.archive.org/11/items/prisao-77-tv-fax/PRISAO%2077%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Queda"tvg-logo="https://br.web.img2.acsta.net/pictures/22/10/04/19/16/5487644.jpg"group-title="FILMES AÇAO | TV FAX",A Queda
-https://ia600503.us.archive.org/34/items/a-queda-dublado-tv-fax/A%20Queda%20DUBLADO%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Queda"tvg-logo="https://img.ibxk.com.br/2023/03/21/21143212442039.jpg?ims=328x"group-title="FILMES AÇAO | TV FAX",A Queda
-https://ia600503.us.archive.org/34/items/a-queda-dublado-tv-fax/A%20Queda%20DUBLADO%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="A Queda"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-CnYFoQW3tT13MS2P6xAGPpMyB9OGEcWuvH7e9dhC3uGK46cE9qOFzpY_NzlPMo6EvQA&usqp=CAU"group-title="FILMES AÇAO | TV FAX",A Queda
-https://ia600503.us.archive.org/34/items/a-queda-dublado-tv-fax/A%20Queda%20DUBLADO%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Duas Pecadoras E Uma Mula"tvg-logo="https://www.justwatch.com/images/backdrop/305038749/s640/two-sinners-and-a-mule/two-sinners-and-a-mule"group-title="FILMES AÇAO | TV FAX",Duas Pecadoras E Uma Mula
 https://ia600502.us.archive.org/32/items/duas-pecadoras-e-uma-mula-tv-fax_202310/Duas%20Pecadoras%20e%20Uma%20Mula%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="ACÇAO"tvg-logo="https://img.ibxk.com.br/2021/12/16/16112715436190.jpg?ims=328x"group-title="FILMES AÇAO | TV FAX",ACÇAO
@@ -2342,8 +2414,6 @@ https://ia902506.us.archive.org/31/items/o-ultimo-mercenario-tv-fax/O%20%C3%9Alt
 https://ia800500.us.archive.org/7/items/transformers-o-despertar-das-feras-tv-fax/Transformers%20O%20Despertar%20das%20Feras%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Fúria Incontrolável"tvg-logo="https://i.ytimg.com/vi/7cdWx3MaJlc/maxresdefault.jpg"group-title="FILMES AÇAO | TV FAX",Fúria Incontrolável
 https://ia800507.us.archive.org/7/items/furia-incontrolavel-tv-fax/F%C3%BAria%20Incontrol%C3%A1vel%20TV%20FAX.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Destinos À Deriva"tvg-logo="https://images.justwatch.com/poster/308520448/s592/destinos-a-deriva"group-title="FILMES AÇAO | TV FAX",Destinos À Deriva
-https://ia600506.us.archive.org/18/items/destinos-a-deriva-tv-fax/Destinos%20%C3%A0%20Deriva%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Vingança Pelo Passado"tvg-logo="https://31.media.tumblr.com/tumblr_m9l4y2mqeO1rn2vtqo1_500.gif"group-title="FILMES AÇAO | TV FAX",Vingança Pelo Passado
 https://ia802309.us.archive.org/2/items/assistir-vinganca-pelo-passado-tv-fax/Assistir%20Vingan%C3%A7a%20Pelo%20Passado%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Rocky Balboa "tvg-logo="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-do-rocky-balboa-4.gif"group-title="FILMES AÇAO | TV FAX",Rocky Balboa 
@@ -2356,10 +2426,6 @@ https://ia904709.us.archive.org/20/items/os-mercenarios-4-tv-fax/Os%20Mercen%C3%
 https://ia600508.us.archive.org/4/items/god-s-country-tv-fax/God%20s%20Country%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Tomb Raider A Origem"tvg-logo="https://t.ctcdn.com.br/ex_XLtg9-PSn8LzVJoylf8dAvjc=/0x0:1922x1081/1400x788/smart/i327743.jpeg"group-title="FILMES AÇAO | TV FAX",Tomb Raider A Origem
 https://ia902709.us.archive.org/25/items/tomb-raider-a-origem-tv-fax/Tomb%20Raider%20A%20Origem%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",A Ú LTIMA CAÇADORA"tvg-logo="https://i.ytimg.com/vi/t5jTZaocJKE/maxresdefault.jpg"group-title="FILMES AÇAO | TV FAX",A Ú LTIMA CAÇADORA
-https://ia902705.us.archive.org/34/items/a-u-ltima-cac-adora-tv-fax/A%20%C3%9ALTIMA%20CA%C3%87ADORA%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",A Mãe"tvg-logo="https://minhaseriefavorita.b-cdn.net/wp-content/uploads/2023/05/a-mae-fatos-reais.jpg"group-title="FILMES AÇAO | TV FAX",A Mãe
-https://ia902703.us.archive.org/34/items/a-mae-tv-fax/A%20M%C3%A3e%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",X Xx Reativado"tvg-logo="https://br.web.img2.acsta.net/c_310_420/pictures/16/12/09/20/01/256769.jpg"group-title="FILMES AÇAO | TV FAX",X Xx Reativado
 https://ia802703.us.archive.org/25/items/x-xx-reativado-tv-fax/xXx%20Reativado%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Vingança Fatal"tvg-logo="https://br.web.img3.acsta.net/pictures/14/09/18/15/43/450867.jpg"group-title="FILMES AÇAO | TV FAX",Vingança Fatal 
@@ -2442,8 +2508,6 @@ https://ia902705.us.archive.org/13/items/sobrevivendo-ao-inferno-tv-fax/Sobreviv
 https://ia902702.us.archive.org/0/items/reino-ashin-do-norte-tv-fax/Reino%20Ashin%20do%20Norte%20TV%20FAX%20.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Thor Ragnarok"tvg-logo="https://imagem.natelinha.uol.com.br/original/thor_6a114250201597847049e8a1b035a0fac54c73a0.jpeg"group-title="FILMES AÇAO | TV FAX",Thor Ragnarok
 https://ia902709.us.archive.org/3/items/thor-ragnarok-tv-fax/Thor%20Ragnarok%20TV%20FAX%20.mp4
-#EXTINF:-1 tvg-id="" tvg-name=",A Fera"tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/87/34/98/20028740.jpg"group-title="FILMES AÇAO | TV FAX",A Fera
-https://ia600502.us.archive.org/6/items/a-fera-tv-fax/A%20Fera%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",A Espera De Liz"tvg-logo="https://www.camara.leg.br/midias/image/2022/03/foto-divulgacao-2-768x432.jpeg"group-title="FILMES AÇAO | TV FAX",A Espera De Liz
 https://ia802603.us.archive.org/13/items/a-espera-de-liz-tv-fax/A%20Espera%20de%20Liz%20TV%20FAX.mp4
 
@@ -2451,12 +2515,22 @@ https://ia802603.us.archive.org/13/items/a-espera-de-liz-tv-fax/A%20Espera%20de%
 ############## FILME TV FAX |  B HISTORIA REAL ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX |  B HISTORIA REAL" group-title="
 
+#EXTINF:-1 tvg-id="" tvg-name="Somos Todos Iguais"tvg-logo="https://i.ytimg.com/vi/ahicITdDDl8/maxresdefault.jpg"group-title="FILME TV FAX |  B HISTORIA REAL",Somos Todos Iguais
+https://ia600504.us.archive.org/16/items/somos-todos-iguais-tv-fax/Somos%20Todos%20Iguais%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Relatos Do Mundo"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmc2pCRqlpNTpw4yoWa3ktw3t3OoaxytoK0OZ895F2EUAuRLXU8rPDzU97JInqTZ3iv94&usqp=CAU"group-title="FILME TV FAX |  B HISTORIA REAL",Relatos Do Mundo
+https://ia804609.us.archive.org/29/items/relatos-do-mundo-tv-fax/Relatos%20do%20Mundo%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Antes De Partir DRAMA"tvg-logo="https://images.justwatch.com/poster/175333503/s592/antes-de-partir"group-title="FILME TV FAX |  B HISTORIA REAL",Antes De Partir DRAMA
+https://ia600507.us.archive.org/18/items/antes-de-partir-drama-tv-fax/Antes%20de%20Partir%20DRAMA%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Busca"tvg-logo="https://s2-globofilmes.glbimg.com/eFX-YmnxYYei5kDSy-PDBuy1Ad4=/0x0:4882x7244/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_755cbb8e98bc4df6b024f1581a117b52/internal_photos/bs/2023/9/6/oOj5asQLqrXJ9KKAwwsg/ab-0001-cartaz-a-busca-final-5mb-10-af.jpg"group-title="FILME TV FAX |  B HISTORIA REAL",A Busca
+https://ia800507.us.archive.org/4/items/a-busca-tv-fax/A%20Busca%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Superação O Milagre Da Fé"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT91RT7PP4z__6IDuUq3Vn0CW_uvo3X25QnY5880EImemqIxjpaqZZpZjmRZISMuASS5cY&usqp=CAU"group-title="FILME TV FAX |  B HISTORIA REAL",Superação O Milagre Da Fé 
 https://ia600501.us.archive.org/34/items/superacao-o-milagre-da-fe-tv-fax/Supera%C3%A7%C3%A3o%20O%20Milagre%20da%20F%C3%A9%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Forrest Gump O Contador De Histórias"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2e68d2AY2N4AzrB9J0YmX_D3ngXNBvAKDvEshKFa3CFUoyeVbDAS1zmw1N0BkGGURGmQ&usqp=CAU"group-title="FILME TV FAX |  B HISTORIA REAL",Forrest Gump O Contador De Histórias
 https://ia600506.us.archive.org/6/items/forrest-gump-o-contador-de-historias-tv-fax/Forrest%20Gump%20O%20Contador%20de%20Hist%C3%B3riasTV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="A Gestora"tvg-logo="https://i.ytimg.com/vi/Y7ELCB0WKgg/maxresdefault.jpg"group-title="FILME TV FAX |  B HISTORIA REAL",A Gestora
 https://ia802601.us.archive.org/0/items/a-gestora-tv-fax/A%20Gestora%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Coração De Campeão"tvg-logo="https://s2-globo-play.glbimg.com/hISDR7Ko1GQZIdgF4ADlX42D5jM=/362x536/https://s2.glbimg.com/1Afz-be0FZRkNL7DfksEJ65mNT4=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2023/6/P/VSgZ0nQyqgAgRa2XZNmg/coracao-de-campeao-poster.jpg"group-title="FILME TV FAX |  B HISTORIA REAL",Coração De Campeão
+https://ia802501.us.archive.org/16/items/coracao-de-campeao-tv-fax/Cora%C3%A7%C3%A3o%20de%20Campe%C3%A3o%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Força De Pai Para Filha"tvg-logo="https://assetsgn.nowonline.com.br/assets/p22813866_v_v8_ac.jpg"group-title="FILME TV FAX |  B HISTORIA REAL",Força De Pai Para Filha
 https://ia800507.us.archive.org/22/items/forca-de-pai-para-filha-tv-fax/For%C3%A7a%20de%20Pai%20para%20Filha%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Três Mulheres Uma Esperança"tvg-logo="https://i.ytimg.com/vi/B7gLt1ipS8Q/maxresdefault.jpg"group-title="FILME TV FAX |  B HISTORIA REAL",Três Mulheres Uma Esperança
@@ -2559,7 +2633,26 @@ https://ia902706.us.archive.org/20/items/gilbert-grape-aprendiz-de-sonhador-tv-f
 ############## FILMES TV FAX GOSPEL ################# 
 #EXTINF:-1 tvg-id=" iddocanaldeFILMES TV FAX GOSPEL" group-title="
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Atormentado Pelo Passado"tvg-logo="https://i.ytimg.com/vi/sbJLeHJPc-U/mqdefault.jpg"group-title="FILMES TV FAX GOSPEL",Atormentado Pelo Passado
+https://ia600500.us.archive.org/34/items/atormentado-pelo-passado-tv-fax/Atormentado%20Pelo%20Passado%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Cheia De Graça"tvg-logo="https://media.fstatic.com/RWv0UUBpPXhkDzJQN7oRoTPZVpM=/322x478/smart/filters:format(webp)/media/movies/covers/2018/04/dvd_cheia_de_graca_28554_1_20180403150848.jpg"group-title="FILMES TV FAX GOSPEL",Cheia De Graça
+https://ia600502.us.archive.org/18/items/cheia-de-graca-tv-fax/Cheia%20de%20Gra%C3%A7a%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="O Poder E O Impossível"tvg-logo="https://i.ytimg.com/vi/2DXejOekWrY/maxresdefault.jpg"group-title="FILMES TV FAX GOSPEL",O Poder E O Impossível
+https://ia600501.us.archive.org/10/items/o-poder-e-o-impossivel-tv-fax/O%20Poder%20e%20o%20Imposs%C3%ADvel%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deus Não Está Morto"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpkc3uY-PDTmm_w9S8jQjrCyZz-HihNPKEGQ&usqp=CAU"group-title="FILMES TV FAX GOSPEL",Deus Não Está Morto
+https://ia600502.us.archive.org/12/items/assistir-deus-nao-esta-morto-2-online-overflix/Assistir%20Deus%20N%C3%A3o%20Esta%20Morto%20O%20Pr%C3%B3ximo%20Cap%C3%ADtulo%20Online%20-%20Ove.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deus Não Está Morto 2"tvg-logo="https://i.ytimg.com/vi/e83khJMqFrk/maxresdefault.jpg"group-title="FILMES TV FAX GOSPEL",Deus Não Está Morto 2
+https://ia800502.us.archive.org/12/items/assistir-deus-nao-esta-morto-2-online-overflix/Assistir%20Deus%20N%C3%A3o%20Est%C3%A1%20Morto%202%20Online%20-%20Overflix.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deus Não Está Morto 2"tvg-logo="https://s2-globo-play.glbimg.com/ogmr6zp5Um2C_QN29jYM8dfXz7M=/362x536/https://s2.glbimg.com/GAoOePvB8BHHnfuQcYrNlxV2c-E=/i.s3.glbimg.com/v1/AUTH_c3c606ff68e7478091d1ca496f9c5625/internal_photos/bs/2021/Q/0/kwQ2m0SmSDyHrirvxSAA/4456851-poster.jpg"group-title="FILMES TV FAX GOSPEL",Deus Não Está Morto 2
+https://ia800502.us.archive.org/12/items/assistir-deus-nao-esta-morto-2-online-overflix/Assistir%20Deus%20N%C3%A3o%20Esta%20Morto%20O%20Pr%C3%B3ximo%20Cap%C3%ADtulo%20Online%20-%20Ove.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deus Não Está Morto"tvg-logo="https://i.ytimg.com/vi/e83khJMqFrk/maxresdefault.jpg"group-title="FILMES TV FAX GOSPEL",Deus Não Está Morto
+https://ia800502.us.archive.org/12/items/assistir-deus-nao-esta-morto-2-online-overflix/Assistir%20Deus%20N%C3%A3o%20Est%C3%A1%20Morto%20Uma%20Luz%20na%20Escurid%C3%A3o%20Online%20-%20O.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Deus Não Está Morto A LUZ DA ESCURIDAO"tvg-logo="https://br.web.img3.acsta.net/pictures/18/06/14/20/53/4734164.jpg"group-title="FILMES TV FAX GOSPEL",Deus Não Está Morto A LUZ DA ESCURIDAO
+https://ia800502.us.archive.org/12/items/assistir-deus-nao-esta-morto-2-online-overflix/Assistir%20Deus%20N%C3%A3o%20Est%C3%A1%20Morto%20Uma%20Luz%20na%20Escurid%C3%A3o%20Online%20-%20O.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luta Pela Fé A"tvg-logo="https://br.web.img3.acsta.net/pictures/22/05/20/16/25/2042215.jpg"group-title="FILMES TV FAX GOSPEL",Luta Pela Fé A 
+https://ia600502.us.archive.org/3/items/luta-pela-fe-a-historia-do-padre-stu-tv-fax/Luta%20Pela%20F%C3%A9%20A%20Hist%C3%B3ria%20do%20Padre%20Stu%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name="A Ira De Deus"tvg-logo="https://i.ytimg.com/vi/ifsaacO0SIE/maxresdefault.jpg"group-title="FILMES TV FAX GOSPEL",A Ira De Deus
+https://ia600500.us.archive.org/21/items/a-ira-de-deus-tv-fax/A%20Ira%20de%20Deus%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Noé"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnAYzj1YuTiBunmjh0w4US4R_y2lFhfZPR8HEjDw95V0357uknNs-ByPMYiYMpknJN6CY&usqp=CAU"group-title="FILMES TV FAX GOSPEL",Noé
 https://ia600500.us.archive.org/25/items/noe-tv-fax_202310/No%C3%A9%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Crescimento Um Comovente Testemunho De Fé"tvg-logo="https://i.ytimg.com/vi/YI_a-s0DIN4/hqdefault.jpg?v=63c47837"group-title="FILMES TV FAX GOSPEL",Crescimento Um Comovente Testemunho De Fé
@@ -2884,6 +2977,37 @@ https://dn902605.us.archive.org/0/items/rota-de-fuga-2-3-tv-fax/Rota%20de%20Fuga
 https://dn802605.us.archive.org/0/items/rota-de-fuga-2-3-tv-fax/Rota%20de%20Fuga%203%20O%20Resgate%20TV%20FAX.mp4
 #EXTINF:-1 tvg-id="" tvg-name=",Rota De Fuga TV FAX"tvg-logo="https://imagem.natelinha.uol.com.br/original/tela-de-sucessos-bomba-ibope_3874.jpeg"group-title="FILME TV FAX | Rota De Fuga",Rota De Fuga TV FAX
 https://dn802605.us.archive.org/0/items/rota-de-fuga-2-3-tv-fax/Rota%20de%20Fuga%20TV%20FAX.mp4
+
+
+#EXTM3U url-tvg="http://grade-de-FILME TV FAX | Rocky Balboa.xml"
+############## FILME TV FAX |  Rocky Balboa  ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX | Rocky Balboa" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name=",Rocky Balboa"tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/91/95/32/20171186.jpg"group-title="FILME TV FAX |  Rocky Balboa",Rocky Balboa
+https://ia600509.us.archive.org/16/items/assistir-rocky-ii-a-revanche-online-overflix/Assistir%20Rocky%20Balboa%20Online%20-%20Overflix.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Rocky ii a revanche"tvg-logo="https://br.web.img3.acsta.net/medias/nmedia/18/93/73/27/20273941.jpg"group-title="FILME TV FAX |  Rocky Balboa",Rocky ii a revanche
+https://ia600509.us.archive.org/16/items/assistir-rocky-ii-a-revanche-online-overflix/Assistir%20Rocky%20II%20A%20Revanche%20Online%20-%20Overflix.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Rocky iii o desafio supremo"tvg-logo="https://i.ytimg.com/vi/1SVu6JfFu4w/sddefault.jpg"group-title="FILME TV FAX |  Rocky Balboa",Rocky iii o desafio supremo
+https://ia600509.us.archive.org/16/items/assistir-rocky-ii-a-revanche-online-overflix/Assistir%20Rocky%20III%20O%20Desafio%20Supremo%20Online%20-%20Overflix.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Rocky iv"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwJC6AvpG5WrsR-WJt27YYP23g2NG3eQUzPB66dBKP4WT8oa2y-X0Z6t_VUIdDEWKrqBs&usqp=CAU"group-title="FILME TV FAX |  Rocky Balboa",Rocky iv
+https://ia600509.us.archive.org/16/items/assistir-rocky-ii-a-revanche-online-overflix/Assistir%20Rocky%20IV%20Online%20-%20Overflix.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Rocky um lutador"tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/dcfdc7ef690a9b809ad3e2c990712c02700cff39c0aa157751e2262e1f12efef.jpg"group-title="FILME TV FAX |  Rocky Balboa",Rocky um lutador
+https://ia600509.us.archive.org/16/items/assistir-rocky-ii-a-revanche-online-overflix/Assistir%20Rocky%20Um%20Lutador%20Online%20-%20Overflix.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",Rocky v"tvg-logo="https://m.media-amazon.com/images/I/51XCqv3sD7L._AC_UF894,1000_QL80_.jpg"group-title="FILME TV FAX |  Rocky Balboa",Rocky v
+https://ia800509.us.archive.org/16/items/assistir-rocky-ii-a-revanche-online-overflix/Assistir%20Rocky%20V%20Online%20-%20Overflix.mp4
+
+#EXTM3U url-tvg="http://grade-de-FILME TV FAX |  A Saga Crepúsculo.xml"
+############## FILME TV FAX |  A Saga Crepúsculo  ################# 
+#EXTINF:-1 tvg-id=" iddocanaldeFILME TV FAX |  A Saga Crepúsculo" group-title="
+
+#EXTINF:-1 tvg-id="" tvg-name=",A Saga Crepúsculo"tvg-logo="https://m.media-amazon.com/images/I/81IOBRQor2L._AC_UF1000,1000_QL80_.jpg"group-title="FILME TV FAX |  A Saga Crepúsculo",A Saga Crepúsculo
+https://ia800506.us.archive.org/20/items/a-saga-crepusculo-amanhecer-parte-2-tv-fax/Crep%C3%BAsculo%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",A Saga Crepúsculo amanhecer part  2"tvg-logo="https://musicart.xboxlive.com/7/70f90400-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080"group-title="FILME TV FAX |  A Saga Crepúsculo",A Saga Crepúsculo amanhecer part  2
+https://ia800506.us.archive.org/20/items/a-saga-crepusculo-amanhecer-parte-2-tv-fax/A%20Saga%20Crep%C3%BAsculo%20Amanhecer%20-%20Parte%202%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",A Saga Crepúsculo eclipse"tvg-logo="https://www.claquete.com/fotos/filmes/poster/3814_medio.jpg"group-title="FILME TV FAX |  A Saga Crepúsculo",A Saga Crepúsculo eclipse
+https://ia800506.us.archive.org/20/items/a-saga-crepusculo-amanhecer-parte-2-tv-fax/A%20Saga%20Crep%C3%BAsculo%20Eclipse%20TV%20FAX.mp4
+#EXTINF:-1 tvg-id="" tvg-name=",A Saga Crepúsculo lua nova"tvg-logo="https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_8b43f27b5d756c51b70bd69678fd07543df4fc56.jpg"group-title="FILME TV FAX |  A Saga Crepúsculo", A Saga Crepúsculo lua nova
+https://ia800506.us.archive.org/20/items/a-saga-crepusculo-amanhecer-parte-2-tv-fax/A%20Saga%20Crep%C3%BAsculo%20Lua%20Nova%20TV%20FAX.mp4
 
 #EXTM3U url-tvg="http://grade-de-FILME TV FAX |  INDIANO.xml"
 ############## FILME TV FAX |  INDIANO  ################# 
